@@ -1,0 +1,58 @@
+
+m0jioto,https://www.reddit.com/r/techsupport/comments/1h7a5dv/deleted_by_user/m0jioto/,2024-12-05 14:24:33 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1h7a5dv/deleted_by_user/,,"That's a `touch`ing story.
+
+There are a lot of ways to change mtime without even opening the file. Some badly behaved backup programs will do this to see what files have changed since the last backup. In theory, a bad virus scanner could do this too. Of course, it's possible it's malicious, but mtime changes aren't inherently suspicious. I even stopped using mtime as a reliable indicator of when a file was created/changed because there are so many ways it can change without the file changing",
+
+m50x0zg,https://www.reddit.com/r/techsupport/comments/1hrws07/some_sort_of_hardware_to_occatiosnally_press_a/m50x0zg/,2025-01-02 16:05:13 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1hrws07/some_sort_of_hardware_to_occatiosnally_press_a/,,"Are you familiar with arduino or other ""hacking"" keyboards? The software is in the keyboard itself",
+
+m5j8hx7,https://www.reddit.com/r/techsupport/comments/1htf97y/download_speeds_constantly_fluctuating_not_the/m5j8hx7/,2025-01-05 15:39:33 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1htf97y/download_speeds_constantly_fluctuating_not_the/,m5cyt1t,"OK 100 megabits per second is about 100 megabytes per second (it's really 8 bits per byte, but 10 to account for overhead). Now, if you're getting 50 to 60 megaBYTES per second, that's 50-60% of the maximum bandwidth whih isn't bad",
+
+m5cuysn,https://www.reddit.com/r/techsupport/comments/1htf97y/download_speeds_constantly_fluctuating_not_the/m5cuysn/,2025-01-04 14:30:13 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1htf97y/download_speeds_constantly_fluctuating_not_the/,,"Just to double check, you're not confusing bits and bytes, right? All the speeds you're giving are consistently in bits? 1000 Gbps is really fast even if it's just bits (that's 100 gigabytes per second), so, even if you have it, it's unlikely any site that has multiple users will let you download at that speed. Remember, you're always limited by your slowest link",
+
+m6gaoai,https://www.reddit.com/r/techsupport/comments/1hycays/deleted_by_user/m6gaoai/,2025-01-10 19:23:13 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1hycays/deleted_by_user/,,"I believe Arduino was used to hack machines because most OS's don't regard keyboards as harmful: basically, it would start entering text immediately after it was connected and that text attempted to open a console and hack the machine. However, I don't think this happens commonly",
+
+m6tnmni,https://www.reddit.com/r/techsupport/comments/1hzyx01/how_should_i_tell_my_dad_that_he_needs_to_open/m6tnmni/,2025-01-12 22:36:03 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1hzyx01/how_should_i_tell_my_dad_that_he_needs_to_open/,,Maybe convince him to make backups just in case the laptop dies anyway,
+
+m6tngfb,https://www.reddit.com/r/techsupport/comments/1hzyxip/deleted_by_user/m6tngfb/,2025-01-12 22:35:10 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1hzyxip/deleted_by_user/,,Stick to reliable porn sites :),
+
+m7g096e,https://www.reddit.com/r/techsupport/comments/1i2m111/deleted_by_user/m7g096e/,2025-01-16 13:09:23 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1i2m111/deleted_by_user/,,"I get the feeling you're trolling, but, in absence of creating a new AI (or whatever) tool to do this, I don't think this can currently be automated",
+
+m751ape,https://www.reddit.com/r/techsupport/comments/1i1cvev/need_a_tool_for_vlc_player_which_will_help_me/m751ape/,2025-01-14 18:37:18 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1i1cvev/need_a_tool_for_vlc_player_which_will_help_me/,,Stop watching videos with explicit scenes,
+
+m7s57cd,https://www.reddit.com/r/techsupport/comments/1i4400e/cant_set_png_as_a_wallpaper/m7s57cd/,2025-01-18 10:19:10 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1i4400e/cant_set_png_as_a_wallpaper/,,Are you sure you saved the output as a PNG and not as a JPG or something?,
+
+mba9j20,https://www.reddit.com/r/techsupport/comments/1ij1sby/ports_blocked/mba9j20/,2025-02-06 13:00:07 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1ij1sby/ports_blocked/,mba8x84,"Can't tell if you're joking, but web browser and webserver are two different things",
+
+mbobzoc,https://www.reddit.com/r/techsupport/comments/1ikpz5e/i_have_an_issue_with_my_ip_address/mbobzoc/,2025-02-08 15:58:32 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1ikpz5e/i_have_an_issue_with_my_ip_address/,,Are you using Tor or a rotating VPN?,
+
+mcjutun,https://www.reddit.com/r/techsupport/comments/1iojqcq/public_librarys_emails_getting_blocked/mcjutun/,2025-02-13 14:09:48 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1iojqcq/public_librarys_emails_getting_blocked/,,"If you have Google Domains and your domain is now managed by squarespace, try changing your SPF record to `v=spf1 include:mailgun.org ~all`. That might work even if your domain isn't managed by squarespace",
+
+md9awvm,https://www.reddit.com/r/techsupport/comments/1irlza4/deleted_by_user/md9awvm/,2025-02-17 15:14:22 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1irlza4/deleted_by_user/,,Do you have an FTP client or something?,
+
+me5zwlf,https://www.reddit.com/r/techsupport/comments/1ivjhfb/deleted_by_user/me5zwlf/,2025-02-22 14:12:51 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1ivjhfb/deleted_by_user/,,"If the number of x'd out digits is correct, that's not a US phone number. The call is actually from the 213 COUNTRY code (not area code, and, just FYI, it's not called ""index""), which is Algeria: https://www.vonageforhome.com/blog/how-to-call-algeria-from-the-us/",
+
+mhjuk4s,https://www.reddit.com/r/techsupport/comments/1ja8qod/weird_time_zone_issue_after_clean_windows_install/mhjuk4s/,2025-03-13 11:59:14 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1ja8qod/weird_time_zone_issue_after_clean_windows_install/,,"Are you sure you accounted for DST? Started on March 9th for the USA, but the equivalent starts on March 30th for England/Europe. Also, Arizona doesn't use it. Doublecheck you have the correct timezone",
+
+mi477tc,https://www.reddit.com/r/techsupport/comments/1jcpzg0/untraceable_email/mi477tc/,2025-03-16 17:12:08 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1jcpzg0/untraceable_email/,,"You can use VPNs or tor or a public/library/store computer or something, but nothing is truly untraceable.",
+
+mi4qlyd,https://www.reddit.com/r/techsupport/comments/1jcs1mj/what_on_earth_is_project186523083563/mi4qlyd/,2025-03-16 18:46:36 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1jcs1mj/what_on_earth_is_project186523083563/,,"https://www.reddit.com/r/techsupport/comments/101pp5i/help_me_project678103962192/ is a different project number, but may help",
+
+mi58jxo,https://www.reddit.com/r/techsupport/comments/1jcts7e/domain_hijacked_by_former_partner_need_help/mi58jxo/,2025-03-16 20:15:45 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1jcts7e/domain_hijacked_by_former_partner_need_help/,,"Get a free consult with a lawyer and consider suing, but, as a former partner, they may be able to argue they own or co-own it too. Also, given the stakes, it's unlikely a lawyer will do it for free (they'll give you a free consultation but won't actually do any work until you pay them a hefty retainer)",
+
+mifxyqb,https://www.reddit.com/r/techsupport/comments/1je5zmo/how_can_i_broke_screen_lock_my_sisters_phone/mifxyqb/,2025-03-18 14:33:17 UTC,,techsupport,0,https://www.reddit.com/r/techsupport/comments/1je5zmo/how_can_i_broke_screen_lock_my_sisters_phone/,,"I'm tempted to ask how old your sister is. If she's a minor and you have some form of legal authority over her (which would more be a parent thing), you MAY be able to get a court order forcing her to give you the information on her phone, and you MAY be able to force the phone manufacturer to help (though they're allowed to charge you), but, if you're looking to casually snoop, it's not easy.",
+
+mlddicm,https://www.reddit.com/r/techsupport/comments/1jrazf1/google_invite_has_wrong_date_and_time/mlddicm/,2025-04-04 13:29:55 UTC,98.48.122.229,techsupport,0,https://www.reddit.com/r/techsupport/comments/1jrazf1/google_invite_has_wrong_date_and_time/,,Check your google calendar settings to make sure your time zone is set correctly. Make sure you're not set to Australian Eastern Daylight Time or something,
+
+mr32x58,https://www.reddit.com/r/techsupport/comments/1kh0oji/a_very_weird_time_change_issue/mr32x58/,2025-05-07 15:57:39 UTC,98.48.122.229,techsupport,0,https://www.reddit.com/r/techsupport/comments/1kh0oji/a_very_weird_time_change_issue/,mr31ork,"That was my thought too, but I don't think anyone goes on DST/summer time this late. It could be that combined with a bad date setting.
+
+OP, where do you live (in terms of timezones and stuff)?",
+
+myty2vd,https://www.reddit.com/r/techsupport/comments/1lg7hzg/github_treasures/myty2vd/,2025-06-20 15:55:58 UTC,98.48.122.229,techsupport,0,https://www.reddit.com/r/techsupport/comments/1lg7hzg/github_treasures/,,"Only 59K members, not a lot",
+
+myhl05u,https://www.reddit.com/r/techsupport/comments/1lemton/downloaded_songs_keep_disappearing/myhl05u/,2025-06-18 17:52:03 UTC,98.48.122.229,techsupport,0,https://www.reddit.com/r/techsupport/comments/1lemton/downloaded_songs_keep_disappearing/,,Your device media might be failing: how old is it?,
+
+n0af22e,https://www.reddit.com/r/techsupport/comments/1lmumho/suspicious_edu_and_gov_sites_provided_by_google/n0af22e/,2025-06-28 19:20:22 UTC,98.48.122.229,techsupport,0,https://www.reddit.com/r/techsupport/comments/1lmumho/suspicious_edu_and_gov_sites_provided_by_google/,,"I just did a google search for that (and also with ""site:.edu"" and ""site:.gov"" added and found the error messages you mentioned. I suspect someone snuck these onto actual .gov and .edu sites and they were quickly removed",
+
+n0ahtga,https://www.reddit.com/r/techsupport/comments/1lmumho/suspicious_edu_and_gov_sites_provided_by_google/n0ahtga/,2025-06-28 19:35:25 UTC,98.48.122.229,techsupport,0,https://www.reddit.com/r/techsupport/comments/1lmumho/suspicious_edu_and_gov_sites_provided_by_google/,n0agekl,"A long time ago (don't ask me to find a source) when the Internet was mostly colleges and government (late 1980s), someone found a lot of porn (including some child porn) on a government server. They deleted it, of course, but nobody really got in trouble (apparently, government workers had been using it as storage for their porn, but someone found it via FTP access).
+
+Apparently, this still happens. If you google ""porn on .gov sites"" (no quotes), you'll get several hits. The only really reliable source I found (and it's from 2007) is https://www.computerworld.com/article/1500104/looking-for-porn-try-a-gov-site.html but I didn't look that hard",

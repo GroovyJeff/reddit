@@ -1,0 +1,2 @@
+
+mcpljdt,https://www.reddit.com/r/linux4noobs/comments/1ip7o5o/moved_files_to_external_ssd_but_theyre_invisible/mcpljdt/,2025-02-14 10:37:49 UTC,,linux4noobs,0,https://www.reddit.com/r/linux4noobs/comments/1ip7o5o/moved_files_to_external_ssd_but_theyre_invisible/,,"Add `-vvv` to your `rsync` to get a better idea. Also remember that rsync may create directories first before creating files. Also, when rsync first copies a file it gives it a temporary name starting with `.` and Unix normally hides files starting with `.`. You can use `ls -a` to see them",

@@ -1,0 +1,22 @@
+
+m0jjedy,https://www.reddit.com/r/calculus/comments/1h7a1dr/differential_equations_and_temperature/m0jjedy/,2024-12-05 14:28:49 UTC,,calculus,0,https://www.reddit.com/r/calculus/comments/1h7a1dr/differential_equations_and_temperature/,,"> I always get stuck in a equation with a bunch of constants
+
+Many people find those problems easier than those with just variables (in the math sense of the word). If it helps, convert the constants to variables and solve that way
+
+If that doesn't help, I'm guessing you're working off an equation (since you gave an `R` value with no formula), so we'd at least need to see the formula, though I'm guessing standard exponential decay.
+
+Finally, remember that Celsius is a graded unit and you should convert to Kelvins",
+
+mbo9esa,https://www.reddit.com/r/calculus/comments/1ikpqr2/differentiating_graphs/mbo9esa/,2025-02-08 15:45:37 UTC,,calculus,0,https://www.reddit.com/r/calculus/comments/1ikpqr2/differentiating_graphs/,,"You've probably figured out the derivative is the slope at a given point. For your special cases:
+
+  - functions are non-differentiable at sharp corners: the derivative is undefined
+
+  - for vertical asymptotes the slope is either increasing to infinity or decreasing to negative infinity
+
+  - for horizontal asymptotes, the slope is flattening out to 0
+
+  - if you're doing diaganol and other line-based asymptotes, the slope eventually is the same slope as the line itself",
+
+mhr0g5n,https://www.reddit.com/r/calculus/comments/1jb4g6e/bevee_and_the_water_fountain_not_homework_a/mhr0g5n/,2025-03-14 14:08:32 UTC,,calculus,0,https://www.reddit.com/r/calculus/comments/1jb4g6e/bevee_and_the_water_fountain_not_homework_a/,,"This seems like a trick question, unless we can assume newly added water mixes instantly and completely with any tea in the bottle. If that's not the case, it's possible his last gulp is all tea, because he's only been drinking unmixed top-off water until then",
+
+mifsxc3,https://www.reddit.com/r/calculus/comments/1je5ohh/trig_derivatives/mifsxc3/,2025-03-18 14:07:30 UTC,,calculus,0,https://www.reddit.com/r/calculus/comments/1je5ohh/trig_derivatives/,,"Euler's identity helps a lot. Otherwise, substitution can sometimes help. Also, all trig functions can be written in terms of sine and cosine and these are each other's derivatives (to plus/minus factor), so you can always compute derivatives, which can help in seeing integrals",

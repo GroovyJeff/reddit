@@ -1,0 +1,2 @@
+
+mqwa2kh,https://www.reddit.com/r/homelab/comments/1kg6ojq/how_to_run_a_simple_html_website_on_your_own/mqwa2kh/,2025-05-06 15:08:02 UTC,98.48.122.229,homelab,0,https://www.reddit.com/r/homelab/comments/1kg6ojq/how_to_run_a_simple_html_website_on_your_own/,,"You can use the `file://` protocol to load HTML files directly into your browser without running a server. However, that assumes everything you're doing is client side",

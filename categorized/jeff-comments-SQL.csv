@@ -1,0 +1,14 @@
+
+mfmyfyz,https://www.reddit.com/r/SQL/comments/1j1w4va/khan_academy_playlist_challenge/mfmyfyz/,2025-03-02 17:37:18 UTC,,SQL,0,https://www.reddit.com/r/SQL/comments/1j1w4va/khan_academy_playlist_challenge/,,Could you show us the problem (link)? Is genre a property of an artist or of a song? You're using two different tables here,
+
+mfnag2c,https://www.reddit.com/r/SQL/comments/1j1w4va/khan_academy_playlist_challenge/mfnag2c/,2025-03-02 18:35:52 UTC,,SQL,0,https://www.reddit.com/r/SQL/comments/1j1w4va/khan_academy_playlist_challenge/,mfn7ql1,"`INSERT INTO artists (name, country, genre) VALUES (""Queen"", ""UK"", ""Rock"");`
+
+The genre for Queen (per the db) is ""Rock"" not ""Pop""",
+
+mi4yi6j,https://www.reddit.com/r/SQL/comments/1jct8su/what_are_the_differences_between_a_tuple_and_a_row/mi4yi6j/,2025-03-16 19:25:49 UTC,,SQL,0,https://www.reddit.com/r/SQL/comments/1jct8su/what_are_the_differences_between_a_tuple_and_a_row/,,"Pedantic and probably wrong: a tuple represents specific columns or calculated values from a row (or multiple rows from JOINed tables), whereas the row represents the entire data (including possibly links (keys) to other tables, but not the data from those tables itself)",
+
+mqk6j53,https://www.reddit.com/r/SQL/comments/1keo1wn/seeking_a_little_bit_of_help_in_plsql/mqk6j53/,2025-05-04 16:38:54 UTC,98.48.122.229,SQL,0,https://www.reddit.com/r/SQL/comments/1keo1wn/seeking_a_little_bit_of_help_in_plsql/,,Please post it here,
+
+mqk8tzi,https://www.reddit.com/r/SQL/comments/1keo1wn/seeking_a_little_bit_of_help_in_plsql/mqk8tzi/,2025-05-04 16:50:32 UTC,98.48.122.229,SQL,0,https://www.reddit.com/r/SQL/comments/1keo1wn/seeking_a_little_bit_of_help_in_plsql/,mqk7nca,Here on this forum I mean. Don't ask people to DM you. You'll get more help if people can see the problem first,
+
+mqw981w,https://www.reddit.com/r/SQL/comments/1kg6fa6/i_dont_want_to_use_group_concat_what_other/mqw981w/,2025-05-06 15:03:59 UTC,98.48.122.229,SQL,0,https://www.reddit.com/r/SQL/comments/1kg6fa6/i_dont_want_to_use_group_concat_what_other/,mqw8cf8,"You can go the ugly PL/SQL route, get the data ungrouped and have code in another language group it for you. However, if your machine doesn't have enough memory (including virtual memory) to handle data being GROUP_CONCAT'enated you probably need more memory.",

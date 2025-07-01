@@ -1,0 +1,36 @@
+
+m1dadlq,https://www.reddit.com/r/QGIS/comments/1hb3t0a/fast_shortest_path_calculations_on_large_road/m1dadlq/,2024-12-10 15:17:27 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1hb3t0a/fast_shortest_path_calculations_on_large_road/,,"I use GRASS GIS for this, but no guarantee it'll do any better on your dataset: it might do worse",
+
+m1de1cv,https://www.reddit.com/r/QGIS/comments/1hb3t0a/fast_shortest_path_calculations_on_large_road/m1de1cv/,2024-12-10 15:37:55 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1hb3t0a/fast_shortest_path_calculations_on_large_road/,m1ddlm6,"I mean, it's ultimately a graph optimization problem, Python doubtless has algorithms for it. networkx is what I used back when I was using Python, but I think it's been superceded.",
+
+m1df0yc,https://www.reddit.com/r/QGIS/comments/1hb3t0a/fast_shortest_path_calculations_on_large_road/m1df0yc/,2024-12-10 15:43:21 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1hb3t0a/fast_shortest_path_calculations_on_large_road/,m1deg7r,"I mean, sure. Roads are just edges connecting nodes. Are you able to share the data and the problem with us?",
+
+m3bcpg0,https://www.reddit.com/r/QGIS/comments/1hk436l/how_do_i_create_a_qgis_map_on_vector_disease/m3bcpg0/,2024-12-22 18:14:34 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1hk436l/how_do_i_create_a_qgis_map_on_vector_disease/,,What sort of data are you looking for?,
+
+m6900he,https://www.reddit.com/r/QGIS/comments/1hxgh89/is_there_a_way_to_download_the_geospatial_data/m6900he/,2025-01-09 16:49:52 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1hxgh89/is_there_a_way_to_download_the_geospatial_data/,,"Visiting https://edx.netl.doe.gov/ and searching for ""2024 Coal Closure Energy Communities"" (no quotes) may help",
+
+m6g0rtq,https://www.reddit.com/r/QGIS/comments/1hyb1fj/total_newbie_missing_an_island/m6g0rtq/,2025-01-10 18:35:28 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1hyb1fj/total_newbie_missing_an_island/,,"At what resolution are you rasterizing the data, and do you have the ""all touched"" option turned on?",
+
+m7a8uob,https://www.reddit.com/r/QGIS/comments/1i1zlbj/how_to_calculate_area_from_raster/m7a8uob/,2025-01-15 15:28:23 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1i1zlbj/how_to_calculate_area_from_raster/,,The area of a pixel on an equiangular (cylinderical) map depends only on latitude if that helps. If it doesn't please provide more detail and/or the data itself if you're allowed to share it,
+
+m99g6wx,https://www.reddit.com/r/QGIS/comments/1iaeg9a/determining_average_distance_from_households_to_a/m99g6wx/,2025-01-26 13:29:22 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1iaeg9a/determining_average_distance_from_households_to_a/,,"I mean it seems like you could take the average of the distance from each house to the nearest Family Medicine outpost using road networks, but I sense I'm missing something.",
+
+m9hcjnm,https://www.reddit.com/r/QGIS/comments/1iaeg9a/determining_average_distance_from_households_to_a/m9hcjnm/,2025-01-27 17:10:42 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1iaeg9a/determining_average_distance_from_households_to_a/,m9a1b1n,"OK, so you can create an SQL table with distance to each point and average? I think I might be missing something",
+
+majvkq7,https://www.reddit.com/r/QGIS/comments/1ifx10f/city_boundary_layer/majvkq7/,2025-02-02 13:45:57 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1ifx10f/city_boundary_layer/,,https://www.openstreetmap.org/relation/5746665 may or may not be helpful,
+
+masi3qu,https://www.reddit.com/r/QGIS/comments/1igxvl9/deleted_by_user/masi3qu/,2025-02-03 19:44:05 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1igxvl9/deleted_by_user/,,"Have you tried ""File/Open Project"" (vs dragging it to QGIS?). Try loading it as a whole project rather than loading the individual files",
+
+maygln8,https://www.reddit.com/r/QGIS/comments/1ihn0tj/help_contour_lines/maygln8/,2025-02-04 17:42:02 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1ihn0tj/help_contour_lines/,,"Aren't contour lines SUPPOSED to be bigger than the polygons they contour, assuming they represents positive distance buffers?",
+
+mb5pz2j,https://www.reddit.com/r/QGIS/comments/1iih63s/extract_data_not_points_field_quantities_etc_from/mb5pz2j/,2025-02-05 19:28:41 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1iih63s/extract_data_not_points_field_quantities_etc_from/,mb5mp3g,"Actually, I meant: could you link us to the data or share a copy (assuming it's not private), or even share the filename. Also try `ogrinfo -al [filename]` from the command line to see if that helps.",
+
+mb5gb97,https://www.reddit.com/r/QGIS/comments/1iih63s/extract_data_not_points_field_quantities_etc_from/mb5gb97/,2025-02-05 18:44:33 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1iih63s/extract_data_not_points_field_quantities_etc_from/,,Could you tell us what data you have and what you hope to extract from it? Are you willing to use tools outside of QGIS?,
+
+mbfgoag,https://www.reddit.com/r/QGIS/comments/1ijmqrm/weird_artifact_after_generating_dem_in_qgis/mbfgoag/,2025-02-07 05:00:01 UTC,,QGIS,0,https://www.reddit.com/r/QGIS/comments/1ijmqrm/weird_artifact_after_generating_dem_in_qgis/,,"Do you mean the change in brightness at the horizontal line (the two DEMs probably have a different grayscale mapping so they can be more accurate, something I run into regularly on some DEM sites) or something else?",
+
+mldbez4,https://www.reddit.com/r/QGIS/comments/1jrbgzj/outline_extraction_of_inhabited_places/mldbez4/,2025-04-04 13:17:45 UTC,98.48.122.229,QGIS,0,https://www.reddit.com/r/QGIS/comments/1jrbgzj/outline_extraction_of_inhabited_places/,,"You might consider using population data from the US census, worldpop.org, or https://sedac.ciesin.columbia.edu/data/collection/gpw-v4",
+
+mtvrfhm,https://www.reddit.com/r/QGIS/comments/1ktqq21/had_a_bit_of_a_cock_up/mtvrfhm/,2025-05-23 18:40:37 UTC,98.48.122.229,QGIS,0,https://www.reddit.com/r/QGIS/comments/1ktqq21/had_a_bit_of_a_cock_up/,mtvpq98,Make sure all your points are actually in the are correct area: https://epsg.io/27700,
+
+mytr0sd,https://www.reddit.com/r/QGIS/comments/1lg6b33/country_map/mytr0sd/,2025-06-20 15:22:13 UTC,98.48.122.229,QGIS,0,https://www.reddit.com/r/QGIS/comments/1lg6b33/country_map/,,You'll probably want to start by downloading some data. You might want to look at gadm.org,

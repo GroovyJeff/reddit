@@ -1,0 +1,541 @@
+
+krwydxl,https://www.reddit.com/r/theydidthemath/comments/1aythok/request_income_and_spendings_question/krwydxl/,2024-02-24 13:16:36 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1aythok/request_income_and_spendings_question/,,"By ""under the closest thousand"" do you mean a number whose last three digits are bigger than 500 and less than or equal to 999. In other words, is 1501 under the closest thousand (of 1600) and is 1499 NOT under the closest thousand (since it's closer to the lower thousand)?",
+
+kqzz7yq,https://www.reddit.com/r/theydidthemath/comments/1atw6zx/request_have_i_made_a_discovery_regarding_primes/kqzz7yq/,2024-02-18 15:29:42 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1atw6zx/request_have_i_made_a_discovery_regarding_primes/,,"To get from 3.3333.. to 7, you need 2.1 if I'm doing the math right.
+
+To get from 2.1 to 11, you need 5.2381 (approx)
+
+To get from 5.2381 to 13, you need 2.48182
+
+However, I think I'm doing something wrong: what you have is the product of the even numbered primes divided by the product of the odd numbered primes, which, according to my observations, does not tend to e.
+
+Could you provide more details on the code you used to generate your image?",
+
+kr5bg4b,https://www.reddit.com/r/theydidthemath/comments/1aupqqb/request_is_that_true_cant_you_lose_by_paying/kr5bg4b/,2024-02-19 15:29:25 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1aupqqb/request_is_that_true_cant_you_lose_by_paying/,,"Even without Chance/Community Chest cards, you can lose if you land on ""go directly to jail"" and your opponent doesn't. You can also lose if you roll all 1s (or lower dice numbers in general) since you pass Go less frequently. And, as you point out, the tax squares can change the game too",
+
+kr5qi3p,https://www.reddit.com/r/theydidthemath/comments/1aupqqb/request_is_that_true_cant_you_lose_by_paying/kr5qi3p/,2024-02-19 16:55:35 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1aupqqb/request_is_that_true_cant_you_lose_by_paying/,kr5j3to,"You're right. I was reading ""lose"" to mean ""have less money after a specified amount of time or a specified number of rolls"", but I'm not sure Monopoly has such a rule.
+
+If you can only lose by going bankrupt, I agree that it would be virtually impossible to lose",
+
+kr0twdl,https://www.reddit.com/r/theydidthemath/comments/1atz6cj/request_roll_a_fair_standard_6sided_die_until_a_6/kr0twdl/,2024-02-18 18:27:59 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1atz6cj/request_roll_a_fair_standard_6sided_die_until_a_6/,kr0nwnc,"Thought: if you're given that no 5s come before 6s, wouldn't the chance of rolling a 6 on the first try be 1/5 not 1/6?",
+
+kr10ai9,https://www.reddit.com/r/theydidthemath/comments/1atz6cj/request_roll_a_fair_standard_6sided_die_until_a_6/kr10ai9/,2024-02-18 19:04:44 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1atz6cj/request_roll_a_fair_standard_6sided_die_until_a_6/,kr0z4gm,"Well, Monte Carlo shows 3 is the right answer, so I've edited my comment. I know the number of strings where '5' comes before '6' is equal to the other way around by symmetry, so that has something to do with it.",
+
+krx0ky2,https://www.reddit.com/r/theydidthemath/comments/1aythok/request_income_and_spendings_question/krx0ky2/,2024-02-24 13:34:10 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1aythok/request_income_and_spendings_question/,,"Since you earn an average 410 each month, and `410*100 = 41000` is a multiple of 1000, you'd expect the cycle to repeat approximately every 101 months. In those 101 months, you are under the closest thousand 50 times, over the closest thousand 50 times, and end in 500 exactly 1 time. Thus, about 50% of the time depending on how you count 500.
+
+A Monte Carlo simulation using psuedorandom number bears this out: equally likely to be under or over the nearest thousand",
+
+kpyp84s,https://www.reddit.com/r/theydidthemath/comments/1aodyy3/request_350_23/kpyp84s/,2024-02-11 18:15:14 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1aodyy3/request_350_23/,,"Let `z` be the original price. Then `z*1.23` is the price with VAT, or `z*1.23 = 350`, or `z ~ 284.55`.
+
+You can't come up with an equation like that using `0.77`
+
+If, instead, you reduced the VAT price of 350 by 23%, you get `350*0.77 = 269.5`.
+
+In other words, increasing something by 23% and then decreasing it by 23% doesn't get you to the same place",
+
+kqeiaum,https://www.reddit.com/r/theydidthemath/comments/1aqoode/request_how_would_i_write_the_equation_for/kqeiaum/,2024-02-14 16:25:38 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1aqoode/request_how_would_i_write_the_equation_for/,,[removed],
+
+kgunybj,https://www.reddit.com/r/theydidthemath/comments/191cft5/request_what_are_the_maximum_possible/kgunybj/,2024-01-08 05:07:21 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/191cft5/request_what_are_the_maximum_possible/,,"I'm not sure exactly what you're asking, but it's fairly safe to reproduce with your first cousin and legal in many US states. Closer than that is probably bad",
+
+kgul3lv,https://www.reddit.com/r/theydidthemath/comments/191ceaw/request_what_exact_longitude_in_mountain_time/kgul3lv/,2024-01-08 04:47:22 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/191ceaw/request_what_exact_longitude_in_mountain_time/,,"105W is the ""defining longitude"" for the Mountain Time Zone. However, the exact time of noon at a given location varies because of the Equation of Time ([https://en.wikipedia.org/wiki/Equation\_of\_time](https://en.wikipedia.org/wiki/Equation_of_time)).
+
+If you visit https://gml.noaa.gov/grad/solcalc/ you can make this calculation for any day. Since you asked about the solstices, I did the calculation for 21 Dec 2023, which shows the Sun is overhead at noon MST at longitude -105.54 (https://ibb.co/FBy1Kht)",
+
+kh2vybz,https://www.reddit.com/r/theydidthemath/comments/192k819/request_how_fast_would_i_need_to_travel_to_reach/kh2vybz/,2024-01-09 17:41:16 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/192k819/request_how_fast_would_i_need_to_travel_to_reach/,,"Mars gets as close as 34.64 million miles, and there are about 720 hours in a month, so about 48000mph when Mars is at its closest. Of course, you'd have to start a month before Mars was at its closest and intercept Mars in its orbit",
+
+krbh7z0,https://www.reddit.com/r/theydidthemath/comments/1avj46g/request_why_does_this_happen/krbh7z0/,2024-02-20 17:22:54 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1avj46g/request_why_does_this_happen/,krbh4uk,You rarely find seas and lakes in glasses.,
+
+kr0wn1o,https://www.reddit.com/r/theydidthemath/comments/1atz6cj/request_roll_a_fair_standard_6sided_die_until_a_6/kr0wn1o/,2024-02-18 18:43:36 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1atz6cj/request_roll_a_fair_standard_6sided_die_until_a_6/,kr0vq17,"EDIT: THIS IS WRONG
+
+I think 5 might be the correct answer here and question the code's accuracy. Before the first 6 comes up, you're essentially rolling a 5 sided dice until a given number comes up. I computed the probability of winning on the nth turn as:
+
+`p(n) = 1/5 * (4/5)^(n-1)`
+
+When you add `n*p(n)` you do get 5.",
+
+kguna9e,https://www.reddit.com/r/theydidthemath/comments/191aclz/request_if_mankind_focus_all_of_our_resouces_into/kguna9e/,2024-01-08 05:02:32 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/191aclz/request_if_mankind_focus_all_of_our_resouces_into/,,"The math here is easy. We simply assume a population increase/reproduction rate and plug in the numbers. At 3% annual increase, for example, we'd have 1.29T humans in `Log[(1.29*10^12)/(8*10^9)]/Log[1.03] ~ 172` years. If we really worked at it, we could probably crank our population increase rate higher, but that's going not to be the issue.
+
+Even though the Earth can probably support more than the ~8 billion people we have now, it almost certainly can't support 161 times as many people. We'd run out of resources long before that.",
+
+kr5azso,https://www.reddit.com/r/theydidthemath/comments/1atz6cj/request_roll_a_fair_standard_6sided_die_until_a_6/kr5azso/,2024-02-19 15:26:41 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1atz6cj/request_roll_a_fair_standard_6sided_die_until_a_6/,,"Not sure this helps, but my Monte Carlo showed there's a 1/3rd chance that your first roll is a 6. This seems to break the laws of probability, but even using two die, we can see it doesn't. The possible rolls for two die:
+
+```
+11, 12, 13, 14, 15, 16 
+21, 22, 23, 24, 25, 26 
+31, 32, 33, 34, 35, 36 
+41, 42, 43, 44, 45, 46 
+51, 52, 53, 54, 55, 56 
+61, 62, 63, 64, 65, 66 
+```
+
+You'll notice 6 appears on the first roll 1/6th of the time as expected.
+
+If we remove the fifth row, we have 6 appearing 6 times out of 30, or 1/5th.
+
+The problem: we also have to throw out 15, 25, 35, and 45 because a 5 comes before a 6. This means we now have 26 possibilities left and 6 is the first roll in 6 of them. So the chance of a 6 on the first roll is ~23% (higher than 1/5th), but only because we ""retroactively"" got rid of some cases where 6 wasn't the first roll.",
+
+kgtnd45,https://www.reddit.com/r/theydidthemath/comments/1917j73/request_is_it_possible_to_find_the_r2_of_the/kgtnd45/,2024-01-08 01:27:59 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1917j73/request_is_it_possible_to_find_the_r2_of_the/,kgtgkic,"I'm not sure that page lists the exact centers of countries and this would be on an equiangular map, which isn't an an accurate representation of distances on spherical Earth",
+
+krapqes,https://www.reddit.com/r/theydidthemath/comments/1avj46g/request_why_does_this_happen/krapqes/,2024-02-20 14:42:48 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1avj46g/request_why_does_this_happen/,,"For the same reason water level is lower in the middle than at the edges, the small electric force attraction between water and glass: https://en.wikipedia.org/wiki/Meniscus_(liquid)",
+
+khjkid7,https://www.reddit.com/r/theydidthemath/comments/195060k/request_is_number_5_correct_if_so_how_is_it_on/khjkid7/,2024-01-12 17:21:31 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/195060k/request_is_number_5_correct_if_so_how_is_it_on/,,"Using mod 7, `6^2024 + 8^2024 (mod 7) = (-1)^2024 + 1^2024 (mod 7) = 1 + 1 (mod 7) = 2 (mod 7)`, so 2 weekdays ahead of today. If today is Saturday, the future weekday is Monday. You might have thought `6^2024 (mod 7)` was -1 or something because `6 = -1 (mod 7)`, but the power changes it to a positive",
+
+kr0035k,https://www.reddit.com/r/theydidthemath/comments/1atw6zx/request_have_i_made_a_discovery_regarding_primes/kr0035k/,2024-02-18 15:35:18 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1atw6zx/request_have_i_made_a_discovery_regarding_primes/,kqzzxnc,Got it and taking a look,
+
+krlsc8v,https://www.reddit.com/r/theydidthemath/comments/1ax4dm4/request_a_man_is_known_to_speak_the_truth_4_out/krlsc8v/,2024-02-22 13:35:17 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ax4dm4/request_a_man_is_known_to_speak_the_truth_4_out/,,"https://xkcd.com/1132/ explains there are two ways to view this situation, depending on what assumptions you make. Basically, the question is whether you factor in the rarity of the predicted event",
+
+kvbidxg,https://www.reddit.com/r/theydidthemath/comments/1bh4apx/request_this_has_trivial_answers_that_took_me_way/kvbidxg/,2024-03-17 19:00:08 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1bh4apx/request_this_has_trivial_answers_that_took_me_way/,kvbi75m,"Well, if you ignore parentheses, it's actually fairly trivial (sorry), and I could write a Perl script to do it easily. The trickyish part comes in when you insert parentheses",
+
+ktnuex3,https://www.reddit.com/r/theydidthemath/comments/1b86t04/offsite_so_about_all_those_lazy_entitled/ktnuex3/,2024-03-06 20:28:57 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1b86t04/offsite_so_about_all_those_lazy_entitled/,ktnq8l5,"This probably helps your point, but https://nces.ed.gov/programs/digest/d07/tables/dt07_320.asp notes prices are ""In current dollars"" and I'm assuming the minimum wage of 1.45 is in 1970 dollars.
+
+I'm always suspicious of statistics that attempt to make political points, so I'll point out scholarships and TA'ing (which pays more than minimum wage) exist, and, as always there are many other factors that make it difficult for a single statistic to make a point",
+
+kvla58q,https://www.reddit.com/r/theydidthemath/comments/1bhy4rf/deleted_by_user/kvla58q/,2024-03-19 15:30:07 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1bhy4rf/deleted_by_user/,kvh3tap,"It appears your(?) post an the userid you used to post it have both been deleted, so I don't think it's productive to continue the discussion here. If you want to PM me (or have me PM you), let me know, but apply statistics to the real world leads down a dark rabbit hole of fallacies",
+
+ktn5ybm,https://www.reddit.com/r/theydidthemath/comments/1b85drg/request_how_accurate_is_this_assessment/ktn5ybm/,2024-03-06 18:16:45 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1b85drg/request_how_accurate_is_this_assessment/,,Food stamps are a very small part of welfare.,
+
+kvaztxl,https://www.reddit.com/r/theydidthemath/comments/1bh2k17/request_how_many_people_are_unable_to_go_to/kvaztxl/,2024-03-17 17:13:44 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1bh2k17/request_how_many_people_are_unable_to_go_to/,,"Trick question. The only bitch is Trezure, so she won't be able to attend her own birthday party, assuming she meets any of the other criteria. Everyone else can attend, since, regardless of their physical qualities, they are not bitches",
+
+kvbfojx,https://www.reddit.com/r/theydidthemath/comments/1bh4apx/request_this_has_trivial_answers_that_took_me_way/kvbfojx/,2024-03-17 18:44:09 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1bh4apx/request_this_has_trivial_answers_that_took_me_way/,kvbahzy,"It would be interesting to write a program to do this, though I suspect it would be nontrivial.",
+
+ktn9byw,https://www.reddit.com/r/theydidthemath/comments/1b86b83/request_assuming_you_knew_the_solution_how_many/ktn9byw/,2024-03-06 18:34:53 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1b86b83/request_assuming_you_knew_the_solution_how_many/,ktn8uk1,"As https://en.wikipedia.org/wiki/Longest_word_in_English notes, it depends on how you define ""word"". Technically, none of the words there are between 732 and 942 characters (they jump from 183 to 1909 characters), but it opens the door for the theoretical possibility there are 732-942 character long words in some language",
+
+ktn4jnl,https://www.reddit.com/r/theydidthemath/comments/1b86b83/request_assuming_you_knew_the_solution_how_many/ktn4jnl/,2024-03-06 18:09:03 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1b86b83/request_assuming_you_knew_the_solution_how_many/,,"This doesn't answer your question, but putting something like ""TrueFalseUnprovableContradiction"" (or several variations) would meet the ""solution to Fermat's Last Theorem"" criteria, since it has to be one of those",
+
+ktn8kv7,https://www.reddit.com/r/theydidthemath/comments/1b86t04/offsite_so_about_all_those_lazy_entitled/ktn8kv7/,2024-03-06 18:30:52 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1b86t04/offsite_so_about_all_those_lazy_entitled/,,"Yale is only one of many schools, and people going to school in 1970 were boomers, not Gen X. You'd need broader and more recent statistics to make more of a point here",
+
+ktn6y9i,https://www.reddit.com/r/theydidthemath/comments/1b86b83/request_assuming_you_knew_the_solution_how_many/ktn6y9i/,2024-03-06 18:22:04 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1b86b83/request_assuming_you_knew_the_solution_how_many/,ktn6khf,"Technically, it said the password as a whole can't be any word in any known language. It didn't say the password couldn't *contain* words in known languages. Of course, finding a known word that's between 732 and 942 characters would be fairly challenging, though not impossible",
+
+kvgti6q,https://www.reddit.com/r/theydidthemath/comments/1bhy4rf/deleted_by_user/kvgti6q/,2024-03-18 18:59:46 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1bhy4rf/deleted_by_user/,,"> average american 81 year old male
+
+You can't assign average statistics to specific people, so your calculation has no real validity.
+
+> neither Biden or Trump has any health issues that the public knows about
+
+This is just one example of why you can't apply group statistics to individuals. In particular you said ""81 year old male"", so you considered gender to be important, but ignored things like height, weight, where they live, what they do, etc. If you really considered every factor (including those that don't have English names), you'd find you could make no prediction at all.
+
+Having said that, https://www.predictit.org/ (and many foreign sites) shows what gamblers think. Of course, those aren't ""real probabilities"" either",
+
+kzzpzmd,https://www.reddit.com/r/theydidthemath/comments/1c6azrq/request_pizza_combination_possibilities/kzzpzmd/,2024-04-17 14:34:06 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1c6azrq/request_pizza_combination_possibilities/,,"The number of ways to choose between 0 and 8 topping is (Mathics): `Sum[Binomial[50,i],{i,0,8}]` or `655023686`. We then multiply that by 2 for the crust and 5 for the sauce to get `6550236860` or about 6.5 billion",
+
+kym3ov3,https://www.reddit.com/r/theydidthemath/comments/1bywymx/request_im_playing_a_hacking_simulator_game_where/kym3ov3/,2024-04-08 13:10:56 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1bywymx/request_im_playing_a_hacking_simulator_game_where/,,"For (1), the value is Zeta(3) where Zeta is the zeta function.
+
+For (2), Mathematica spit out an answer (too complicated to cut/paste here, but it does seem solvable)
+
+I didn't look at 3 or 5, but 4, the Riemann Hypothesis, is a famous unsolved problem in mathematics",
+
+l0311o3,https://www.reddit.com/r/theydidthemath/comments/1c6nn1t/request_how_many_milkshakes_are_possible/l0311o3/,2024-04-18 01:59:25 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1c6nn1t/request_how_many_milkshakes_are_possible/,l02rkur,"Agreed. 15 choose 2 if you want two different flavors `15*14/2` plus 15 more choices for repeating one flavor, so `15*14/2 + 15 = 120`.
+
+The other portions of the calculation are correct (assuming milk and syrup are required), so the answer is `120*19*4*2 = 18240`
+
+If you can make one such milkshake every 5 minutes in an 8 hour day, that's 96 milkshakes a day, or 190 days to make all possible milkshakes.
+
+Legend tells us one of these milkshakes will compel all young men to come to your shop, so it may well be worth the effort",
+
+l2xk7jl,https://www.reddit.com/r/theydidthemath/comments/1clz7c3/request_how_to_fool_my_friends/l2xk7jl/,2024-05-07 03:36:50 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1clz7c3/request_how_to_fool_my_friends/,,"> you can take any positive whole number (n) and follow two rules to end up in a 4-2-1 loop
+
+As others have noted, this is the Collatz conjecture and hasn't actually been proven true for all numbers.
+
+The number of steps it takes to reach 1 is https://oeis.org/A006577 and the linked page provides more information, but I don't think there's an easy way to determine stopping time. If there were, we'd probably have proven/disproven the conjecture by now",
+
+l0qxv7a,https://www.reddit.com/r/theydidthemath/comments/1cach02/deleted_by_user/l0qxv7a/,2024-04-22 14:44:07 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1cach02/deleted_by_user/,,"So, `a + b + c = 4000`, `a = 2b` and `a = c+200`? Three variables, three equations, shouldn't be too bad",
+
+l2xj9zj,https://www.reddit.com/r/theydidthemath/comments/1clz7c3/request_how_to_fool_my_friends/l2xj9zj/,2024-05-07 03:29:37 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1clz7c3/request_how_to_fool_my_friends/,l2x8c5a,How is that relevant?,
+
+l243edl,https://www.reddit.com/r/theydidthemath/comments/1chpe89/request_if_we_could_digest_iron_how_many/l243edl/,2024-05-01 16:32:15 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1chpe89/request_if_we_could_digest_iron_how_many/,,"Trick question. In a nuclear reaction, `E = mc^2`, so if mass doesn't change, the amount of energy released is independent of what is reacting.
+
+A more interesting question that I couldn't find an answer to: if we could digest iron by oxidizing it (which would be weird because our blood has iron in it), what would the exothermic heat (enthalpy energy) released by the reaction. Also, what is enthalpy and what does exothermic mean?",
+
+l0s6b1n,https://www.reddit.com/r/theydidthemath/comments/1cairrz/request_what_are_the_odds_that_two_minecraft/l0s6b1n/,2024-04-22 18:57:50 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1cairrz/request_what_are_the_odds_that_two_minecraft/,,"The odds are low, but would be surprisingly high if there were ~4 billion worlds created instead of 600 million, because of the birthday paradox (https://en.wikipedia.org/wiki/Birthday_problem). The square root of 18 quintillion is about 4 billion",
+
+l2zq4y9,https://www.reddit.com/r/theydidthemath/comments/1cme5d9/deleted_by_user/l2zq4y9/,2024-05-07 15:25:56 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1cme5d9/deleted_by_user/,,"Pretty much everyone is a statistical ""anomaly"" if you look at enough factors. Since there are ~ 8 billion = `8*10^9 ~ 8*2^27 ~ 2^30` people in the world, it's theoretically possible to find 31 binary factors that would distinguish any two people.
+
+As you note, however, things like nation of birth, year of birth, religious affiliation, etc, split people into more than 2 subsets, and we can't assume an equal number of people were born each year or that an equal number of people are born in each nation.
+
+The ""correct"" way to do this is to take the probability of being born in country X, square it, and then add across all countries. Same for year of birth, etc. It would be interesting to do this to see how many factors it takes (and assuming independence which might be an issue) before we can be fairly confident no two people share the same values",
+
+l236jdp,https://www.reddit.com/r/theydidthemath/comments/1chl9bk/request_determine_all_natural_numbers_as_the/l236jdp/,2024-05-01 13:14:02 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1chl9bk/request_determine_all_natural_numbers_as_the/,,"Hint: by the fundamental theorem of arithmetic, any number can be written as: `2^n1 * 3^n2 * 5^n3 * ... * (ck^nk)` where ck is the kth prime number.
+
+Using this breakdown, you can determine the factors of any number, and thus the product of the factors.
+
+This is also https://oeis.org/A007955 but I'm not sure that helps here",
+
+l241dpj,https://www.reddit.com/r/theydidthemath/comments/1chpyqt/requesthow_fast_are_we_traveling_form_that_dog/l241dpj/,2024-05-01 16:20:54 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1chpyqt/requesthow_fast_are_we_traveling_form_that_dog/,,"All inertial frames can be considered at rest (per Einstein), so the question here would be: what's the total acceleration of the Earth, allowing for rotation, revolution around the Sun (+ peturbations) and the Sun's acceleration around the center of the Milky Way galaxy and the galaxy's own acceleration. I don't know the answer, I just like typing big words",
+
+l244t11,https://www.reddit.com/r/theydidthemath/comments/1chqdrh/request_how_much_co2_could_this_capture_in_a_year/l244t11/,2024-05-01 16:40:13 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1chqdrh/request_how_much_co2_could_this_capture_in_a_year/,,"Unfortunately, there are too many variables (including tree type) to make any sort of reasonable estimate: https://onetreeplanted.org/blogs/stories/how-much-co2-does-tree-absorb",
+
+l305xu1,https://www.reddit.com/r/theydidthemath/comments/1cmgi3u/request_question_about_real_world_probability_vs/l305xu1/,2024-05-07 16:58:23 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1cmgi3u/request_question_about_real_world_probability_vs/,,"I believe the dealer goes last, giving them an advantage. For example, if you bust, the dealer automatically wins. The dealer can only bust if you don't.
+
+According to some random googling, optimal play means you could win ~42% of the games, so 19 out of 20 wins for the dealer suggests the game is cheating or that your strategy is non-optimal",
+
+l4lifnh,https://www.reddit.com/r/theydidthemath/comments/1cuwtmp/request_help_with_functional_equation_fx_afx4x_bx/l4lifnh/,2024-05-18 13:23:10 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1cuwtmp/request_help_with_functional_equation_fx_afx4x_bx/,,"You could treat `f(x)` as a variable (call it `u` to make things easier) and then solve `u = a*u^4*x + b*x + c`, but, unfortunately, the answer to that quartic is ugly",
+
+l4vqzur,https://www.reddit.com/r/theydidthemath/comments/1cwh2ro/request_how_much_storage_would_it_take_to_store/l4vqzur/,2024-05-20 14:48:27 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1cwh2ro/request_how_much_storage_would_it_take_to_store/,l4vqsmt,"Er, 16 million times 1 megabyte would be 16 terabytes, not 16 gigabytes",
+
+l4vquvm,https://www.reddit.com/r/theydidthemath/comments/1cwh2ro/request_how_much_storage_would_it_take_to_store/l4vquvm/,2024-05-20 14:47:36 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1cwh2ro/request_how_much_storage_would_it_take_to_store/,,"The article is fake: https://leadstories.com/hoax-alert/2018/11/fake-news-fbi-raid-at-nsa-employees-home-reveals-over-16000000-dick-pics.html
+
+But the answer is that images compress fairly well, and, at, say, 40K per image, that's only 640GB. Since I have over 2TB of porn (though that also includes movies), it's not really that much.",
+
+l6wtqhu,https://www.reddit.com/r/theydidthemath/comments/1d72g4j/request_how_much_should_i_invest_in_each_option/l6wtqhu/,2024-06-03 13:58:40 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1d72g4j/request_how_much_should_i_invest_in_each_option/,,"I'm missing something. It seems like no matter what you bet, you come out ahead?",
+
+l73e3o5,https://www.reddit.com/r/theydidthemath/comments/1d81y40/request_would_someone_become_a_millionaire_doing/l73e3o5/,2024-06-04 17:34:00 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1d81y40/request_would_someone_become_a_millionaire_doing/,,"Remember that stop losses can ""slip"" and you can lose more than where the loss is set, so, even ignoring commissions, probably not.",
+
+l7241j1,https://www.reddit.com/r/theydidthemath/comments/1d7970q/request_does_every_section_really_contain_10_of/l7241j1/,2024-06-04 13:04:25 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1d7970q/request_does_every_section_really_contain_10_of/,,"This appears to be split by longitude so you could using something like GPW to confirm (https://sedac.ciesin.columbia.edu/data/collection/gpw-v4)
+
+This seems like one of the less interesting ways to split the world into 10 slices of equal population. A more interesting method might be to use k-clustering means-- actually, I don't know what those are, but they sound interesting.",
+
+l7blv6a,https://www.reddit.com/r/theydidthemath/comments/1d97ysp/request_finding_probability_of_a_weird_event/l7blv6a/,2024-06-06 03:32:16 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1d97ysp/request_finding_probability_of_a_weird_event/,,"I am answering this question solely to be a pedantic prick.
+
+There are `365.2425/12  = 48699/1600` days in a Gregorian month (excluding leap seconds), so a woman is ""on her period"" (in your sense of the word) `7/(365.2425/12) = 1600/6957` of the time. The chance 50 women are all on their period is `(1600/6957)^50 = 16069380442589902755419620923411626025222029937827928353013760000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 / 1321600419661881286007359810683570743552352802512869277793505043502791843887870769759397652093543908239791544357497435640396880677525153149259467884838436078891120532733996621671785111003246249 ~ 1.22*10^-32` or effectively zero.
+
+HOWEVER, https://www.allinahealth.org/healthysetgo/care/is-this-normal-your-period-in-your-20s-30s-and-40s states the average period for a period (hmmm) is 28 days, resulting in the boring fraction that a woman is on her period 1/4th of the time, and 50 women having their period at the same time is `4^-50 = 1 / 1267650600228229401496703205376 ~ 7.89*10^-31` which is a little higher but about the same
+
+HOWEVER HOWEVER, if we assume that at least some of these women live together (ie, are related to each other or similar), their periods would tend to sync up, increasing this chance.",
+
+l7sxr6m,https://www.reddit.com/r/theydidthemath/comments/1dbrcb1/request_how_many_exam_attempts_are_required_to/l7sxr6m/,2024-06-09 11:56:38 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dbrcb1/request_how_many_exam_attempts_are_required_to/,,"Average of 25 right, variance of `n*p*(1-p) = 100*.25*.75 = 18.75` so a standard deviation of `sqrt(18.75) ~ 4.33`, so you'd need `(39.5-25)/4.33 ~ 3.35` standard deviations above the mean, which has a `2.18*10^-6` chance of success.
+
+For a 99% chance, you'd want `(1-2.18*10^-6)^n = 1/100` or approximately 2.11 million tries",
+
+l7t2hv5,https://www.reddit.com/r/theydidthemath/comments/1dbrcb1/request_how_many_exam_attempts_are_required_to/l7t2hv5/,2024-06-09 12:38:08 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dbrcb1/request_how_many_exam_attempts_are_required_to/,l7t285g,"If there's a `2.18*10^-6` chance of success, the expected value is just 1 divided by that or about 459000 tries. You should be able to substitute 5/100 for 1/100 to find the 95% mark.",
+
+l84iwh8,https://www.reddit.com/r/theydidthemath/comments/1d5e7v3/request_assume_the_earths_surface_is_a_unit/l84iwh8/,2024-06-11 15:07:01 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1d5e7v3/request_assume_the_earths_surface_is_a_unit/,l6q4dcz,"> For simplicity, I will assume all the population of each country is concentrated at a point at the center of each country
+
+I think this is a very serious error. I did it using GPW data a long time ago (https://sedac.ciesin.columbia.edu/data/collection/gpw-v4 is the current version) and came up with a very different answer: somewhere in China.
+
+Try using geonames or at least CityData.",
+
+l8zi1jv,https://www.reddit.com/r/theydidthemath/comments/1dhu4up/request_challenging_question_about_to_find_date/l8zi1jv/,2024-06-17 11:25:02 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dhu4up/request_challenging_question_about_to_find_date/,l8zb06d,What about January?,
+
+l95ky3j,https://www.reddit.com/r/theydidthemath/comments/1diqeio/request_i_mean_it_makes_sense_intuitively_but_has/l95ky3j/,2024-06-18 13:55:42 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1diqeio/request_i_mean_it_makes_sense_intuitively_but_has/,,"Easiest way to think about it: for every person who gives you a dollar, you give them a dollar. And that applies to everyone in the sub. No one gains or loses anything.
+
+If everyone gifts enough money that it requires tax reporting, everyone would lose money paying gift tax",
+
+l91btg9,https://www.reddit.com/r/theydidthemath/comments/1di2w74/request_using_recursion_to_calculate_probability/l91btg9/,2024-06-17 18:22:30 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1di2w74/request_using_recursion_to_calculate_probability/,,A Markov chain IS recursion and logic. It's just a nice way of organizing the information.,
+
+la17mey,https://www.reddit.com/r/theydidthemath/comments/1dn788e/request_how_fast_would_a_car_have_to_drive_to/la17mey/,2024-06-24 11:13:58 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dn788e/request_how_fast_would_a_car_have_to_drive_to/,,"Quoting https://what-if.xkcd.com/42/
+
+> If you stand still at the South Pole in early March, the Sun stays in the sky all day, making a full circle just above the horizon. Sometime around March 21st, it touches the horizon for the only sunset of the year. This sunset takes 38-40 hours, which means it makes more than a full circuit around the horizon while setting.
+
+I actually disagree with the author here and believe it can be even longer, but it's definitely over 36 hours",
+
+l9lxkjf,https://www.reddit.com/r/theydidthemath/comments/1dl2eai/request_need_help_with_exam/l9lxkjf/,2024-06-21 12:54:39 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dl2eai/request_need_help_with_exam/,l9lx01e,Are you sure that's not a result of AutoCAD having finite precision?,
+
+l9lv8sz,https://www.reddit.com/r/theydidthemath/comments/1dl2eai/request_need_help_with_exam/l9lv8sz/,2024-06-21 12:37:29 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dl2eai/request_need_help_with_exam/,,"It actually won't be a circle. Instead, consider the perpendicular bisectors of the triangle and see what area remains for the ""5"" side",
+
+layucrr,https://www.reddit.com/r/theydidthemath/comments/1drvmpd/deleted_by_user/layucrr/,2024-06-30 12:11:51 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1drvmpd/deleted_by_user/,,"As https://new.reddit.com/user/Angzt/ notes, multiplying by 3 doesn't appear to rig the election since the results are in the same order. Assuming the eligible to vote number isn't rigged, this shows about 50% voter participation, which seems pretty normal. Do you think the actual voter participation was only one third that value and that's what they're trying to cover up?
+
+Also, you didn't ask this question, but the probability that there is SOME pattern in the numbers is much higher. I don't know how high because I don't know what you (or anyone else) would consider a pattern.",
+
+lann0iu,https://www.reddit.com/r/theydidthemath/comments/1dqff5x/deleted_by_user/lann0iu/,2024-06-28 09:39:10 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dqff5x/deleted_by_user/,,"Or find all flags that don't have red, white, or blue and subtract?",
+
+lat91uk,https://www.reddit.com/r/theydidthemath/comments/1dr5jo3/request_how_long_does_lizzo_the_singer_have_to/lat91uk/,2024-06-29 10:14:06 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dr5jo3/request_how_long_does_lizzo_the_singer_have_to/,,"As others note, you can't assign life expectancy based on a single factor such as weight. The fact the she has an active lifestyle and dances might actually INCREASE her life expectancy.
+
+If you actually considered all possible factors, you'd see it's impossible to determine life expectancy.",
+
+lat8xaz,https://www.reddit.com/r/theydidthemath/comments/1dr5jo3/request_how_long_does_lizzo_the_singer_have_to/lat8xaz/,2024-06-29 10:12:44 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dr5jo3/request_how_long_does_lizzo_the_singer_have_to/,lasvh6e,"Not true, since you can't determine likelihood from a single factor (weight).",
+
+laze76a,https://www.reddit.com/r/theydidthemath/comments/1ds2959/request_multiple_of_3_2023_iran_presidential/laze76a/,2024-06-30 14:37:56 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ds2959/request_multiple_of_3_2023_iran_presidential/,lazd7h9,"I disagree (there's another post on this too), because what if they were all multiples of 4, or 5 or something? Or all prime numbers? Or all composites. Or all the first few digits of interesting constant? Pretty much anything can be a pattern if you try hard enough",
+
+layxbz1,https://www.reddit.com/r/theydidthemath/comments/1drvmpd/deleted_by_user/layxbz1/,2024-06-30 12:37:49 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1drvmpd/deleted_by_user/,laywofs,"I don't know if someone's made a list, but I'm guessing you'd be suspicious if all numbers were a multiple of 4, 5, 6, 7, etc.
+
+What if they were all prime number? All composite numbers? All numbers 2 greater than a multiple of 5, and so on",
+
+lb3v37r,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/lb3v37r/,2024-07-01 10:25:41 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/,lb3rdv1,"""Life expectancy"", whatever that means, depends on factors other than age as well",
+
+lb50cgq,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/lb50cgq/,2024-07-01 15:25:27 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/,lb4vo1v,"OK, if you want to estimate a measure on someone (such as life expectancy), there are several factors you can consider: age (or birth year), height, weight, skin color, biological gender, birth location, occupation, etc. Presumably, the more information you use, the better your estimate. Of course, you may end up with combinations of these factors that no one has previously had (or too few people have had to make valid estimation), but let's ignore that for now.
+
+Suppose I introduct a new metric: the sum of the number of letters in the first two states someone lived in (0 if a state is null). ""There's no way that metric has anything to do with life expectancy"" you might say. And you'd probably be right. However, if we keep looking, we might (in fact, must) find a metric that's better at predicting life expectancy than any of the ones you're using and any combinations of those.
+
+Now, you have a problem: why are you deliberately ignoring an accurate correlation and choosing age, etc? That's because you believe, in a non-mathematically-provable sense, that those factors are more important.
+
+I claim this is a defect in the English language, statistics in general, and the cause of most discrimination. I'm also worried that, when AI starts pumping out discriminatory statement, people will believe them because they think AI is unbiased.
+
+To be mathematically accurate, you have to consider all possible partitions of your population into 1 or more subsets. You could make the weak argument that there's no way to do that, so you have to use only the data that's available (definition of availibility bias)
+
+However, you can via symmetry. The number of partitions of n people is the Bell number of n. If you consier all of these partitions, by symmetry, everyone will have the same life expectancy.",
+
+lb4o46h,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/lb4o46h/,2024-07-01 14:15:02 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/,lb4ekz0,"I'm saying it's not even an expectation.
+
+It's not a big deal when you're talking about old people, but imagine computing life expectancy for a newborn. Assuming that newborn is as likely to live 70 years as a newborn born 70 years ago doesn't make sense.",
+
+lb3v9f0,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/lb3v9f0/,2024-07-01 10:27:35 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/,,"I'll do my standard anti-stats rant: there's no mathematically valid way of estimating life expectancy unless you make certain assumptions, but those assumptions themselves introduce a bias.",
+
+lc73rzi,https://www.reddit.com/r/theydidthemath/comments/1dy8kzj/request_what_is_the_average_number_of_rolls_to/lc73rzi/,2024-07-08 14:33:20 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dy8kzj/request_what_is_the_average_number_of_rolls_to/,,"I mean, you could create a Markov chain to solve this exactly. You wouldn't even need 100 states if you treat snake/ladder states as their final state since you don't roll when going up a ladder or down a chute (game is called Chutes and Ladders in the USA)",
+
+lc720zk,https://www.reddit.com/r/theydidthemath/comments/1dy9fy7/self_mathematical_insights_into_the_p_vs_np/lc720zk/,2024-07-08 14:23:01 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dy9fy7/self_mathematical_insights_into_the_p_vs_np/,lc70l50,"So why post this? It's not really ""[SELF]"" content if ChatGPT wrote it",
+
+lb510ao,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/lb510ao/,2024-07-01 15:29:07 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/,lb50p9m,Fair enough,
+
+lb4qi0c,https://www.reddit.com/r/theydidthemath/comments/1dsszgm/request_how_to_calculate_the_angle_between_n/lb4qi0c/,2024-07-01 14:29:15 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dsszgm/request_how_to_calculate_the_angle_between_n/,,"As https://new.reddit.com/user/PACmaneatsbloons/ notes, I'm not convinced you actually do this on a sphere, even with the relaxed restriction that it's only the same distance to the nearest other point, not all other points. I think this similar to cutting the sphere surface into n similar pieces which I've been struggling with.
+
+You can, of course, put n points on the equator (or any line of longitude or any other great circle) equidistantly, but I'm assuming no 3 points can be colinear? This corresponds to the ""orange slice"" model of splitting the sphere. Interesting, but not extensible to smaller slices",
+
+lcc3bu6,https://www.reddit.com/r/theydidthemath/comments/1dy8kzj/request_what_is_the_average_number_of_rolls_to/lcc3bu6/,2024-07-09 11:29:14 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dy8kzj/request_what_is_the_average_number_of_rolls_to/,lc9bf8x,"Yes. https://gist.github.com/GroovyJeff/f61678e71ab8c4fbf98bd282cdeff5c2 is my Julia code to compute a simplified transition matrix (chutes and ladders, but no special rules for 6 or for hitting 100 and ""bouncing off""). If you take the resulting matrix to various powers, you'll see that, even after 10,000 moves, there's a small chance the game hasn't finished.",
+
+lc732yo,https://www.reddit.com/r/theydidthemath/comments/1dy9fy7/self_mathematical_insights_into_the_p_vs_np/lc732yo/,2024-07-08 14:29:16 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dy9fy7/self_mathematical_insights_into_the_p_vs_np/,lc7273z,Why bother writing it though? I don't think it says anything important or new,
+
+lb4rzye,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/lb4rzye/,2024-07-01 14:38:04 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/,lb4rnhi,My claim is that it's mathematically impossible to take all factors into account UNLESS you do so using symmetry and determine everything is the same for everyone. Any other approach introduces a bias claiming only a few partitions are necessary to determine something,
+
+lb42j0r,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/lb42j0r/,2024-07-01 11:38:46 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dsn11y/request_what_are_the_chances_that_the_next/,lb42bl0,"Fair enough. Of course, it still means assuming that past performance implies future performance, but at least it's a more limited assumption",
+
+ld4d1os,https://www.reddit.com/r/theydidthemath/comments/1e2v05o/request_is_it_possible_to_calculate_the_number_of/ld4d1os/,2024-07-14 10:32:01 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1e2v05o/request_is_it_possible_to_calculate_the_number_of/,,"Are you asking for the number of different species, or the total number of beings, such as ~8 billion for humans? You might google around for ""biomass""",
+
+lc70h68,https://www.reddit.com/r/theydidthemath/comments/1dy9fy7/self_mathematical_insights_into_the_p_vs_np/lc70h68/,2024-07-08 14:13:44 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dy9fy7/self_mathematical_insights_into_the_p_vs_np/,,ChatGPT?,
+
+lc74lm3,https://www.reddit.com/r/theydidthemath/comments/1dy6f9d/request_what_is_the_average_number_of_arms_of/lc74lm3/,2024-07-08 14:38:11 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1dy6f9d/request_what_is_the_average_number_of_arms_of/,lc6gva3,"The mean is not 2, but, yes, the median and mode are 2",
+
+leq4qwk,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/leq4qwk/,2024-07-24 15:55:48 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/,leg21s0,"Ah, OK. I get it now, but am too lazy to change the code, but, if someone else wants to take a shot, go for it.
+
+Apparently the https://projects.fivethirtyeight.com/trump-biden-election-map/ accounts for this too",
+
+leef7lm,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/leef7lm/,2024-07-22 16:13:26 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/,leef0dc,"The division includes the entire state, there is no ""statewide"" vote in these states, unless I'm misunderstanding something.",
+
+ledralt,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/ledralt/,2024-07-22 13:59:42 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/,,"Based on my calculations (https://github.com/GroovyJeff/Streaming/tree/main/OffStream/20240722), there is roughly a 0.755% chance of this happening, assuming all votes are random.",
+
+leee5cc,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/leee5cc/,2024-07-22 16:07:39 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/,leea7st,"If we consider Nebraska and Maine, it's 56, becaues they split their votes and each split part of the state can be treated as a separate electoral ""region""",
+
+le2z0e0,https://www.reddit.com/r/theydidthemath/comments/1e7tbxf/request_they_did_the_math_on_briefcases_of_money/le2z0e0/,2024-07-20 13:57:44 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1e7tbxf/request_they_did_the_math_on_briefcases_of_money/,le2l6hk,"Fucking dark, man. Especially since it's air tight (I don't know if climate controlled overrides air tight)",
+
+lee2s8l,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/lee2s8l/,2024-07-22 15:06:04 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1e9bnoy/request_how_many_possibilities_are_there_for_a/,lee26pa,"Ah, OK. That's `543865928987312 ~ 5.44*10^14 ~ 544 trillion` out of `2^56 = 72057594037927936 ~ 7.21*10^16 ~ 72 quadrillion` total possibilities",
+
+lehmwh5,https://www.reddit.com/r/theydidthemath/comments/1d93b2c/request_are_the_majority_of_people_in_the_world/lehmwh5/,2024-07-23 03:21:35 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1d93b2c/request_are_the_majority_of_people_in_the_world/,,"According to my calculations (https://github.com/GroovyJeff/Streaming/tree/main/OffStream/20240722/GRASS), about 36% of the world's population lives closer to South Africa than to the North Pole, so the majority of the world's population lives closer to the North Pole.",
+
+lgfszd2,https://www.reddit.com/r/theydidthemath/comments/1ejp05c/request_calculating_12_hours_of_the_day/lgfszd2/,2024-08-04 11:40:56 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ejp05c/request_calculating_12_hours_of_the_day/,,It would be interesting to create a program/website to do this (I'm not sure https://mysolartime.com/ is doing exactly this) or finding one someone has created. You'd need special cases near the poles where dusk and dawn don't necessarily occur everyday,
+
+lgb2u63,https://www.reddit.com/r/theydidthemath/comments/1ej2zds/request_what_is_the_average_travel_distance/lgb2u63/,2024-08-03 14:58:18 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ej2zds/request_what_is_the_average_travel_distance/,,"EDIT: edited to correct standard deviation which I computed incorrectly earlier
+
+As /u/Consistent-Annual268/ notes, two of the dimensions are so small compared to the third, that the average of the distance in length pretty much gives the answer, and, also as they note, if you subtract two uniform random variables between 0 and 170 and take the absolute value you get a mean of `170/3 ~ 56.67` km and a standard deviation of `170/(3*sqrt(2)) ~ 40.07`.
+
+The general problem is much more difficult and appears to be unsolved for the general case of a parallelpiped : https://en.wikipedia.org/wiki/Mean_line_segment_length
+
+I ran `diffs = [sqrt( (d*(rand()-rand()))^2 + (w*(rand()-rand()))^2 + (h*(rand()-rand()))^2) for _ in 1:10000000]` in Julia with `d`, `w`, and `h` set per your parameters (converting 170 to 170000 of course), and I got an average of 56671.08063484855 with a standard deviation of 40063.908786063555, both in meters. Of course, that's from a Monte Carlo simulation, so the results aren't exact, but roughly match what you'd expect",
+
+lgbtyt3,https://www.reddit.com/r/theydidthemath/comments/1ej2zds/request_what_is_the_average_travel_distance/lgbtyt3/,2024-08-03 17:32:50 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ej2zds/request_what_is_the_average_travel_distance/,lgbsc8d,"Thanks, fixed. I was taking the mean of the difference, but the sd of the uniform distribution itself, sigh.",
+
+lgl6b6e,https://www.reddit.com/r/theydidthemath/comments/1eki49r/request_how_much_of_time_on_earth_is_spent_in/lgl6b6e/,2024-08-05 10:43:37 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eki49r/request_how_much_of_time_on_earth_is_spent_in/,,"If the sun were a point of light and there were no refraction, and we counted daytime as just when the sun was up (and excluded dawn/dusk), then yes, it would be daytime exactly half the time.
+
+However, because of the Sun's non-0 diameter and refraction at the horizon, the Sun appears to set when it's geometric position is -5/6 of a degree, so, even excluding dawn and dusk, there is more daytime than nighttime",
+
+lgrgbcp,https://www.reddit.com/r/theydidthemath/comments/1elfzgg/request_odds_of_having_3_sets_of_twins_in_one/lgrgbcp/,2024-08-06 12:37:16 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1elfzgg/request_odds_of_having_3_sets_of_twins_in_one/,,"Without actually checking a source, I believe a woman who has multiple births one time is more likely to have them again, so it's not as rare as it might seem otherwise.",
+
+lh46pds,https://www.reddit.com/r/theydidthemath/comments/1en7pjo/request_death_roll_gambling_game_who_has_the/lh46pds/,2024-08-08 14:51:48 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1en7pjo/request_death_roll_gambling_game_who_has_the/,,"EDIT: below, I should have said the second players chance to win, but still should be doable
+
+I think you can model this recursively. If `p(1000)` is the chance the first player will win starting at 1000, we have `p(1000) = 1/1000*(p(1) + p(2) + p(3) + ... p(1000))`. I'm too lazy to actually model this but shouldn't be too hard",
+
+lhftvpt,https://www.reddit.com/r/theydidthemath/comments/1eotdfi/request_how_much_faster_would_you_crack_a_4_digit/lhftvpt/,2024-08-10 14:18:29 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eotdfi/request_how_much_faster_would_you_crack_a_4_digit/,,General concept here is a de Bruijn sequence: https://en.wikipedia.org/wiki/De_Bruijn_sequence,
+
+lh6ievz,https://www.reddit.com/r/theydidthemath/comments/1en7pjo/request_death_roll_gambling_game_who_has_the/lh6ievz/,2024-08-08 21:59:02 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1en7pjo/request_death_roll_gambling_game_who_has_the/,lh69z9n,You could consider it a 1 person game and see if it ends in an even or odd number of turns (or even how many turns mod n for more players). I think that's equivalent.,
+
+li9bgvv,https://www.reddit.com/r/theydidthemath/comments/1esyjb0/request_what_is_the_probability_of_pulling_the/li9bgvv/,2024-08-15 16:02:19 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1esyjb0/request_what_is_the_probability_of_pulling_the/,li99z7e,upvote for humor,
+
+lhr7ljv,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/lhr7ljv/,2024-08-12 15:08:47 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/,,"As /u/CrussWitchHammer/ notes, if you change speeds every kilometer (and ignoring the infinite acceleration that would require), it would be the sum of 1/n from n=100 to n=1, which happens to be about 5.18738
+
+If you change speed continuously, you are effectively integrating 1/x between 0 and 100. This integral doesn't converge, meaning you will keep driving slower and slower and never reaching your destination.
+
+However, if you were to drive at 1/sqrt(x) speed where x is the distance you would reach your destination in 20 hours, even thought you speed at the end is still 0.",
+
+lhr6lc3,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/lhr6lc3/,2024-08-12 15:03:16 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/,lhr556u,"I don't think that works here because we're dealing with speeds, not distances, and you have to add speeds as reciprocals. So the average of going 97mph and 3mph is not 50mph",
+
+lhr8xqx,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/lhr8xqx/,2024-08-12 15:16:08 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/,lhr8joo,"OK, so you traverse the first mile in 1/100 hour and the second mile in 1 hour. That's 2 miles for 101/100 hour which is 1.98 miles per hour.
+
+The fact it takes you 1 hour to go the ""last mile"" means your total speed over two miles can never be more than 30mph, even if you cover your first mile infinitely fast.",
+
+lhrgbmp,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/lhrgbmp/,2024-08-12 15:55:36 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/,lhrfzs2,"Oh, you could replace `1/sqrt(x)` with many other functions. One of them would be `1/x^0.999` which is the same as `x^-0.999`. Don't worry about the details. The point is: there are functions where your speed slows to 0 but you still reach your destination",
+
+lhrfhte,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/lhrfhte/,2024-08-12 15:51:15 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eqfg7p/request_how_long_would_it_take_to_drive_100km_if/,lhrf9wu,Just the first function I thought of that has both a finite integral and an asymptote. `x^-0.999` would probably work too,
+
+ljelg5c,https://www.reddit.com/r/theydidthemath/comments/1eyo885/request_union_of_two_sets/ljelg5c/,2024-08-22 16:55:42 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eyo885/request_union_of_two_sets/,,Well what happens to the first set when you `(2n-1)` each element?,
+
+ljp836o,https://www.reddit.com/r/theydidthemath/comments/1f0375x/request_around_the_world_in_80_days/ljp836o/,2024-08-24 13:18:44 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1f0375x/request_around_the_world_in_80_days/,,Probably the international date line,
+
+ljw21wp,https://www.reddit.com/r/theydidthemath/comments/1f10qtq/request_statistically_when_and_where_is_a_human/ljw21wp/,2024-08-25 17:57:21 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1f10qtq/request_statistically_when_and_where_is_a_human/,,"You can't estimate risk without making assumptions, and there are far too many variables to even remotely compute something like this.
+
+However, I'm fairly confident I won't die yesterday :)",
+
+ljencju,https://www.reddit.com/r/theydidthemath/comments/1eyn0dk/self_all_the_adult_human_blood_vessels_stretched/ljencju/,2024-08-22 17:05:26 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eyn0dk/self_all_the_adult_human_blood_vessels_stretched/,,"This would be so much better with a source. I tried direct observation, but... ouchie!",
+
+ljp4rxh,https://www.reddit.com/r/theydidthemath/comments/1ezt3na/deleted_by_user/ljp4rxh/,2024-08-24 12:55:45 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ezt3na/deleted_by_user/,,SHAME! SHAME! Extrapolation is the cardinal sin of statistics SHAME! SHAME!,
+
+ljucpk9,https://www.reddit.com/r/theydidthemath/comments/1f0r20c/request_how_would_you_find_the_exact_function/ljucpk9/,2024-08-25 11:31:56 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1f0r20c/request_how_would_you_find_the_exact_function/,,"I'll make my standard statement that you can't compute probability without making assumptions and that, given the extremely low rate of death by tortoise, you can't come up with a meaningful non-zero estimate of probability",
+
+lj1cz1n,https://www.reddit.com/r/theydidthemath/comments/1ewul2r/request_odds_of_draft_order/lj1cz1n/,2024-08-20 13:24:09 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ewul2r/request_odds_of_draft_order/,,"The first year, someone has to be first and someone has to be last. The chance that #1 from the first year is #1 again the second year is 1/7th. When that happens, the chance from the last person from the first year is last again is 1/6th. Thus, 1 in 42 chance both first and last repeat",
+
+ljeoe66,https://www.reddit.com/r/theydidthemath/comments/1eylypd/request_does_the_math_coding_make_sense/ljeoe66/,2024-08-22 17:10:49 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1eylypd/request_does_the_math_coding_make_sense/,,"This looks a little like There Is No Game, is it a similar video game?",
+
+ljue3m3,https://www.reddit.com/r/theydidthemath/comments/1f0r20c/request_how_would_you_find_the_exact_function/ljue3m3/,2024-08-25 11:44:51 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1f0r20c/request_how_would_you_find_the_exact_function/,ljudzs9,"I'm familiar with the reference (and the Terry Pratchett reference to the reference), but I'm saying a zero estimate could be accurate because the number is so close to zero",
+
+lkcodi8,https://www.reddit.com/r/theydidthemath/comments/1f39sp5/request_how_much_money_is_in_arbitrary_phrases/lkcodi8/,2024-08-28 15:07:06 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1f39sp5/request_how_much_money_is_in_arbitrary_phrases/,lkcnrjf,"He said ""buttload"". I am not putting 10.1 trillion dollars in my ass. Again.",
+
+lkck78s,https://www.reddit.com/r/theydidthemath/comments/1f3bbk1/request_why_is_pi_not_4_eli5/lkck78s/,2024-08-28 14:45:40 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1f3bbk1/request_why_is_pi_not_4_eli5/,,"Calculus only works when your approximation gets closer to the thing you're approximating. In this case, it looks like it's getting closer, but you're replacing one big square with lots of smaller squares, and the total difference remains the same (namely `4 - pi`)
+
+You can do something similar to show the length of the hypotenuse of a right angle triangle is equal to the sum of the other two lengths, a false statement.
+
+The missing element is the Pythagorean Theorem: moving diagonally is fundamentally different from moving horizontally than vertically. Once you account for the Pythagorean Theorem, everything should work out.
+
+Words related to this concept: Manhattan distance
+
+Now, if you want a real challenge, ping me. I'm working with geodesic distances on the surface of a sphere.",
+
+lkg951t,https://www.reddit.com/r/theydidthemath/comments/1f3sgzd/request_if_someone_was_born_at_1000am_on_10261985/lkg951t/,2024-08-29 04:06:37 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1f3sgzd/request_if_someone_was_born_at_1000am_on_10261985/,,You're #1 in my book!,
+
+llcuc9p,https://www.reddit.com/r/theydidthemath/comments/1f88mtt/request_how_much_money_would_we_save/llcuc9p/,2024-09-03 19:48:58 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1f88mtt/request_how_much_money_would_we_save/,,The statement that this is a black and white picture appears to be false,
+
+lnfn6ru,https://www.reddit.com/r/theydidthemath/comments/1fhewdk/request_speed_amount_of_fuel_needed_to_fly_to/lnfn6ru/,2024-09-16 16:54:23 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fhewdk/request_speed_amount_of_fuel_needed_to_fly_to/,lnegib2,The moon sets for 14.75 days at a time (roughly) at the South Pole and you have to go quite far north to still see it and travel quite a big circle to keep it above the horizon,
+
+ln9oila,https://www.reddit.com/r/theydidthemath/comments/1fhewdk/request_speed_amount_of_fuel_needed_to_fly_to/ln9oila/,2024-09-15 16:22:46 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fhewdk/request_speed_amount_of_fuel_needed_to_fly_to/,,"This is similar to the ""always see sunshine"" question and has a similar answer. At the South Pole, the Moon is up for roughly 14.75 days at a time. Same for the North Pole, but on the other 14.75 days of the lunar cycle. Since the moon isn't a point and because of atmospheric refraction at the horizon, there's actually some overlap.
+
+So, starting from the South Pole and flying to the North Pole is one way to do it. I suspect it's close to an optimal solution",
+
+lopvmi7,https://www.reddit.com/r/theydidthemath/comments/1fohdrp/request_what_are_the_chances/lopvmi7/,2024-09-24 17:06:56 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fohdrp/request_what_are_the_chances/,,"I've had this happen too. Notice that all the letters are on the left side of the middle row of a standard QWERTY keyboard. Most people just use the 4 fingers on their left hand and end up typing a combination of a, s, d, and f, so the chances aren't as low as you think.
+
+Combine that with the fact people are bad at doing things truly randomly, and it becomes even more likely.",
+
+ln9ne14,https://www.reddit.com/r/theydidthemath/comments/1fhfwre/request_is_this_a_valid_way_to_solve_this/ln9ne14/,2024-09-15 16:16:48 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fhfwre/request_is_this_a_valid_way_to_solve_this/,,"Let the prime factorization of `m` be `2^x * 3^y`. Note that `m` can have no other primes in its factorization since its product, `2^25 * 3^40` would necessarily also have those factors and it doesn't.
+
+Then, `m^n = (2^x * 3^y)^n = 2^(nx) * 3^(ny)`. Since that's `2^25 * 3^40`, we have `nx = 25` and `ny = 40`. Since the factors of 25 are 1, 5, and 25, and we disallowed n=1, n must be 5 or 25. If `n=25` then `25y=40` which doesn't work since `y` would be `y = 40/25 = 8/5` and the `2^x * 3^y` would no longer be an integer. Thus, n=5 is the only choice that works",
+
+ln9qaij,https://www.reddit.com/r/theydidthemath/comments/1fhdb2p/deleted_by_user/ln9qaij/,2024-09-15 16:32:21 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fhdb2p/deleted_by_user/,,"Usually, you'd use something like power series to find these sums, but this one's pretty ugly and there's apparently no good closed form: http://wayback.cecm.sfu.ca/cgi-bin/isc/lookup?number=0.783430510712134407059264386526975469407681990&lookup_type=simple
+
+As /u/Angzt notes, this isn't pi/4, but, aside from that, not sure how much it has been studied
+
+EDIT: it's also OEIS A083648 (https://oeis.org/A083648) and equivalent to the integral of `x^x` between 0 and 1 (the last part seems weird to me)",
+
+lnivyem,https://www.reddit.com/r/theydidthemath/comments/1fijmzr/deleted_by_user/lnivyem/,2024-09-17 04:28:56 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fijmzr/deleted_by_user/,,This channel doesn't appear to have that many subscribers. Are you affiliated with this channel in any way?,
+
+lp04v3d,https://www.reddit.com/r/theydidthemath/comments/1fpsn8a/self_infinite_coastline_paradox/lp04v3d/,2024-09-26 11:27:58 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fpsn8a/self_infinite_coastline_paradox/,,"It might be better to think of the coastline paradox as an introduction to fractals, not as a literal problem. If you were measuring the coastline literally, you'd have to worry about things like tides.",
+
+loua9pv,https://www.reddit.com/r/theydidthemath/comments/1fp2arg/request_if_jupiter_suddenly_turned_into_a_star/loua9pv/,2024-09-25 11:52:58 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fp2arg/request_if_jupiter_suddenly_turned_into_a_star/,lou8kh9,Frickin' kids. First they throw asteroids at me and now they're trying to make me go nuclear,
+
+lsiio79,https://www.reddit.com/r/theydidthemath/comments/1g66qlp/if_you_covered_every_building_in_tokyo_with_solar/lsiio79/,2024-10-18 12:03:38 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1g66qlp/if_you_covered_every_building_in_tokyo_with_solar/,,https://globalsolaratlas.info/ may or may not be helpful in obtaining more accurate data for Tokyo specifically,
+
+lqytdqw,https://www.reddit.com/r/theydidthemath/comments/1fz0aru/request_sun_in_full_field_of_view/lqytdqw/,2024-10-08 17:08:53 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1fz0aru/request_sun_in_full_field_of_view/,,"Trick question. You could never see the part of the Sun that's on the other side of where you are (since you're walking in a single direction). You'd get arbitrarily close to seeing the 1/2 of the Sun you're facing, but never quite get there. Or did you mean something else? IE, are you asking at what distance the Sun's diameter subtends an angle of 72 degrees (roughly human peripheral vision range)",
+
+lt0oz0h,https://www.reddit.com/r/theydidthemath/comments/1g8s3ao/request_quick_question_about_avarages/lt0oz0h/,2024-10-21 15:28:59 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1g8s3ao/request_quick_question_about_avarages/,,"Statistics are often used deceptively, even when the data is valid. If you could give us some specific examples that don't sit well with you, we might be able to help more",
+
+lstyum0,https://www.reddit.com/r/theydidthemath/comments/1g7wdsj/deleted_by_user/lstyum0/,2024-10-20 12:30:47 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1g7wdsj/deleted_by_user/,,"I think this question is too vague to answer using just math. A large portion of Australia is desert and is low in resources. Do you have some sort of formula or assumptions you're making about how to compute resources? Are you assuming Australia has unlimited resources to build power planets, irrigation ditches and so on? With infinite money and given enough time, you could probably turn Australia into a forest or something, which would make this a very different question.",
+
+lt0n2yc,https://www.reddit.com/r/theydidthemath/comments/1g8rkhg/request_how_many_people_do_i_have_to_be_in_a_room/lt0n2yc/,2024-10-21 15:18:54 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1g8rkhg/request_how_many_people_do_i_have_to_be_in_a_room/,,"Using https://ourworldindata.org/births-and-deaths the chance a given person will die in a week is...
+
+`61 million/8.1 billion ~ 0.0075 (or 0.75%) per year * 7/365.2425 years/week =  0.000144332% per week ~ 1/6928.5`
+
+If there are n people, the chance none of them will in a week is thus `(6927.5/6928.5)^n`, and the chance at least 1 will die is one minus that number.
+
+So, for a 50% chance, you'd need about 4800 people. Book a suite :)",
+
+lxkwy6h,https://www.reddit.com/r/theydidthemath/comments/1gtakcj/request_is_this_actually_true/lxkwy6h/,2024-11-17 11:49:10 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1gtakcj/request_is_this_actually_true/,lxkvvyr,"Darn, I think you're right. I assumed (and stated) that the base length was irrelevant, but you are correct. If you had 4 square miles boxes and combined them, the inside areas would go away and the final box would be smaller. I will edit my comment.
+
+I also later realized that flattening Idaho to sea level is the wrong approach. Instead, we could flatten Idaho to its average elevation which would require less net change even if my boxes idea would work. As a mathematical quirk, the final elevation requiring the least amount of change isn't necessarily the average and actually depends on the elevation distribution.",
+
+lxko0m3,https://www.reddit.com/r/theydidthemath/comments/1gt05zh/request_how_many_people_would_we_need_to_make_a/lxko0m3/,2024-11-17 10:12:15 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1gt05zh/request_how_many_people_would_we_need_to_make_a/,lxk0um6,I can't say,
+
+lxm7r7l,https://www.reddit.com/r/theydidthemath/comments/1gthx7u/request_depot_debacle/lxm7r7l/,2024-11-17 17:04:29 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1gthx7u/request_depot_debacle/,,"This is an example of the well known ""camel crossing the desert"" problem: https://en.wikipedia.org/wiki/Jeep_problem",
+
+lxks5h7,https://www.reddit.com/r/theydidthemath/comments/1gtakcj/request_is_this_actually_true/lxks5h7/,2024-11-17 10:58:00 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1gtakcj/request_is_this_actually_true/,,"**THIS IS WRONG, SEE COMMENTS BELOW FOR WHY; HOWEVER, THIS MAY HAVE BEEN HOW SOMEONE ELSE MADE THE INCORRECT CALCULATION**
+
+Assuming you flatten both states down to sea level (which might not be the correct interpretation-- you might only want to flatten to Idaho's lowest point) and that my calculations below are correct [which someone should definitely double check], flat Idaho is slightly bigger than regular Texas, but smaller than flat Texas.
+
+My methodology: Idaho has an area of 83570 square miles average elevaation of 4921 feet. If we started at sea level and elevated each square mile 4921 feet by placing it on a regular parallelpiped (box), that would require 4 sides of a square each 1 mile long and 4921 feet high, thus increasing the surface area by `4291 ft * 4 miles = ~3.25 miles^2` for every square mile. Of course, we'd still have the original square mile, just a lot higher now, so the new area would be `83570*4.25 = ~271666 square miles`.
+
+Note that the calculation above works even if you use square feet or square meters or any unit of measure you want (the boxes will change size, but the additional added area will be the same). The calculation also works even though Idaho has a non-consistent elevation: a 3000 foot box and a 5000 foot box will add the same area as 2 4000 foot boxes.
+
+Texas has an area of `~268600 mi^2`, which IS smaller, but it also has an average elevation of 1706 feet. Following the same calculations as above, ""flat Texas"" has an area of `~615745 mi^2`, about 127% bigger than flat Idaho",
+
+m41vutu,https://www.reddit.com/r/theydidthemath/comments/1hni4j4/deleted_by_user/m41vutu/,2024-12-27 16:31:48 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1hni4j4/deleted_by_user/,,"I'll throw out Roppongi Kosaten, but that's just a guess",
+
+m4yb4pl,https://www.reddit.com/r/theydidthemath/comments/1hrhu8q/request/m4yb4pl/,2025-01-02 03:04:21 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1hrhu8q/request/,,"Under unrealistic assumptions (which are fine since this is a math sub), if the room is 8ft high, it's `900 ft^2 * 8 ft = 7200 ft^3 ~ 203.88 m^3`. Air has a density of `~1.293 kg/m^3` so the air mass is `203.88 m^3 * 1.293 kg/m^3 ~ 263.62 kg`. That seems heavy so I double checked: per the ideal gas law, 1 mole of gas takes up 22.4 L at STP, and `203.88 m^3 = 203880 L`, so that's approx 10000 mol and the molar mass of nitrogen is about 28g, so it works out.
+
+The specific heat of air is `1.005 J/(g*K)` where K is in Kelvin. Since 50F to 70F is 10C to 21C, that's an 11 degree change in Kelvins, so `1.005 J/(g*K)*11K ~ 11.06 J/g`.
+
+Thus it would require `11.06 J/g * 263.62kg ~ 2.916*10^6 J` of energy total, though only if the heater is 100% efficient (which it isn't since it also generates light) and we only heat the air not the walls, and there's no new cold air coming in or heat escaping, etc, etc, etc.
+
+Space heaters run at pretty high wattage, say 1500W, so, under ideal circumstances, you could heat the room in `2.916*10^6 J/1500W ~ 1944 seconds` or around 32 minutes.
+
+Note that, if you didn't want to look them up, you could get both the mass and specific heat of air using the Ideal Gas Law",
+
+m69cpda,https://www.reddit.com/r/theydidthemath/comments/1hxieai/request_what_would_the_actual_amount_be_it_seems/m69cpda/,2025-01-09 17:51:06 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1hxieai/request_what_would_the_actual_amount_be_it_seems/,,"Our base metabolic rate (calories we burn doing nothing) is usually at least 1200 kcal per day or 1.2 million true calories per day. Therefore, we burn about 140 true calories per second. So an extra 1.42 calories really wouldn't matter.
+
+Since it takes 5 kilocalories to climb a flight of stairs, it's unlikely pushing a button would burn 1.42 kcal-- the actual number would be much lower.",
+
+m69wmg4,https://www.reddit.com/r/theydidthemath/comments/1hxieai/request_what_would_the_actual_amount_be_it_seems/m69wmg4/,2025-01-09 19:26:47 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1hxieai/request_what_would_the_actual_amount_be_it_seems/,m69ov9n,"OK, I thought I made the difference clear: 1.42 calories yes no problem, 1.42 kcal: unlikely",
+
+m6afhdq,https://www.reddit.com/r/theydidthemath/comments/1hxmxqs/request_how_to_roll_d7_with_standard_set_of_dice/m6afhdq/,2025-01-09 20:58:32 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1hxmxqs/request_how_to_roll_d7_with_standard_set_of_dice/,,"For d7, I think this is the equivalent of finding multiples of 1/4, 1/6, 1/8, 1/10, 1/12, 1/20 and 1/100 that add up to 1/7, and I don't think this is possible because 7 is relatively prime to those other denominators. So, unless you're willing to roll more than once, I'd say not possible.
+
+Same for d11, d13, and d14 (because 14 has 7 as a prime factor). MAY be possible for d9.",
+
+m7ev92x,https://www.reddit.com/r/theydidthemath/comments/1i2dj8t/deleted_by_user/m7ev92x/,2025-01-16 06:42:59 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1i2dj8t/deleted_by_user/,,"Compressed video is about 10M/minute so `40TB/10M * minute = 40*10^6M/10M * minute = 40*10^5 * minute = 4*10^6 minute = 4*10^6 minutes * 1 day / 1440 minutes * 1 year / 365.2425 days ~ 7.6 years` of continuous watching. Assuming the average person spends 6h a day watching porn and starts watching at age 12, about 30.4 years or from age 12 to 42 (depending on when you start). A life well-lived I'd say.",
+
+m9g9xsk,https://www.reddit.com/r/theydidthemath/comments/1ib9j4x/request_i_have_a_weird_question_but_first_let_me/m9g9xsk/,2025-01-27 13:56:42 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ib9j4x/request_i_have_a_weird_question_but_first_let_me/,,Do you mean something actually on the Earth? We can see the Andromeda Galaxy at night already and perhaps some stuff even further away than that with good eyesight/seeing,
+
+maycz4v,https://www.reddit.com/r/theydidthemath/comments/1ihltwm/request_if_i_have_a_company_that_makes_168/maycz4v/,2025-02-04 17:25:14 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ihltwm/request_if_i_have_a_company_that_makes_168/,may6u1v,"I think OP is trying to make a point about businesses that have large revenue and thousands of workers. The point fails because businesses normally report profit, which is revenue left over AFTER paying employees (and other expenses).",
+
+mbufyjt,https://www.reddit.com/r/theydidthemath/comments/1ilge66/request_do_you_have_more_chance_in_lotto_by/mbufyjt/,2025-02-09 15:04:50 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ilge66/request_do_you_have_more_chance_in_lotto_by/,,I think you're just talking about the Gambler's Fallacy: https://en.wikipedia.org/wiki/Gambler's_fallacy,
+
+mdatgn1,https://www.reddit.com/r/theydidthemath/comments/1irrms0/request_if_the_pay_of_every_person_in_the_world/mdatgn1/,2025-02-17 19:32:58 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1irrms0/request_if_the_pay_of_every_person_in_the_world/,mdar4b6,I'm assuming we all continue doing exactly what we're doing now except that we are all paid equally for doing it.,
+
+mdapku5,https://www.reddit.com/r/theydidthemath/comments/1irrms0/request_if_the_pay_of_every_person_in_the_world/mdapku5/,2025-02-17 19:15:09 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1irrms0/request_if_the_pay_of_every_person_in_the_world/,,"Not sure about salary, but our net gain would be something like $0. Although money can be created, we mostly just move it around, so, if everyone equally gets money and then spends the money so others can get equal money, we all basically stay where we are.
+
+Thing like GDP and GNP measure the movement of money, not the total amount of money in the system. So if 200M of us gave each other $100 for goods and services, that's 20B for GDP, but no one's any better off",
+
+medf9qb,https://www.reddit.com/r/theydidthemath/comments/1iwf57s/request_are_you_really_15_times_more_likely_to/medf9qb/,2025-02-23 17:31:41 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1iwf57s/request_are_you_really_15_times_more_likely_to/,,"You can't really predict future (or even past) likelihood without making assumptions, but the numbers seem vaguely reasonable if you look at the number of miles flown/driven, the number of people flying/driving and the number of people dying in each case",
+
+mfwxfsj,https://www.reddit.com/r/theydidthemath/comments/1j33gby/request_how_accurate_is_this/mfwxfsj/,2025-03-04 05:21:55 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1j33gby/request_how_accurate_is_this/,,"I object to the question. The Sun and white cells are measured in volume, as is the Milky Way Galaxy. The United States is measured in area. While the Milky Way is smaller in one dimension than the other two, I don't think you can really compare it to the United States",
+
+mfs1kae,https://www.reddit.com/r/theydidthemath/comments/1j2iwl2/request_solution_to_sequence_7_15_35_x_120/mfs1kae/,2025-03-03 13:47:03 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1j2iwl2/request_solution_to_sequence_7_15_35_x_120/,,OEIS didn't find any simple sequence meeting this criteria: https://oeis.org/search?q=7%2C15%2C35&language=english&go=Search,
+
+mhjvxqz,https://www.reddit.com/r/theydidthemath/comments/1ja8frs/request_how_to_calculate_the_distance_between_two/mhjvxqz/,2025-03-13 12:09:07 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ja8frs/request_how_to_calculate_the_distance_between_two/,,"Vincenty's formula (https://en.wikipedia.org/wiki/Vincenty%27s_formulae) accounts for the Earth's ellipsoidity and might be helpful.
+
+However, the difference you're seeing in the change in latitude and the change in longitude has a different reason: a 1 degree change in latitude is constant everywhere in the globe (60 nautical miles), whereas a 1 degree change in longitude is 1 degree of latitude at the equator, but only cosine(latitude) degrees away from the equator.
+
+So, at 60 degrees north (where cosine is conveniently 1/2) it takes 2 degrees of longitude travel to match 1 degree of latitude travel. Mercator maps are conformal (angle preserving) so this ""2 degrees east, 1 degree north"" is going to look like a 45 degree line pointing northeast.",
+
+mi4xezl,https://www.reddit.com/r/theydidthemath/comments/1jcsxq3/request_how_many_possible_combinations_are_there/mi4xezl/,2025-03-16 19:20:22 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jcsxq3/request_how_many_possible_combinations_are_there/,mi4wrpp,"I now think it's something like 7 or 8 choose 4, but am scared to post because I'm only allowed to be wrong once a year",
+
+mi53j9r,https://www.reddit.com/r/theydidthemath/comments/1jctgzn/request_is_it_humanly_possible_to_boil_the_cola/mi53j9r/,2025-03-16 19:50:50 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jctgzn/request_is_it_humanly_possible_to_boil_the_cola/,,I'm guessing you're asking us to answer this question based on the Ideal Gas Law?,
+
+mi4wbc3,https://www.reddit.com/r/theydidthemath/comments/1jcsxq3/request_how_many_possible_combinations_are_there/mi4wbc3/,2025-03-16 19:14:53 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jcsxq3/request_how_many_possible_combinations_are_there/,,"At each square (except the ones leading to the last line), you can make one of two choices, and you make 7 choices total regardless of route, so that's `2^7` or 128",
+
+mi4x3e1,https://www.reddit.com/r/theydidthemath/comments/1jcsxq3/request_how_many_possible_combinations_are_there/mi4x3e1/,2025-03-16 19:18:46 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jcsxq3/request_how_many_possible_combinations_are_there/,mi4wrpp,Crap. Deleting my answer,
+
+mi4zb17,https://www.reddit.com/r/theydidthemath/comments/1jct4hm/request_saw_a_comment_saying_the_water_dried/mi4zb17/,2025-03-16 19:29:48 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jct4hm/request_saw_a_comment_saying_the_water_dried/,,"https://en.wikipedia.org/wiki/Virga isn't quite the same thing, but may interest you
+
+In Antarctica, people have said spit freezes before it hits the ground",
+
+mi51ed8,https://www.reddit.com/r/theydidthemath/comments/1jctm7p/request_what_are_the_odds_of_missing_a_110_hit_42/mi51ed8/,2025-03-16 19:40:09 UTC,,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jctm7p/request_what_are_the_odds_of_missing_a_110_hit_42/,,"Naive calculation: chance of missing once is `9/10` so chance of missing 42 times in a row is `(9/10)^42 ~ 1.2%`, so rare, but not impossible.
+
+However, assuming you do whatever you're doing regularly (and thus have more tries in other sessions) and assuming you would find 41 or 43 times in a row also odd, the ""real"" probability is higher",
+
+mjhzrth,https://www.reddit.com/r/theydidthemath/comments/1jiu9ag/request_moonrisemoonset_failure_on_globe_model/mjhzrth/,2025-03-24 16:16:27 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jiu9ag/request_moonrisemoonset_failure_on_globe_model/,,"I didn't actually read your post, but refraction at the horizon is 34 minutes of arc, and that's more accurate than saying ""the sun rises/sets about 2 minutes earlier"". Remember that both the Sun and Moon have an angular radius of approximately 16 minutes of arc, so sunset is when the geometric sun is 50 minutes of arc below the horizon. If your anamoly persists after correcting for this, let us know.
+
+EDIT: replaced diameter with radius for accuracy",
+
+mjifoh4,https://www.reddit.com/r/theydidthemath/comments/1jiu9ag/request_moonrisemoonset_failure_on_globe_model/mjifoh4/,2025-03-24 17:32:35 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jiu9ag/request_moonrisemoonset_failure_on_globe_model/,mjian49,You are correct. I've edited my comment,
+
+mpha0iq,https://www.reddit.com/r/theydidthemath/comments/1k9uxrz/request_how_fast_would_a_car_have_to_drive_to_go/mpha0iq/,2025-04-28 13:28:43 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1k9uxrz/request_how_fast_would_a_car_have_to_drive_to_go/,,"The great circle distance from LA to NY is 2364 miles, and the great circle distance from NY to Moscow is 4579 miles, so you'd have to travel at least 6943 miles. In reality, you'd have to travel further since roads don't follow great circles. Assuming you could drive 24/7 (eg, multiple drivers) there are 168 hours in a week, so you'd need to travel at an average of at least 41.33 mph",
+
+mlduv8r,https://www.reddit.com/r/theydidthemath/comments/1jrdtga/request_she_had_4_natural_multiples_pregnancies_2/mlduv8r/,2025-04-04 15:01:09 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1jrdtga/request_she_had_4_natural_multiples_pregnancies_2/,,"Quoting https://www.babycenter.com/pregnancy/your-baby/your-likelihood-of-having-twins-or-more_3575
+
+> Genetics: If you're a twin, or if there are twins in your family, you're slightly more likely to have a set yourself.
+
+> History of twins: Once you have a set of fraternal twins, you're twice as likely to have another set in future pregnancies.
+
+This doesn't answer your question, but makes it harder since we're no longer talking about independent events. You're welcome",
+
+mpp25l9,https://www.reddit.com/r/theydidthemath/comments/1katwzx/request_how_many_oreos_im_guessing_59_quadrillion/mpp25l9/,2025-04-29 17:41:29 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1katwzx/request_how_many_oreos_im_guessing_59_quadrillion/,,"https://www.wolframalpha.com/input?i=area+of+us+divided+by+area+of+Oreo+cookie says 2.282 quadrillion, but I don't know if Oreos are a consistent size and this answer assume you can crumble them up to fill the gaps",
+
+mtj8fis,https://www.reddit.com/r/theydidthemath/comments/1ks7m2o/request_will_this_couch_fit_through_my_doorway/mtj8fis/,2025-05-21 20:09:06 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ks7m2o/request_will_this_couch_fit_through_my_doorway/,,pivot... pivot... PIVOT...,
+
+mwonqq9,https://www.reddit.com/r/theydidthemath/comments/1l6grzc/whats_the_mathematical_middle_of_2000_2050_time/mwonqq9/,2025-06-08 17:03:55 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1l6grzc/whats_the_mathematical_middle_of_2000_2050_time/,,"We're about 25 years and 5 full months away from 2000 and about 24 years and 7 full months away from 2050, so, even allowing for leap years and stuff, we're definitely closer to 2050",
+
+mxw9raj,https://www.reddit.com/r/theydidthemath/comments/1lby80k/request_is_this_true/mxw9raj/,2025-06-15 12:00:16 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1lby80k/request_is_this_true/,mxw953e,Thanks. I edited my comment.,
+
+mxw88m5,https://www.reddit.com/r/theydidthemath/comments/1lby80k/request_is_this_true/mxw88m5/,2025-06-15 11:48:10 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1lby80k/request_is_this_true/,,"EDIT: As /u/gmalivuk notes, 1 coin is 2^0, so you really do need to start with 2 coins.
+
+In terms of pure math, yes, assuming they meant put ONE coin on square 1 and thus `2^64` coins of the 64th square. A US quarter has a height of about 1.75mm, so `2^64` of them would be:
+
+`1.75 mm * 2^64 * 1/1000000 km/mm * 1 light second / 300000km * 1 day / 86400 seconds * 1 year / 365.2425 days ~ 3.41 light years`",
+
+n078hu4,https://www.reddit.com/r/theydidthemath/comments/1lmfv4j/request_this_is_a_wrong_problem_right/n078hu4/,2025-06-28 06:30:52 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1lmfv4j/request_this_is_a_wrong_problem_right/,,"Cheat solution is to assume there are some dogs that are neither large nor small. Then you could have 0 large, 36 small, 13 neither and a few other solutions up to 6 large, 42 small, 1 neither",
+
+mz0hh1f,https://www.reddit.com/r/theydidthemath/comments/1lh0t6c/request_does_warren_buffets_fortune_grow_faster/mz0hh1f/,2025-06-21 17:01:21 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1lh0t6c/request_does_warren_buffets_fortune_grow_faster/,,"I think they mean ""faster than he can REASONABLY give it away"" and they're probably referring to the interest he receives on Treasury bills. Obviously, he could just most or all of it to a single person (early inheritance for his heirs for example), so it's not LITERALLY impossible",
+
+mzjqeu6,https://www.reddit.com/r/theydidthemath/comments/1ljgzl3/request_what_would_be_the_formula_perfectly/mzjqeu6/,2025-06-24 17:27:52 UTC,98.48.122.229,theydidthemath,0,https://www.reddit.com/r/theydidthemath/comments/1ljgzl3/request_what_would_be_the_formula_perfectly/,,"I think that's a triaxial ellipsoid, like the Earth's sea level, but a little less even",

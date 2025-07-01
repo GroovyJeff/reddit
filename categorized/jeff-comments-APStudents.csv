@@ -1,0 +1,32 @@
+
+m69vr4h,https://www.reddit.com/r/APStudents/comments/1hxjbta/i_think_my_ap_psych_teacher_is_skipping_the_lgbt/m69vr4h/,2025-01-09 19:22:36 UTC,,APStudents,0,https://www.reddit.com/r/APStudents/comments/1hxjbta/i_think_my_ap_psych_teacher_is_skipping_the_lgbt/,m69tfpa,my mistake: I edited my comment to be clearer,
+
+m69k71t,https://www.reddit.com/r/APStudents/comments/1hxjbta/i_think_my_ap_psych_teacher_is_skipping_the_lgbt/m69k71t/,2025-01-09 18:27:08 UTC,,APStudents,0,https://www.reddit.com/r/APStudents/comments/1hxjbta/i_think_my_ap_psych_teacher_is_skipping_the_lgbt/,,"I'd doublecheck with the principal, but, in some US states, it may actually be legally mandatory for public schools to NOT teach homosexuality. Disclaimer: I'm not a lawyer; also, I'm not very bright.
+
+EDIT: clarified I meant there are some statese that may disallow teaching homosexuality entirely",
+
+m69vrvm,https://www.reddit.com/r/APStudents/comments/1hxjbta/i_think_my_ap_psych_teacher_is_skipping_the_lgbt/m69vrvm/,2025-01-09 19:22:42 UTC,,APStudents,0,https://www.reddit.com/r/APStudents/comments/1hxjbta/i_think_my_ap_psych_teacher_is_skipping_the_lgbt/,m69uwb8,my mistake: I edited my comment to be clearer,
+
+m85q0s7,https://www.reddit.com/r/APStudents/comments/1i5qb6v/are_o_level_required_for_us_universities/m85q0s7/,2025-01-20 13:46:09 UTC,,APStudents,0,https://www.reddit.com/r/APStudents/comments/1i5qb6v/are_o_level_required_for_us_universities/,,"Not to be one of those ""google it"" guys, but the websites of most universities should have listed requirements for foreign transfer students",
+
+mqkqfis,https://www.reddit.com/r/APStudents/comments/1keq2p0/ap_macro_how_do_you_know_what_interest_rate/mqkqfis/,2025-05-04 18:18:09 UTC,98.48.122.229,APStudents,0,https://www.reddit.com/r/APStudents/comments/1keq2p0/ap_macro_how_do_you_know_what_interest_rate/,,"Banks only insure money to a certain amount, so the ""true"" risk free interest rate is the one established by the Treasury (usually based on competitive bidding). Quoting https://corporatefinanceinstitute.com/resources/valuation/risk-free-rate/
+
+> The risk-free rate of return is the interest rate an investor can expect to earn on an investment that carries zero risk. In practice, the risk-free rate is commonly considered to be equal to the interest paid on a 10-year highly rated government Treasury note, generally the safest investment an investor can make.",
+
+n0d8wav,https://www.reddit.com/r/APStudents/comments/1ln7bjo/i_think_i_made_a_cursed_new_way_to_measure_mass_ws/n0d8wav/,2025-06-29 06:23:45 UTC,98.48.122.229,APStudents,0,https://www.reddit.com/r/APStudents/comments/1ln7bjo/i_think_i_made_a_cursed_new_way_to_measure_mass_ws/,,"> a wattsecond is just joules
+
+As a note, many US power companies measure electrictiy usage in kilowatt hours (kwh) which is 3.6 million joules.
+
+> So the final unit is [...]
+
+Watts, joules, and Newtons are all derived SI units. Going ""backwards"" from your computation:
+
+  - newton is a force and thus mass times acceleration and thus `kg*m*s^-2` (using negative exponents here to avoid the ambiguity of things like `s/m/m` which you cancel as to `s` but could also be treated as `s/(m^2)`.
+
+  - joule is work or force (newton) applied over a distance and thus `kg*m^2*s^-2`
+
+  - watt is power or work applied over time and thus `kg*m^2*s^-3` (https://en.wikipedia.org/wiki/Watt confirms this)
+
+  - a watt per second would thus be `kg*m^2*s^-4`, although I can't immediately think of a physical meaning to this term.
+
+I therefore believe your calculations were incorrect.",

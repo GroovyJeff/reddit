@@ -1,0 +1,104 @@
+
+krndb8k,https://www.reddit.com/r/computerscience/comments/1ax6s5v/novel_recursive_data_compression_algorithm/krndb8k/,2024-02-22 19:15:50 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1ax6s5v/novel_recursive_data_compression_algorithm/,krncx2u,"> the Pigeonhole Principle is predicated on the idea that data, in its most fundamental form is found in binary units
+
+This isn't true. The pigeonhole principle is a mathematically provable statement, and doesn't rely on how data is stored.
+
+Basically, if you're going to compress one million different files, you're going to need one million different compressed files, because, if each original file is different, each compressed file must be different too",
+
+krlxw75,https://www.reddit.com/r/computerscience/comments/1ax6s5v/novel_recursive_data_compression_algorithm/krlxw75/,2024-02-22 14:14:00 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1ax6s5v/novel_recursive_data_compression_algorithm/,,"I have to admit I didn't read the whole paper, but do you have a reference implementation that demonstrates how well this method compresses data?",
+
+krm8lfh,https://www.reddit.com/r/computerscience/comments/1ax6s5v/novel_recursive_data_compression_algorithm/krm8lfh/,2024-02-22 15:21:00 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1ax6s5v/novel_recursive_data_compression_algorithm/,krm7b56,"> tests have been conducted on bounded random data streams
+
+Could you give us some results? I thought it was impossible to compress truly random data streams (pigeonhole principle), so I assume you're using random in a different way here?",
+
+ksb8etk,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/ksb8etk/,2024-02-27 01:44:20 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/,ksb7nex,"I'm missing something. I ran the Python script:
+
+```
+# Python3 program to find the Nth Fibonacci
+# number using Fast Doubling Method iteratively
+ 
+ 
+def fastfib(n):
+    """"""computes fib(n) iteratively using fast doubling method""""""
+    bin_of_n = bin(n)[2:]  # binary string of n
+    f = [0, 1]  # [F(i), F(i+1)] => i=0
+ 
+    for b in bin_of_n:
+        f2i1 = f[1]**2 + f[0]**2  # F(2i+1)
+        f2i = f[0]*(2*f[1]-f[0])  # F(2i)
+ 
+        if b == '0':
+            f[0], f[1] = f2i, f2i1  # [F(2i), F(2i+1)]
+        else:
+            f[0], f[1] = f2i1, f2i1+f2i  # [F(2i+1), F(2i+2)]
+ 
+    return f[0]
+ 
+ 
+n = 13
+fib = fastfib(n)
+print(f'F({n}) =', fib)
+```
+
+with n=200000 and it spit out an exact result (of over 40,000 digits) in a fraction of a second",
+
+ksb64a9,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/ksb64a9/,2024-02-27 01:29:59 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/,,"The nth Fibonacci number is essentially `phi^n` where phi is the golden ratio. There's a small correction term, but there's a closed formula for Fibonacci numbers, so I'm not seeing what your algorithm is doing that's remarkable?",
+
+ksb8lyy,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/ksb8lyy/,2024-02-27 01:45:33 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/,ksb8cg9,"What do you mean by ""safe place to""? Something like github or even a pastebin should work.",
+
+ksb6nus,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/ksb6nus/,2024-02-27 01:33:24 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/,ksb6cb2,https://www.geeksforgeeks.org/fast-doubling-method-to-find-the-nth-fibonacci-number/ might answer your question?,
+
+ksbbkev,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/ksbbkev/,2024-02-27 02:04:05 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/,ksbarnx,"OK, I think I'm missing something fundamental. As a note, the millionth Fibonacci number has over 200,000 digits, so, if your program is stopping there, it hasn't even gotten close. Did you mean it's supposed to stop at when the Fibonacci number itself is greater than one million (the 31st Fibonacci number is bigger than one million)",
+
+ksb9r69,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/ksb9r69/,2024-02-27 01:52:39 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/,ksb955w,"Our machines might run at different speeds.
+
+```
+time python3 fib.py > /dev/null
+0.097u 0.008s 0:00.10 90.0%     0+0k 0+0io 0pf+0w
+```
+
+That's 1/10th of a second for n=200000
+
+Keep in mind your youtube video shows floating point numbers which are truncated, so the results aren't even exact.
+
+I guess my question would be: do you think you've found a way of implementing the fast doubling algorithm that's faster than the already known iterative methods?",
+
+ksbadba,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/ksbadba/,2024-02-27 01:56:30 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1b0y3l2/deleted_by_user/,ksb9x8b,"OK, I'm confused. Why is doing it in exactly 1 second better than doing it as fast as possible? And would doing it in exactly one second make it faster than a method that does it in less than one second?
+
+Are you saying that you think it'll take one second no matter how large the number is so your running time is O(1) or something?",
+
+l2zqxfs,https://www.reddit.com/r/computerscience/comments/1cmebj7/why_dont_i_copy_source_code_if_i_buy_a_software/l2zqxfs/,2024-05-07 15:30:34 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1cmebj7/why_dont_i_copy_source_code_if_i_buy_a_software/,,"You don't really *buy* software applications, you *license* them. In other words, you buy the right to use software in a specific way for a specific amount of time.
+
+My personal belief is that we need to greatly clarify this for end users",
+
+l302hc0,https://www.reddit.com/r/computerscience/comments/1cmebj7/why_dont_i_copy_source_code_if_i_buy_a_software/l302hc0/,2024-05-07 16:38:16 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1cmebj7/why_dont_i_copy_source_code_if_i_buy_a_software/,l2zx3z2,"I believe these contracts of adhesion need to be made clearer and, if elected, would work to pass a law that requires the ""average person"" understand a contract before it's valid. I'd also like to replace copyright with contractual use law, and, after requiring companies to actually explain contracts, have them vigorously enforce contracts to show they're not kidding",
+
+l6z6jap,https://www.reddit.com/r/computerscience/comments/1d7gnf3/deleted_by_user/l6z6jap/,2024-06-03 22:00:16 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1d7gnf3/deleted_by_user/,,"Lots of people do data analysis using Python, R, Julia, and other tools without using spreadsheets or SQL.",
+
+l73icty,https://www.reddit.com/r/computerscience/comments/1d838od/digital_data_limit/l73icty/,2024-06-04 17:57:47 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1d838od/digital_data_limit/,,Here's a random link: https://en.wikipedia.org/wiki/Entropy_in_thermodynamics_and_information_theory#Szilard's_engine,
+
+lao328c,https://www.reddit.com/r/computerscience/comments/1dqh4oj/deleted_by_user/lao328c/,2024-06-28 12:11:54 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1dqh4oj/deleted_by_user/,,Your link has a referral code,
+
+lbuiaxq,https://www.reddit.com/r/computerscience/comments/1dwfwnc/pnp/lbuiaxq/,2024-07-06 03:53:48 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1dwfwnc/pnp/,,What is this?,
+
+lg4sacu,https://www.reddit.com/r/computerscience/comments/1ei8nu1/anybody_knows_what_are_these/lg4sacu/,2024-08-02 12:50:43 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1ei8nu1/anybody_knows_what_are_these/,,"I'm guessing the monitor is trying to popup an overlay, potentially telling you your battery is low or something, but, for some reason, the text isn't showing up",
+
+lhfm527,https://www.reddit.com/r/computerscience/comments/1eoizf3/truly_random_numbers_is_an_unsolved_problem_in_cs/lhfm527/,2024-08-10 13:27:38 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1eoizf3/truly_random_numbers_is_an_unsolved_problem_in_cs/,lhekfiy,"> Random means it's difficult for a human to predict.
+
+That's one definition, but, as you point out, it's easy to meet that definition.
+
+The statistical definition for, say, a random fair coin means that heads and tails are equally likely. I don't see any way you can prove that, and the concept may not even make sense.
+
+If you accept the alternate timelines theory and could somehow show what happens in every other possible theoretical timeline, you may be able to show randomness.",
+
+lhfliri,https://www.reddit.com/r/computerscience/comments/1eoizf3/truly_random_numbers_is_an_unsolved_problem_in_cs/lhfliri/,2024-08-10 13:23:17 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1eoizf3/truly_random_numbers_is_an_unsolved_problem_in_cs/,,"The real world problem: there's no finite process by which you can determine if a stream of numbers is random, even if you limit yourself to 2 possible outputs (1 possible output works trivially). There might not even be an countable process to do this.
+
+There are tests that can show a stream of numbers is ""probably"" not random, but even if a stream passes all those tests, that doesn't mean it's necessarily random, since those tests only look for a few specific things",
+
+m4ysbwv,https://www.reddit.com/r/computerscience/comments/1hrm5xj/if_you_had_to_explain_to_someone_computer_parts/m4ysbwv/,2025-01-02 05:11:45 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1hrm5xj/if_you_had_to_explain_to_someone_computer_parts/,,"Very roughly speaking, brain is the CPU and memory and storage, heart is the power supply, eyes are the monitor (kind of), hands are the mouse, skin is the cooling fan, and the CD-ROM where you can insert media is... I don't want to do this any more.",
+
+m6ldufw,https://www.reddit.com/r/computerscience/comments/1hyz750/would_it_be_possible_to_make_a_completely/m6ldufw/,2025-01-11 16:15:44 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1hyz750/would_it_be_possible_to_make_a_completely/,,"Isn't that what lemmy.world is?
+
+But the answer is yes, that's already how the bittorrent protocol works.",
+
+medeco2,https://www.reddit.com/r/computerscience/comments/1iwf8qi/what_does_it_actually_mean_for_us_when_a_dfa/medeco2/,2025-02-23 17:27:16 UTC,,computerscience,0,https://www.reddit.com/r/computerscience/comments/1iwf8qi/what_does_it_actually_mean_for_us_when_a_dfa/,,The output here would be a binary yes or no for accept or do not accept. Think of it as a regular expression,

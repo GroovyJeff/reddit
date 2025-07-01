@@ -1,0 +1,2 @@
+
+m6g004h,https://www.reddit.com/r/redhat/comments/1hyb67a/quick_tip_using_md5sum_and_sha256sum/m6g004h/,2025-01-10 18:31:46 UTC,,redhat,0,https://www.reddit.com/r/redhat/comments/1hyb67a/quick_tip_using_md5sum_and_sha256sum/,,"I think almost everyone knows about one way hashes. For images, using an imagehash might be better because it can detect images that look the same but aren't byte-by-byte identical",

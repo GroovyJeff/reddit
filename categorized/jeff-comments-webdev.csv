@@ -1,0 +1,169 @@
+
+kvsyejt,https://www.reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/kvsyejt/,2024-03-20 22:30:23 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1bjoec6/digital_ocean_appplatform_intermittently_links/,,"Not sure it helps or even that it will work but if you look at the certificate when visiting www.couchdrop.io and then when looking at foo.couchdrop.io, you'll notice they are different and even overlap for www.couchdrop.io. One is from Google Trust Services, the other is from Sectigo RSA Domain Validation Secure Server CA",
+
+ku3pytl,https://www.reddit.com/r/webdev/comments/1banqmc/why_isnt_this_game_working_on_my_website/ku3pytl/,2024-03-09 18:09:08 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1banqmc/why_isnt_this_game_working_on_my_website/,,`Blocked loading mixed active content “http://happy-winner.de/neonstaxx/common/multimedia/fonts/PFDinDisplayPro-Reg.woff”` appears to be the key error. You're loading data from multiple sites and the browser may be looking for CORS headers or similar,
+
+ku3r7i2,https://www.reddit.com/r/webdev/comments/1banqmc/why_isnt_this_game_working_on_my_website/ku3r7i2/,2024-03-09 18:16:08 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1banqmc/why_isnt_this_game_working_on_my_website/,ku3qzc4,"I'm saying even the attempt to load that file from a different website (not happy-winner.de itself, which is the same site) might be causing issues. Can you tweak the code to not use that font?",
+
+kupne9e,https://www.reddit.com/r/webdev/comments/1bdwxg4/zeddev_if_youre_coming_from_vscode/kupne9e/,2024-03-13 18:12:11 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1bdwxg4/zeddev_if_youre_coming_from_vscode/,,Are you affiliated with zed.dev?,
+
+kvga0vn,https://www.reddit.com/r/webdev/comments/1bhvqgm/does_mongodb_suck_or_do_i/kvga0vn/,2024-03-18 17:10:37 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1bhvqgm/does_mongodb_suck_or_do_i/,,"https://www.mongodb.com/docs/manual/administration/production-notes/ has more information on MongoDB 5 requiring a special kind of processor (which seems insane for open source software).
+
+Have you tried installing from the command line using `yum install mongodb` or similar? It might still fail, but you might get more useful error messages.
+
+As a stolid opponent of NoSQL, I can't wish you good luck :)",
+
+kzo7su8,https://www.reddit.com/r/webdev/comments/1c4k2vz/checkout_my_yet_another_weather_app/kzo7su8/,2024-04-15 12:57:31 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1c4k2vz/checkout_my_yet_another_weather_app/,,Not bad! I'd suggest adding local time and also Fahrenheit temperature,
+
+l02yk5f,https://www.reddit.com/r/webdev/comments/1c6qkap/i_didnt_get_scamed/l02yk5f/,2024-04-18 01:42:46 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1c6qkap/i_didnt_get_scamed/,l02tvmo,"Without otherwise vouching for them, https://www.bbb.org/all/faq notes the BBB is a non-profit organization. However, as other notes, they have no direct affiliation with the government",
+
+l244fup,https://www.reddit.com/r/webdev/comments/1chqfdu/how_to_convert_a_docx_file_to_a_pdf_file_using/l244fup/,2024-05-01 16:38:08 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1chqfdu/how_to_convert_a_docx_file_to_a_pdf_file_using/,,"libreoffice doesn't work? If not, Google Docs will do it (probably)",
+
+l2trgtd,https://www.reddit.com/r/webdev/comments/1cliiqg/deleted_by_user/l2trgtd/,2024-05-06 13:21:30 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1cliiqg/deleted_by_user/,,Also .rss (and .xml with the same result) though that one may be documented.,
+
+l3poj5q,https://www.reddit.com/r/webdev/comments/1cq8b90/effect_openai_stack_overflow_questions/l3poj5q/,2024-05-12 14:18:29 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1cq8b90/effect_openai_stack_overflow_questions/,l3pocmj,"No, I mean Python is bright red in the original, but much fainter in your graph. The change in color for JavaScript is also noticeable. You should right click and save the image, not use a screenshot",
+
+l3pmn4g,https://www.reddit.com/r/webdev/comments/1cq8b90/effect_openai_stack_overflow_questions/l3pmn4g/,2024-05-12 14:04:58 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1cq8b90/effect_openai_stack_overflow_questions/,,You appear to have changed the colors,
+
+l3ktx37,https://www.reddit.com/r/webdev/comments/1cphsln/showoff_saturday_i_built_a_youtube_video_to_pdf/l3ktx37/,2024-05-11 14:26:05 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1cphsln/showoff_saturday_i_built_a_youtube_video_to_pdf/,,Where's the source code?,
+
+l40g2oq,https://www.reddit.com/r/webdev/comments/1cruekv/rate_my_portfolio/l40g2oq/,2024-05-14 15:10:22 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1cruekv/rate_my_portfolio/,,"I can't scroll on any of the pages, but that might just be me since I'm using an older browser. Is anyone else having this issue?",
+
+l3w0q8m,https://www.reddit.com/r/webdev/comments/1cr63nc/sharing_my_ultimate_interview_preparation_guide/l3w0q8m/,2024-05-13 18:46:32 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1cr63nc/sharing_my_ultimate_interview_preparation_guide/,,All the youtube links on this spreadsheet appear to be to your own youtube channel/videos,
+
+l50wpw8,https://www.reddit.com/r/webdev/comments/1cx8zq4/struggling_to_make_developer_team_to_deliver_tasks/l50wpw8/,2024-05-21 14:27:35 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1cx8zq4/struggling_to_make_developer_team_to_deliver_tasks/,,"> We all are volunteers and the revenue will be split between everyone
+
+I'm guessing the other volunteers don't see that much revenue in this project, so they're not super excited to put in the work. Maybe talk to them about this. As https://new.reddit.com/user/kjwey/ notes, you may be better off paying developers and keeping the profits for yourself",
+
+l519toe,https://www.reddit.com/r/webdev/comments/1cx8zq4/struggling_to_make_developer_team_to_deliver_tasks/l519toe/,2024-05-21 15:45:38 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1cx8zq4/struggling_to_make_developer_team_to_deliver_tasks/,l514stt,"You could take out a loan (which is different from an investment) or something, but most small businesses fail, so the lender is probably going to want collateral and will still charge a high interest rate.",
+
+l9annku,https://www.reddit.com/r/webdev/comments/1djgobe/i_havent_gotten_a_job_interview_in_canada_after/l9annku/,2024-06-19 11:54:03 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1djgobe/i_havent_gotten_a_job_interview_in_canada_after/,,"I've been out of the job market for some time, but the ""secret"" to getting a job when I was growing up was to tell people you're looking for a job and roughly what kind of job you're looking for. People did mail out 100s of resume's but that took a lot longer. It's much better to send a resume' to someone who has some idea who you are.
+
+Today, it's called ""networking"" and you have ""LinkedIn"", but I think the same idea applies. Mailing out resume's isn't the best way to get a job",
+
+l96df8i,https://www.reddit.com/r/webdev/comments/1diulk5/aws_unable_to_use_every_service/l96df8i/,2024-06-18 16:38:51 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1diulk5/aws_unable_to_use_every_service/,,"Try logging out and back in, deleting cookies, etc
+
+Try turning the computer off and back on
+
+Try going outside and coming back in",
+
+l964tyg,https://www.reddit.com/r/webdev/comments/1ditph0/buying_domain_for_a_personal_project_and/l964tyg/,2024-06-18 15:51:11 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ditph0/buying_domain_for_a_personal_project_and/,l964mfe,"Yes, they'll probably warn you. If you take down your site, they'll probably stop bugging you. The only exception is if you've already made a lot of money before they warn you: they might want some of that money",
+
+l963rc2,https://www.reddit.com/r/webdev/comments/1ditph0/buying_domain_for_a_personal_project_and/l963rc2/,2024-06-18 15:45:13 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ditph0/buying_domain_for_a_personal_project_and/,,"> if i have almost made the similar design as the original website but haven't copied a single piece of code from their code ,could they sue me ?
+
+Maybe: https://en.wikipedia.org/wiki/Look_and_feel
+
+To be more accurate, yes, they could sue you (you can sue almost anyone for almost anything), but the question is whether they'd win. If they have good lawyers, they might be make it financially difficult to defend yourself.
+
+Re getting a domain, they're cheap, so I'd do it anyway.",
+
+la1g2h0,https://www.reddit.com/r/webdev/comments/1dmry04/open_source/la1g2h0/,2024-06-24 12:27:15 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1dmry04/open_source/,,"I'm in a bad mood, so I'll answer honestly: you're going to end up writing your own code and projects and pretending you're contributing to open source, but it'll turn out someone else has already done it 10 times better 10 years ago.",
+
+la1aj51,https://www.reddit.com/r/webdev/comments/1dn4gb7/does_github_creation_date_matter/la1aj51/,2024-06-24 11:40:45 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1dn4gb7/does_github_creation_date_matter/,,"You can backdate github code, though it might look suspicious if your account is younger than your code (unless you forked it or something)",
+
+lb53c6c,https://www.reddit.com/r/webdev/comments/1dsvls5/will_i_be_sued/lb53c6c/,2024-07-01 15:42:01 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1dsvls5/will_i_be_sued/,,"I am not a lawyer. Someone can sue you pretty much any time for anything, but, in this case, they probably won't win. Cases like this are called ""look and feel"" lawsuits and Apple pretty much lost a big one in 1994: https://en.wikipedia.org/wiki/Apple_Computer%2C_Inc._v._Microsoft_Corp.",
+
+lfc4ex2,https://www.reddit.com/r/webdev/comments/1ee7lvk/i_have_been_making_a_map_app_and_would_love_to/lfc4ex2/,2024-07-28 13:54:12 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ee7lvk/i_have_been_making_a_map_app_and_would_love_to/,,"You could do boring stuff like elevation, population, climate classification, landuse/cover, but here's some unusualish data:
+
+  - Solar energy availability (https://globalsolaratlas.info/)
+  - Ethnicity data (GREG) (https://icr.ethz.ch/data/greg/)
+  - Animal habitat data (IUCN) (https://www.iucnredlist.org/)
+  - Mineral deposits (https://www.usgs.gov/centers/gggsc/science/usmin-mineral-deposit-database)",
+
+lfj1e0c,https://www.reddit.com/r/webdev/comments/1ef6lzq/website_text_content_into_txt/lfj1e0c/,2024-07-29 18:42:08 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ef6lzq/website_text_content_into_txt/,,"I mean, tools like `wget -m` will mirror a simple site, and should get you started.
+
+Of course, if you need logins and cookies and sessions and stuff, that's more complicated.",
+
+lfzqjcm,https://www.reddit.com/r/webdev/comments/1ehj13q/why_would_someone_make_this_website/lfzqjcm/,2024-08-01 15:51:39 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ehj13q/why_would_someone_make_this_website/,,It appears to be someone's blog. Maybe they're from Shetland (where they make the tiny horses?) and likes pigeons?,
+
+lgb4h76,https://www.reddit.com/r/webdev/comments/1ej4q90/i_need_to_anonymize_some_data_anyone_have_a_big/lgb4h76/,2024-08-03 15:07:47 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ej4q90/i_need_to_anonymize_some_data_anyone_have_a_big/,,census.gov to dl real names which can then be randomized,
+
+lgfvlzx,https://www.reddit.com/r/webdev/comments/1ejseto/how_to_deploy_a_php_website_for_free/lgfvlzx/,2024-08-04 12:04:26 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ejseto/how_to_deploy_a_php_website_for_free/,lgfrgon,I'm downvoting this. Exposing your home network to the outside world is dangerous (even with tunnels and DMZ unless you REALLY know what you're doing) and against most ISP's terms of service.,
+
+lgbfwvs,https://www.reddit.com/r/webdev/comments/1ej6h9m/how_do_i_get_people_to_actually_contribute_to/lgbfwvs/,2024-08-03 16:12:47 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ej6h9m/how_do_i_get_people_to_actually_contribute_to/,lgbfsgg,That's not bad. You might casually ask them if they'd be ok with paying a small fee to continue using the app,
+
+lgg15x5,https://www.reddit.com/r/webdev/comments/1ejseto/how_to_deploy_a_php_website_for_free/lgg15x5/,2024-08-04 12:49:43 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ejseto/how_to_deploy_a_php_website_for_free/,lgg0a7x,"I continue to disagree. Day 0 webserver exploits do exist and, unless your isolation is really good, someone on your webserver might be able to get into your internal network. Much easier to get a cheap VPS",
+
+lgbewdv,https://www.reddit.com/r/webdev/comments/1ej6h9m/how_do_i_get_people_to_actually_contribute_to/lgbewdv/,2024-08-03 16:06:54 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ej6h9m/how_do_i_get_people_to_actually_contribute_to/,,"This kind of seems like advertising, but my general advice is that it's really hard to get an app to ""take off"" and become a moneymaker, EVEN IF it's free. How many downloads do you have so far? Do you have a solid userbase?",
+
+lgbfa7o,https://www.reddit.com/r/webdev/comments/1ej6h9m/how_do_i_get_people_to_actually_contribute_to/lgbfa7o/,2024-08-03 16:09:08 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ej6h9m/how_do_i_get_people_to_actually_contribute_to/,lgbf6j9,"OK, but how many in terms of an actual number. Are we talking 50 or 500,000?",
+
+lgfyi6k,https://www.reddit.com/r/webdev/comments/1ejseto/how_to_deploy_a_php_website_for_free/lgfyi6k/,2024-08-04 12:28:47 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ejseto/how_to_deploy_a_php_website_for_free/,lgfyc8g,"> people have been doing it since before the internet existed
+
+Well, yeah, and it wasn't dangerous then. LAN servers are fine, I meant servers exposed to the outside Internet.",
+
+lgfrwri,https://www.reddit.com/r/webdev/comments/1ejr1mn/deleted_by_user/lgfrwri/,2024-08-04 11:30:52 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ejr1mn/deleted_by_user/,,Do you mean ones that make money or little tiny free just-for-fun projects?,
+
+lgbg9fd,https://www.reddit.com/r/webdev/comments/1ej6h9m/how_do_i_get_people_to_actually_contribute_to/lgbg9fd/,2024-08-03 16:14:48 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ej6h9m/how_do_i_get_people_to_actually_contribute_to/,lgbg3wv,"I'm not saying actually do it, I'm saying ask them. Unfortunately, people who use something for free may stop using it when it costs money. Try to figure out how much of an audience you have for a paid product",
+
+lh38gxn,https://www.reddit.com/r/webdev/comments/1en25xc/deleted_by_user/lh38gxn/,2024-08-08 11:13:49 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1en25xc/deleted_by_user/,,"Are you the marker image you're using is being referenced correctly? For example, is it https://www.openstreetmap.org/assets/leaflet/dist/images/marker-icon-3d253116ec4ba0e1f22a01cdf1ff7f120fa4d89a6cd0933d68f12951d19809b4.png or a local copy of this URL?",
+
+lh3959p,https://www.reddit.com/r/webdev/comments/1en25xc/deleted_by_user/lh3959p/,2024-08-08 11:19:26 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1en25xc/deleted_by_user/,lh392fd,"Ah, OK, then I can't help",
+
+lh3w7jo,https://www.reddit.com/r/webdev/comments/1en695m/weve_seen_some_statistics_on_linkedin_saying_that/lh3w7jo/,2024-08-08 13:54:49 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1en695m/weve_seen_some_statistics_on_linkedin_saying_that/,,"what does ""to the full extent they should"" mean? Technology companies are often rushed to produce an API, and testing requires resources and time. An API that works well today is better than an API that works perfectly three years from now",
+
+lhrfxzg,https://www.reddit.com/r/webdev/comments/1eqgufb/how_to_embed_maps_on_website/lhrfxzg/,2024-08-12 15:53:37 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1eqgufb/how_to_embed_maps_on_website/,,Are you familiar with openstreetmap.org and leafletjs.com,
+
+livq8zp,https://www.reddit.com/r/webdev/comments/1ew3bt1/using_forms_in_html_pages_whats_the_bestcheapest/livq8zp/,2024-08-19 14:46:09 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ew3bt1/using_forms_in_html_pages_whats_the_bestcheapest/,,"You can use ""mailto"" forms (https://www.w3docs.com/snippets/html/how-to-create-mailto-forms.html) but they make it clear to the end user that they're sending an email, which they might not want to do, especially since that means sending you their email address.
+
+If you want a ""blind"" email when someone fills out a form, you'll need a third party service, at least an SMTP server or something",
+
+ljpk6r9,https://www.reddit.com/r/webdev/comments/1f05lmj/deleted_by_user/ljpk6r9/,2024-08-24 14:35:21 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1f05lmj/deleted_by_user/,,"""visiting a website"" is a terrible analogy. It's more like taking a flyer from someone handing out flyers or from a free information desk. It's a request/exchange of data, not at all the same thing as a physical visit",
+
+ljentsy,https://www.reddit.com/r/webdev/comments/1eymgli/deleted_by_user/ljentsy/,2024-08-22 17:07:54 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1eymgli/deleted_by_user/,,What kind of project?,
+
+liw5zmr,https://www.reddit.com/r/webdev/comments/1ew3bt1/using_forms_in_html_pages_whats_the_bestcheapest/liw5zmr/,2024-08-19 16:10:43 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ew3bt1/using_forms_in_html_pages_whats_the_bestcheapest/,livx6e3,True. Mailto links have sort of gone the way of the dinosaur,
+
+ljp237g,https://www.reddit.com/r/webdev/comments/1ezvvhg/how_to_get_a_sweden_se_domain/ljp237g/,2024-08-24 12:35:44 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1ezvvhg/how_to_get_a_sweden_se_domain/,,"There are sites that will let you fake up IDs, and lying to Scandinavians isn't immoral (it might be illegal or something, but what are they going to do: send snowmen after you?)",
+
+ljp6xb8,https://www.reddit.com/r/webdev/comments/1f045zy/i_built_a_website_you_can_only_visit_once/ljp6xb8/,2024-08-24 13:10:44 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1f045zy/i_built_a_website_you_can_only_visit_once/,ljp6d22,"The site actually does set cookies, but doesn't use them to detect duplicate visits",
+
+llctqgx,https://www.reddit.com/r/webdev/comments/1f8929w/why_do_people_like_to_publish_articles_in_medium/llctqgx/,2024-09-03 19:45:47 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1f8929w/why_do_people_like_to_publish_articles_in_medium/,,I agree with you and feel forums such as this one (and others) should automatically remove posts that are nothing more than links to medium articles and ultimately ban people who post too many of them.,
+
+lou7s04,https://www.reddit.com/r/webdev/comments/1fp14ah/how_do_web_devs_like_to_partner_up/lou7s04/,2024-09-25 11:33:28 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1fp14ah/how_do_web_devs_like_to_partner_up/,,"Just FYI, plugin traffic trackers have a fairly negative reputation. Conversely, a potential selling point of yours would be a traffic tracker that evades plugin trackers",
+
+lovncu3,https://www.reddit.com/r/webdev/comments/1fp14ah/how_do_web_devs_like_to_partner_up/lovncu3/,2024-09-25 16:37:10 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1fp14ah/how_do_web_devs_like_to_partner_up/,lovmpuj,"Yes, generally because people don't like being tracked and most browsers have settings to block trackers. I think that, at least at first, people want to get information from a website pretty much anonymously",
+
+lou68s6,https://www.reddit.com/r/webdev/comments/1fp1eaa/have_you_ever_had_a_startup_idea_that_could_grow/lou68s6/,2024-09-25 11:20:56 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1fp1eaa/have_you_ever_had_a_startup_idea_that_could_grow/,,">  I noticed a lack, in a very specific niche, that many people have, and I have a relatively simple solution implemented by a web app. 
+
+I got dinged for say ""it's highly unlikely your idea is original"" last time, so I'll say: do enough research to make sure someone hasn't done this already, and, in particular hasn't filed a patent for this or similar technology
+
+EDIT: also, despite what I said about patents, if you are successful, people with deeper pockets will try to copy what you're doing (in general, you can patent designs, but not ideas)",
+
+lou60nb,https://www.reddit.com/r/webdev/comments/1fp1jub/website_monitoring/lou60nb/,2024-09-25 11:19:04 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1fp1jub/website_monitoring/,,"nagios.org is one option, there are many others",
+
+lou6orh,https://www.reddit.com/r/webdev/comments/1fp1c37/gathering_experience/lou6orh/,2024-09-25 11:24:35 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1fp1c37/gathering_experience/,,"Could you tell us some of your interests (outside of web development)? I'm currently doing some GIS stuff, but don't know if that's what you seek",
+
+lszmyaq,https://www.reddit.com/r/webdev/comments/1g8ktor/download_a_website_for_local_archive/lszmyaq/,2024-10-21 11:28:28 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1g8ktor/download_a_website_for_local_archive/,,"This doesn't actually solve your problem but may help:
+
+https://duinmeiershof1.nl/robots.txt reads:
+
+```
+User-agent: *
+Disallow: /images
+Sitemap: https://duinmeiershof1.nl/sitemap
+```
+
+and wget scrupulously obeys robots.txt
+
+To be unscrupulous, create an empty robots.txt before running wget and do `sudo chattr +i` or similar so wget won't overwrite it.
+
+However, this doesn't seem to be enough, so they may be doing some CSS/JS magic to pull the images.",
+
+lstpukb,https://www.reddit.com/r/webdev/comments/1g7w55z/is_there_any_way_to_extract_a_database_of_all_the/lstpukb/,2024-10-20 11:09:50 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1g7w55z/is_there_any_way_to_extract_a_database_of_all_the/,,"While tumblr obviously has this information, I don't think they share it publicly, though you could ask them. You could also look through commoncrawl.org's list of domains or try searching for tumblr.com subdomains, but neither of these will be complete.",
+
+m5ywox1,https://www.reddit.com/r/webdev/comments/1hw6ntt/deleted_by_user/m5ywox1/,2025-01-08 00:39:29 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1hw6ntt/deleted_by_user/,,"> I feel like we need a new web, one where social media, ads, ai, and a lack of fact checking does not exist. We need something where we can have trusted data being presented to us, one that will not rot our minds.
+
+I agree the web should be 100% porn, and no political porn allowed either. Everyone fucks everyone.",
+
+m8j6sjo,https://www.reddit.com/r/webdev/comments/1i7aykc/how_much_bandwidth_needed_for_10000_users_for/m8j6sjo/,2025-01-22 13:32:55 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1i7aykc/how_much_bandwidth_needed_for_10000_users_for/,,"10 megabytes per minute is low (VCD) quality, so let's take as our minimum. We also assume 10 bits = 1 byte to account for overhead (it's really 8 bits = 1 byte). Thus:
+
+`10 MB/minute * 10000 users * 1 minute/60 seconds * 10 bits/byte ~ 16667 megabits per second ~ 17 gigabits per second (17 Gbps)`",
+
+mfahjup,https://www.reddit.com/r/webdev/comments/1j0dnd9/deleted_by_user/mfahjup/,2025-02-28 18:12:38 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1j0dnd9/deleted_by_user/,,"Do you mean it's time for you to give back to the community and you'd like our (retired people's) help in doing so, or are you saying we retired people need to give back to the community, because, if so, we've given more than enough and are a little sick and tired of you newbies asking for more",
+
+mi4s43e,https://www.reddit.com/r/webdev/comments/1jcsf86/anyone_want_to_help_create_a_boycott_maga_site/mi4s43e/,2025-03-16 18:54:00 UTC,,webdev,0,https://www.reddit.com/r/webdev/comments/1jcsf86/anyone_want_to_help_create_a_boycott_maga_site/,,"Huh, pro-Trump supporters could use this to direct money TO companies that support MAGA. Go for it!",
+
+mptt0jq,https://www.reddit.com/r/webdev/comments/1kbewoq/just_got_a_letter_from_the_ftc/mptt0jq/,2025-04-30 12:17:56 UTC,98.48.122.229,webdev,0,https://www.reddit.com/r/webdev/comments/1kbewoq/just_got_a_letter_from_the_ftc/,,Source: https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring,
+
+mujf870,https://www.reddit.com/r/webdev/comments/1kwrd4l/is_it_beneficial_to_say_you_have_a_disability/mujf870/,2025-05-27 16:21:25 UTC,98.48.122.229,webdev,0,https://www.reddit.com/r/webdev/comments/1kwrd4l/is_it_beneficial_to_say_you_have_a_disability/,,"Based on the American version of the Office, companies can get ""kickbacks"" for hiring former prisoners. However, Canada doesn't have a version of the office, and I'm not sure it has prisons or even actually exists",

@@ -1,0 +1,50 @@
+
+l4vdq6j,https://www.reddit.com/r/Astronomy/comments/1cwf3fy/running_mesa_on_windows/l4vdq6j/,2024-05-20 13:19:36 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1cwf3fy/running_mesa_on_windows/,,Googling shows: https://docs.mesastar.org/en/release-r24.03.1/windows-install.html#installing-mesa-on-windows -- does that not work?,
+
+l72172t,https://www.reddit.com/r/Astronomy/comments/1d7vz3s/m31/l72172t/,2024-06-04 12:44:06 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1d7vz3s/m31/,,M31? The Andromeda Galaxy? The one easily visible to the naked eye?,
+
+l728dnz,https://www.reddit.com/r/Astronomy/comments/1d7wyo8/help_me_remember_a_term_please/l728dnz/,2024-06-04 13:33:45 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1d7wyo8/help_me_remember_a_term_please/,,I assume you're not referring to the Concorde that flew with the eclipse for over an hour: https://www.space.com/how-concorde-broke-record-for-longest-total-solar-eclipse-in-history,
+
+l87c3s4,https://www.reddit.com/r/Astronomy/comments/1ddoiu8/how_big_should_i_celestial_body_be_to_form_a/l87c3s4/,2024-06-12 01:02:52 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1ddoiu8/how_big_should_i_celestial_body_be_to_form_a/,,"Google ""potato radius""",
+
+l8f2gr4,https://www.reddit.com/r/Astronomy/comments/1deeyn3/onceinalifetime_explosion_will_bring_a_new_star/l8f2gr4/,2024-06-13 12:48:52 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1deeyn3/onceinalifetime_explosion_will_bring_a_new_star/,,"Given the number of existing variable stars, this isn't super exciting",
+
+la745qj,https://www.reddit.com/r/Astronomy/comments/1do4oh1/deleted_by_user/la745qj/,2024-06-25 12:36:35 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1do4oh1/deleted_by_user/,,"In the modern sense of the word, no. The sun is a star.
+
+In the ancient sense of ""wanderer"", yes, it is a ""planet"" (along with the Moon and the things we call planets now); if asteroids/minor planets had been bright enough to be visible, they would've also been considered planets
+
+Not sure about the astrological sense, though they are treated as planets in terms of what house they are in, whether they are rising/setting/culminating at a given time, and so on",
+
+la181ut,https://www.reddit.com/r/Astronomy/comments/1dn6xbw/deleted_by_user/la181ut/,2024-06-24 11:18:02 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1dn6xbw/deleted_by_user/,,"I'd use CSPICE (https://naif.jpl.nasa.gov/naif/aboutspice.html) or SPICE in another language to compute this information, but make sure you translate the passage correctly: modern-day constellations are very different from constellations in the past, and ""house of x"" usually refers to ecliptic longitude, not actual constellations",
+
+lao7evw,https://www.reddit.com/r/Astronomy/comments/1dq4ml0/map_the_prime_meridian_centered_or_left_edge_on/lao7evw/,2024-06-28 12:44:34 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1dq4ml0/map_the_prime_meridian_centered_or_left_edge_on/,,"Here's a link that looks helpful, but isn't: https://astropedia.astrogeology.usgs.gov/download/Docs/WGCCRE/WGCCRE2009reprint.pdf",
+
+lao669p,https://www.reddit.com/r/Astronomy/comments/1dq1x57/closest_stars/lao669p/,2024-06-28 12:35:28 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1dq1x57/closest_stars/,lalbvfg,"In theory, someone could go to https://www.cosmos.esa.int/web/gaia/data-release-3 and query their db though it would require some preliminary work and you'd have to exclude brown dwarfs",
+
+lfzu0pd,https://www.reddit.com/r/Astronomy/comments/1ehka6g/reverse_orbital_calculation_of_our_solar_system/lfzu0pd/,2024-08-01 16:10:07 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1ehka6g/reverse_orbital_calculation_of_our_solar_system/,,Sort of. Good starting point: https://ssd.jpl.nasa.gov/horizons/,
+
+lgx6vu1,https://www.reddit.com/r/Astronomy/comments/1em8qie/when_does_a_sidereal_year_start/lgx6vu1/,2024-08-07 11:19:07 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1em8qie/when_does_a_sidereal_year_start/,,"https://en.wikipedia.org/wiki/Sidereal_year may help. I always thought of the sidereal year as a period of time, not having a specific start or end date. However, quoting the wikipedia article:
+
+>The Indian national calendar, based on the works of Maga Brahmins, as are the calendars of neighbouring countries, is traditionally reckoned by the Sun's entry into the sign of Aries and is also supposed to align with the spring equinox and have relevance to the harvesting and planting season and thus the tropical year.[citation needed] However, as the entry into the constellation occurs 25 days later, according to the astronomical calculation of the sidereal year, this date marks the South and Southeast Asian solar New Year in other countries and cultures
+
+Basically, the March equinox occurs when the Sun reaches the ""first point of Aries"". However, because of precession, this point is actually closer to the Aquarius-Pisces border and quite far from today's IAU definition of Aries. April 14th is apparently the date the Sun enters Aries as it is defined today or somehow corrected for precession.",
+
+lh3dxn7,https://www.reddit.com/r/Astronomy/comments/1en3lyy/finding_groupings_of_bright_stars/lh3dxn7/,2024-08-08 11:56:50 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1en3lyy/finding_groupings_of_bright_stars/,,"I know https://www.cosmos.esa.int/web/gaia/home lets you query their database, but it actually excludes the brighter stars. You could probably easily create a database of brighter stars but right ascension and declination (or even 3D on a virtual sphere) aren't that easy to query. Let me know if you choose to pursue this-- I'm into both astronomy and geography, and solving problems on the sphere is important to both",
+
+lh3kfy6,https://www.reddit.com/r/Astronomy/comments/1en3lyy/finding_groupings_of_bright_stars/lh3kfy6/,2024-08-08 12:42:59 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1en3lyy/finding_groupings_of_bright_stars/,lh3kbyq,"GRASS GIS is pretty good about doing this, the v.kernel command in particular. I'll ping you via reddit chat",
+
+llnex34,https://www.reddit.com/r/Astronomy/comments/1f9nl0s/how_to_track_jupiter_saturn_degrees_apart/llnex34/,2024-09-05 16:22:43 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1f9nl0s/how_to_track_jupiter_saturn_degrees_apart/,,"You'd normally want to use CSPICE (https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/info/intrdctn.html), but https://wgc.jpl.nasa.gov:8443/webgeocalc/#DistanceFinder will do it for you online. HORIZONS (https://ssd.jpl.nasa.gov/horizons/#web) is a also a useful tool",
+
+llne8ow,https://www.reddit.com/r/Astronomy/comments/1f9ojdr/question_about_the_parallax_of_and_object/llne8ow/,2024-09-05 16:19:08 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1f9ojdr/question_about_the_parallax_of_and_object/,lln2igr,"I'm sure your professor's example was two people standing at opposite ends of the Earth at the same time. Saturn is too far away for that method to work (you could try it), but also in orbit around the Sun, so the ""Earth's orbit for parallax"" method won't work either",
+
+lrv5hp7,https://www.reddit.com/r/Astronomy/comments/1g3e1ws/comet_c2023_a3magnitude/lrv5hp7/,2024-10-14 12:19:05 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1g3e1ws/comet_c2023_a3magnitude/,,"https://ssd.jpl.nasa.gov/horizons/app.html#/ and target body ""c/2023 a3"" should do this. Current magnitude appears to be 6 and increasing (ie, getting fainter)",
+
+m1ddkcz,https://www.reddit.com/r/Astronomy/comments/1hb46wj/can_anyone_help_me_identify_the_objects_in_the/m1ddkcz/,2024-12-10 15:35:19 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1hb46wj/can_anyone_help_me_identify_the_objects_in_the/,,Are you familiar with astrometry.net ?,
+
+m8iw2nf,https://www.reddit.com/r/Astronomy/comments/1i79e3z/sunsetmoonrise_calculation/m8iw2nf/,2025-01-22 12:21:11 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1i79e3z/sunsetmoonrise_calculation/,,"Assuming you don't want to use CSPICE or another form of coding, you could try downloading sunrise/sunset moonrise/moonset tables for your location and see when sunset matches moonrise. Still a bit tedious, but, as /u/drsmith21 points out, you only need to check dates near the full moon.",
+
+m8ivwel,https://www.reddit.com/r/Astronomy/comments/1i79e3z/sunsetmoonrise_calculation/m8ivwel/,2025-01-22 12:19:51 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1i79e3z/sunsetmoonrise_calculation/,m8itsd5,"Well, it's close, but if the full moon is *directly* opposite the sun, we have a total lunar eclipse. The moon's orbit isn't perfectly aligned with the sun's orbit: it's tilted by a few degrees",
+
+maydurl,https://www.reddit.com/r/Astronomy/comments/1ihlp4c/three_questions_about_estimating_local_horizon/maydurl/,2025-02-04 17:29:17 UTC,,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1ihlp4c/three_questions_about_estimating_local_horizon/,,https://aty.sdsu.edu/explain/atmos_refr/dip.html may or may not be helpful. It covers both horizon dip and refraction near the horizon,
+
+mmzv775,https://www.reddit.com/r/Astronomy/comments/1jynfav/why_isnt_easter_2025_on_april_13/mmzv775/,2025-04-14 02:00:30 UTC,98.48.122.229,Astronomy,0,https://www.reddit.com/r/Astronomy/comments/1jynfav/why_isnt_easter_2025_on_april_13/,,Note that Easter is based on the ecclesiastical full moon (https://en.wikipedia.org/wiki/Ecclesiastical_full_moon) which can be different from the astronomical full moon. This may or may not be the issue this year,

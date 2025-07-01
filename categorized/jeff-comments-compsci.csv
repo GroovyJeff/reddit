@@ -1,0 +1,54 @@
+
+kgv48eg,https://www.reddit.com/r/compsci/comments/191ekfv/breaking_news_liber8_proxy_creates_a_new/kgv48eg/,2024-01-08 07:27:28 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/191ekfv/breaking_news_liber8_proxy_creates_a_new/,,"Quoting https://apnews.com/press-release/ein-presswire-newsmatics/technology-operating-systems-626ead1115df0dc7d525d0005f5bcecd
+
+>  PRESS RELEASE: Paid Content from EIN Presswire | Newsmatics. The AP news staff was not involved in its creation. 
+
+Appears to be a scam",
+
+kgx2w8y,https://www.reddit.com/r/compsci/comments/191ekfv/breaking_news_liber8_proxy_creates_a_new/kgx2w8y/,2024-01-08 17:07:41 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/191ekfv/breaking_news_liber8_proxy_creates_a_new/,kgv5jwj,"That post is an advertisement, not news. It says so right in the ""article"" itself",
+
+kvb1y4c,https://www.reddit.com/r/compsci/comments/1bh2nux/why_are_we_learning_so_much_theoretical_cs/kvb1y4c/,2024-03-17 17:25:53 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1bh2nux/why_are_we_learning_so_much_theoretical_cs/,,"The simple answer: high schools and universities aren't vocational schools. They presumably exist to help you learn and understand subjects at a deeper level, not just prepare you for a job.
+
+The not simple answer is a figurative black hole: people have been questioning why big name universities charge so much when they don't even prepare you for a job. If you follow this line of thinking, you start off realizing our education system is very seriously broken, and end up realizing that our entire civilization is pretty much based on lies.",
+
+l3vtrmf,https://www.reddit.com/r/compsci/comments/1cr5lt6/sharing_my_ultimate_interview_preparation_guide/l3vtrmf/,2024-05-13 18:06:57 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1cr5lt6/sharing_my_ultimate_interview_preparation_guide/,,Are all the links in that spreadsheet to your youtube videos/channel?,
+
+l40ky89,https://www.reddit.com/r/compsci/comments/1cr5lt6/sharing_my_ultimate_interview_preparation_guide/l40ky89/,2024-05-14 15:38:21 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1cr5lt6/sharing_my_ultimate_interview_preparation_guide/,l40kuh8,Seems a little spammy,
+
+l5gsx7q,https://www.reddit.com/r/compsci/comments/1czjp8y/deleted_by_user/l5gsx7q/,2024-05-24 13:11:16 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1czjp8y/deleted_by_user/,,"The mistake you're making is called ""affirming the consequent"" (https://en.wikipedia.org/wiki/Affirming_the_consequent). In your two cases specifically (where -> is the implication symbol):
+
+1. `error messages -> program is wrong` does not mean `program is wrong -> error messages`. If it's raining there will be clouds (usually), but if there are clouds it doesn't always mean rain.
+
+2. `r and s are rational -> r+s is rational`. That does not apply the ""opposite"": if r+s is rational it doesn't mean r and s are rational.
+
+Generally, ChatGPT and Google Bard are not good with math/logic problems like these (which does not imply I'm saying they are good with other problems <G>)",
+
+l50r6xd,https://www.reddit.com/r/compsci/comments/1cx8aiv/amber_the_programming_language_compiled_to_bash/l50r6xd/,2024-05-21 13:52:31 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1cx8aiv/amber_the_programming_language_compiled_to_bash/,,"You're spamming this everywhere, and I'm not sure how useful a language that transpiles to Bash (or any shell) is",
+
+ld4as38,https://www.reddit.com/r/compsci/comments/1e2xu3d/jan_sloots_secret_data_compression_algorithm_real/ld4as38/,2024-07-14 10:06:18 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1e2xu3d/jan_sloots_secret_data_compression_algorithm_real/,,"https://en.wikipedia.org/wiki/Sloot_Digital_Coding_System states that this sort of encoding would violate basic data compression principles such as Shannon's source coding theorem (https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem)
+
+Reading the rest of the article and assuming Sloot actually had something, I think Sloot's system was something similar to ""hashing"", the same thing bittorrent uses. Hash collisions (two different files having the same hash) does occur, but is rare, even in shorter hashes such as sha512 (64 bytes). With a well-chosen 8000-byte hash, and even allowing for the birthday paradox, you could easily assign a ""probably unique"" number to each file.
+
+I will check the code you've written as well, but Sloot seems to be saying ""if two computers have the same file, you only need to transfer a small amount of information to retrieve the file on the 2nd computer"". Since we can now search millions of computers for that one file (bittorrent), this almost makes sense: if a file has been created and someone has it and is willing to share it, you can almost certainly find it just by its hash",
+
+ld4ay5u,https://www.reddit.com/r/compsci/comments/1e2xu3d/jan_sloots_secret_data_compression_algorithm_real/ld4ay5u/,2024-07-14 10:08:15 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1e2xu3d/jan_sloots_secret_data_compression_algorithm_real/,,Question: where can I actually use this code to compress something? The web demo doesn't seem to do that,
+
+li82b0s,https://www.reddit.com/r/compsci/comments/1esslom/mathsinmathpi2_return_10_whereas_mathsinmathpi/li82b0s/,2024-08-15 11:32:54 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1esslom/mathsinmathpi2_return_10_whereas_mathsinmathpi/,,"I mean, if you're going to be all whiny about it, `Math.PI` in JavaScript yields `3.141592653589793` which isn't the exact value of pi, just a decimal approximation. As long as we do math with finite precision, stuff like this will happen",
+
+lie9jtd,https://www.reddit.com/r/compsci/comments/1etn59b/how_could_the_mind_be_uncomputable_if_its_due_to/lie9jtd/,2024-08-16 12:30:01 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1etn59b/how_could_the_mind_be_uncomputable_if_its_due_to/,lie95yj,"This. Presumably that means our brains have true randomness, which is problematic in and of itself",
+
+lkfztcg,https://www.reddit.com/r/compsci/comments/1f3ry8b/using_public_ip_of_vds/lkfztcg/,2024-08-29 02:57:15 UTC,,compsci,0,https://www.reddit.com/r/compsci/comments/1f3ry8b/using_public_ip_of_vds/,,"While hosting an Internet server on your home network is a bad idea, you probably do have a public IP address. Visit ipleak.net and see what it tells you. You need a public IP address to access the Internet, but you might be in a rare situation where you share that IP address with other people in the same apartment complex/dorm/etc",
+
+mxm0hdx,https://www.reddit.com/r/compsci/comments/1l79hp2/compressiondecompression_methods/mxm0hdx/,2025-06-13 18:48:50 UTC,98.48.122.229,compsci,0,https://www.reddit.com/r/compsci/comments/1l79hp2/compressiondecompression_methods/,mxl3ppd,"OK. Just so you know, I just did:
+
+`perl -le 'print ""A""x825' > temp.file; bzip2 -v temp.file`
+
+and it converted an 826 byte file (the 825 A's plus a new line) into a 48 byte file. I'm sure your use case is more complicated, but just to give you a baseline for highly redundant data",
+
+mxjy4d9,https://www.reddit.com/r/compsci/comments/1laeksz/opensource_anxiety/mxjy4d9/,2025-06-13 12:43:34 UTC,98.48.122.229,compsci,0,https://www.reddit.com/r/compsci/comments/1laeksz/opensource_anxiety/,,"What problem do you think you've solved that hasn't been solved efficiently already? While it's not 100% impossible that you've solved a new problem or an existing problem in a more efficient way, it's rare",
+
+mwv31zj,https://www.reddit.com/r/compsci/comments/1l79hp2/compressiondecompression_methods/mwv31zj/,2025-06-09 17:12:47 UTC,98.48.122.229,compsci,0,https://www.reddit.com/r/compsci/comments/1l79hp2/compressiondecompression_methods/,,"I'm guessing you think you've invented a new compression method that yields smaller files than any existing method. You almost certainly haven't: 16:1 is good, but bzip2 can do this for certain types of files. Zip bombs (https://en.wikipedia.org/wiki/Zip_bomb) are small files that can decompress to much larger than 16x their size. Though it's not listed on the linked page, I know there's at least one multi-bzip2'd file than expands to `10^100` bytes but is itself only a few bytes.
+
+Feel free to pursue your new compression method, but compare it to existing methods on a wide variety of tiles too",
+
+mwvd04f,https://www.reddit.com/r/compsci/comments/1l79hp2/compressiondecompression_methods/mwvd04f/,2025-06-09 17:57:40 UTC,98.48.122.229,compsci,0,https://www.reddit.com/r/compsci/comments/1l79hp2/compressiondecompression_methods/,mwv3z0r,"OK, can you tell us the use case? Are you saying your compression method is better than all known compression methods for this use case? Or at least in the running for the best?",

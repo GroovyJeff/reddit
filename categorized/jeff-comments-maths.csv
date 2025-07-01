@@ -1,0 +1,18 @@
+
+m0jlcn0,https://www.reddit.com/r/maths/comments/1h79qzz/question_in_lesson_about_physical_quantities_and/m0jlcn0/,2024-12-05 14:40:19 UTC,,maths,0,https://www.reddit.com/r/maths/comments/1h79qzz/question_in_lesson_about_physical_quantities_and/,,Show us your work?,
+
+m24je4c,https://www.reddit.com/r/maths/comments/1heklez/deleted_by_user/m24je4c/,2024-12-15 04:57:46 UTC,,maths,0,https://www.reddit.com/r/maths/comments/1heklez/deleted_by_user/,,"I'm not sure I 100% followed this argument, but what about a case where the value increases without bound. That would also violate the Collatz conjecture but doesn't seem to be included in your notes above",
+
+m39g3q7,https://www.reddit.com/r/maths/comments/1hjv2ft/deleted_by_user/m39g3q7/,2024-12-22 09:18:23 UTC,,maths,0,https://www.reddit.com/r/maths/comments/1hjv2ft/deleted_by_user/,,"Can't tell if you're joking, but, in math, `:` usually means ""ratio"", not ""analogy"". However, that doesn't seem to apply to this question, so not sure",
+
+mar3xth,https://www.reddit.com/r/maths/comments/1igrqyd/would_anyone_know_how_to_alter_the_values_in_the/mar3xth/,2025-02-03 15:50:37 UTC,,maths,0,https://www.reddit.com/r/maths/comments/1igrqyd/would_anyone_know_how_to_alter_the_values_in_the/,,Are you familiar with cloud.wolfram.com which lets you use Mathematica for free (limited usage),
+
+mcdv30q,https://www.reddit.com/r/maths/comments/1inu70r/eulers_day_sorry_if_the_description_is_too_long/mcdv30q/,2025-02-12 16:07:10 UTC,,maths,0,https://www.reddit.com/r/maths/comments/1inu70r/eulers_day_sorry_if_the_description_is_too_long/,,"2/7 (about 5 days ago) is already known as ""e day"": https://www.checkiday.com/83780a80f3f8e34147441ca8b8e15a60/e-day",
+
+mdm7kwt,https://www.reddit.com/r/maths/comments/1it67lv/primes/mdm7kwt/,2025-02-19 14:16:16 UTC,,maths,0,https://www.reddit.com/r/maths/comments/1it67lv/primes/,,"You can download prime numbers up to 25 digits (I'm pretty sure). To find larger ones, you'd use probabilistic prime testing methods like Miller-Rabin",
+
+mfsiwhu,https://www.reddit.com/r/maths/comments/1j2l357/i_think_i_disproved_collatz_conjecture/mfsiwhu/,2025-03-03 15:28:00 UTC,,maths,0,https://www.reddit.com/r/maths/comments/1j2l357/i_think_i_disproved_collatz_conjecture/,,Could you elucidate a bit more? I'm confused.,
+
+mi9wsqi,https://www.reddit.com/r/maths/comments/1jde8zc/reverseengineering_an_unknown_function_from_data/mi9wsqi/,2025-03-17 15:39:44 UTC,,maths,0,https://www.reddit.com/r/maths/comments/1jde8zc/reverseengineering_an_unknown_function_from_data/,,"This is a very basic thought, but any reasonable multivariable function can be written as a weighted sum of the powers of its variables. For example, if your variables were `x`, `y`, and `z`, you'd compute terms like `xy`, `xz`, `yz` moving up to things like `x^2yz`, `xy^2z`, `xyz^2`, and so on. You can do this algorithimically by considering all terms whose exponents sum to n as n increases. Once you've computed these variables, do a standard best fit linear regression.
+
+You'll eventually get an accurate enough fit, but you may also want to look at the terms to see if they form a pattern that matches a  well-known power series or something",

@@ -1,0 +1,90 @@
+
+l4vhwba,https://www.reddit.com/r/software/comments/1cwfw02/i_have_a_weird_requestquestion/l4vhwba/,2024-05-20 13:49:03 UTC,,software,0,https://www.reddit.com/r/software/comments/1cwfw02/i_have_a_weird_requestquestion/,,"Erm, just have your word processor make regular automated backups. You don't really need a keylogger. Nothing wrong with using a keylogger for legal and ethical purposes, but also probably not the right solution for you, assuming you are telling us the truth :)",
+
+l4vixum,https://www.reddit.com/r/software/comments/1cwfw02/i_have_a_weird_requestquestion/l4vixum/,2024-05-20 13:56:09 UTC,,software,0,https://www.reddit.com/r/software/comments/1cwfw02/i_have_a_weird_requestquestion/,l4viodt,"Doesn't your sticky notes app have automatic backup and/or can't you used a scheduled task to automatically back up all sticky notes regularly? I type into webpage forms too, but it's a bad idea for many reasons: create on something else and then cut/paste into webforms",
+
+l5m740f,https://www.reddit.com/r/software/comments/1d02ukr/ai_video_transcription_tool_in_bulk_590_mp4_files/l5m740f/,2024-05-25 14:31:23 UTC,,software,0,https://www.reddit.com/r/software/comments/1d02ukr/ai_video_transcription_tool_in_bulk_590_mp4_files/,,Doesn't youtube automatically transcribe videos?,
+
+l5b31jn,https://www.reddit.com/r/software/comments/1cyplpn/dev_darkfog_22_file_encryption_and_security_made/l5b31jn/,2024-05-23 11:24:53 UTC,,software,0,https://www.reddit.com/r/software/comments/1cyplpn/dev_darkfog_22_file_encryption_and_security_made/,,"This appears to be basic symmetric encryption with no published source code, so it sounds fairly vulnerable",
+
+l84kifa,https://www.reddit.com/r/software/comments/1ddg2rp/java_developer_looking_for_a_new_project/l84kifa/,2024-06-11 15:16:16 UTC,,software,0,https://www.reddit.com/r/software/comments/1ddg2rp/java_developer_looking_for_a_new_project/,l84kdbp,"Oh, I don't have any projects in Java. I was just entrapping you into confirming you broke rule 3 :)",
+
+l84k2mo,https://www.reddit.com/r/software/comments/1ddg2rp/java_developer_looking_for_a_new_project/l84k2mo/,2024-06-11 15:13:46 UTC,,software,0,https://www.reddit.com/r/software/comments/1ddg2rp/java_developer_looking_for_a_new_project/,,You're looking to volunteer for a project?,
+
+l8zjebl,https://www.reddit.com/r/software/comments/1dhtssu/looking_for_a_technical_cofounder/l8zjebl/,2024-06-17 11:37:36 UTC,,software,0,https://www.reddit.com/r/software/comments/1dhtssu/looking_for_a_technical_cofounder/,,"> I have been a part of 3 tech startups in leadership positions (CTO, COO, Marketing Head).
+
+How successful were these startups?",
+
+laz09xj,https://www.reddit.com/r/software/comments/1ds0pmn/can_anyone_tell_me_what_programapplication_this_is/laz09xj/,2024-06-30 13:01:26 UTC,,software,0,https://www.reddit.com/r/software/comments/1ds0pmn/can_anyone_tell_me_what_programapplication_this_is/,,"Google suggests it's from a game called Nebulous (https://store.steampowered.com/app/887570/NEBULOUS_Fleet_Command/) but all of the screenshots show action scenes, not something like this",
+
+lc1fi1z,https://www.reddit.com/r/software/comments/1dxg7w3/is_there_a_simple_efficient_program_that_will/lc1fi1z/,2024-07-07 13:49:36 UTC,,software,0,https://www.reddit.com/r/software/comments/1dxg7w3/is_there_a_simple_efficient_program_that_will/,lc1ef3a,"Yes, cygwin allows you to use some Linux command-line utilities with Windows",
+
+ld4ihq8,https://www.reddit.com/r/software/comments/1e2yglv/a_os_thats_only_job_is_to_run_modern_exe_files/ld4ihq8/,2024-07-14 11:29:04 UTC,,software,0,https://www.reddit.com/r/software/comments/1e2yglv/a_os_thats_only_job_is_to_run_modern_exe_files/,,"As https://new.reddit.com/user/firebreathingbunny/ notes, most executables use shared libraries which are those .dll files in Windows (DLL = dynamic link library).
+
+In theory, you could run ""fat"" executables (https://en.wikipedia.org/wiki/Fat_binary) on a machine without bloatware, although the executables would be larger, and you'd ultimately have multiple copies of the same library inside different executable files. Despite this, I support fat executables because they're like Docker (and Python's ""env"") and tend to run consistently than executables using shared libraries.
+
+Most people don't create fat executables, though there might (?) be a market for fattening executables by recompiling them with a fixed set of libraries",
+
+ld4etez,https://www.reddit.com/r/software/comments/1e2nhol/app_to_measure_slope_of_a_hill_at_a_certain/ld4etez/,2024-07-14 10:51:25 UTC,,software,0,https://www.reddit.com/r/software/comments/1e2nhol/app_to_measure_slope_of_a_hill_at_a_certain/,,"I mean, it's just change in elevation over distance. Or https://diegopuga.org/data/rugged/slope.zip (direct link to large file, see https://diegopuga.org/data/rugged/ for metainformation) if you want someone to do it for you",
+
+lc1beeo,https://www.reddit.com/r/software/comments/1dxg7w3/is_there_a_simple_efficient_program_that_will/lc1beeo/,2024-07-07 13:19:40 UTC,,software,0,https://www.reddit.com/r/software/comments/1dxg7w3/is_there_a_simple_efficient_program_that_will/,,"If you install cygwin, you can use Unix tools like `diff -uwr` to do this",
+
+ld4bhyq,https://www.reddit.com/r/software/comments/1e2x2bt/parc_files_appearing_in_c_drive/ld4bhyq/,2024-07-14 10:14:34 UTC,,software,0,https://www.reddit.com/r/software/comments/1e2x2bt/parc_files_appearing_in_c_drive/,,https://en.wikipedia.org/wiki/Parchive may or may not help,
+
+lb4ibqy,https://www.reddit.com/r/software/comments/1dsso40/i_have_a_bilion_dolar_idea_for_an_app_how_do_i/lb4ibqy/,2024-07-01 13:38:21 UTC,,software,0,https://www.reddit.com/r/software/comments/1dsso40/i_have_a_bilion_dolar_idea_for_an_app_how_do_i/,,"As [https://new.reddit.com/user/JamesWjRose/](https://new.reddit.com/user/JamesWjRose/) and the US Patent Office says, you can't patent pure ideas. Quoting [https://www.uspto.gov/patents/basics/essentials#questions](https://www.uspto.gov/patents/basics/essentials#questions)
+
+    Patent law defines the limits of what can be patented. For example, the laws of nature, physical phenomena, and abstract ideas cannot be patented, nor can only an idea or suggestion
+
+More realistically, even Thomas Edison said genius is 1% inspiration and 99% perspiration. It's highly unlikely that your idea, in and of itself, is worth a billion dollars. I'd suggest just sharing it and you'll find others have done it before, possibly better than you can do it.
+
+If you don't want to take my advice, hire a lawyer to draft a non-disclosure agreement (NDA) that anyone would have to sign before you shared your idea. The lawyer should advise you that NDA's aren't 100% protection and don't cover everything",
+
+ldscejg,https://www.reddit.com/r/software/comments/1e5qcw2/software_idea/ldscejg/,2024-07-18 15:44:13 UTC,,software,0,https://www.reddit.com/r/software/comments/1e5qcw2/software_idea/,,"The interesting part her is ""from set lists"". Would this be like a followup or reminder service that allows your customers to send automatic emails to specific contacts?
+
+I believe ""delayed email"" services already exist (send email at a specified time), though I'm not sure about a service that automatically nags people on your behalf. Possibly interesting.",
+
+lf6gp2i,https://www.reddit.com/r/software/comments/1ed5txm/deleted_by_user/lf6gp2i/,2024-07-27 12:24:50 UTC,,software,0,https://www.reddit.com/r/software/comments/1ed5txm/deleted_by_user/,,Your post sounds like an ad: are you affiliated with mSafely? It has terrible reviews on trustpilot: https://www.trustpilot.com/review/msafely.com,
+
+ldt1zb1,https://www.reddit.com/r/software/comments/1e6hdpw/how_to_block_a_website_permanent/ldt1zb1/,2024-07-18 18:04:55 UTC,,software,0,https://www.reddit.com/r/software/comments/1e6hdpw/how_to_block_a_website_permanent/,,You could probably do it using Windows Firewall,
+
+lftj1uk,https://www.reddit.com/r/software/comments/1egodhz/any_software_programs_that_can_play_windows/lftj1uk/,2024-07-31 14:44:32 UTC,,software,0,https://www.reddit.com/r/software/comments/1egodhz/any_software_programs_that_can_play_windows/,,I assume you're familiar with WINE (https://www.winehq.org/)?,
+
+li9aqz1,https://www.reddit.com/r/software/comments/1esyn38/software_which_helps_automate_working_with_csv/li9aqz1/,2024-08-15 15:58:31 UTC,,software,0,https://www.reddit.com/r/software/comments/1esyn38/software_which_helps_automate_working_with_csv/,,"You might need a CSV library in a programming language, since I doubt someone has written software that does all this. You might try spreadsheets and macros that automate your cutting and pasting or something",
+
+ljufvno,https://www.reddit.com/r/software/comments/1f0u2sj/compare_two_binary_files_and_produce_a_delta_file/ljufvno/,2024-08-25 12:00:35 UTC,,software,0,https://www.reddit.com/r/software/comments/1f0u2sj/compare_two_binary_files_and_produce_a_delta_file/,,"You could use cygwin or Windows Subsystem for Linux to use tools such as `diff`, but I think Windows has similar programs already
+
+However, `diff` may not be enough for VM images. You might need something more `rsync`-y",
+
+lktt4o9,https://www.reddit.com/r/software/comments/1f5mto0/what_the_fuck_is_wrong_with_my_computer/lktt4o9/,2024-08-31 13:14:54 UTC,,software,0,https://www.reddit.com/r/software/comments/1f5mto0/what_the_fuck_is_wrong_with_my_computer/,,"You can take a picture if screenshotting doesn't work, but also check your CPU temperature (from BIOS) and dust off any large collections of dust on the computer",
+
+llho01z,https://www.reddit.com/r/software/comments/1f8wywe/easy_backup_solution_with_no_ongoing_maintenance/llho01z/,2024-09-04 16:39:46 UTC,,software,0,https://www.reddit.com/r/software/comments/1f8wywe/easy_backup_solution_with_no_ongoing_maintenance/,,"Sounds dangerous, if not a scam outright. What happens if your company shuts its doors or simply doesn't make the backups? Even if I could get my $5 back, it doesn't cover the loss of service I've paid for.
+
+Do you have any sort of surety bond or other form of insurance that protects the data from the company's failure?",
+
+llmc8rf,https://www.reddit.com/r/software/comments/1f8wywe/easy_backup_solution_with_no_ongoing_maintenance/llmc8rf/,2024-09-05 12:40:14 UTC,,software,0,https://www.reddit.com/r/software/comments/1f8wywe/easy_backup_solution_with_no_ongoing_maintenance/,llhrjvi,"Nowhere on your site does it say that, in addition to the money we pay you, we have to pay with bandwidth and storage space for other people on our home machines.
+
+While distributed backup with volunteers isn't a bad idea, I'm sure there is (or should be) an open source project that does this, though it's still subject to some people being greedy issues.
+
+And, since we're already paying with bandwidth and space, what are we paying you for?",
+
+lotx8km,https://www.reddit.com/r/software/comments/1foz3mk/deleted_by_user/lotx8km/,2024-09-25 09:55:11 UTC,,software,0,https://www.reddit.com/r/software/comments/1foz3mk/deleted_by_user/,,That document appears to be password-locked (which seems weird for a public form),
+
+lsu3iui,https://www.reddit.com/r/software/comments/1g7wsmr/do_you_know_a_free_speechtotext_website/lsu3iui/,2024-10-20 13:05:44 UTC,,software,0,https://www.reddit.com/r/software/comments/1g7wsmr/do_you_know_a_free_speechtotext_website/,lsu3dr1,I think Google Talk has a real time captioning option that works OK. Or I might be thinking about zoom. But one of those for sure,
+
+lsty989,https://www.reddit.com/r/software/comments/1g7wsmr/do_you_know_a_free_speechtotext_website/lsty989/,2024-10-20 12:25:59 UTC,,software,0,https://www.reddit.com/r/software/comments/1g7wsmr/do_you_know_a_free_speechtotext_website/,,"Google Voice will transcribe voicemail to text but it's not real time, and I'm sure other non-real-time sites exist. If you mean real time speech-to-text I believe there are some captioners for Twitch which don't do a great job (sometimes laughably bad), but are real time.",
+
+lz2fnz7,https://www.reddit.com/r/software/comments/1h0ad6m/deleted_by_user/lz2fnz7/,2024-11-26 12:53:32 UTC,,software,0,https://www.reddit.com/r/software/comments/1h0ad6m/deleted_by_user/,,"Can you at least tell us a little more about it here? Also, I assume those are 600 paying clients with actual reasonable sales volume?",
+
+lzl2cz7,https://www.reddit.com/r/software/comments/1h2pooa/find_movie_information_from_volume_label/lzl2cz7/,2024-11-29 17:20:09 UTC,,software,0,https://www.reddit.com/r/software/comments/1h2pooa/find_movie_information_from_volume_label/,,"I'm impressed. I looked through my `.mplayer/DVDKeys` (not sure mplayer uses this anymore) and did a web search on `REBA_S1_D2_B` in quotes and got back nothing, even from dogpile, a meta-search-engine.
+
+I'm sure it's somewhere in the deepweb and there's something like discogs for DVDs, but it's actually pretty impressive to find a meaningful with no search results in today's world.
+
+AI was also unhelpful in finding a database of DVDs (which you think must exist if only so two DVDs don't accidentally get the same volume ID)",
+
+m3b2str,https://www.reddit.com/r/software/comments/1hk2me3/looking_for_a_software_to_change_contrast_and/m3b2str/,2024-12-22 17:19:09 UTC,,software,0,https://www.reddit.com/r/software/comments/1hk2me3/looking_for_a_software_to_change_contrast_and/,,Wouldn't those involve monitor settings too?,
+
+mi4wwq1,https://www.reddit.com/r/software/comments/1jcsxc6/best_free_remote_support_software/mi4wwq1/,2025-03-16 19:17:50 UTC,,software,0,https://www.reddit.com/r/software/comments/1jcsxc6/best_free_remote_support_software/,,"> setting it up to do shadow connections
+
+I has a suspicious",
+
+mosh3eu,https://www.reddit.com/r/software/comments/1k6t068/command_window_keeps_randomly_appearing_and/mosh3eu/,2025-04-24 14:03:50 UTC,98.48.122.229,software,0,https://www.reddit.com/r/software/comments/1k6t068/command_window_keeps_randomly_appearing_and/,,Have you checked Scheduled Tasks?,

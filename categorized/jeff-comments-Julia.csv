@@ -1,0 +1,12 @@
+
+lev8jdv,https://www.reddit.com/r/Julia/comments/1ebukqy/monte_carlo_simulation/lev8jdv/,2024-07-25 13:23:16 UTC,,Julia,0,https://www.reddit.com/r/Julia/comments/1ebukqy/monte_carlo_simulation/,,We might be able to help more if you can tell us what sort of Monte Carlo Simulation you're trying to perform? Or at least a simplified example?,
+
+lqnfa8f,https://www.reddit.com/r/Julia/comments/1fxm6oy/cannot_declare_constant_it_already_has_a_value/lqnfa8f/,2024-10-06 17:59:17 UTC,,Julia,0,https://www.reddit.com/r/Julia/comments/1fxm6oy/cannot_declare_constant_it_already_has_a_value/,lqndu9a,"Agreed. My only other thought is that OP is using a reserved word as a variable/constant name, not necessarily reserved by Julia itself but by one of the packages OP is loading",
+
+lstyd1n,https://www.reddit.com/r/Julia/comments/1g7wkc0/absolutely_suck_at_tech_stuffbut_julia_makes_me/lstyd1n/,2024-10-20 12:26:51 UTC,,Julia,0,https://www.reddit.com/r/Julia/comments/1g7wkc0/absolutely_suck_at_tech_stuffbut_julia_makes_me/,,May God have mercy on your soul,
+
+m7tf5u7,https://www.reddit.com/r/Julia/comments/1i4a4sf/would_you_be_interested_in_function_use_counters/m7tf5u7/,2025-01-18 15:49:01 UTC,,Julia,0,https://www.reddit.com/r/Julia/comments/1i4a4sf/would_you_be_interested_in_function_use_counters/,,Something above and beyond Julia's existing profiling tools/libraries?,
+
+mzdnoz2,https://www.reddit.com/r/Julia/comments/1lip23n/why_it_is_so_slow/mzdnoz2/,2025-06-23 18:59:37 UTC,98.48.122.229,Julia,0,https://www.reddit.com/r/Julia/comments/1lip23n/why_it_is_so_slow/,,"> img = map(RGBA, img)
+
+Try pre-allocating img with zeros. Creating it the first time might be your bottleneck",

@@ -1,0 +1,338 @@
+
+l00dbfb,https://www.reddit.com/r/gis/comments/1c6djyn/has_anyone_worked_with_advanced_hydrologic/l00dbfb/,2024-04-17 16:44:31 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1c6djyn/has_anyone_worked_with_advanced_hydrologic/,,"When you load it into QGIS (for example), does QGIS not allow you to change the projection from HRAP to whatever you need? https://www.weather.gov/owp/oh_hrl_distmodel_hrap may also help",
+
+kwvb76q,https://www.reddit.com/r/gis/comments/1bpewrm/deleted_by_user/kwvb76q/,2024-03-27 22:29:35 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1bpewrm/deleted_by_user/,,Search openstreetmap.org to find segments like https://www.openstreetmap.org/way/311914429 and then export. I think you'll need to convert to SHP but that shouldn't be too bad,
+
+kymbz2i,https://www.reddit.com/r/gis/comments/1bywpzd/geotiff_to_gpkg_range_shrinking/kymbz2i/,2024-04-08 14:06:19 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1bywpzd/geotiff_to_gpkg_range_shrinking/,kym9v42,"Hmmm, are any of your values negative and is the new lowest value equal to 0?",
+
+kx3e6r2,https://www.reddit.com/r/gis/comments/1bqll5b/how_to_make_a_sunshine_map_like_this/kx3e6r2/,2024-03-29 11:18:28 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1bqll5b/how_to_make_a_sunshine_map_like_this/,,"This doesn't really answer your question, but https://globalsolaratlas.info/ may be another useful source of data, though note it measures something slightly different",
+
+kym38kk,https://www.reddit.com/r/gis/comments/1bywpzd/geotiff_to_gpkg_range_shrinking/kym38kk/,2024-04-08 13:07:41 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1bywpzd/geotiff_to_gpkg_range_shrinking/,,"What are the new min and max values? It's possible your DEM has a limited range because of how it stores data (eg, 8-bit vs 16-bit)",
+
+l0r6oew,https://www.reddit.com/r/gis/comments/1cadjdx/is_there_anyway_to_mass_identify_the_places_named/l0r6oew/,2024-04-22 15:35:18 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cadjdx/is_there_anyway_to_mass_identify_the_places_named/,,"The basemap looks like it comes from openstreetmaps.org, so I'd suggest downloading that section of the map from there (in non-image form).",
+
+l233f7a,https://www.reddit.com/r/gis/comments/1chjwzh/is_there_any_way_to_obtain_geospatial_data_on/l233f7a/,2024-05-01 12:52:14 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1chjwzh/is_there_any_way_to_obtain_geospatial_data_on/,,"In theory, OSM keeps old versions all the way back to when they started, so you could try to find those. However, I'm not sure how far back they go or how complete they'd be for Malaysia in 2000. You could also use earthexplorer.usgs.gov to get old satellite photos but you'd have to do some additional work to figure out the road network",
+
+l2u0siu,https://www.reddit.com/r/gis/comments/1cljob6/using_gis_software_to_geolocate_satelliteaerial/l2u0siu/,2024-05-06 14:23:15 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cljob6/using_gis_software_to_geolocate_satelliteaerial/,,"I used TinEye (no results) and google's reverse image search, and the latter didn't quite find it, but still might be worth a look",
+
+l35gvsx,https://www.reddit.com/r/gis/comments/1cn8gco/my_boss_has_asked_me_to_identify_all_the_water/l35gvsx/,2024-05-08 16:35:20 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cn8gco/my_boss_has_asked_me_to_identify_all_the_water/,l35eson,"Well, I was wrong. If you download the [angola.shp.zip](http://angola.shp.zip) file at [http://download.geofabrik.de/africa.html](http://download.geofabrik.de/africa.html) and look at the gis\_osm\_pois\_a\_free\_1.shp file, it only lists 37 water wells and I'm sure Angola has many more",
+
+l3au77t,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/l3au77t/,2024-05-09 16:19:51 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/,l3atu9l,"Well, the images are on https://capgeo2.paris.fr so its possible ArcGIS is just using that convention instead of converting to the standard. You might be able to get raw data at http://pluenligne.paris.fr/plu/page/PLU?page_id=1",
+
+l3a8vm5,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/l3a8vm5/,2024-05-09 14:13:05 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/,,"I'm sure you're familiar with Leaflet's ImageOverlay function and know that you can control the opacity of the overlay. That, combined with some JS should allow you to do what you want provided that the maps you have are Mercator projected or cover such a small area that their projection is effectively Mercator.
+
+If the projection isn't Mercator, you won't be able to fit them to Mercator tiles just by scaling and moving I'm afraid.
+
+If you don't find something, let me know and I may be able to help further",
+
+l3av80c,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/l3av80c/,2024-05-09 16:25:48 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/,l3aupkw,I think it was just a google search that got me to https://capgeo.sig.paris.fr/Apps/ParisPLU/ and then to the page above. Quite possible it has nothing to do with the original page.,
+
+l3as3tz,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/l3as3tz/,2024-05-09 16:07:33 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/,l3am4ln,"Not sure this helps, but, after running Web Console and looking at network traffic I did:
+
+`curl -LO ""https://capgeo2.paris.fr/public/rest/services/IGC/IGC_Atlas_carrieres_image/MapServer/tile/12/2202837/1896933?blankTile=false`
+
+and got what appears to be a map tile (not a base map tile)",
+
+l3ajr1q,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/l3ajr1q/,2024-05-09 15:18:14 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/,l3aj2r2,"I'm not sure. I think Leaflet can help, but don't know enough about the problem. Are there any images/etc you can share re what you want to do?",
+
+l35eiug,https://www.reddit.com/r/gis/comments/1cn8gco/my_boss_has_asked_me_to_identify_all_the_water/l35eiug/,2024-05-08 16:22:03 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cn8gco/my_boss_has_asked_me_to_identify_all_the_water/,,"You could look at openstreetmap.org's XML files for the area, but no guarantee they're complete or even as complete as Google Maps",
+
+l3atm28,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/l3atm28/,2024-05-09 16:16:25 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1cnxvnw/deleted_by_user/,l3asj07,"You're right. In my example, their x and y values are invalid for zoom level 12. They appear to be working with z offset by 9 z=12 -> z=21)
+
+It's probably some weird French thing.",
+
+l5vn3cb,https://www.reddit.com/r/gis/comments/1d1r34r/deleted_by_user/l5vn3cb/,2024-05-27 13:14:40 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1d1r34r/deleted_by_user/,,"If your maps are displayed on a computer screen, the scale will depend on the monitor resolution and the size at which the maps are displayed",
+
+l6ke8uc,https://www.reddit.com/r/gis/comments/1d5bj1l/deleted_by_user/l6ke8uc/,2024-06-01 01:59:20 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1d5bj1l/deleted_by_user/,,If you mean https://osm.org/go/4lbJWh-- then OSM appears to have them,
+
+l73hnet,https://www.reddit.com/r/gis/comments/1d82hhy/arcgis_server_list_i_curate_a_problem_has_popped/l73hnet/,2024-06-04 17:53:52 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1d82hhy/arcgis_server_list_i_curate_a_problem_has_popped/,,"> Many readers here know about the list I curate with 3,000+ addresses for mostly government ArcGIS server addresses
+
+I've never heard of you, but cool. I imagine gisdata.io folks will just scrape the PDF. If you're giving away information for free, you shouldn't object to people using it however they want.",
+
+l84jw95,https://www.reddit.com/r/gis/comments/1ddg4vp/manage_large_data_volumes/l84jw95/,2024-06-11 15:12:45 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ddg4vp/manage_large_data_volumes/,,"Is that about 2.18 GB, or am I misreading?
+
+If you're using GeoTIFFs, you can ""tile"" them so you don't have to read the whole file in at once-- you can just read the data you need directly off the disk (sort of like `seek`).
+
+I don't think GeoJSON does that, but you might consider simplifying or reducing the data if you don't need all of it.",
+
+l7o4cdi,https://www.reddit.com/r/gis/comments/1db1mxo/deleted_by_user/l7o4cdi/,2024-06-08 12:54:00 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1db1mxo/deleted_by_user/,,"Do you have a data source? If not, consider using GPW: https://sedac.ciesin.columbia.edu/data/collection/gpw-v4",
+
+l84b92q,https://www.reddit.com/r/gis/comments/1db1mxo/deleted_by_user/l84b92q/,2024-06-11 14:22:33 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1db1mxo/deleted_by_user/,,"I'm hesitant to post this, because my code is incomplete, non-optimal and not well-commented (I got sort of lazy towards the end), in the Julia language (not Python), and I'm not sure what level of programming you're at.
+
+You can go to worldpop.org to get the nld_ppp_2020_UNadj_constrained.tif file mentioned in the code.
+
+Roughly speaking, the code converts all the populated (non-0, non-NA) points in the TIF to the unit sphere in 3D, creates a KDTree of them, queries a given point with a given radius, and adds the population of all points found.
+
+Since I'm using the unit sphere and 3D, you have to convert stuff before querying. Obviously, a more polished version would use functions to do this. The code:
+
+```
+using ArchGDAL
+using Plots
+
+# TODO: generalize this to read large TIF files directly from disk
+
+# read all data into an array
+
+dataset = ArchGDAL.read(""nld_ppp_2020_UNadj_constrained.tif"")
+band = ArchGDAL.getband(dataset, 1)
+array = ArchGDAL.read(band)
+height = ArchGDAL.height(dataset)
+width = ArchGDAL.width(dataset)
+
+# find only points with Dutch people
+
+# NOTE: there are 1512630 such points out of height*width = 15849120
+# total points, so big savings here (nearly 90% decrease)
+
+dutchpts = findall(i -> i>0, array)
+
+# note these are parallel arrays; they are NOT Cartesian producted together
+
+lngs = [gt[1] + (i[1]-0.5)*gt[2] for i in dutchpts]
+lats = [gt[4] + (i[2]-0.5)*gt[6] for i in dutchpts]
+
+# determine x y z in 3D (TODO: double calc of sin(lat) is inefficient)
+
+xs = cosd.(lats) .* cosd.(lngs)
+ys = cosd.(lats) .* sind.(lngs)
+zs = sind.(lats)
+
+# uncomment this line to see what the points look like 
+
+# scatter3d(xs, ys, zs, markersize = 0.1)
+
+treepts = transpose(hcat(xs, ys, zs))
+
+tree = KDTree(treepts)
+
+# sample query point (Amsterdam)
+
+queryLat = 52.366668723027
+queryLng = 4.88333731194361
+
+# convert to x y z
+
+queryPt = [cosd(queryLat)*cosd(queryLng), cosd(queryLat)*sind(queryLng), sind(queryLat)]
+
+# convert 5km to xyz distance, assuming 6371.009 earth radius
+
+queryDist = asin(5/6371.009)
+
+# find points within this distance
+
+queryRes = inrange(tree, queryPt, queryDist)
+
+dp = dutchpts[queryRes]
+
+sum(array[dp])
+```",
+
+l8f9ahq,https://www.reddit.com/r/gis/comments/1de7o31/10_free_gis_data_sources/l8f9ahq/,2024-06-13 13:35:15 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1de7o31/10_free_gis_data_sources/,,gadm.org is fairly useful,
+
+l962i3t,https://www.reddit.com/r/gis/comments/1ditboj/question_about_downloading_nlcd_data_can_i_limit/l962i3t/,2024-06-18 15:38:10 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ditboj/question_about_downloading_nlcd_data_can_i_limit/,,"Thoughts:
+
+  - Unzip should let you pull out specific files without unzipping the whole archive
+
+  - You might be able to ""mount"" the zip file and treat it as a disk without uncompressing anything
+
+  - https://www.mrlc.gov/data-services-page lets you obtain data via WCS/WMS so you can limit what you get
+
+  - Temporarily spin up an Amazon/etc server, unzip, and download what you need (ugly)",
+
+la1bgop,https://www.reddit.com/r/gis/comments/1dn2vc9/prism_climate_group_data_download/la1bgop/,2024-06-24 11:48:52 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1dn2vc9/prism_climate_group_data_download/,,https://www.ncei.noaa.gov/products/land-based-station/integrated-surface-database may or may not help,
+
+lao1cfs,https://www.reddit.com/r/gis/comments/1dqh6wv/data_sources_for_first_project/lao1cfs/,2024-06-28 11:58:11 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1dqh6wv/data_sources_for_first_project/,,"This would be so much funnier if they were ""Asian Tiger Moms"". But probably racist",
+
+lanwfg1,https://www.reddit.com/r/gis/comments/1dqgyem/how_can_i_prevent_my_polygons_from_these/lanwfg1/,2024-06-28 11:16:30 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1dqgyem/how_can_i_prevent_my_polygons_from_these/,,Obvious question: do your polygons actually touch or is there a gap between them?,
+
+ld4bvl3,https://www.reddit.com/r/gis/comments/1e2wmf6/interactive_free_ma/ld4bvl3/,2024-07-14 10:18:50 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1e2wmf6/interactive_free_ma/,,"I believe QGIS has an online version and it's not that hard to use, but, if you're rolling your own, start with openstreetmap.org and leafletjs.com",
+
+lb516ns,https://www.reddit.com/r/gis/comments/1dsvkt2/how_do_i_solve_projection_problems_with_geopdfs/lb516ns/,2024-07-01 15:30:05 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1dsvkt2/how_do_i_solve_projection_problems_with_geopdfs/,,"I mean, there's gdalwarp",
+
+ldgkxny,https://www.reddit.com/r/gis/comments/1e4q2jv/geoserver_performance_issue/ldgkxny/,2024-07-16 15:10:47 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1e4q2jv/geoserver_performance_issue/,,Are you using geospatial indexing in PostGIS?,
+
+ldx9nw4,https://www.reddit.com/r/gis/comments/1e72z4j/latvia_bedrock_geology_shapefile/ldx9nw4/,2024-07-19 13:04:52 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1e72z4j/latvia_bedrock_geology_shapefile/,,http://kaart.maaamet.ee/wms/ENLB_Bedrock_Geology/wms? is 1:400K. You can get there starting at https://onegeology.org/,
+
+ldxgnye,https://www.reddit.com/r/gis/comments/1e73a2a/extract_latitude_and_longitude_of_a_map_subarea/ldxgnye/,2024-07-19 13:49:42 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1e73a2a/extract_latitude_and_longitude_of_a_map_subarea/,ldxfpg4,"Go to openstreetmap.org, find the area you're interested in and click ""download data""",
+
+ldxd3zt,https://www.reddit.com/r/gis/comments/1e73a2a/extract_latitude_and_longitude_of_a_map_subarea/ldxd3zt/,2024-07-19 13:27:26 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1e73a2a/extract_latitude_and_longitude_of_a_map_subarea/,,I mean openstreetmaps.org or even something like Google Maps would be my first idea. Is there a reason they wouldn't work for you?,
+
+lgbf4bg,https://www.reddit.com/r/gis/comments/1ej6c8g/google_earth_network_link_customization/lgbf4bg/,2024-08-03 16:08:10 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ej6c8g/google_earth_network_link_customization/,,"Are you coding in Google Earth Engine, or just overlaying?",
+
+lg4rvrw,https://www.reddit.com/r/gis/comments/1ei8q3x/determine_road_widths_from_tigerline_data/lg4rvrw/,2024-08-02 12:48:04 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ei8q3x/determine_road_widths_from_tigerline_data/,,Have you seen https://www.census.gov/library/reference/code-lists/mt-feature-class-codes.html,
+
+lgbqk7k,https://www.reddit.com/r/gis/comments/1ej6c8g/google_earth_network_link_customization/lgbqk7k/,2024-08-03 17:13:33 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ej6c8g/google_earth_network_link_customization/,lgbp9sw,https://earthengine.google.com/ should give you more control (unless that's what you're already using),
+
+lgslb2n,https://www.reddit.com/r/gis/comments/1ell5sf/historic_administrative_boundary_data_uk/lgslb2n/,2024-08-06 16:27:03 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ell5sf/historic_administrative_boundary_data_uk/,,openhistoricalmap.org ?,
+
+lh9l3hb,https://www.reddit.com/r/gis/comments/1enybtx/trying_to_find_minimum_distance_from_layer_where/lh9l3hb/,2024-08-09 12:34:47 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1enybtx/trying_to_find_minimum_distance_from_layer_where/,,"Are you familiar with `r.neighbors` and `v.kernel` in GRASS GIS? These allow you to create an ""aggregation map"" from existing maps",
+
+li5n57b,https://www.reddit.com/r/gis/comments/1es9pkv/assistance_with_converting_a_gml_file_to_kml_to/li5n57b/,2024-08-14 23:31:27 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1es9pkv/assistance_with_converting_a_gml_file_to_kml_to/,li5ha38,"Didn't know about /vsizip and so forth, thanks!",
+
+lhrppzv,https://www.reddit.com/r/gis/comments/1eqhu34/need_some_help_creating_an_online_interactive_map/lhrppzv/,2024-08-12 16:45:22 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1eqhu34/need_some_help_creating_an_online_interactive_map/,,"I mean, I'd personally use openstreetmap.org and leafletjs.com and host on Github Pages, but if you're not getting mapbox to work, you'll need to do some additional work first.
+
+Are your maps mostly color-based data or more complicated than that? Can you break the maps into ""tiles"" (which is what mapbox likes) so each tile is fairly small? What do you mean by ""interactive""? Do you want to add markers and stuff or do more than that?",
+
+lie6c6g,https://www.reddit.com/r/gis/comments/1et955u/how_many_miles_of_streetsroads_are_in_my_city/lie6c6g/,2024-08-16 12:07:27 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1et955u/how_many_miles_of_streetsroads_are_in_my_city/,,"/u/joemophobe nailed this. For those interested in the more general case, these are (sort of) called ""lane miles"" and you can read more about them here: https://www.fhwa.dot.gov/policyinformation/statistics/2020/",
+
+lidzsxd,https://www.reddit.com/r/gis/comments/1etlo4q/easily_generating_a_gdb/lidzsxd/,2024-08-16 11:17:46 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1etlo4q/easily_generating_a_gdb/,,"In GRASS GIS, you can `v.in.ogr` vector files, `v.patch` to combine them, and then `v.out.ogr` to output them in any format you'd like include GDB
+
+`ogr2ogr` can convert vector files to GDB too, but I think it can only do one at a time",
+
+lhrnjv2,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/lhrnjv2/,2024-08-12 16:33:56 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/,,"You could try geonames.org or openstreetmap.org or something, but naturalearthdata.com is fairly accurate. Did you find a missing island there?",
+
+li4cymy,https://www.reddit.com/r/gis/comments/1es9pkv/assistance_with_converting_a_gml_file_to_kml_to/li4cymy/,2024-08-14 19:15:34 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1es9pkv/assistance_with_converting_a_gml_file_to_kml_to/,,`ogr2ogr -f KML lfsa000b21a_e.kml lfsa000b21a_e.shp` worked for me (after unzipping the file you download),
+
+li9bkhe,https://www.reddit.com/r/gis/comments/1esyhm1/does_anybody_know_where_to_find_vector_or_shape/li9bkhe/,2024-08-15 16:02:51 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1esyhm1/does_anybody_know_where_to_find_vector_or_shape/,,openstreetmap.org is always my go-to,
+
+lhr81in,https://www.reddit.com/r/gis/comments/1eqfaxb/first_time_question_gis/lhr81in/,2024-08-12 15:11:12 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1eqfaxb/first_time_question_gis/,,"openstreetmap.org will have the data you need, and you can use any GIS tool (I use GRASS GIS myself, but Python has geopandas) to compute this. 150K actually doesn't sound too bad. Thanks to parallelization, Python can handle hundreds of millions of points efficiently",
+
+li8mkee,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/li8mkee/,2024-08-15 13:48:46 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/,,I just found https://rmgsc.cr.usgs.gov/gie/ which has 300K+ islands with 60K+ names. The latest geonames dump has 188606 islands with 125461 unique names. I'm going to try mixing and matching sources to see what I find,
+
+lhrs91w,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/lhrs91w/,2024-08-12 16:58:21 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/,lhrqzgq,"Hmm. Quoting https://www.naturalearthdata.com/downloads/
+
+>Natural Earth is the creation of many volunteers and is supported by NACIS
+
+where NACIS is the North American Cartographic Information Society (nacis.org)
+
+I suppose you could ask them for a more official source or have them confirm naturalearthdata.com
+
+If that doesn't work, wikipedia might have a list of islands, as might the CIA Handbook, online atlases by ""official"" companies, and so on.",
+
+lhs43x2,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/lhs43x2/,2024-08-12 17:59:29 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/,lhrz6re,My bad. I did know about GSHHG (https://www.soest.hawaii.edu/pwessel/gshhg/) but didn't realize it would be so different from naturalearthdata (someone should contact them). I also found https://www.britannica.com/topic/list-of-islands-2041456 which I'm sure counts as an official source. I wonder if someone can resolve the differences and update all the sources.,
+
+lhralsn,https://www.reddit.com/r/gis/comments/1eqgd04/arcgis_pro_how_do_i_make_my_map_look_less/lhralsn/,2024-08-12 15:25:11 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1eqgd04/arcgis_pro_how_do_i_make_my_map_look_less/,,"Stop projecting... no, I mean, start projecting. Project your map into a different transformation",
+
+lht8yqj,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/lht8yqj/,2024-08-12 21:32:46 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1eqi6gm/is_there_a_list_of_islands_around_the_world/,lht8ga4,"Well, crap, I've been using Natural Earth all over the place. What's a better source (ie, smaller islands but still named)? Is there one?",
+
+lhxac6f,https://www.reddit.com/r/gis/comments/1era7rf/making_a_map_that_shows_hardwood_vs_softwood/lhxac6f/,2024-08-13 15:33:27 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1era7rf/making_a_map_that_shows_hardwood_vs_softwood/,lhx99vk,https://www.youtube.com/watch?v=ZCJ925dEhSE,
+
+lhw84u5,https://www.reddit.com/r/gis/comments/1er449g/deleted_by_user/lhw84u5/,2024-08-13 11:39:06 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1er449g/deleted_by_user/,,"As /u/BlueMugData suggests, openstreetmap.org is a great resource. If the API doesn't work, try downloading the data file for Australia and looking up the addresses directly",
+
+ljp2kpe,https://www.reddit.com/r/gis/comments/1ezvv66/gis_analyst_ever_started_a_war/ljp2kpe/,2024-08-24 12:39:28 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ezvv66/gis_analyst_ever_started_a_war/,ljo63k0,Source: https://www.crcdaily.com/p/costa-rica-nicaragua-google-maps-war,
+
+lj1kaqh,https://www.reddit.com/r/gis/comments/1ewwaeo/are_there_any_services_that_provide_high/lj1kaqh/,2024-08-20 14:07:04 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ewwaeo/are_there_any_services_that_provide_high/,,"> but they don't seem to get updated often
+
+How often does elevation in Australia change? :)",
+
+lj24zbq,https://www.reddit.com/r/gis/comments/1ewwaeo/are_there_any_services_that_provide_high/lj24zbq/,2024-08-20 15:56:25 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ewwaeo/are_there_any_services_that_provide_high/,lj1y2ru,"Wow, I didn't know that. Does any of the LIDAR/etc satellite data collect real-time elevation information either directly or indirectly?",
+
+lkiftr5,https://www.reddit.com/r/gis/comments/1f43cdp/shortest_water_path_from_brisbane_to_cardiff/lkiftr5/,2024-08-29 14:53:25 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1f43cdp/shortest_water_path_from_brisbane_to_cardiff/,lkieavx,"OK, I tried this using the ""road graph"" plugin whose description states ""It solves the shortest path problem."" Was that correct one?
+
+When I try using it, it tells me to go Settings, which ask me about things like ""direction field"".
+
+I've run into something similar when trying the same thing with GRASS GIS, but I can't figure out how to make north-south cost different from east-west cost, even using `r.walk`",
+
+lki5ltr,https://www.reddit.com/r/gis/comments/1f42dx9/partial_coordinates_positions/lki5ltr/,2024-08-29 13:59:33 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1f42dx9/partial_coordinates_positions/,,"I mean openstreetmaps.org lets you look at some locations in a given area, but, to get every little thing, you'd have to download their data file (they might have an API). About how big an area do these partial coordinates cover?",
+
+lln537f,https://www.reddit.com/r/gis/comments/1f9oxkj/translate_wgs84_datum_to_mean_sea_level_msl/lln537f/,2024-09-05 15:30:36 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1f9oxkj/translate_wgs84_datum_to_mean_sea_level_msl/,,On https://earth-info.nga.mil/index.php?dir=wgs84&action=wgs84 there is a link to https://earth-info.nga.mil/php/download.php?file=egm-08interpolation which might help,
+
+lma01n4,https://www.reddit.com/r/gis/comments/1fcpkg0/deleted_by_user/lma01n4/,2024-09-09 13:58:34 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1fcpkg0/deleted_by_user/,,"OK, so you're searching for very specific shapefiles, not just shapefiles in general?",
+
+lopfg50,https://www.reddit.com/r/gis/comments/1fofcki/deleted_by_user/lopfg50/,2024-09-24 15:42:39 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1fofcki/deleted_by_user/,,"I mean, start with leafletjs.com, openstreetmap.org and any reasonably ""intelligent"" AI and you're 90% of the way there",
+
+lotwqep,https://www.reddit.com/r/gis/comments/1fozix5/online_spatial_data_for_qatar_and_uae/lotwqep/,2024-09-25 09:49:46 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1fozix5/online_spatial_data_for_qatar_and_uae/,,"Not an answer, but try googling `site:.gov.ae GIS` and `site:.gov.qa GIS` separately and without quotes to get some leads",
+
+lqyszc5,https://www.reddit.com/r/gis/comments/1fz0gwf/cross_reference_gps_dataset_with_a_specific_area/lqyszc5/,2024-10-08 17:06:37 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1fz0gwf/cross_reference_gps_dataset_with_a_specific_area/,,there's always openstreetmaps.org,
+
+lrw8pru,https://www.reddit.com/r/gis/comments/1g3jdpe/deleted_by_user/lrw8pru/,2024-10-14 16:14:10 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1g3jdpe/deleted_by_user/,,"gadm.org is the only other source I know off the top of my head
+
+Unless you mean SRTM1 or some other elevation data which you might be able to use implicitly to get land/water",
+
+lsty0n1,https://www.reddit.com/r/gis/comments/1g7xft8/an_app_to_transform_your_spatial_data_for/lsty0n1/,2024-10-20 12:24:03 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1g7xft8/an_app_to_transform_your_spatial_data_for/,,"I believe S3 files are ""seekable"" so you can access portions of the files without having to read the entire file. Tools like gdalinfo and GRASS GIS can work with data that's too large to fit into memory, and GIS files are often structured to make querying easier (eg, tiled TIFFs). Are you thinking about an app that would leverage these properties?",
+
+lwwb5o4,https://www.reddit.com/r/gis/comments/1gq9su8/is_this_us_army_map_service_map_projected/lwwb5o4/,2024-11-13 10:33:00 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1gq9su8/is_this_us_army_map_service_map_projected/,,"I'm guessing you're already aware of this and sure it even helps otherwise, but the top black bar of your map has y pixel value of 149 at the top left corner and y pixel value of 152 at the top right corner. In other owrds, the scan itself is slightly tilted. This difference of 3 pixels occurs between x pixels 131 and 4866, so it's not huge, but it might explain the issue",
+
+lzkypgf,https://www.reddit.com/r/gis/comments/1h2pv94/deleted_by_user/lzkypgf/,2024-11-29 16:59:08 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1h2pv94/deleted_by_user/,,Would you be up for doing GIS in Julia? (combined with some GRASS GIS)?,
+
+lz9mzli,https://www.reddit.com/r/gis/comments/1h18tv3/identifying_corner_lots/lz9mzli/,2024-11-27 16:57:44 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1h18tv3/identifying_corner_lots/,,"Do you have or can you determine which lots are adjacent to each other? If so, lots with 2 adjacencies may do what you want",
+
+m0jt0r2,https://www.reddit.com/r/gis/comments/1h7az7r/coordinate_system_issues_things_showing_up_in/m0jt0r2/,2024-12-05 15:23:31 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1h7az7r/coordinate_system_issues_things_showing_up_in/,m0jqgtd,"According to the always unreliable AI, `NAD83` and `NAD83 UTM` are two separate projections. That might be it",
+
+m0jpeyd,https://www.reddit.com/r/gis/comments/1h7az7r/coordinate_system_issues_things_showing_up_in/m0jpeyd/,2024-12-05 15:03:33 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1h7az7r/coordinate_system_issues_things_showing_up_in/,,"If the data's not private, can we see it? NAD27 and NAD83 aren't all that different: even using a bad projection it should get close to the true location",
+
+m11905i,https://www.reddit.com/r/gis/comments/1h9jeje/abu_dhabi_bus/m11905i/,2024-12-08 14:34:29 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1h9jeje/abu_dhabi_bus/,,"General advice: have you checked the city/country (UAE) official website? If not, openstreetmap.org may help",
+
+m2dwnpz,https://www.reddit.com/r/gis/comments/1hfscfd/looking_for_data_repositories/m2dwnpz/,2024-12-16 20:39:20 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1hfscfd/looking_for_data_repositories/,,https://www.iucnredlist.org/ has a large amount of biodiversity data,
+
+m3vt4xc,https://www.reddit.com/r/gis/comments/1hmq793/commercial_land_coverage_data/m3vt4xc/,2024-12-26 15:14:28 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1hmq793/commercial_land_coverage_data/,,What resolution do you seek and what specific type of land cover data are you looking for. I'm assuming https://www.esa-landcover-cci.org/ and https://globalmaps.github.io/glcnmo.html do not suffice,
+
+m3w3po4,https://www.reddit.com/r/gis/comments/1hmq793/commercial_land_coverage_data/m3w3po4/,2024-12-26 16:17:49 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1hmq793/commercial_land_coverage_data/,m3vykio,"I know NED (https://www.usgs.gov/publications/national-elevation-dataset) has elevation down to 1/9 arcsecond for some parts of the USA, but don't know what else they have. I assume https://earthexplorer.usgs.gov/ proved fruitless",
+
+m5dko3s,https://www.reddit.com/r/gis/comments/1hti4z7/is_it_possible_to_download_georeferenced_data/m5dko3s/,2025-01-04 16:56:33 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1hti4z7/is_it_possible_to_download_georeferenced_data/,,"If you download the complete web page (most browsers now do this) then look at the ""common.js"" file in the ""Guida Immersioni - Logbook Immersioni_files"" subdirectory, you'll find strings like this:
+
+`%2017.2027%2042.1808%20`
+
+The `%20` is just a space character, so the longitude here is 17.2027 and the latitude here is 42.1808
+
+However, it seems they pull all the other info when you click on a marker, so positions is the only thing I could find directly",
+
+m6g0jsm,https://www.reddit.com/r/gis/comments/1hyb1ri/anyone_know_of_a_high_quality_oceans_dataset/m6g0jsm/,2025-01-10 18:34:24 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1hyb1ri/anyone_know_of_a_high_quality_oceans_dataset/,,"""bathymetry"" might be the fancy word you want to google. Unless you're just talking about the surface level in which case go with /u/nvr_smile comment",
+
+m6ey6dk,https://www.reddit.com/r/gis/comments/1hy5ff8/looking_for_open_source_api_for_land_cover_data/m6ey6dk/,2025-01-10 15:28:19 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1hy5ff8/looking_for_open_source_api_for_land_cover_data/,,I use https://www.esa-landcover-cci.org/ and https://globalmaps.github.io/glcnmo.html but these might be lower resolution than you need,
+
+m74t8qb,https://www.reddit.com/r/gis/comments/1i1bsy2/where_should_i_start_with_ai_for_gis/m74t8qb/,2025-01-14 17:58:36 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1i1bsy2/where_should_i_start_with_ai_for_gis/,,"ChatGPT and Copilot can be quite helpful to a point. If you ask them overly technical questions they get confused, but they're OK with the basics. Or did you mean something else entirely?",
+
+m80hkp0,https://www.reddit.com/r/gis/comments/1i53t7v/how_do_i_make_a_plotly_map_more_accurate/m80hkp0/,2025-01-19 17:32:48 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1i53t7v/how_do_i_make_a_plotly_map_more_accurate/,,What's your data source?,
+
+m80qrep,https://www.reddit.com/r/gis/comments/1i53t7v/how_do_i_make_a_plotly_map_more_accurate/m80qrep/,2025-01-19 18:15:15 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1i53t7v/how_do_i_make_a_plotly_map_more_accurate/,m80l9y8,Agreed. Both naturalearthdata.com and gadm.org should have more detailed shapefiles,
+
+m85qxl7,https://www.reddit.com/r/gis/comments/1i5q890/shp_files_for_rivers/m85qxl7/,2025-01-20 13:51:49 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1i5q890/shp_files_for_rivers/,,"https://www.naturalearthdata.com/downloads/10m-physical-vectors/ might help
+
+https://www.soest.hawaii.edu/pwessel/gshhg/ is one I've actually used, but it might be outdated",
+
+mbblgy6,https://www.reddit.com/r/gis/comments/1ij79m1/need_help_remembering_old_esri_web_software_name/mbblgy6/,2025-02-06 17:06:38 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1ij79m1/need_help_remembering_old_esri_web_software_name/,,giscafe.com? If you visit https://www.giscafe.com/nbc/articles/1/1081854/Responsiveness-Reliability-ArcUser-Online it redirects to https://www.esri.com/news/arcuser/0312/responsiveness-and-reliability.html,
+
+mi46oen,https://www.reddit.com/r/gis/comments/1jcq392/income_data_in_the_usa/mi46oen/,2025-03-16 17:09:30 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1jcq392/income_data_in_the_usa/,,"How far did you get on census.gov? The Census publishes data down to blockgroup level, a subdivision of census tracts. Internally, they have data at the block level, but don't release this data for privacy reasons",
+
+mi57ot8,https://www.reddit.com/r/gis/comments/1jctuu3/where_to_learn_python_andor_sql/mi57ot8/,2025-03-16 20:11:26 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1jctuu3/where_to_learn_python_andor_sql/,,"I'm working with Julia and GIS (also GRASS GIS). I'm not sure I can help, but I'm commenting here because I want to see other replies to this question",
+
+mi47wu6,https://www.reddit.com/r/gis/comments/1jcq392/income_data_in_the_usa/mi47wu6/,2025-03-16 17:15:32 UTC,,gis,0,https://www.reddit.com/r/gis/comments/1jcq392/income_data_in_the_usa/,mi47bud,Did you get as far as https://www.census.gov/data/developers/data-sets/acs-5year.html,
+
+mk1855g,https://www.reddit.com/r/gis/comments/1jl7jq5/why_is_it_so_darn_hard_to_find_good_resources_on/mk1855g/,2025-03-27 16:15:59 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1jl7jq5/why_is_it_so_darn_hard_to_find_good_resources_on/,,I only sorta skimmed the docs: is deck.gl client side?,
+
+mkji9wv,https://www.reddit.com/r/gis/comments/1jm1qjj/dem_is_too_big_to_clip_or_work_with/mkji9wv/,2025-03-30 16:40:10 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1jm1qjj/dem_is_too_big_to_clip_or_work_with/,mkjey6y,"OK, that's listed as SRTM-1 data. What portion of it do you need (latitude and longitude range)?",
+
+mk87bo9,https://www.reddit.com/r/gis/comments/1jm1qjj/dem_is_too_big_to_clip_or_work_with/mk87bo9/,2025-03-28 18:27:34 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1jm1qjj/dem_is_too_big_to_clip_or_work_with/,,"There are many GIS tools, including GRASS GIS and command line ogr/gdal tools, that will handle files that are too large for memory. Look into these and ask further if you're still having trouble",
+
+mkj46hs,https://www.reddit.com/r/gis/comments/1jm1qjj/dem_is_too_big_to_clip_or_work_with/mkj46hs/,2025-03-30 15:26:35 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1jm1qjj/dem_is_too_big_to_clip_or_work_with/,mkj29m2,Can you share your data source and what region you'd like data for? Maybe one of us will get bored and do it for you. Are you using the SRTM1 data or something else?,
+
+mp6w3lm,https://www.reddit.com/r/gis/comments/1k8k3sf/3d_building_view_no_data/mp6w3lm/,2025-04-26 18:58:35 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1k8k3sf/3d_building_view_no_data/,,openstreetmap.org may have building location and height data,
+
+mphffpt,https://www.reddit.com/r/gis/comments/1k9w32c/reproducing_google_earth_pro_area_measurements_in/mphffpt/,2025-04-28 13:59:21 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1k9w32c/reproducing_google_earth_pro_area_measurements_in/,,Could you give us an example? The difference MIGHT be that one is treating lines between points as loxodromes while the other is treating them as geodesics.,
+
+mprw8cz,https://www.reddit.com/r/gis/comments/1kb5s4n/unable_to_create_locator/mprw8cz/,2025-04-30 02:33:45 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kb5s4n/unable_to_create_locator/,,"I'm pretty sure usps.gov has an address standardizer which should help you geolocate, but I'm not sure it's free for largescale use",
+
+mqpr5wc,https://www.reddit.com/r/gis/comments/1kfd9h4/received_a_job_offer_for_a_gis_position_with/mqpr5wc/,2025-05-05 14:46:12 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kfd9h4/received_a_job_offer_for_a_gis_position_with/,,"This is probably legitimate, but sounds a bit suss. The job market is tight, and it seems weird that an employer would pay to educate someone vs hiring someone qualified. What kind of certification are they paying for? Or do you get to choose?
+
+My ""humanity sucks"" prediction: at some point, they'll as you to pay a ""small amount"" to cover the free education.",
+
+mput8fl,https://www.reddit.com/r/gis/comments/1kbj55a/usgs_status/mput8fl/,2025-04-30 15:31:13 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kbj55a/usgs_status/,mput0jo,Agreed. Now is not the time to be job-hopping,
+
+mqvghzm,https://www.reddit.com/r/gis/comments/1kg30mg/lizmap_the_web_portal_for_the_rest_of_us/mqvghzm/,2025-05-06 12:27:51 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kg30mg/lizmap_the_web_portal_for_the_rest_of_us/,,I thought QGIS was the open-source alternative to ArcGIS. Are you affiliated with Liz Map?,
+
+mt4zrwj,https://www.reddit.com/r/gis/comments/1kqe2yu/use_cases_of_parcel_data_looking_for_inputs_on/mt4zrwj/,2025-05-19 15:43:12 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kqe2yu/use_cases_of_parcel_data_looking_for_inputs_on/,mt4yfl0,"I'm not a lawyer, but it was an ""easement"" on a deed my parents had.",
+
+ms35x8x,https://www.reddit.com/r/gis/comments/1kllsni/where_could_i_find_high_quality_gis_data_on/ms35x8x/,2025-05-13 13:25:21 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kllsni/where_could_i_find_high_quality_gis_data_on/,,Have you tried gadm.org?,
+
+mt56068,https://www.reddit.com/r/gis/comments/1kqf80g/measurement_terms/mt56068/,2025-05-19 16:14:01 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kqf80g/measurement_terms/,,"Here are some random words: geodesic distance, slope",
+
+mt4vk5a,https://www.reddit.com/r/gis/comments/1kqe2yu/use_cases_of_parcel_data_looking_for_inputs_on/mt4vk5a/,2025-05-19 15:21:58 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kqe2yu/use_cases_of_parcel_data_looking_for_inputs_on/,,"When you're working with data, it's not a good idea to abbreviate ""right of way"" as ROW. A utility right of way or easement means the utility has the right to enter otherwise private property in order to perform utility-related tasks. It's usually spelled out in the deed. I'm not sure if this is helpful",
+
+mti6gc2,https://www.reddit.com/r/gis/comments/1ks2whu/what_type_of_projection_does_this_map_use/mti6gc2/,2025-05-21 17:08:23 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1ks2whu/what_type_of_projection_does_this_map_use/,,equirectangular cylinderical,
+
+mudpk8c,https://www.reddit.com/r/gis/comments/1kw0uw5/esri_world_country_shapefile_not_downloading/mudpk8c/,2025-05-26 18:04:08 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kw0uw5/esri_world_country_shapefile_not_downloading/,,"I'm getting the same thing, but the ""File Geodatabase"" link works and the resulting file is World_Countries_5993232771488256085.zip (though the long number may change when you download)",
+
+mvm5yjg,https://www.reddit.com/r/gis/comments/1l1mg9h/i_am_looking_for_volunteers_with_programming/mvm5yjg/,2025-06-02 16:44:09 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1l1mg9h/i_am_looking_for_volunteers_with_programming/,,I'm not sure algorithmic governance is a good idea. Computer models and predictions can be wrong and sometimes biased,
+
+mvmci1m,https://www.reddit.com/r/gis/comments/1l1mg9h/i_am_looking_for_volunteers_with_programming/mvmci1m/,2025-06-02 17:14:47 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1l1mg9h/i_am_looking_for_volunteers_with_programming/,mvmac0a,"The mathematical problem here is we provide AI with information WE think is important which is already biased. If we actually told AI to consider every possible division of a population (Bell number), it would, correctly, not be able to tell us anything",
+
+muqloim,https://www.reddit.com/r/gis/comments/1kxnmzk/im_19yo_and_very_confused_as_to_how_to_pursue_a/muqloim/,2025-05-28 17:55:50 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1kxnmzk/im_19yo_and_very_confused_as_to_how_to_pursue_a/,,So you're looking for a roadmap to GIS? :),
+
+mvmbx4s,https://www.reddit.com/r/gis/comments/1l1mg9h/i_am_looking_for_volunteers_with_programming/mvmbx4s/,2025-06-02 17:12:07 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1l1mg9h/i_am_looking_for_volunteers_with_programming/,mvma3yn,"But can it? And how would you know that it can? If you test the model and it works for a given amount of time, how do you know it will continue working so that you can use it for governance?",
+
+myzf2if,https://www.reddit.com/r/gis/comments/1lguy4s/how_big_is_a_vector_mbtiles_file_for_the_entire/myzf2if/,2025-06-21 13:30:47 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1lguy4s/how_big_is_a_vector_mbtiles_file_for_the_entire/,,"As /u/vhiet notes, there are ~4.3 billion tiles at level 16, and ~8.6 billion tiles from levels 0-16. PNG files are highly compressible in general and even moreso with programs like optipng and pngcrush, and many tiles are empty ocean (so you can use symlinks to have a single ""ocean"" tile) or pure ""white space"", but, even allowing for all that, it's unlikely you could average fewer than 1000 bytes per tile, which would be a minimum of 8.6 terabytes",
+
+myzxhfm,https://www.reddit.com/r/gis/comments/1lguy4s/how_big_is_a_vector_mbtiles_file_for_the_entire/myzxhfm/,2025-06-21 15:16:02 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1lguy4s/how_big_is_a_vector_mbtiles_file_for_the_entire/,myzry3s,"OK, I think I'm misunderstanding. I thought you meant raster tiles as in images overlaid on (for example) Leaflet. If you mean vector tiles, they're the same size as you download and you can even use them ""as is"" in compressed format, though it can be slower.",
+
+n0ajfy2,https://www.reddit.com/r/gis/comments/1lmuv6u/i_need_help_with_turning_a_static_map_to_an/n0ajfy2/,2025-06-28 19:44:32 UTC,98.48.122.229,gis,0,https://www.reddit.com/r/gis/comments/1lmuv6u/i_need_help_with_turning_a_static_map_to_an/,,"I'd use Leaflet myself, but, as others note, there may be better solutions",

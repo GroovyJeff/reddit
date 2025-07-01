@@ -1,0 +1,38 @@
+
+krx6tvm,https://www.reddit.com/r/Python/comments/1ayvf5z/why_does_programiz_python_doesnt_work_anymore/krx6tvm/,2024-02-24 14:21:19 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1ayvf5z/why_does_programiz_python_doesnt_work_anymore/,krx6mxa,"You're right. When I try to ""save"" my code, it says ""Redirecting you to our new Python IDE that supports saving, sharing, working with files & installing packages."" and takes me to https://programiz.pro/ide/python?utm_source=compiler-nav-save&utm_medium=referral&utm_campaign=programiz
+
+Maybe try that page instead?",
+
+krx8a42,https://www.reddit.com/r/Python/comments/1ayvf5z/why_does_programiz_python_doesnt_work_anymore/krx8a42/,2024-02-24 14:31:47 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1ayvf5z/why_does_programiz_python_doesnt_work_anymore/,krx7zut,"Worked for me, maybe go to the old version, click on Save and it will redirect you properly?",
+
+krx6gsy,https://www.reddit.com/r/Python/comments/1ayvf5z/why_does_programiz_python_doesnt_work_anymore/krx6gsy/,2024-02-24 14:18:42 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1ayvf5z/why_does_programiz_python_doesnt_work_anymore/,,I visited https://www.programiz.com/python-programming/online-compiler/ and the 'hello world' example appears to be working. What are you getting?,
+
+kqukn3q,https://www.reddit.com/r/Python/comments/1at4au9/python_cool_module_ideas/kqukn3q/,2024-02-17 15:31:29 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1at4au9/python_cool_module_ideas/,,"Maybe write a module that makes it easier to create cartograms in Python? geopandas and other packages can presumably do this, but every writeup I've read seems complicated",
+
+l4g8348,https://www.reddit.com/r/Python/comments/1cu2bpv/homoiconic_python_code/l4g8348/,2024-05-17 13:07:25 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1cu2bpv/homoiconic_python_code/,,Did you write this guide?,
+
+lbw509h,https://www.reddit.com/r/Python/comments/1dwpkzj/sharing_small_programs_that_doesnt_require_q_login/lbw509h/,2024-07-06 13:45:08 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1dwpkzj/sharing_small_programs_that_doesnt_require_q_login/,,Is it repl.it?,
+
+ldgff2v,https://www.reddit.com/r/Python/comments/1e4p32p/deleted_by_user/ldgff2v/,2024-07-16 14:39:45 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1e4p32p/deleted_by_user/,ldge8oh,"geopandas of course (as you note), and also:
+
+  - PIL (Python Image Library)
+  - scipy.spatial
+  - numpy
+
+There are a few others I tried using early on (shapely and fiona for example), but I'm pretty sure their functions or equivalents are incorporated into geopandas",
+
+ldgblrw,https://www.reddit.com/r/Python/comments/1e4p32p/deleted_by_user/ldgblrw/,2024-07-16 14:17:33 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1e4p32p/deleted_by_user/,,"It really depends on what you're doing. I'm into math, so numpy and sympy are really useful, though I actually use Mathics (a Python program) instead of using sympy directly. I'm also into GIS but those libraries aren't really useful to most people",
+
+lfc4lt1,https://www.reddit.com/r/Python/comments/1ee7ivw/deleted_by_user/lfc4lt1/,2024-07-28 13:55:29 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1ee7ivw/deleted_by_user/,,Could you give us a few more examples? I'm not 100% sure what you're trying to do.,
+
+lfzvije,https://www.reddit.com/r/Python/comments/1ehk3ns/which_is_better_python_or_c/lfzvije/,2024-08-01 16:18:05 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1ehk3ns/which_is_better_python_or_c/,,This survey might be subject to selection bias,
+
+lj97o3o,https://www.reddit.com/r/Python/comments/1exxllm/deleted_by_user/lj97o3o/,2024-08-21 18:59:54 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1exxllm/deleted_by_user/,,Are you affiliated with Coconut?,
+
+ljep0is,https://www.reddit.com/r/Python/comments/1eyoq2w/looking_for_dev_w_api_and_data_analysis_experience/ljep0is/,2024-08-22 17:14:01 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1eyoq2w/looking_for_dev_w_api_and_data_analysis_experience/,,Rule 3: please provide more information,
+
+lkhho8d,https://www.reddit.com/r/Python/comments/1f3z83t/building_a_custom_paint_store_time_and_cost/lkhho8d/,2024-08-29 11:26:05 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1f3z83t/building_a_custom_paint_store_time_and_cost/,,"Ah, yes, 50 Shades of White. I think the biggest issue you'll face is that colors don't look the same on different monitors based on their settings and that it might be impossible to display ""printed"" color (CYMK) as ""light projected"" color (RGB). Solve that problem and you'll have something",
+
+mffe3qv,https://www.reddit.com/r/Python/comments/1j0ywe1/deleted_by_user/mffe3qv/,2025-03-01 13:26:06 UTC,,Python,0,https://www.reddit.com/r/Python/comments/1j0ywe1/deleted_by_user/,,Is there a website link? This seems a little spammy with just a youtube link,
+
+mmqw3md,https://www.reddit.com/r/Python/comments/1jxjrky/does_is_actually_matter_that_python_is_a_simple/mmqw3md/,2025-04-12 15:31:03 UTC,98.48.122.229,Python,0,https://www.reddit.com/r/Python/comments/1jxjrky/does_is_actually_matter_that_python_is_a_simple/,,"As much as I hate Python, pretty much all procedural languages are the same and are thus real languages. It'd be nice if everyone agreed on syntax, but that's a minor issue. Python does what any language, including psuedo-code, can do",

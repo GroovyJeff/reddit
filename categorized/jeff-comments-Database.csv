@@ -1,0 +1,4 @@
+
+mldvpxq,https://www.reddit.com/r/Database/comments/1jrdqk1/how_to_convince_colleague_that_they_shouldnt_use/mldvpxq/,2025-04-04 15:05:23 UTC,98.48.122.229,Database,0,https://www.reddit.com/r/Database/comments/1jrdqk1/how_to_convince_colleague_that_they_shouldnt_use/,,It decreases portability since some SQL server software doesn't allow dots in table names. I'm actually somewhat surprised your db doesn't treat tablename.project.date as the field 'date' in the table 'project' in the database 'tablename',
+
+mldye2h,https://www.reddit.com/r/Database/comments/1jrdqk1/how_to_convince_colleague_that_they_shouldnt_use/mldye2h/,2025-04-04 15:18:44 UTC,98.48.122.229,Database,0,https://www.reddit.com/r/Database/comments/1jrdqk1/how_to_convince_colleague_that_they_shouldnt_use/,mldxstb,"No, even x.y.z would be interpreted as the field z in the table y in the database x",

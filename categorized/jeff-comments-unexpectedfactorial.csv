@@ -1,0 +1,12 @@
+
+mi40gbh,https://www.reddit.com/r/unexpectedfactorial/comments/1jcpdom/thats_a_lot_of_members/mi40gbh/,2025-03-16 16:38:15 UTC,,unexpectedfactorial,0,https://www.reddit.com/r/unexpectedfactorial/comments/1jcpdom/thats_a_lot_of_members/,,"Since factorial is a non-associative unary operator, and `!!` means semi-factorial, not factorial of a factorial, what does `200!!!` actually mean:
+
+  - `(200!)!!` semifactorial of 200 factorial
+
+  - `(200!!)!` factorial of the semifactorial of 200
+
+  - `((200!)!)!` the factorial of the factorial of the factorial of 200
+
+  - `200!!!` something else entirely like `200 * 197 * 194 * ... * 2`
+
+  - Meaningless because it's not a valid mathematical utterance",

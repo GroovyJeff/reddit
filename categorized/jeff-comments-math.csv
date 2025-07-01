@@ -1,0 +1,238 @@
+
+kgqo1vx,https://www.reddit.com/r/math/comments/190ucqr/measurements/kgqo1vx/,2024-01-07 15:33:11 UTC,,math,0,https://www.reddit.com/r/math/comments/190ucqr/measurements/,,"Ultimately, in the United States, [nist.gov](https://nist.gov) defines the exact measurement of things: [https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8](https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8)",
+
+kqzq8qo,https://www.reddit.com/r/math/comments/1atuvq4/deleted_by_user/kqzq8qo/,2024-02-18 14:27:39 UTC,,math,0,https://www.reddit.com/r/math/comments/1atuvq4/deleted_by_user/,,"You could try formally copyrighting your work, which would register it with the US Copyright Office. However, I'm not sure that'll be enough. Maybe get a free consult with a lawyer or ask /r/law on the more general question: how can I show I created a document at a given time, in particular before someone created a related document
+
+EDIT: see also https://en.wikipedia.org/wiki/Trusted_timestamping for a more computer-y approach",
+
+kr5sixe,https://www.reddit.com/r/math/comments/1auqoco/website_for_constants/kr5sixe/,2024-02-19 17:06:46 UTC,,math,0,https://www.reddit.com/r/math/comments/1auqoco/website_for_constants/,,Try http://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html,
+
+kquqxa3,https://www.reddit.com/r/math/comments/1at50tr/is_there_a_way_to_find_all_the_prime_factors_of_a/kquqxa3/,2024-02-17 16:08:16 UTC,,math,0,https://www.reddit.com/r/math/comments/1at50tr/is_there_a_way_to_find_all_the_prime_factors_of_a/,,https://en.wikipedia.org/wiki/General_number_field_sieve,
+
+krx3dv3,https://www.reddit.com/r/math/comments/1ayur2f/is_it_possible_to_construct_a_rigorous_measure_or/krx3dv3/,2024-02-24 13:55:49 UTC,,math,0,https://www.reddit.com/r/math/comments/1ayur2f/is_it_possible_to_construct_a_rigorous_measure_or/,,"Off the top of my head, you could define a measure by looking at the difference of prime powers between two numbers. For example `2^a * 3^b` and `2^c * 3^d` would be `|a-d| + |b-c|` apart. Prime factors missing from one number would be treated as 0. For example `2^a * 3^b` and `2^c * 7^d` would be `|a-c| + |b-0| + |d-0|` apart. Not sure how useful this would be.",
+
+kvg60l7,https://www.reddit.com/r/math/comments/1bhu8wi/what_are_you_working_on_march_18_2024/kvg60l7/,2024-03-18 16:47:56 UTC,,math,0,https://www.reddit.com/r/math/comments/1bhu8wi/what_are_you_working_on_march_18_2024/,,"Another thing I'm working on (and could use some help with) is figuring out spherical rectangles. I originally thought states like Wyoming and Colorado were spherical rectangles, but now I suspect they are spherical trapezoids.
+
+I'm trying to generate random rectangles in 3D space (not as easy as it sounds) and project them to the sphere to see what they look like.
+
+Part of this is to answer the (reddit post inspired) question re ""what's the largest spherical rectangle you can fit into a given island/country/sovereignty?""",
+
+kvg2eu8,https://www.reddit.com/r/math/comments/1bhu8wi/what_are_you_working_on_march_18_2024/kvg2eu8/,2024-03-18 16:27:34 UTC,,math,0,https://www.reddit.com/r/math/comments/1bhu8wi/what_are_you_working_on_march_18_2024/,,"Just for fun (and to answer a reddit post), I'm trying to find the ""pole of inaccessibility"" (https://en.wikipedia.org/wiki/Pole_of_inaccessibility) for each sovereignty (countries like Greenland and Scotland, for example, aren't sovereign because they belong to Denmark and the United Kingdom respectively), and then find the sovereignty whose pole of inaccessibility has the shortest length: colloquially, the country it's hardest to get far away from.
+
+For many countries, this will be trivial and uninteresting, but for nations with island dependencies (including the US, UK, and France), it could be interesting.",
+
+kvl9u15,https://www.reddit.com/r/math/comments/1bikxcl/internalizing_math_concepts_with_unwieldy_verbal/kvl9u15/,2024-03-19 15:28:20 UTC,,math,0,https://www.reddit.com/r/math/comments/1bikxcl/internalizing_math_concepts_with_unwieldy_verbal/,,"> I find my best understanding of mathematical ideas happens when I can express equations mentally in the form of sentences
+
+There's nothing wrong with that. I find it easier to think in mathematical symbols, which I find must more efficient and well defined, especially given the vagaries of the English language. You might try this to see if it works for you, but don't worry if it doesn't",
+
+kvghayq,https://www.reddit.com/r/math/comments/1bhwosz/not_sure_if_this_is_the_right_place_but_i_have_a/kvghayq/,2024-03-18 17:51:20 UTC,,math,0,https://www.reddit.com/r/math/comments/1bhwosz/not_sure_if_this_is_the_right_place_but_i_have_a/,,"You corrected yourself in your comment, so the only thing to keep in mind is that less populated nations/etc will have a higher variance/standard deviation simply because there are fewer samples. This is why extreme statistics (highest and lowest values) will often exclude areas with low population.",
+
+l00cow2,https://www.reddit.com/r/math/comments/1c6dk42/quick_questions_april_17_2024/l00cow2/,2024-04-17 16:41:06 UTC,,math,0,https://www.reddit.com/r/math/comments/1c6dk42/quick_questions_april_17_2024/,l00any0,"Equal cardinality means there *EXISTS* a function that maps N to Q that is onto Q. It doesn't mean *EVERY* 1-to-1 function mapping N to Q is also onto.
+
+The function `f(n) = n + 10` maps N to itself in a 1-to-1 manner but is not onto. That doesn't mean |N| != |N|
+
+I thought Cantor's diagonal argument showed N was not the same size as R, but you may mean a different diagonal argument",
+
+kwv8umx,https://www.reddit.com/r/math/comments/1bpe288/check_if_one_value_from_a_set_is_different_from/kwv8umx/,2024-03-27 22:15:36 UTC,,math,0,https://www.reddit.com/r/math/comments/1bpe288/check_if_one_value_from_a_set_is_different_from/,,"By definition, set elements are unique, so I'm not sure what you're asking",
+
+ky6367d,https://www.reddit.com/r/math/comments/1buw9ou/quick_questions_april_03_2024/ky6367d/,2024-04-05 13:36:05 UTC,,math,0,https://www.reddit.com/r/math/comments/1buw9ou/quick_questions_april_03_2024/,ky61zkp,Do Twitch streamers count?,
+
+l0vz8nr,https://www.reddit.com/r/math/comments/1cb4668/deleted_by_user/l0vz8nr/,2024-04-23 13:41:10 UTC,,math,0,https://www.reddit.com/r/math/comments/1cb4668/deleted_by_user/,,"Here's a fun one: find a few random nontechnical scientific journals, expose the statistical fallacies in the published papers' methodologies, and demand the journal retract them based on your findings.",
+
+l3koaa7,https://www.reddit.com/r/math/comments/1cpcr2g/a_strange_story_from_topology_does_anyone_know/l3koaa7/,2024-05-11 13:45:29 UTC,,math,0,https://www.reddit.com/r/math/comments/1cpcr2g/a_strange_story_from_topology_does_anyone_know/,l3kmrxz,"Oh, I didn't see a link so I thought I'd provide one",
+
+l3kknrj,https://www.reddit.com/r/math/comments/1cpcr2g/a_strange_story_from_topology_does_anyone_know/l3kknrj/,2024-05-11 13:17:53 UTC,,math,0,https://www.reddit.com/r/math/comments/1cpcr2g/a_strange_story_from_topology_does_anyone_know/,,One source of quote (doesn't necessarily help): https://www.csee.umbc.edu/courses/undergraduate/CMSC331/resources/papers/proofs.pdf,
+
+l3kos0b,https://www.reddit.com/r/math/comments/1cn857g/quick_questions_may_08_2024/l3kos0b/,2024-05-11 13:49:10 UTC,,math,0,https://www.reddit.com/r/math/comments/1cn857g/quick_questions_may_08_2024/,l3kmyz8,"This is ""almost"" true. If a number is normal (https://en.wikipedia.org/wiki/Normal\_number), then it will contain the first million digits of pi, first million digits of e, first million digits of sqrt(4) (which is just 200000000...), and so on. However, it won't necessarily contain all infinite digits of pi, at least not in a row. If it did, there wouldn't be room for any other irrational numbers. Note that the inclusion of any series of digits applies to ALL normal numbers not just pi (which we don't even know is normal) or e or sqrt(2) or whatever",
+
+l4vjhtg,https://www.reddit.com/r/math/comments/1cwfumb/deleted_by_user/l4vjhtg/,2024-05-20 13:59:52 UTC,,math,0,https://www.reddit.com/r/math/comments/1cwfumb/deleted_by_user/,,"Sus is correct. One way to think about it: if Ko chose 9 (instead of rolling a die) and Sus chose 7 (instead of a rolling a die), they'd both have a 10% chance of winning.
+
+Rolling a d8 just limits what Sus's ""guess"" is, but the chance of hitting that guess is still 10%
+
+The result is indeed counter-intuitive",
+
+l4lj9ar,https://www.reddit.com/r/math/comments/1cuwp70/unexpected_pi_appearance/l4lj9ar/,2024-05-18 13:29:12 UTC,,math,0,https://www.reddit.com/r/math/comments/1cuwp70/unexpected_pi_appearance/,,"This is OEIS 024916 https://oeis.org/A024916, and, as the linked page notes, `Asymptotically a(n) = n^2*Pi^2/12 + O(n*log(n))`",
+
+l610e8s,https://www.reddit.com/r/math/comments/1d1uvjg/what_are_you_working_on_may_27_2024/l610e8s/,2024-05-28 14:20:18 UTC,,math,0,https://www.reddit.com/r/math/comments/1d1uvjg/what_are_you_working_on_may_27_2024/,,Streaming my attempt to use Julia to solve some GIS problems: https://www.dailymotion.com/jeffgroves,
+
+l5qzh09,https://www.reddit.com/r/math/comments/1d122eb/why_does_philosophy_seem_to_deviate_from_using/l5qzh09/,2024-05-26 14:34:45 UTC,,math,0,https://www.reddit.com/r/math/comments/1d122eb/why_does_philosophy_seem_to_deviate_from_using/,l5qylje,"I agree with you about stating their axioms, but that wouldn't solve their disagreement: it would just find the root cause. Then they'd have to debate which axioms are valid and which ones aren't and why.",
+
+l5r2q57,https://www.reddit.com/r/math/comments/1d122eb/why_does_philosophy_seem_to_deviate_from_using/l5r2q57/,2024-05-26 14:56:05 UTC,,math,0,https://www.reddit.com/r/math/comments/1d122eb/why_does_philosophy_seem_to_deviate_from_using/,l5r2e0s,"I think everyone believes their philosophy is self-consistent, and it probably is. Philosophy is more about debating which self-consistent systems are the ""right"" (moral/legal/etc) ones and which are the ""wrong"" ones.
+
+I do agree that it would be nice if people made more of an effort to state their axioms outright, instead of arguing about something until they find a root cause of disagreement.",
+
+l6xg3j6,https://www.reddit.com/r/math/comments/1d77yra/what_are_you_working_on_june_03_2024/l6xg3j6/,2024-06-03 16:09:44 UTC,,math,0,https://www.reddit.com/r/math/comments/1d77yra/what_are_you_working_on_june_03_2024/,,"Hopefully, this counts as math: I've been streaming on Twitch and using Julia (and also Python) to answer GIS questions like ""what's the longest distance between two points in the continental USA"" and ""what point in the Pacific Ocean defines the hemisphere with the least land"", and so on. My twitch is https://www.twitch.tv/jeffcgroves/ and (most of) my VODs are at https://www.dailymotion.com/jeffgroves",
+
+l6mtfqk,https://www.reddit.com/r/math/comments/1d5odn2/types_of_compound_number/l6mtfqk/,2024-06-01 15:04:31 UTC,,math,0,https://www.reddit.com/r/math/comments/1d5odn2/types_of_compound_number/,,"I think you mean ""composite"" numbers. I don't know of a general name for such numbers, but ""product of n primes"" would work. Note that a composite number could be a prime multiplied by itself, in which case you get only 3 factors, not 4.",
+
+l7tjme1,https://www.reddit.com/r/math/comments/1dbtfnj/what_would_it_mean_for_open_problems_with/l7tjme1/,2024-06-09 14:41:41 UTC,,math,0,https://www.reddit.com/r/math/comments/1dbtfnj/what_would_it_mean_for_open_problems_with/,l7thb07,"OK, so using the Axiom of Choice, you show that there must be a problem that requires NP and can't be solved in P; however, you can't specify the problem. I would argue that may or may not constitute a proof that P not equal to NP, because you would need a concrete problem, not merely the theoretical existence of one",
+
+l7t9e6q,https://www.reddit.com/r/math/comments/1dbtfnj/what_would_it_mean_for_open_problems_with/l7t9e6q/,2024-06-09 13:31:53 UTC,,math,0,https://www.reddit.com/r/math/comments/1dbtfnj/what_would_it_mean_for_open_problems_with/,,"P vs NP is computation and the Axiom of Choice only tells us something exists, but no way to construct it. If a proof requires the Axiom of Choice, it is necessarily non-constructive, so it wouldn't settle P vs NP
+
+If you could invent a new type of theoretical computer (above and beyond a Turing machine), you might be able to show that theoretical computer has P = NP, but that wouldn't answer the original question of whether P = NP in Turing machines",
+
+l7iducw,https://www.reddit.com/r/math/comments/1da7g58/how_to_get_always_the_same_number_from_an/l7iducw/,2024-06-07 10:59:39 UTC,,math,0,https://www.reddit.com/r/math/comments/1da7g58/how_to_get_always_the_same_number_from_an/,,"If you're using a computer that provides ""psuedo-random"" numbers, you can set the ""seed"" the same to get the same list of ""random"" numbers each time. However, since this is /r/math I sense you're asking a deeper question",
+
+l8lm6gx,https://www.reddit.com/r/math/comments/1dfuaka/this_week_i_learned_june_14_2024/l8lm6gx/,2024-06-14 16:20:39 UTC,,math,0,https://www.reddit.com/r/math/comments/1dfuaka/this_week_i_learned_june_14_2024/,,"... the gnomonic projection (https://en.wikipedia.org/wiki/Gnomonic_projection) is not the answer to all my problems.
+
+Although the gnomonic projection maps great circles as straight lines (so you can find shortest paths using regular 2 dimensional Euclidean geometry), it's not distance preserving and can only map up to one hemisphere at a time.
+
+I knew it was impossible to map a sphere to the plane in a way that preserves both angles and distance, but I was hoping the gnomonic projection was a partial solution. It's not.",
+
+l8fd171,https://www.reddit.com/r/math/comments/1ddan3r/how_would_the_fourier_transform_of_a_painting/l8fd171/,2024-06-13 13:58:54 UTC,,math,0,https://www.reddit.com/r/math/comments/1ddan3r/how_would_the_fourier_transform_of_a_painting/,,"As a note, this is how JPEG compression works https://www.dspguide.com/ch27/6.htm",
+
+la1e495,https://www.reddit.com/r/math/comments/1dmx9wx/are_there_any_number_systems_with/la1e495/,2024-06-24 12:11:26 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmx9wx/are_there_any_number_systems_with/,,[removed],
+
+l9w239s,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w239s/,2024-06-23 11:36:35 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w1pci,"Again, the ""problem solving"" part seems more tedious than pure math and efficiency is an issue with computers but not with math. We more want to show something is true or something can be done. Pure mathematicians, I argue, aren't interested in efficiency or speed",
+
+l9whzj5,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9whzj5/,2024-06-23 13:48:24 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9whr39,I'm not sure I'd want a math contest every week. Quantity is not quality,
+
+l9w1rn0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w1rn0/,2024-06-23 11:33:20 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w1gdd,"I mean, applied math is also a branch of math, but that doesn't mean pure mathematicians necessarily like it. If you accept the ""best"" mathematicians (the ones who would theoretically win these competitions) are pure mathematicians, you can see why coding contests don't attract them",
+
+l9wfvwu,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9wfvwu/,2024-06-23 13:33:19 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9weivq,"I think I answered this before by asking you to show me IMO problems similar to those. I've never seen an IMO problem that limits t or how much memory you can use. You don't need a general proof to solve these problems, and a general mathematical proof doesn't necessarily provide an algorithm (it could be a combinatorial proof, for example).
+
+Coding can ask questions like ""show the Collatz (or Goldbach) conjecture holds for a given integer less than 10^6"", but the pure math versions of these are unsolved.
+
+I understand that you're arguing solving the Codeforces problems would require finding a general proof, but I'm not convinced that's true",
+
+l9vwaj7,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9vwaj7/,2024-06-23 10:33:50 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,,"Programming isn't pure enough for pure mathematicians. We want to prove/disprove conjectures cleverly by hand, not with computers.",
+
+l9w8309,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w8309/,2024-06-23 12:32:03 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w6swr,"> You are given a positive integer n>2
+
+Not the same problem. Bert has a regular hexagon with nonnegative numbers that sum to 2003^2003. Ironically, your problem (just the proof part) is harder, but interesting: find the sets of numbers that make this true.
+
+> followed by a sequence of operations
+
+Not a pure math requirement. It might be possible to show such operations exist without enumerating them.
+
+> Given x. If it is possible to represent x as a sum of fibonacci numbers, print on the first line k, the number of fibonacci numbers in your expression. On the next line, print the numbers themselves. If it is impossible, print -1
+
+Again, finding such numbers for a specific integer is different from proving the general case. Consider the `10^(10^100)`th Fibbonacci number. The math proof would work for this, but I don't think any coding challenge could solve that.
+
+Also, ""print the numbers themselves"" isn't pure math. You just need to show existence, not enumerate the answer.",
+
+l9w9n59,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w9n59/,2024-06-23 12:45:08 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w8wiq,"> the math problems actually require an explicit algorithm
+
+Not necessarily, but, even if true, the math ""algorithm"" will prove it for all values, where as a coding alogrithm might only work in a certain range
+
+More importantly, you said that there were Codeforce problems that could appear on IMO, but you haven't shown that. They're not even the same ""type"" of problem.
+
+> The greedy algorithm naturally translates to an inductive proof
+
+Maybe, but showing a proof and submitting answers for specific values is different.
+
+Also, ""whatever is feasable by the computer in quéstion within the time limit"" is of little interest to pure mathematicians.",
+
+l9w3244,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w3244/,2024-06-23 11:46:00 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w2dw9,"Pure mathematicians (obviously this is my opinion, I haven't done a survey or anything or even defined what a 'pure' mathematician is) like clever proofs where you can show a value exists or that something is true without  actually constructing anything.
+
+Although most mathematicians grudingly accept proof of the Four Color Theorem, we look down on it because it's so algorithmic: handling each of many many cases separately. We're convinced there's a cleaner more obvious solution that has fewer cases (ideally 8 or less) that doesn't have to be constructive: it just tells you a 4-coloring exists without finding it.
+
+You can rephrase most questions to sound like pure math, but who cares about ""operations""? That sounds very physical and ugly. You MIGHT get a pure mathematician to show a given type of expression can be written in closed form or maybe even with ""no more than n operators"" (which sort of does what you want), but counting operations? Done by a machine? Blech!",
+
+l9w5cvy,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w5cvy/,2024-06-23 12:07:41 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w4jz2,"Quoting the first problem ""Prove that Bert can make a sequence of moves,
+after which the number 0 appears at all six vertices."" No mention of showing HOW Bert can do this (though you might need that) and, far more importantly, no mention of efficiency or steps. Can you submit proofs to Codeforces? I thought it just accepted answers?
+
+Problem 3: ""Show that the number of triangles must be a multiple of 4."". How would you do that on CodeForces
+
+Problem 4: ""Prove that every positive integer can be written uniquely
+as the sum of one or more Fibonacci numbers, no two of which are consecutive Fibonacci numbers."". Again, how would this be a Codeforces problem?",
+
+l9w3jf9,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w3jf9/,2024-06-23 11:50:36 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w3bet,"No, no. I meant examples of IMO problems that are primarily algorithmic. Sometimes, a pure mathematician might jot down a 2-3 step algorithm to prove something, put 100 lines of computer code? Or even 10? Blech!",
+
+l9w1xts,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w1xts/,2024-06-23 11:35:04 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w09vb,"I think even pure mathematicians are OK with proof verification by computer, but that's about it.",
+
+l9whevx,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9whevx/,2024-06-23 13:44:19 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9wgw43,"> you absolutely need a solution that is very general
+
+Assuming you mean an algorithm, can you prove that? Can you show there is no other way to solve this problem except through an algorithm? That would actually be pretty impressive.
+
+> And so is the case in majority of Codeforces problems.
+
+I'm going to be a bit snarky then and ask: why not just asks for the proof directly instead of code that solves the problem for a specific value? That's why pure mathematicians don't like it.",
+
+l9w3btw,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w3btw/,2024-06-23 11:48:36 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w2c3t,"I'm going to argue that professional pure mathematicians DO care if their proofs are 100% correct, even if they didn't write them down correctly. In other words, it's important to us that a proof is ""correctable"" even if it's not ""correct"". Of course, sometimes, that's not possible.",
+
+l9w29wn,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w29wn/,2024-06-23 11:38:23 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w20bm,"Could you show me some examples? I was in school back in the 1990s. It's possible math competitions and pure math itself has changed since then, but pure math, to me, answers ""is it true"" or ""can it be done"" rather than ""what's the best way to do it""",
+
+l9xo4oa,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9xo4oa/,2024-06-23 18:11:23 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9xnz3d,"OP deleted, so I won't comment further",
+
+l9w8dkg,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/l9w8dkg/,2024-06-23 12:34:34 UTC,,math,0,https://www.reddit.com/r/math/comments/1dmj4sr/why_is_codeforces_not_very_famous_among/,l9w6swr,"I'm writing a separate reply here because I think my earlier reply hits a large general case. In pure math, we prove something for, say, all integers or all reals or something. The best a coding problem can do is give specific integers or reals, and even these are limited to machine size.
+
+So if you are going to find algorithmic problem on AMO, it's going to be one that doesn't involve a general proof",
+
+l9lushz,https://www.reddit.com/r/math/comments/1dl2rp9/rabbits_vs_invisible_foxes/l9lushz/,2024-06-21 12:34:01 UTC,,math,0,https://www.reddit.com/r/math/comments/1dl2rp9/rabbits_vs_invisible_foxes/,,"I only read part of this, but it sounds like Bayesian analysis. You start by asking ""IF F=1, then what behavior would we expect to see?"". Now, if F=2, what behavior, and so on.
+
+Then compare the observed behavior to which F it's closest to (or take the average or whatever)",
+
+la7utqc,https://www.reddit.com/r/math/comments/1dnh0h3/what_are_you_working_on_june_24_2024/la7utqc/,2024-06-25 15:24:02 UTC,,math,0,https://www.reddit.com/r/math/comments/1dnh0h3/what_are_you_working_on_june_24_2024/,la3jydt,`2*3*5` vs `29+1` sort of thing,
+
+la7umg8,https://www.reddit.com/r/math/comments/1dnh0h3/what_are_you_working_on_june_24_2024/la7umg8/,2024-06-25 15:22:55 UTC,,math,0,https://www.reddit.com/r/math/comments/1dnh0h3/what_are_you_working_on_june_24_2024/,la3ivox,"https://oeis.org/search?q=%22integer+complexity%22&language=english&go=Search will get you some irrelevant results at top, but more relevant ones lower done. They're not exactly the same as what you're talking about, but the general idea is",
+
+laodv7r,https://www.reddit.com/r/math/comments/1dqjchl/new_math_history_youtube_channel_series_on_the/laodv7r/,2024-06-28 13:28:32 UTC,,math,0,https://www.reddit.com/r/math/comments/1dqjchl/new_math_history_youtube_channel_series_on_the/,,The video is just you talking. You could have just typed that. No point in using video if you're not going to use any of its features,
+
+lc1gnge,https://www.reddit.com/r/math/comments/1dxghoj/question_for_a_warp_speed_equation_im_working_on/lc1gnge/,2024-07-07 13:57:28 UTC,,math,0,https://www.reddit.com/r/math/comments/1dxghoj/question_for_a_warp_speed_equation_im_working_on/,,"I mean, `9c/(10-w)` gives you warp 1 at light speed and warp 10 at infinite speed, but not warp 0 at 0 speed. I don't think logarithms will help here because you're looking for an asymptotic increase at 10, so you'll need something like 1/w or tan(w) or something else that diverges to +infinity at a given point",
+
+lc1mpjh,https://www.reddit.com/r/math/comments/1dxghoj/question_for_a_warp_speed_equation_im_working_on/lc1mpjh/,2024-07-07 14:37:19 UTC,,math,0,https://www.reddit.com/r/math/comments/1dxghoj/question_for_a_warp_speed_equation_im_working_on/,lc1mesm,nice!,
+
+ldgx2kg,https://www.reddit.com/r/math/comments/1e4shn5/deleted_by_user/ldgx2kg/,2024-07-16 16:16:45 UTC,,math,0,https://www.reddit.com/r/math/comments/1e4shn5/deleted_by_user/,,"EDIT: my comment below, while technically correct, does not contradict the OP's statement.
+
+> For any integer n, [| n! + 2; n! + n |] doesn't contain any prime number
+
+~~I think you mean for any prime n~~",
+
+ldh4ve8,https://www.reddit.com/r/math/comments/1e4shn5/deleted_by_user/ldh4ve8/,2024-07-16 16:58:44 UTC,,math,0,https://www.reddit.com/r/math/comments/1e4shn5/deleted_by_user/,ldh1452,"Yup, I'm an idiot. I misread it as ""has a prime"". Of course it doesn't have a prime, because, as you point out, it's the multiple of any number below it plus that number.",
+
+lfhmaqp,https://www.reddit.com/r/math/comments/1edo52n/optimal_strategy_to_find_a_coin/lfhmaqp/,2024-07-29 14:04:53 UTC,,math,0,https://www.reddit.com/r/math/comments/1edo52n/optimal_strategy_to_find_a_coin/,,"I wrote some (ugly and unpolished) Julia code (https://gist.github.com/GroovyJeff/7a715d571e4d0c8229ab8bfce07d37e9) to solve this and, for `n=10`, the unique best strategy appears to be `[4,7,9,10]` at a cost of `348.8`. However, it's possible I coded this up wrong. Could someone verify this result? Thanks!
+
+EDIT: https://gist.github.com/GroovyJeff/e46e0a55881cb9f44e47130b430d65d9 is more compact code with my results for n=1 to n=25",
+
+lh9kdbb,https://www.reddit.com/r/math/comments/1enr0jf/prime_numbers_and_cellular_automata/lh9kdbb/,2024-08-09 12:29:49 UTC,,math,0,https://www.reddit.com/r/math/comments/1enr0jf/prime_numbers_and_cellular_automata/,lh9bxlt,"Well, I appear to be wrong about Turing completeness. By gap between primes, I meant the actual quantity (`p1 - p2 > M` for any fixed M). You are correct in saying that, for example, there is always a prime between p and 2p for any prime p and tighter bounds exist.
+
+Feel free to ping me but I'm not sure how much I could contribute-- my knowledge of cellular automata is poor and I wouldn't know how to use the Turing Completeness of Rule 110 to actually generate primes.",
+
+lh99ryj,https://www.reddit.com/r/math/comments/1enr0jf/prime_numbers_and_cellular_automata/lh99ryj/,2024-08-09 11:09:00 UTC,,math,0,https://www.reddit.com/r/math/comments/1enr0jf/prime_numbers_and_cellular_automata/,,"I don't think cellular automata are as powerful as Turing machines, and I further believe cellular automata aren't even powerful enough to generate prime numbers, since you're ultimately looking at only a finite quantity of cells to generate each cell. Some general notes:
+
+  - in n dimensions, each cell has `3^n-1` neighbors (you can do +1, 0, -1 on every axis but exclude the cell itself), or `3^n` if the new value of the cell can depend on itself
+
+  - there are therefore `2^(3^n-1)` possible binary combinations of neighbors. That's a lot, but, for any fixed n, I think you can show the prime numbers do something ""weird enough"" (eg, there's an arbitrarily long gap between prime numbers) that you could show no algorithm at no dimension could work",
+
+li2sl67,https://www.reddit.com/r/math/comments/1es2b7i/is_everything_a_set/li2sl67/,2024-08-14 14:18:47 UTC,,math,0,https://www.reddit.com/r/math/comments/1es2b7i/is_everything_a_set/,,"Urelements (https://en.wikipedia.org/wiki/Urelement) are not sets: they are the building blocks used to create sets
+
+However, as the linked page notes, you can actually model urelements using sets (in particular, the empty set, which exists axiomatically), so you could argue that even those are sets in some sense",
+
+lhsbalu,https://www.reddit.com/r/math/comments/1eqkm7t/output_distribution_for_function/lhsbalu/,2024-08-12 18:36:50 UTC,,math,0,https://www.reddit.com/r/math/comments/1eqkm7t/output_distribution_for_function/,lhs9u2k,"Oh, the count of the number of times an element in the codomain is hit by f. That makes sense, but I'm not seeing an immediate use for it",
+
+lhs79ml,https://www.reddit.com/r/math/comments/1eqkm7t/output_distribution_for_function/lhs79ml/,2024-08-12 18:15:53 UTC,,math,0,https://www.reddit.com/r/math/comments/1eqkm7t/output_distribution_for_function/,,"Do you mean distribution in the sense of probability distribution? If both the domain and codomain were real, yes, but that's pretty much how you define a probability distribution. If they were discrete-but-orderable you'd probably have something too. Probably even if unorderable, but with the implicit assumption each value in the domain is equally likely or something. Nothing to do with Fourier series as far as I can tell",
+
+lhrokur,https://www.reddit.com/r/math/comments/1eqi692/settle_this_argument/lhrokur/,2024-08-12 16:39:23 UTC,,math,0,https://www.reddit.com/r/math/comments/1eqi692/settle_this_argument/,,"So `A` completes `1/5` of the task on a given day, and `B` completes `1/7`. Comparing speeds to see if `A/B = 1/1.4` (which is how I'm interpreting 1.4x slower), we have `(1/5)/(1/7) = 5/7 ~ 0.7143` and `1/1.4 ~ 0.7143`, so yes.
+
+However, as /u/NOMO20 notes, you might need to define what you mean `1.4x slower` since a different definition would change the answer",
+
+lipwnpi,https://www.reddit.com/r/math/comments/1ev85e4/wolfram_mathematica_alternatives/lipwnpi/,2024-08-18 14:17:12 UTC,,math,0,https://www.reddit.com/r/math/comments/1ev85e4/wolfram_mathematica_alternatives/,,"Python mathics attempts to be an open source replacement of Mathematica, but isn't that great. The Python sympy package does a better job and the free version of maxima does OK too. You can use Mathematica for free (but not open source) at cloud.wolfram.com",
+
+ljudki6,https://www.reddit.com/r/math/comments/1f0qao0/deleted_by_user/ljudki6/,2024-08-25 11:39:58 UTC,,math,0,https://www.reddit.com/r/math/comments/1f0qao0/deleted_by_user/,,"A polynomial `p(x)` of degree n has nth differences constant. You can directly convert this to ratios using `e^p(x)`, since the exponential function essentially converts division to subtraction",
+
+ljw2jd0,https://www.reddit.com/r/math/comments/1f12aw0/are_the_natural_numbers_an_additive_basis_of_the/ljw2jd0/,2024-08-25 18:00:01 UTC,,math,0,https://www.reddit.com/r/math/comments/1f12aw0/are_the_natural_numbers_an_additive_basis_of_the/,,"Well, you can generate any number with `1` and `+`, but `+` is a binary operation, not really a basis. I'd say the basis of the natural numbers in one dimension is just `1`.",
+
+lxlfkkb,https://www.reddit.com/r/math/comments/1gteaz8/so_i_managed_to_do_a_logic_puzzle_that_i_cant/lxlfkkb/,2024-11-17 14:19:22 UTC,,math,0,https://www.reddit.com/r/math/comments/1gteaz8/so_i_managed_to_do_a_logic_puzzle_that_i_cant/,lxlf6u0,"OK, so they EACH played 30 games for a total of 90 games?",
+
+lxlelej,https://www.reddit.com/r/math/comments/1gteaz8/so_i_managed_to_do_a_logic_puzzle_that_i_cant/lxlelej/,2024-11-17 14:12:39 UTC,,math,0,https://www.reddit.com/r/math/comments/1gteaz8/so_i_managed_to_do_a_logic_puzzle_that_i_cant/,,Do you mean they played each other 2 times each for a total of 30 games?,
+
+m6pkamz,https://www.reddit.com/r/math/comments/1hzh07q/i_seemed_to_have_created_a_somewhat_rough/m6pkamz/,2025-01-12 06:57:24 UTC,,math,0,https://www.reddit.com/r/math/comments/1hzh07q/i_seemed_to_have_created_a_somewhat_rough/,,The Fibbonacci numbers have a well known closed form: https://en.wikipedia.org/wiki/Fibonacci_sequence#Relation_to_the_golden_ratio,
+
+m7ns8l8,https://www.reddit.com/r/math/comments/1i3lgtc/math_hobbyist_versus_the_modern_world/m7ns8l8/,2025-01-17 17:29:43 UTC,,math,0,https://www.reddit.com/r/math/comments/1i3lgtc/math_hobbyist_versus_the_modern_world/,,"There are methods to extract square roots manually, but everyone I talk to seems to know that fact without knowing the method itself (you can probably google it).
+
+In the olden days, people spent time working on tables of logs, square roots, trig functions, etc, so others could use them. The generic way is to use convergent power series, though there are many shortcuts to make that process even faster.
+
+If you're feeling masochistic (and it sounds like you are), check out the source code of math libraries (the C math library in particular) to see how the computer does it (probably not the way you think) and replicate that manually",
+
+m93cs6h,https://www.reddit.com/r/math/comments/1i9nrb1/why_wont_this_math/m93cs6h/,2025-01-25 14:20:48 UTC,,math,0,https://www.reddit.com/r/math/comments/1i9nrb1/why_wont_this_math/,,"This is pretty much the definition of a pyramid scheme. As others note, you'd run out of people pretty quickly. Since there are fewer than 10^10 people on Earth, you would run out of people before you had step 10
+
+If you were allowed to repeat people and somehow kept it fair, we'd all basically be constantly getting and giving $200, and, since government taxes the movement of money, we'd all end up paying lots of taxes for no good reason",
+
+maderi9,https://www.reddit.com/r/math/comments/1if5q89/anyone_own_a_physical_copy_of_the_encyclopedia_of/maderi9/,2025-02-01 13:27:26 UTC,,math,0,https://www.reddit.com/r/math/comments/1if5q89/anyone_own_a_physical_copy_of_the_encyclopedia_of/,,https://www.google.com/books/edition/A_Handbook_of_Integer_Sequences/pw3jBQAAQBAJ contains 45 pages of previews.,
+
+md9ehls,https://www.reddit.com/r/math/comments/1irm6d2/why_do_statistics_feel_made_up/md9ehls/,2025-02-17 15:32:41 UTC,,math,0,https://www.reddit.com/r/math/comments/1irm6d2/why_do_statistics_feel_made_up/,,Because 78% of them ARE made up,
+
+mdmpjij,https://www.reddit.com/r/math/comments/1it8grm/deleted_by_user/mdmpjij/,2025-02-19 15:47:40 UTC,,math,0,https://www.reddit.com/r/math/comments/1it8grm/deleted_by_user/,,I can name 100 digits of sqrt(4),
+
+mqq81l5,https://www.reddit.com/r/math/comments/1kff92t/what_are_you_working_on_may_05_2025/mqq81l5/,2025-05-05 16:09:47 UTC,98.48.122.229,math,0,https://www.reddit.com/r/math/comments/1kff92t/what_are_you_working_on_may_05_2025/,,"I'm trying to use Julia to determine the earliest and latest sunrise/sunset times for a given country for a given day. Based loosely on ""the sun never sets on the British Empire [until they give up the British Indian Ocean Territory]""",

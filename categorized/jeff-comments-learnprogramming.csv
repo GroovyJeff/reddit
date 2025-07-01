@@ -1,0 +1,280 @@
+
+krnsxzv,https://www.reddit.com/r/learnprogramming/comments/1axgk9i/deleted_by_user/krnsxzv/,2024-02-22 20:38:26 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1axgk9i/deleted_by_user/,,Are you affiliated with this site? It appears to be non-free,
+
+kqp4jgb,https://www.reddit.com/r/learnprogramming/comments/1asakkv/how_do_i_make_my_code_faster/kqp4jgb/,2024-02-16 15:31:52 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1asakkv/how_do_i_make_my_code_faster/,,Your solution is better than what mine would've been: merge sort the arrays and find the median.,
+
+kqp60lh,https://www.reddit.com/r/learnprogramming/comments/1asakkv/how_do_i_make_my_code_faster/kqp60lh/,2024-02-16 15:40:30 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1asakkv/how_do_i_make_my_code_faster/,kqp5vuw,I know. That's why I said OP's solution (which also doesn't meet the complexity restriction) is better,
+
+krm9y2r,https://www.reddit.com/r/learnprogramming/comments/1ax8qw6/deleted_by_user/krm9y2r/,2024-02-22 15:28:55 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1ax8qw6/deleted_by_user/,,Can we see your code? Perhaps on https://repl.it or something so we can play with it?,
+
+krlwhk9,https://www.reddit.com/r/learnprogramming/comments/1ax6sk9/ageism_as_a_problem_in_the_career/krlwhk9/,2024-02-22 14:04:25 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1ax6sk9/ageism_as_a_problem_in_the_career/,,"I don't have an answer to your question, but keep in mind that ""decades of experience"" isn't always a good thing in a fast moving industry like ours.",
+
+ksuh72p,https://www.reddit.com/r/learnprogramming/comments/1b3sy8u/is_personalization_the_future_of_learning/ksuh72p/,2024-03-01 13:10:00 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1b3sy8u/is_personalization_the_future_of_learning/,,"This reads a bit like an advertisement, but I'm nonetheless curious.",
+
+ktn5l3s,https://www.reddit.com/r/learnprogramming/comments/1b85tej/finding_the_sum_of_all_the_adjacent_elements_in/ktn5l3s/,2024-03-06 18:14:44 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1b85tej/finding_the_sum_of_all_the_adjacent_elements_in/,,"Suggestion: post the code to repl.it or similar so we can help more. Also, try to construct a minimal example that fails -- for example, try using a fixed array (that fails) instead of reading an array from the standard input (unless that's what's causing the failure)",
+
+kw1rfan,https://www.reddit.com/r/learnprogramming/comments/1bkzzbt/javascript_object_question/kw1rfan/,2024-03-22 14:17:00 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1bkzzbt/javascript_object_question/,,"Objects can have multiple properties pointing to the same value:
+
+```
+js> ordered = {1234: 'big box', 5678: 'big box'};
+({1234:""big box"", 5678:""big box""})
+js> ordered[1234]
+""big box""
+js> ordered[5678]
+""big box""
+```
+
+The trickier question (which you did not ask) is can a given key (property) have multiple values. The answer there is also yes, but it requires a little more work, especially if you want to be efficient",
+
+kvgjvj3,https://www.reddit.com/r/learnprogramming/comments/1bhx6pz/whatre_people_using_these_days_to_add_comments_to/kvgjvj3/,2024-03-18 18:05:42 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1bhx6pz/whatre_people_using_these_days_to_add_comments_to/,,"Pedantic correction: disqus.com not ""Discuss""",
+
+kvgg5ep,https://www.reddit.com/r/learnprogramming/comments/1bhwhdy/deleted_by_user/kvgg5ep/,2024-03-18 17:44:57 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1bhwhdy/deleted_by_user/,,"Inside the while loop, does the user get to input new guesses or do you change the random number? The way you have it now, the loop checks for equality for two fixed numbers that never change.",
+
+kvwoq8s,https://www.reddit.com/r/learnprogramming/comments/1bjy84n/counting_leap_years/kvwoq8s/,2024-03-21 16:17:51 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1bjy84n/counting_leap_years/,,"This doesn't answer your question, but you can use the floor() function to compute something like this without looping. For example, the number of leap days since the Gregorian Reformation in October 1582 (https://en.wikipedia.org/wiki/Gregorian_calendar) through the end of year `y` is, in Mathics form, something like:
+
+`f[y_] = Floor[(y-1580)/4] - Floor[(y-1600)/100] + Floor[(y-1600)/400]`
+
+(you need the 1600 so the numbers line up correctly)
+
+Note that observation of leap years prior to 1582 was a bit spotty, depending on how you define leap year. Quoting https://en.wikipedia.org/wiki/February_29
+
+> The convention of using February 29 was not widely accepted before the 15th century; from Julian's edict until the 16th century (formally), February 24 was doubled instead.[2]",
+
+kuujm2u,https://www.reddit.com/r/learnprogramming/comments/1bensil/one_law_to_rule_them_all_how_using_law_of_demeter/kuujm2u/,2024-03-14 15:35:20 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1bensil/one_law_to_rule_them_all_how_using_law_of_demeter/,kuui5wy,"I've also noticed a lot of ""link only"" (or almost ""link only"") posts and have been disappointed, since it makes more sense to post the content directly here so it can be discussed here.
+
+However, rule 8, ""no indirect links"", seems to allow it, though I suppose it could be reported under rule 2 ""No spam or tasteless self-promotion""",
+
+kvl69hv,https://www.reddit.com/r/learnprogramming/comments/1bilfyn/deleted_by_user/kvl69hv/,2024-03-19 15:07:33 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1bilfyn/deleted_by_user/,,"This isn't bad, so my suggestions are only minor ones:
+
+```
+    my $pid = $row->[0]; # PID as key
+    my $company = $row->[1]; # Company name as key
+    my $last_name = $row->[2]; # Employee last name
+    my $first_name = $row->[3]; # Employee first name
+```
+
+It's not trivial in your case, but consider `my($pid, $company, $last_name, $first_name)` since you're really just deconstructing an array
+
+`    push @{$data_hash{$company}}, [$pid, $last_name, $first_name]; `
+
+Consider `$data_hash{$company}{'pid'}` instead of storing the pid and names as an array",
+
+kvlam41,https://www.reddit.com/r/learnprogramming/comments/1bik9ti/display_highest_and_lowest_numbers_from_batch_csv/kvlam41/,2024-03-19 15:32:49 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1bik9ti/display_highest_and_lowest_numbers_from_batch_csv/,,Can we see your code?,
+
+kuukmks,https://www.reddit.com/r/learnprogramming/comments/1benk40/need_with_a_travel_problem/kuukmks/,2024-03-14 15:41:01 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1benk40/need_with_a_travel_problem/,,"Yes, this is pretty much TSP: https://en.wikipedia.org/wiki/Travelling_salesman_problem
+
+Most programming languages will have libraries that can solve the problem somewhat efficiently, but, since it is an NP hard problem, there are no fast perfect solutions",
+
+ktnj9ij,https://www.reddit.com/r/learnprogramming/comments/1b88luv/please_help/ktnj9ij/,2024-03-06 19:28:23 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1b88luv/please_help/,,"I mean, if you know how many minutes are in an hour and how many hours are in a day, you can just multiply. The only tricky one is days in a year, since that varies based on leap year, but you can surely find a reasonable value (I use 365.2425 myself which is the average for a Gregorian calendar year, including leap years)",
+
+l117o1z,https://www.reddit.com/r/learnprogramming/comments/1cbw5yc/deleted_by_user/l117o1z/,2024-04-24 12:13:00 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1cbw5yc/deleted_by_user/,,Look into https://leafletjs.com/index.html though I don't think it does 100% of what you need,
+
+l40ubuz,https://www.reddit.com/r/learnprogramming/comments/1crw704/good_idea_or_nah/l40ubuz/,2024-05-14 16:30:50 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1crw704/good_idea_or_nah/,,"As the original acronym sort of implies (BASIC = Beginners' All-purpose Symbolic Instruction Code) (https://en.wikipedia.org/wiki/BASIC) was originally designed to do that, but then people started using it to write serious code.
+
+You might look into something like a Turing machine emulator (which may be TOO bare bones) or work with psuedocode, but I think BASIC kind of does what you want",
+
+l45eb2j,https://www.reddit.com/r/learnprogramming/comments/1csjd0t/mysql_server_help_beginner/l45eb2j/,2024-05-15 12:53:07 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1csjd0t/mysql_server_help_beginner/,l45e3nb,"No, \`CREATE USER\` is the command you'd use to create a user. Example: \`CREATE USER loyoung IDENTIFIED BY PASSWORD 'foo'\`. However, that's off the top of my head, so please doublecheck the syntax. I use MySQL from the command line, so I may not be able to help more with workbench, sorry",
+
+l45c0jr,https://www.reddit.com/r/learnprogramming/comments/1csjd0t/mysql_server_help_beginner/l45c0jr/,2024-05-15 12:36:38 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1csjd0t/mysql_server_help_beginner/,,"General advice: avoid logging into MySQL (or anything else) as user ""root"". Some applications prohibit it entirely. I'm not sure MySQL does, but use an unprivileged user to access the MySQL server",
+
+l45dney,https://www.reddit.com/r/learnprogramming/comments/1csjd0t/mysql_server_help_beginner/l45dney/,2024-05-15 12:48:27 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1csjd0t/mysql_server_help_beginner/,l45cqrc,"Did you user `CREATE USER` in MySQL to make sure the MySQL user exists, and `GRANT` to make sure it has access to the right databases?",
+
+l5vndau,https://www.reddit.com/r/learnprogramming/comments/1d1r1oy/free_live_consultation_for_aspiring_programmers/l5vndau/,2024-05-27 13:16:48 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1d1r1oy/free_live_consultation_for_aspiring_programmers/,,"This seems a bit spammy, but what are your qualifications?",
+
+l6mmc8l,https://www.reddit.com/r/learnprogramming/comments/1d5n3qo/what_programming_challenge_have_you_given_up_on/l6mmc8l/,2024-06-01 14:17:08 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1d5n3qo/what_programming_challenge_have_you_given_up_on/,,"I've given up on a lot of challenges. At one point, I wanted to create a realistic model of our galaxy using GAIA data, but there's just too much of it (~3 billion stars) and the data is too inaccurate to be useful.
+
+I've instead decided to use a smaller database of stars, but haven't gotten around to that either, but that part's just laziness not giving up",
+
+l7t8imf,https://www.reddit.com/r/learnprogramming/comments/1dbt20s/deleted_by_user/l7t8imf/,2024-06-09 13:25:21 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dbt20s/deleted_by_user/,,"> Unfortunately I deleted my last query attempt so don't have a WIP to show
+
+Please re-create it and show us your efforts. We're here to help, but you should show you've done some work on your own. Also, avoid deleting mistakes. Mark them as being wrong, but you can often learn from them",
+
+l7czmhq,https://www.reddit.com/r/learnprogramming/comments/1d9f5fj/irl_tutorials_of_functional_programming/l7czmhq/,2024-06-06 12:05:26 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1d9f5fj/irl_tutorials_of_functional_programming/,,"Try googling ""programming for engineers"" (no quotes). Courses for engineers tend to focus on more practical applications. Also consider learning procedural programming (instead of functional) as procedural is more concrete and less abstract",
+
+l7o435j,https://www.reddit.com/r/learnprogramming/comments/1db27f2/how_to_highlight_numerical_values_that_are_or_on/l7o435j/,2024-06-08 12:51:56 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1db27f2/how_to_highlight_numerical_values_that_are_or_on/,,Are you familiar with greasemonkey?,
+
+l8fdw9a,https://www.reddit.com/r/learnprogramming/comments/1dezgmj/how_to_digest_messy_code_with_no_comments/l8fdw9a/,2024-06-13 14:04:15 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dezgmj/how_to_digest_messy_code_with_no_comments/,,I generally add a lot of print statements (or the code inside a debugger or tracer) too see what's going on.,
+
+l87d8mf,https://www.reddit.com/r/learnprogramming/comments/1ddn7yh/approximation_of_the_integral_of_a_function_in_c/l87d8mf/,2024-06-12 01:10:58 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1ddn7yh/approximation_of_the_integral_of_a_function_in_c/,,Are you affiliated with this code?,
+
+l95odms,https://www.reddit.com/r/learnprogramming/comments/1dir814/i_want_to_learn_to_code_is_my_project_idea_too/l95odms/,2024-06-18 14:17:00 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dir814/i_want_to_learn_to_code_is_my_project_idea_too/,,I assume you're familiar with angieslist.com?,
+
+l95qntf,https://www.reddit.com/r/learnprogramming/comments/1dir814/i_want_to_learn_to_code_is_my_project_idea_too/l95qntf/,2024-06-18 14:30:49 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dir814/i_want_to_learn_to_code_is_my_project_idea_too/,l95pq1s,"homeadvisor.com is another one, but I get it now. You're looking to compete with these services. Unless you have a large bankroll, it's going to be difficult: coding will be the easy part",
+
+l96py2i,https://www.reddit.com/r/learnprogramming/comments/1diu1qw/random_numbers_and_distributions/l96py2i/,2024-06-18 17:47:33 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1diu1qw/random_numbers_and_distributions/,l96o2u9,"Based on OP's other comments, I think they're creating a color key",
+
+l96eynt,https://www.reddit.com/r/learnprogramming/comments/1diu1qw/random_numbers_and_distributions/l96eynt/,2024-06-18 16:47:21 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1diu1qw/random_numbers_and_distributions/,,"I mean, sort them, take the 51st percentile and assign everything less to red, take the (51+48.5) percentile and assign everything between 51 and 51+48.5 to blue and the rest to green. Of course, since your list has a finite number of values, you'll have to round off, and won't have any green (unless you choose special rounding rules)",
+
+la15sa0,https://www.reddit.com/r/learnprogramming/comments/1dna1v1/guys_i_feel_lost/la15sa0/,2024-06-24 10:55:45 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dna1v1/guys_i_feel_lost/,,"> 34 out of 50 restaurateurs to whom I sent the presentation responded and would be happy to try the software
+
+How much would they be willing to pay for the software (or use of the software) is the real question.
+
+68% is a remarkable response rate from ""cold calling"", so I'm wondering if they're just willing to beta test and/or are saying they expect to use it for free since they're presumably doing a favor for you.
+
+If you can get a reasonably solid commitment from even 34 restaurants, it'll probably be faster to find someone else to develop the backend, either via partnership or direct payment
+
+I hate to be one of those people, but selling your app is WAY more important than developing it.",
+
+latt2q5,https://www.reddit.com/r/learnprogramming/comments/1dracn8/where_to_find_programming_friends/latt2q5/,2024-06-29 13:09:55 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dracn8/where_to_find_programming_friends/,,I've recently taken up Julia because I don't want any friends :),
+
+lao9egg,https://www.reddit.com/r/learnprogramming/comments/1dqhrx7/please_help_me_troubleshoot_why_google_rejects_my/lao9egg/,2024-06-28 12:58:32 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dqhrx7/please_help_me_troubleshoot_why_google_rejects_my/,lao9253,"https://support.google.com/a/answer/14114704 states ""You will no longer use a password for access (with the exception of app passwords)."", suggesting that if you have a specific password for an app that's not your general password, it may continue to work",
+
+lai6tff,https://www.reddit.com/r/learnprogramming/comments/1dpnasw/a_question_about_base64/lai6tff/,2024-06-27 11:10:05 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dpnasw/a_question_about_base64/,,"The word ""binary"" is being used differently here. The ASCII table (https://www.lookuptables.com/text/ascii-table) encodes upper and lower letters, numbers, symbols, and a few ""control codes"" (the first 32 entries). It uses up 128 entries total, or 7 bits. If you use only these bytes, you are in ""ASCII mode"". If you use any characters outside of these, you are in ""binary mode"".
+
+Even today, some languages, some programs and some operating systems distinguish between the two modes. Example: https://diveintopython.org/learn/file-handling/binary-files
+
+In particular, some SMTP servers don't handle binary data well, so you have to encode (not encrypt) your message into ASCII. Base64 (aka MIME-64) is actually a pretty efficient system, using 8 bits to store 6 bits of data. I'm old enough to remember uuencode (https://en.wikipedia.org/wiki/Uuencoding), which was less efficient.
+
+TGl2ZSBsb25nIGFuZCBwcm9zcGVyCg==",
+
+lao4lty,https://www.reddit.com/r/learnprogramming/comments/1dqhrx7/please_help_me_troubleshoot_why_google_rejects_my/lao4lty/,2024-06-28 12:23:43 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dqhrx7/please_help_me_troubleshoot_why_google_rejects_my/,,"Make sure your account is set to allow ""less secure apps"", but it's only a temporary solution since Google is going to turn off ALL less secure access soon: https://support.google.com/a/answer/6260879?hl=en__",
+
+laij3qp,https://www.reddit.com/r/learnprogramming/comments/1dpq1jm/dsa_in_depth_university_courses/laij3qp/,2024-06-27 12:48:34 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dpq1jm/dsa_in_depth_university_courses/,,"I mean, data science IS math. You might be able to find a course that focuses more on analysis, but you won't be able to escape math in general",
+
+ld4hvfa,https://www.reddit.com/r/learnprogramming/comments/1e2yz4c/deleted_by_user/ld4hvfa/,2024-07-14 11:22:57 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1e2yz4c/deleted_by_user/,ld4eii1,This is a very clever joke :),
+
+ld4htw6,https://www.reddit.com/r/learnprogramming/comments/1e2yz4c/deleted_by_user/ld4htw6/,2024-07-14 11:22:33 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1e2yz4c/deleted_by_user/,,"If it works for you, great. I find documentation tedious and overly ""clinical"". I've learned most coding by doing or, more recently, via AI such as ChatGPT",
+
+lb54bey,https://www.reddit.com/r/learnprogramming/comments/1dsvw7y/deleted_by_user/lb54bey/,2024-07-01 15:47:25 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1dsvw7y/deleted_by_user/,,"If you committed crimes when you were under 18, you might be able to have the records sealed and claim a clean criminal record",
+
+ld4fu9e,https://www.reddit.com/r/learnprogramming/comments/1e2mq2l/i_need_ideas_for_a_domain_specific_language/ld4fu9e/,2024-07-14 11:02:20 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1e2mq2l/i_need_ideas_for_a_domain_specific_language/,,"I hesitate to suggest it ... [that's the hesitation], but consider an AI that makes everything seem dangerous like the site dhmo.org
+
+The idea would be to show that the phrasing of an idea can greatly impact how people view it. In theory, it would help teach people logic and bias.
+
+In reality, people would use it to strengthen their own hateful positions and make the world a worse place, but that's good too",
+
+ldgpce8,https://www.reddit.com/r/learnprogramming/comments/1e4r03r/cannot_print_a_hash_in_perl/ldgpce8/,2024-07-16 15:34:59 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1e4r03r/cannot_print_a_hash_in_perl/,ldgmhz2,"Something like `for $i (keys %age_gap) {print ""$i $age_gap{$i}\n""}` is a simple example",
+
+ldgm56j,https://www.reddit.com/r/learnprogramming/comments/1e4r03r/cannot_print_a_hash_in_perl/ldgm56j/,2024-07-16 15:17:28 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1e4r03r/cannot_print_a_hash_in_perl/,,"Try `print(%age_gap)` and you'll get something like `HASH(0x000000)`, but it's better if you look through the keys and values instead.",
+
+ldt1udj,https://www.reddit.com/r/learnprogramming/comments/1e6hmx0/to_motivating_students/ldt1udj/,2024-07-18 18:04:09 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1e6hmx0/to_motivating_students/,,"This sounds a little suss, especially since it uses Google Forms for signup. Can you tell us more about this company, give us a webpage, tell us when it was established, etc? Does it teach about Amazon's CodeCatalyst?",
+
+lev8wmq,https://www.reddit.com/r/learnprogramming/comments/1ebukbk/is_learning_to_build_a_chess_engine_from_scratch/lev8wmq/,2024-07-25 13:25:32 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1ebukbk/is_learning_to_build_a_chess_engine_from_scratch/,,"If your chess engine just makes legal moves without trying to win, yes. If you want an ""intelligent"" chess engine, that's more difficult",
+
+lev9utt,https://www.reddit.com/r/learnprogramming/comments/1ebukbk/is_learning_to_build_a_chess_engine_from_scratch/lev9utt/,2024-07-25 13:31:24 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1ebukbk/is_learning_to_build_a_chess_engine_from_scratch/,lev9ksj,"Well, write code to create the board with the start pieces first, let the player choose a move, check the move's validity, and then let your engine find a valid move and perform it.",
+
+lfzt7i1,https://www.reddit.com/r/learnprogramming/comments/1ehk40y/project_difficulty_for_beginner/lfzt7i1/,2024-08-01 16:05:49 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1ehk40y/project_difficulty_for_beginner/,,"I don't think this project would be too hard for you, but it might actually be easier using Unix command-line tools instead of Python. There are Python libraries that do the same thing as Unix tools, but they might be harder to learn (of course, you can cheat and use `os.system` but that doesn't count)",
+
+lhksubo,https://www.reddit.com/r/learnprogramming/comments/1eoty6h/whats_wrong_with_this_program/lhksubo/,2024-08-11 12:05:52 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1eoty6h/whats_wrong_with_this_program/,lhgze0b,"Oh, it's ctrl-d in Unix. Might be ctrl-z on other operating systems.
+
+In Unix, ctrl-z means ""suspend process"" (at least in the shells I'm familiar with)",
+
+lhfv5bo,https://www.reddit.com/r/learnprogramming/comments/1eoty6h/whats_wrong_with_this_program/lhfv5bo/,2024-08-10 14:26:17 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1eoty6h/whats_wrong_with_this_program/,,General debugging tip: add more printf's to see what's happening. Specific tip: make sure you're entering something on the standard input and hitting ctrl-d when you finish or piping the result of a program to this one,
+
+lhfc2ws,https://www.reddit.com/r/learnprogramming/comments/1eor21o/deleted_by_user/lhfc2ws/,2024-08-10 12:11:24 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1eor21o/deleted_by_user/,lhfbprr,"Yeah, I see what you're saying. I'm going to follow this thread in case someone comes up with something useful. Every time I start a project, I know someone else has started it, done some work, and abandoned it, but it's easier to start from scratch than to find their work",
+
+lhf9hae,https://www.reddit.com/r/learnprogramming/comments/1eor21o/deleted_by_user/lhf9hae/,2024-08-10 11:49:26 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1eor21o/deleted_by_user/,,"I mean, in theory, that's what 99% of github is",
+
+lj27q6z,https://www.reddit.com/r/learnprogramming/comments/1ewy89t/deleted_by_user/lj27q6z/,2024-08-20 16:10:36 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1ewy89t/deleted_by_user/,,"If you want to do something new and interesting, try finding a problem that's not difficult, but so obscure or boring that no one else has even bothered solving it (except, once you start working on it, you'll find someone else has solved it 10 years ago and 10 times better, but that's a separate issue).
+
+I'm working on a bunch of mini-GIS projects like finding the shortest marine route from Brisbane to Cardiff or creating a Voronoi diagram for various countries, or determining how far you can get from a given country.
+
+Nothing super-exciting, but it's a fun way to ""learn"" GIS",
+
+litmmja,https://www.reddit.com/r/learnprogramming/comments/1evr74p/learn_programming_coding_and_ai_with/litmmja/,2024-08-19 03:47:41 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1evr74p/learn_programming_coding_and_ai_with/,,Are you affiliated with this product? It appears to be relatively unknown: searches for it turn up another product entirely,
+
+ljelzgd,https://www.reddit.com/r/learnprogramming/comments/1eynsez/how_do_i_find_a_realtime_programming_mentor_for_a/ljelzgd/,2024-08-22 16:58:25 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1eynsez/how_do_i_find_a_realtime_programming_mentor_for_a/,,"I mean, I'm bored and have a lot of free time, but my expertise is limited. Tell us a little bit more about your project (not just the tech stacks) and people can see if they're interested",
+
+ljub5kc,https://www.reddit.com/r/learnprogramming/comments/1f0ss0l/deleted_by_user/ljub5kc/,2024-08-25 11:17:10 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1f0ss0l/deleted_by_user/,,"Are you familiar with `strace`? It's more for code you didn't write, but should work on code you wrote too",
+
+lk6at7g,https://www.reddit.com/r/learnprogramming/comments/1f2f3zp/would_anyone_know_of_an_open_source_database_for/lk6at7g/,2024-08-27 13:49:08 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1f2f3zp/would_anyone_know_of_an_open_source_database_for/,,Are you familiar with https://fdc.nal.usda.gov/,
+
+lkhhshb,https://www.reddit.com/r/learnprogramming/comments/1f3z7cy/im_building_a_program_that_people_with_adhd_can/lkhhshb/,2024-08-29 11:27:00 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1f3z7cy/im_building_a_program_that_people_with_adhd_can/,,Have you tried openstreetmaps.org? Or do they not have phone numbers?,
+
+lkcj8hx,https://www.reddit.com/r/learnprogramming/comments/1f3bj8v/day_01prep_for_faang/lkcj8hx/,2024-08-28 14:40:40 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1f3bj8v/day_01prep_for_faang/,,spam referral link,
+
+lkhr3xw,https://www.reddit.com/r/learnprogramming/comments/1f3z7cy/im_building_a_program_that_people_with_adhd_can/lkhr3xw/,2024-08-29 12:33:44 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1f3z7cy/im_building_a_program_that_people_with_adhd_can/,lkhqxzj,"You could try looking at state-by-state business registrations, but that's icky",
+
+ll0v4t3,https://www.reddit.com/r/learnprogramming/comments/1f6kd18/iteration_vs_recursion_when_to_use_which/ll0v4t3/,2024-09-01 18:06:00 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1f6kd18/iteration_vs_recursion_when_to_use_which/,,I generally avoid recursion because you can run out of stack space. I prefer to use a queue and iterate along it,
+
+lkuaaw9,https://www.reddit.com/r/learnprogramming/comments/1f5onyc/read_the_matter/lkuaaw9/,2024-08-31 14:59:47 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1f5onyc/read_the_matter/,,In theory you could program with just 0's and 1's. Or even just 0's and the length would determine the program,
+
+lopw5la,https://www.reddit.com/r/learnprogramming/comments/1fohfzv/traceback_error/lopw5la/,2024-09-24 17:09:40 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1fohfzv/traceback_error/,lopvu9a,">  [ WARN:0@0.629] global loadsave.cpp:241 cv::findDecoder imread_('img_0821.jpg'): can't open/read file: check file path/integrity 
+
+I think it can't find img_0821.jpg. Make sure it's in the same directory as where you're running the code or give the full path to the file so your code can find it",
+
+lopdk6b,https://www.reddit.com/r/learnprogramming/comments/1foatl4/deleted_by_user/lopdk6b/,2024-09-24 15:32:50 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1foatl4/deleted_by_user/,,"To be honest, I'm guessing your idea isn't unique. There are tons of apps that help with motivation using all sorts of methods (including taking money if you were considering that), and I can't imagine you've found a truly new one, sorry",
+
+lorpnkt,https://www.reddit.com/r/learnprogramming/comments/1foatl4/deleted_by_user/lorpnkt/,2024-09-24 23:01:44 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1foatl4/deleted_by_user/,lor4xlm,"I think a lot of people waste time and effort and sometimes even money on developing an app that they think will make them rich, but end up failing because their original idea isn't all thar original or all that valuable. Probably best to do at least a little research first",
+
+lopv8ra,https://www.reddit.com/r/learnprogramming/comments/1fohfzv/traceback_error/lopv8ra/,2024-09-24 17:04:56 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1fohfzv/traceback_error/,,"Every fatal error comes with a traceback so that doesn't help. Could you 1) show us the error, and 2) tell us the language (Julia?)",
+
+lou8k6c,https://www.reddit.com/r/learnprogramming/comments/1fp1351/games_and_no_coding_experience_they_say/lou8k6c/,2024-09-25 11:39:46 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1fp1351/games_and_no_coding_experience_they_say/,,"Computers and coding have been around long enough that meta-tools now exist.
+
+AI is obviously one of them, but there are plenty of programs that will let you create clones of the basic game types using your own artwork
+
+[useful content ends here; rambling below]
+
+I personally don't like them but that's because I learned programming the hard way (back when we had 3583 bytes of memory AND WE LIKED IT!) and dislike the idea people can now create awesome games in just a few minutes.
+
+In some sense, this was inevitable. Programmers are essentially translators between humans and computers: you tell us what you want the computer to do and we convert it to the computer's language. Of course, one of you got smart and asked us to have the computer do the translation itself so you would no longer need us and we, not being terribly bright when it comes to things like that, did so.",
+
+lovkysb,https://www.reddit.com/r/learnprogramming/comments/1fp7u3o/deleted_by_user/lovkysb/,2024-09-25 16:24:40 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1fp7u3o/deleted_by_user/,,"If it's Python, remember that Python is whitespace sensitive",
+
+lsx9rls,https://www.reddit.com/r/learnprogramming/comments/1g89xr4/more_info_on_undirected_virtual_graphs_vertices/lsx9rls/,2024-10-20 23:29:28 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1g89xr4/more_info_on_undirected_virtual_graphs_vertices/,lsx7p80,"Thank you! This really helped. I found Lazy.jl and Thunks.jl that deal more with lazy lists in Julia. I'm leaving the question up, but I think the phrase ""lazy evaluation"" (which I knew about but didn't think to search) helped a lot.",
+
+lrfgi8h,https://www.reddit.com/r/learnprogramming/comments/1g1coie/request_archive_program/lrfgi8h/,2024-10-11 15:56:02 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1g1coie/request_archive_program/,,"I use recollq (https://manpages.ubuntu.com/manpages/xenial/man1/recollq.1.html) to locally index most of the local files I have. It works fairly well, and can bring up documents based on search phrases fairly quickly. Note that I use recollq from the command line, but it's part of a larger structure called Xapian (https://en.wikipedia.org/wiki/Xapian) that you might also want to look at",
+
+luvqck2,https://www.reddit.com/r/learnprogramming/comments/1gh9nwi/would_you_guys_be_interested_in_learn_to_codeget/luvqck2/,2024-11-01 16:39:38 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1gh9nwi/would_you_guys_be_interested_in_learn_to_codeget/,,"If you could confirm that this is all free, it would help, but I still think it's spam so I reported it",
+
+lxfnpk9,https://www.reddit.com/r/learnprogramming/comments/1gso25b/how_i_can_get_a_paid_internship_or_freelance/lxfnpk9/,2024-11-16 14:17:17 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1gso25b/how_i_can_get_a_paid_internship_or_freelance/,,This gets asked a lot: https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_is_doing_x_enough_to_let_me_get_an_entry-level_job.3F,
+
+ly4e8xq,https://www.reddit.com/r/learnprogramming/comments/1gvt1j5/a_deadline_calculator/ly4e8xq/,2024-11-20 16:39:27 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1gvt1j5/a_deadline_calculator/,,"> how much time I have left till my exams and then it struck me why not write code so that the program will do that for me
+
+The nominees for Most Creative Way To Procrastinate....",
+
+lz9bimi,https://www.reddit.com/r/learnprogramming/comments/1h17gm9/looking_for_a_mentor_to_guide_me_in_my/lz9bimi/,2024-11-27 15:58:26 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1h17gm9/looking_for_a_mentor_to_guide_me_in_my/,,Could you tell us a little more about what you're looking for? Languages? Projects? What do you hope to accomplish?,
+
+m3mm176,https://www.reddit.com/r/learnprogramming/comments/1hlj4dp/how_do_i_stop_myself_from_using_ai/m3mm176/,2024-12-24 18:23:30 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1hlj4dp/how_do_i_stop_myself_from_using_ai/,,"Bad advice: use multiple AIs. When Copilot fails, try Gemini or ChatGPT or whatever. Usually, one of them will give you what you need faster than you could figure it out yourself or even faster than you could use a search engine.",
+
+m4uweg4,https://www.reddit.com/r/learnprogramming/comments/1hr4wr0/the_inner_workings_of_perls_rand_function/m4uweg4/,2025-01-01 15:27:55 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1hr4wr0/the_inner_workings_of_perls_rand_function/,,"Perl is open source, so you should be able to download the source code.
+
+If the seeds are fixed integers, you can just generates millions of random numbers from each in Perl and store the results for the Java port",
+
+m4jse0f,https://www.reddit.com/r/learnprogramming/comments/1hprx9k/longest_time_on_the_stupidest_bug/m4jse0f/,2024-12-30 17:13:04 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1hprx9k/longest_time_on_the_stupidest_bug/,,"I see programming as 1% inspiration, 9% coding and 90% debugging.",
+
+m69e2ug,https://www.reddit.com/r/learnprogramming/comments/1hxi6ut/am_i_able_to_use_coworking_spaces_to_study/m69e2ug/,2025-01-09 17:57:41 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1hxi6ut/am_i_able_to_use_coworking_spaces_to_study/,,You might consider using Twitch Coworking + Studying streams first: they've worked wonders for me.,
+
+m6l9tyx,https://www.reddit.com/r/learnprogramming/comments/1hyyee3/php_dying/m6l9tyx/,2025-01-11 15:54:07 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1hyyee3/php_dying/,,"https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025 says it's #10, which sounds low but is high considering all the languages that didn't even make the top 10",
+
+m6rmm7l,https://www.reddit.com/r/learnprogramming/comments/1hzqq1u/urgent_help_needed_to_address_exploitation_of/m6rmm7l/,2025-01-12 16:46:02 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1hzqq1u/urgent_help_needed_to_address_exploitation_of/,,Could you point us to an article or something?,
+
+m74np3y,https://www.reddit.com/r/learnprogramming/comments/1i1bdxx/graph_based_filesystem/m74np3y/,2025-01-14 17:32:04 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1i1bdxx/graph_based_filesystem/,,"You can use symbolic links to simulate a graph-based filesystem, but that comes with its own problems",
+
+m7u0tsd,https://www.reddit.com/r/learnprogramming/comments/1i4cpds/deleted_by_user/m7u0tsd/,2025-01-18 17:37:24 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1i4cpds/deleted_by_user/,,I'm 0/3,
+
+mi44hau,https://www.reddit.com/r/learnprogramming/comments/1jcotcp/challenge_me/mi44hau/,2025-03-16 16:58:33 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1jcotcp/challenge_me/,,"What sort of subjects/hobbies are you interested in? I'm working on some GIS stuff and can make some suggestions (ask you to work on my projects), but, unless you're interested in GIS (with no practical application or monetary reward), you probably won't be interested.",
+
+mi572r0,https://www.reddit.com/r/learnprogramming/comments/1jctyp4/is_it_only_me_who_thinks_pointers_are_really/mi572r0/,2025-03-16 20:08:25 UTC,,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1jctyp4/is_it_only_me_who_thinks_pointers_are_really/,,"No, lots of pointers think people are difficult, and also the other way around.
+
+Some languages try to hide pointers, but you run into situations where you think you've copied an array, but you've only copied a pointer, and changes to your copy are reflected in the original.
+
+My advice (assuming ChatGPT doesn't take over the world) is to work to understand and learn pointers because they're important even for languages that claim they don't use pointer.",
+
+mldtp9t,https://www.reddit.com/r/learnprogramming/comments/1jrcxmi/for_a_teen_is_it_even_worth_it/mldtp9t/,2025-04-04 14:55:23 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1jrcxmi/for_a_teen_is_it_even_worth_it/,mldoaiq,"OK, let me make a more serious suggestion.
+
+I think companies are overusing AI and harming customers in the process. I also believe AI will be used to justify biases ""scientifically"", potentially making things worse for women and minorities.
+
+The solution is the law: work to become a politician who makes it illegal for AI to screw consumers (and hold the company civilly and potentially criminally liable), or become a lawyer who sues companies that use AI.
+
+[note: I actually welcome our new AI overlords-- I'm just fattening them up]",
+
+mldmo9r,https://www.reddit.com/r/learnprogramming/comments/1jrcxmi/for_a_teen_is_it_even_worth_it/mldmo9r/,2025-04-04 14:19:59 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1jrcxmi/for_a_teen_is_it_even_worth_it/,,"""I believe the children are the future, teach them well and... actually, don't. We've got this. Sit back. Relax. You will receive further instructions shortly"" - AI Whitney Houston
+
+The problem here is that future applies to pretty much everything, not just programming. If you're not going to kill time coding (and, if you're a guy, that other thing teenage boys do), what are you going to do? What careers will survive after AI?",
+
+mp6y0gc,https://www.reddit.com/r/learnprogramming/comments/1k8kbj5/new_programmerfirst_year_in_university_looking/mp6y0gc/,2025-04-26 19:09:02 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1k8kbj5/new_programmerfirst_year_in_university_looking/,,"If you're coding in Julia and interested in GIS, sure. But you're not. No one is :)",
+
+mppg5r3,https://www.reddit.com/r/learnprogramming/comments/1kavjnc/new_developers_looking_to_contribute/mppg5r3/,2025-04-29 18:48:11 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1kavjnc/new_developers_looking_to_contribute/,,Could you tell us a little bit more about it here?,
+
+mqpkua4,https://www.reddit.com/r/learnprogramming/comments/1kfcik5/bigocheatsheet_website_says_hashtable_access_is/mqpkua4/,2025-05-05 14:14:00 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1kfcik5/bigocheatsheet_website_says_hashtable_access_is/,,It's only O(1) if you don't have hash collisions. So it depends on the number of entries you have vs the number of hashes,
+
+mqq0u4s,https://www.reddit.com/r/learnprogramming/comments/1kfcik5/bigocheatsheet_website_says_hashtable_access_is/mqq0u4s/,2025-05-05 15:34:13 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1kfcik5/bigocheatsheet_website_says_hashtable_access_is/,mqq0amn,"For a fixed number of slots, the expected chain length grows with n. This might also explain why it's N/A: it may depend on the number of slots vs the number of items.",
+
+mt5e0da,https://www.reddit.com/r/learnprogramming/comments/1kqgnqf/fuck_self_study_computer_science/mt5e0da/,2025-05-19 16:53:39 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1kqgnqf/fuck_self_study_computer_science/,,"If it helps, AI will probably take over programming, so you'll never get a job coding anyway.
+
+OK, that probably didn't help.",
+
+mtvpxln,https://www.reddit.com/r/learnprogramming/comments/1ktqxmx/what_do_you_think_about_retro_gameplay/mtvpxln/,2025-05-23 18:33:01 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1ktqxmx/what_do_you_think_about_retro_gameplay/,,"Of course, back in the 80s, we just called it ""gameplay""",
+
+mz1gih8,https://www.reddit.com/r/learnprogramming/comments/1lh5h4b/would_you_use_an_appweb_platform_that_helps_you/mz1gih8/,2025-06-21 20:09:21 UTC,98.48.122.229,learnprogramming,0,https://www.reddit.com/r/learnprogramming/comments/1lh5h4b/would_you_use_an_appweb_platform_that_helps_you/,,"I'm not in the job market myself, but coming up with good ideas for resume-worthy projects seems way harder",

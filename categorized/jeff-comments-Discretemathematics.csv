@@ -1,0 +1,8 @@
+
+mb4oeaq,https://www.reddit.com/r/Discretemathematics/comments/1iie0e0/properties_of_relations/mb4oeaq/,2025-02-05 16:35:41 UTC,,Discretemathematics,0,https://www.reddit.com/r/Discretemathematics/comments/1iie0e0/properties_of_relations/,,"Antisymmetric means `x R y -> NOT (y R x)`. Less than is an antisymmetric relation. If `x < y` it can never be the case that `y < x`.
+
+Symmetric means `x R y -> y R x`. Equality is symmetric. If `x = y`, it is always the case that `y = x`
+
+A relation like `<=` is neither symmetric nor antisymmetric. For example `4 <= 5` but `NOT (5 <= 4)`, so the relation isn't symmetric. However, `5 <= 5` and `5 <= 5`, so the relation isn't antisymmetric either. In other words, `x R y` doesn't imply `y R x` but it also doesn't imply `NOT (y R x)`.",
+
+mpuwrat,https://www.reddit.com/r/Discretemathematics/comments/1kbjpim/can_someone_formally_prove_this_question/mpuwrat/,2025-04-30 15:48:06 UTC,98.48.122.229,Discretemathematics,0,https://www.reddit.com/r/Discretemathematics/comments/1kbjpim/can_someone_formally_prove_this_question/,,Possible hint: consider the transitive closure of the graph,

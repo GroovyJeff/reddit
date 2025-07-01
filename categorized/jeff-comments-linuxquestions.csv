@@ -1,0 +1,126 @@
+
+l0geuno,https://www.reddit.com/r/linuxquestions/comments/1c8rdau/rsync_tab_completion_giving_domains/l0geuno/,2024-04-20 14:39:26 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1c8rdau/rsync_tab_completion_giving_domains/,,Perhaps you have these files in another directory and they happen to be executable and in your executable path? Rsync shouldn't autocomplete for domains as you note,
+
+l1nhy98,https://www.reddit.com/r/linuxquestions/comments/1cf8s0s/free_us_vpn_for_linux/l1nhy98/,2024-04-28 15:29:35 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1cf8s0s/free_us_vpn_for_linux/,,You could try tor: https://www.torproject.org/download/,
+
+l1npfi4,https://www.reddit.com/r/linuxquestions/comments/1cf8s0s/free_us_vpn_for_linux/l1npfi4/,2024-04-28 16:16:06 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1cf8s0s/free_us_vpn_for_linux/,l1nl9pu,"I've never actually tried it, but you should be able to ssh through tor using a tunnel",
+
+l3a9r8g,https://www.reddit.com/r/linuxquestions/comments/1cnxai3/does_anyone_know_of_a_minimal_image_viewer_that/l3a9r8g/,2024-05-09 14:18:30 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1cnxai3/does_anyone_know_of_a_minimal_image_viewer_that/,,I use `feh` myself,
+
+l3pn3od,https://www.reddit.com/r/linuxquestions/comments/1cq7w92/problem_with_ssh/l3pn3od/,2024-05-12 14:08:21 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1cq7w92/problem_with_ssh/,,What happens if you hit ctrl-c while the cursor is hanging?,
+
+l3l5dr1,https://www.reddit.com/r/linuxquestions/comments/1cpjrst/permission_denied_when_trying_to_push_code_to_my/l3l5dr1/,2024-05-11 15:43:34 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1cpjrst/permission_denied_when_trying_to_push_code_to_my/,,"Try `ssh -vvv` (how many ever v's ssh will allow). This won't help, but will give you more things to look at.",
+
+l4g8hdw,https://www.reddit.com/r/linuxquestions/comments/1cu1xs2/rsync_backup_problem/l4g8hdw/,2024-05-17 13:10:12 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1cu1xs2/rsync_backup_problem/,,"> Im using the same account name as before
+
+Doublecheck that your uid is also the same using the `id` command",
+
+l4l7ltw,https://www.reddit.com/r/linuxquestions/comments/1cnxai3/does_anyone_know_of_a_minimal_image_viewer_that/l4l7ltw/,2024-05-18 11:55:13 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1cnxai3/does_anyone_know_of_a_minimal_image_viewer_that/,l4knxzh,"It would be \`-b trans\`, but that doesn't work either, darn",
+
+l5vorca,https://www.reddit.com/r/linuxquestions/comments/1d1qurr/offline_dictionary_in_linux/l5vorca/,2024-05-27 13:27:12 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1d1qurr/offline_dictionary_in_linux/,,"I mean, you could download wiktionary.org and run it locally or something",
+
+l6ch1rn,https://www.reddit.com/r/linuxquestions/comments/1d47srz/anyway_to_make_video_mp4_smaller_size_on_ubuntu/l6ch1rn/,2024-05-30 16:38:47 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1d47srz/anyway_to_make_video_mp4_smaller_size_on_ubuntu/,,"MP4s are already heavily compressed (usually), so I'm surprised zip/7zip works at all. You could recode them with a different video codec or lower the resolution or frame rate or something, or change the audio resolution, but I assume you're looking for lossless compression.
+
+If they're public, you could upload them to youtube or dailymotion or something",
+
+l5qz6cm,https://www.reddit.com/r/linuxquestions/comments/1d1232l/deleted_by_user/l5qz6cm/,2024-05-26 14:32:45 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1d1232l/deleted_by_user/,,"I've done this and the main issue is sound. I've never gotten sound to work on a VM, though that might just be me.",
+
+la1jri5,https://www.reddit.com/r/linuxquestions/comments/1dncere/is_there_any_kind_of_parental_control_software/la1jri5/,2024-06-24 12:55:22 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1dncere/is_there_any_kind_of_parental_control_software/,,"Cut him off at the router. Tweak your router to deny access to that MAC address (or fixed IP address) between certain hours.
+
+That moves the problem from the laptop (for which he will have root access I'm guessing) to a device he can't access.
+
+Also, since he's a **he**, ""addictive HTML5 games"" is not going to be your biggest concern :)",
+
+lazeeru,https://www.reddit.com/r/linuxquestions/comments/1ds2047/using_7z_to_just_archive_the_last_two_years_of/lazeeru/,2024-06-30 14:39:15 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1ds2047/using_7z_to_just_archive_the_last_two_years_of/,,Are you familiar with `find`?,
+
+latr0pp,https://www.reddit.com/r/linuxquestions/comments/1dra4l1/why_wget_doesnt_work_in_a_shell_script_but_work/latr0pp/,2024-06-29 12:54:37 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1dra4l1/why_wget_doesnt_work_in_a_shell_script_but_work/,latp6hj,"I'm vaguely annoyed that ftp.ensembl.org uses a double CNAME, but that shouldn't be an issue:
+
+```
+host ftp.ensembl.org
+
+ftp.ensembl.org is an alias for ftp.ensembl.ebi.ac.uk.
+ftp.ensembl.ebi.ac.uk is an alias for hl-xfer-ensorg.ebi.ac.uk.
+hl-xfer-ensorg.ebi.ac.uk has address 193.62.193.169
+```",
+
+lao1igi,https://www.reddit.com/r/linuxquestions/comments/1dqh5nm/7z_terminal_output_to_a_log_file/lao1igi/,2024-06-28 11:59:31 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1dqh5nm/7z_terminal_output_to_a_log_file/,,"Have you tried `7z ... >& /tmp/outerr.txt` (that's tcsh, bash would be `7z ... 1> out.txt 2> err.txt`)",
+
+laiiu2r,https://www.reddit.com/r/linuxquestions/comments/1dpq41r/transparent_dock_problem/laiiu2r/,2024-06-27 12:46:39 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1dpq41r/transparent_dock_problem/,,What does `gnome-extensions list` tell you?,
+
+latohrv,https://www.reddit.com/r/linuxquestions/comments/1dra4l1/why_wget_doesnt_work_in_a_shell_script_but_work/latohrv/,2024-06-29 12:35:10 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1dra4l1/why_wget_doesnt_work_in_a_shell_script_but_work/,,The shell runs in a different environment. Have the shell redirect the output of that command to a file to see what goes wrong,
+
+lb54qio,https://www.reddit.com/r/linuxquestions/comments/1dsw4l0/please_give_your_opinion_on_this_question_my/lb54qio/,2024-07-01 15:49:42 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1dsw4l0/please_give_your_opinion_on_this_question_my/,,"Linux users prefer to do things themselves and are hesitant to use AI blindly. AI might assist Linux administration, but Linux users are likely to take AI's solutions as advisory, and carefully check them before implementation",
+
+ld4bmjr,https://www.reddit.com/r/linuxquestions/comments/1e2wvey/ssh_stops_working_at_random_times_but_restarting/ld4bmjr/,2024-07-14 10:16:00 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1e2wvey/ssh_stops_working_at_random_times_but_restarting/,,"Do you limit the number of connections from any specific machine? If so, it's possible your old ssh session isn't quite dead, so the server blocks any new sessions",
+
+ldl8q6b,https://www.reddit.com/r/linuxquestions/comments/1e5ej9d/xset_q_recent_versions_has_started_to_give_less/ldl8q6b/,2024-07-17 10:34:22 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1e5ej9d/xset_q_recent_versions_has_started_to_give_less/,ldl7dwm,Good idea. OP may also try `xset +dpms`,
+
+ldputdk,https://www.reddit.com/r/linuxquestions/comments/1e619y3/print_an_image_in_a_specific_size_as_an_array/ldputdk/,2024-07-18 03:19:19 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1e619y3/print_an_image_in_a_specific_size_as_an_array/,,"You might look into the ImageMagick suite of tools, in particular `montage`, which will get you the array. I believe the `-dpi` option to ImageMagick tools will let you set the ""real life"" size, but I'm less sure about that",
+
+lgy1cf2,https://www.reddit.com/r/linuxquestions/comments/1emd8cn/deleted_by_user/lgy1cf2/,2024-08-07 14:38:01 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1emd8cn/deleted_by_user/,,"You can look at `/var/log/messages` right up to the point of the reboot, but there's no guarantee the log file will have the reason",
+
+lh36nyt,https://www.reddit.com/r/linuxquestions/comments/1emd8cn/deleted_by_user/lh36nyt/,2024-08-08 10:58:10 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1emd8cn/deleted_by_user/,lgy3qp4,Look at other files like /var/log/secure maybe? You might want to configure /etc/syslog.conf to log more stuff,
+
+lhfi5mw,https://www.reddit.com/r/linuxquestions/comments/1eorxv0/linux_being_a_foss_actually_who_is_really_getting/lhfi5mw/,2024-08-10 12:59:03 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1eorxv0/linux_being_a_foss_actually_who_is_really_getting/,,"Well, it benefits me:
+
+  - I enjoy writing software and sharing it because it gives me that warm ""I did something good for the world"" feeling. Of course, some people would argue my code makes things worse for the world, which gives me the thrill of being an ""evil genius"". Realistically, most of my code has no impact on the world, but I still enjoy writing it. I personally believe people create blogs so they can write stuff, not because anyone will read it. I treat OS coding the same way
+
+  - I don't have to pay for most high-quality software. I can use professional tools that I otherwise couldn't afford for free
+
+  - It forces commercial software vendors to have higher standards. If people can get a tool for free, you really have to add value to charge for it. The baseline is no longer ""a tool that does a thing"" but ""a tool that does a thing better than existing free tools""",
+
+lhroz9z,https://www.reddit.com/r/linuxquestions/comments/1eqi3kd/help_with_du/lhroz9z/,2024-08-12 16:41:30 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1eqi3kd/help_with_du/,,"I agree with /u/AlternativeOstrich7 (but redact sensitive information) but, also, are you using symbolic links? Also run `df -kh` on both `/` and `/var` to make sure they're mounted on the same partition",
+
+ljubgoq,https://www.reddit.com/r/linuxquestions/comments/1f0spgx/did_i_mess_things_up/ljubgoq/,2024-08-25 11:20:06 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1f0spgx/did_i_mess_things_up/,lju4u8i,"And a backup that preserves ownership information, which OP may not have",
+
+ljueiqz,https://www.reddit.com/r/linuxquestions/comments/1f0p5n6/typing_assistant_on_linux/ljueiqz/,2024-08-25 11:48:37 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1f0p5n6/typing_assistant_on_linux/,,emacs has a flyspell mode that points out errors but won't correct them,
+
+lj988sx,https://www.reddit.com/r/linuxquestions/comments/1exwrty/linux_alternative_for_excel/lj988sx/,2024-08-21 19:02:58 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1exwrty/linux_alternative_for_excel/,,"I use gnumeric, but it might be a bit dated and not have all the features you want",
+
+lknhc96,https://www.reddit.com/r/linuxquestions/comments/1f4qry2/microphone_for_speech_dictation/lknhc96/,2024-08-30 10:53:30 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1f4qry2/microphone_for_speech_dictation/,,"Just to clarify, you're talking about microphones with speech recognition builtin to the microphone itself, correct? (https://www.dictation.philips.com/us/products/desktop-dictation/speechmike-premium-dictation-microphone-lfh3500/)",
+
+lknhe1k,https://www.reddit.com/r/linuxquestions/comments/1f4qry2/microphone_for_speech_dictation/lknhe1k/,2024-08-30 10:53:56 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1f4qry2/microphone_for_speech_dictation/,lkndr4h,Does it have speech recognition built in?,
+
+lknhdp1,https://www.reddit.com/r/linuxquestions/comments/1f4qry2/microphone_for_speech_dictation/lknhdp1/,2024-08-30 10:53:51 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1f4qry2/microphone_for_speech_dictation/,lkn7zrh,Does it have speech recognition built in?,
+
+lkngv81,https://www.reddit.com/r/linuxquestions/comments/1f4rota/in_desperate_search_of_an_old_redhat_4_or_5_in/lkngv81/,2024-08-30 10:49:14 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1f4rota/in_desperate_search_of_an_old_redhat_4_or_5_in/,,xpaint?,
+
+lku95e6,https://www.reddit.com/r/linuxquestions/comments/1f5oxo2/annoying_nvim_message_nvim_filepath/lku95e6/,2024-08-31 14:53:12 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1f5oxo2/annoying_nvim_message_nvim_filepath/,,What are the extensions (last 4 characters including the dot) on the files you are opening? It seems like nvim (like emacs) runs some hooks based on what file type nvim thinks it is,
+
+lmgue6k,https://www.reddit.com/r/linuxquestions/comments/1fdmbc3/unicode_text_replacement/lmgue6k/,2024-09-10 17:19:12 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1fdmbc3/unicode_text_replacement/,,"I played around with Perl's Text::Unidecode, but couldn't get it 100% working. Pretty sure you're going need a script to do this, though it might be one line
+
+`perl -pnle 's/[\xc9\xcd\xc4\xda\xc0]//g' order.txt.orig`
+
+should get you part of the way there",
+
+lp10ps0,https://www.reddit.com/r/linuxquestions/comments/1fpxqum/cant_ssh_to_my_fathers_server/lp10ps0/,2024-09-26 14:50:21 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1fpxqum/cant_ssh_to_my_fathers_server/,,"Need more info, but have you checked iptables and other software firewalls (like Windows Firewall if he's using that). Also, try `ssh -vvv` to see if extra verbosity helps",
+
+lt0i34g,https://www.reddit.com/r/linuxquestions/comments/1g8lll1/unable_to_connect_to_server_via_ssh_connection/lt0i34g/,2024-10-21 14:52:05 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1g8lll1/unable_to_connect_to_server_via_ssh_connection/,lt0an02,"My mistake, sorry. I just re-read your post and you say `username@server_ip` already. The only other suggestion I have is `ncat server_ip 22` just to see if the port is open, or `nmap -P0 server_ip` to see what ports are open, closed, or filtered.",
+
+lszkvhg,https://www.reddit.com/r/linuxquestions/comments/1g8lll1/unable_to_connect_to_server_via_ssh_connection/lszkvhg/,2024-10-21 11:10:22 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1g8lll1/unable_to_connect_to_server_via_ssh_connection/,,"I ran into this recently. Try using the IP address instead of the server name. In my case, the name was resolving differently in two different programs",
+
+lt6x295,https://www.reddit.com/r/linuxquestions/comments/1g8lll1/unable_to_connect_to_server_via_ssh_connection/lt6x295/,2024-10-22 16:08:25 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1g8lll1/unable_to_connect_to_server_via_ssh_connection/,lt2b1gh,You clearly know WAY more than I do. Good luck!,
+
+lyqmx6v,https://www.reddit.com/r/linuxquestions/comments/1gyr7yk/deleted_by_user/lyqmx6v/,2024-11-24 13:55:08 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1gyr7yk/deleted_by_user/,,"`diff -uwr` would be my command line choice, but, as, /u/nulltan notes, meld is a GUI-friendly alternative (it's similar to diff, but has a GUI)",
+
+m3ax8yk,https://www.reddit.com/r/linuxquestions/comments/1hk26dk/why_isnt_cp_reflinkauto_the_default/m3ax8yk/,2024-12-22 16:47:47 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1hk26dk/why_isnt_cp_reflinkauto_the_default/,,"The statement below is inaccurate and refers to hard links, not ref links
+
+~~Presumably, I'm going to do something different with the copied file which might involve changing it in some way and I don't want to change the original. I do use symlinks a lot when I need a ""read only"" copy~~",
+
+m3b6upl,https://www.reddit.com/r/linuxquestions/comments/1hk26dk/why_isnt_cp_reflinkauto_the_default/m3b6upl/,2024-12-22 17:42:14 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1hk26dk/why_isnt_cp_reflinkauto_the_default/,m3b2dos,My mistake. I was confusing reflinks and hard links,
+
+m50xjnr,https://www.reddit.com/r/linuxquestions/comments/1hrwpef/is_there_a_program_that_automatically_clicks_on/m50xjnr/,2025-01-02 16:07:59 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1hrwpef/is_there_a_program_that_automatically_clicks_on/,,xdotool,
+
+m7fyq9b,https://www.reddit.com/r/linuxquestions/comments/1i2mlci/i_go_crazy_find_iname_somefile_cd_find_iname/m7fyq9b/,2025-01-16 12:59:16 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1i2mlci/i_go_crazy_find_iname_somefile_cd_find_iname/,,"In addition to the other great tips, try `-follow` to help with symlink stuff",
+
+mg53t8b,https://www.reddit.com/r/linuxquestions/comments/1j42pgm/share_why_you_dont_like_to_use_linux/mg53t8b/,2025-03-05 13:17:43 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1j42pgm/share_why_you_dont_like_to_use_linux/,,It's not 100% compatible with everything. Sometimes you just need Windows. But very rarely.,
+
+mi3kwc8,https://www.reddit.com/r/linuxquestions/comments/1jcnnef/13_root_servers_dns/mi3kwc8/,2025-03-16 15:18:47 UTC,,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1jcnnef/13_root_servers_dns/,,`a.root-servers.net` through `m.root-servers.net` if that's what you're asking,
+
+n0jy6hr,https://www.reddit.com/r/linuxquestions/comments/1lo3voe/tips_and_examples_of_ifelse_shell_scripting_heres/n0jy6hr/,2025-06-30 10:23:49 UTC,98.48.122.229,linuxquestions,0,https://www.reddit.com/r/linuxquestions/comments/1lo3voe/tips_and_examples_of_ifelse_shell_scripting_heres/,,"> https://www.linuxhardened.com/linux-shell-if-else-guide/?utm_source=chatgpt.com
+
+If you're going to spam, at least change the utm_source to reddit.com so you know where your victims are coming from. Quoting https://www.linuxhardened.com/contact-us/
+
+> I usually respond within 24–48 hours. Please note that this blog is solo-managed, so response times might vary slightly.
+
+Did you ""discover"" this blog or write it?",

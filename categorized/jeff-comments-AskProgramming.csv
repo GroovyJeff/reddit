@@ -1,0 +1,34 @@
+
+m16pykx,https://www.reddit.com/r/AskProgramming/comments/1ha8rrt/it_is_possible_to_create_a_server_strongly/m16pykx/,2024-12-09 12:53:56 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1ha8rrt/it_is_possible_to_create_a_server_strongly/,,"Keep in mind that many governments regulate gambling, and gaming platforms where you play games for money, even cryptocurrency, may count. And many ""normal"" people are scared of crypto and will want to pay via bank card. But, if you accept bank cards and people lose money, they'll file chargebacks. Running a monetized gambling site is not easy.",
+
+m16oor1,https://www.reddit.com/r/AskProgramming/comments/1ha8tqw/guys_does_any_one_knows_about_trading_i_want_buy/m16oor1/,2024-12-09 12:43:53 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1ha8tqw/guys_does_any_one_knows_about_trading_i_want_buy/,,I'm confused. Why are you asking about trading in a programming subreddit? Do you mean trading in one computer to get another?,
+
+m3azk6m,https://www.reddit.com/r/AskProgramming/comments/1hk2gjb/what_languages_have_a_large_collection_of/m3azk6m/,2024-12-22 17:00:48 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1hk2gjb/what_languages_have_a_large_collection_of/,,"`C` will probably always have the biggest collection of libraries since it's one of the oldest languages. Many Python libraries are just C libraries compiled into Python (no point reinventing the wheel). And `C` will probably always be the fastest-running language.
+
+I personally hate Python and use Julia, which satisfies your criteria and is fairly fast, but has other issues.",
+
+m50xh73,https://www.reddit.com/r/AskProgramming/comments/1hrwps1/where_to_write_my_python_code/m50xh73/,2025-01-02 16:07:37 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1hrwps1/where_to_write_my_python_code/,,"You can use services like repl.it and pythonfiddle.com to run Python code online, but, as others note, it's best to run it locally. And, of course, finding free unlimited storage for anything online is going to be difficult",
+
+m5yw5we,https://www.reddit.com/r/AskProgramming/comments/1hw6pu5/can_you_force_a_computer_to_divide_by_zero/m5yw5we/,2025-01-08 00:36:35 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1hw6pu5/can_you_force_a_computer_to_divide_by_zero/,,Sure. You can write your own math parser and define division by zero however you want. You could even write a parser that generates inaccurate or even (psuedo)random results,
+
+m93hc7t,https://www.reddit.com/r/AskProgramming/comments/1i9o1vy/can_you_guys_give_me_some_project_ideas_for/m93hc7t/,2025-01-25 14:47:40 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1i9o1vy/can_you_guys_give_me_some_project_ideas_for/,,What sort of thing are you looking to learn? Do you have any hobbies/interests that might benefit from coding?,
+
+mbiokgc,https://www.reddit.com/r/AskProgramming/comments/1ik1kad/what_is_going_on_with_the_current_state_of/mbiokgc/,2025-02-07 18:16:33 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1ik1kad/what_is_going_on_with_the_current_state_of/,,"> So, what do I do with piles of evidence that I am more than capable without needing any degree?
+
+Certificates and degrees get you past a filter. Employers get way too many resume's and want to minimize the number of interviews. Certificates and degrees are easy trusted evidence of capability. Your piles of evidence would be harder to go through and unnecessary because they already have too many candidates.
+
+My advice: try using your ""social network"" (including parents, friends, neighbors, etc) and see if they know someone (or know someone who knows someone) who is looking for your skills and is willing to interview you.",
+
+mfnuwq6,https://www.reddit.com/r/AskProgramming/comments/1j1zsau/deleted_by_user/mfnuwq6/,2025-03-02 20:16:30 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1j1zsau/deleted_by_user/,mfnt4j9,Yes. Unless your AI can do something no other AI can do.,
+
+mffrqfq,https://www.reddit.com/r/AskProgramming/comments/1j10tma/academic_help/mffrqfq/,2025-03-01 14:49:01 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1j10tma/academic_help/,,Could you be a bit more specific?,
+
+mfnrstn,https://www.reddit.com/r/AskProgramming/comments/1j1zsau/deleted_by_user/mfnrstn/,2025-03-02 20:00:46 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1j1zsau/deleted_by_user/,,"There are a lot of AI out there, so I'm not sure you'd get much for yours. However, if you're really concerned, try selling it at first to see what sort of offers you get. If (when) that doesn't work, upload it to Github",
+
+mg5w9gl,https://www.reddit.com/r/AskProgramming/comments/1j45abg/what_is_this_sort_of_numbering_sequence_called/mg5w9gl/,2025-03-05 15:51:39 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1j45abg/what_is_this_sort_of_numbering_sequence_called/,mg5p753,Summary: numbers are being sorted in alphabetical order instead of numerical order. Unix `sort` has a `-n` option to fix this and even a `-g` option to fix scientific notation like `1e+9` to mean one billion,
+
+mi5f4pv,https://www.reddit.com/r/AskProgramming/comments/1jcus6n/get_data_for_thats_being_sent_from_ethernet/mi5f4pv/,2025-03-16 20:48:38 UTC,,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1jcus6n/get_data_for_thats_being_sent_from_ethernet/,,"Just to help others, I assume you're referring to something like https://www.monnit.com/products/gateways/ethernet-gateways/egw4/?srsltid=AfmBOoqph5Sw0-NuTfaOV2Kic-AL0dnuccpIk1kokNmtFYCotl6e-eRg
+
+The term ""ethernet gateway"" is too generic and could refer to any router.",
+
+mp6xdew,https://www.reddit.com/r/AskProgramming/comments/1k8kev4/do_you_take_requests_write_me_a_script_download/mp6xdew/,2025-04-26 19:05:31 UTC,98.48.122.229,AskProgramming,0,https://www.reddit.com/r/AskProgramming/comments/1k8kev4/do_you_take_requests_write_me_a_script_download/,,This would be a scraping project and shouldn't be too difficult.,

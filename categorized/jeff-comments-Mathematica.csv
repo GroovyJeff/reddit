@@ -1,0 +1,85 @@
+
+l675pfw,https://www.reddit.com/r/Mathematica/comments/1d3dqvb/two_seeming_errors_in_mathematica_does_anyone/l675pfw/,2024-05-29 16:56:44 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1d3dqvb/two_seeming_errors_in_mathematica_does_anyone/,l674a70,"```
+Mathematica 11.1.0 Kernel for Linux x86 (64-bit)
+Copyright 1988-2017 Wolfram Research, Inc.
+
+In[1]:= $Version                                                                
+
+Out[1]= 11.1.0 for Linux x86 (64-bit) (March 13, 2017)
+
+In[2]:= Limit[Gamma[x]/x^33, x -> Infinity]                                     
+
+Out[2]= Infinity
+
+In[3]:= Limit[Gamma[x]/x^34, x -> Infinity]                                     
+
+Out[3]= 0
+```
+
+So it may've been fixed later. Thanks re IntegerQ, it just surprised me a little",
+
+l6bevkf,https://www.reddit.com/r/Mathematica/comments/1d3dqvb/two_seeming_errors_in_mathematica_does_anyone/l6bevkf/,2024-05-30 12:39:35 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1d3dqvb/two_seeming_errors_in_mathematica_does_anyone/,l67rkki,"Thanks. I vaguely remember Mathematica having a feature(?) that let it emulate older versions of itself (bugs and all), but I might be imagining that",
+
+l78ljkj,https://www.reddit.com/r/Mathematica/comments/1d6jj13/can_i_use_mathematica_to_calculate_step_by_step/l78ljkj/,2024-06-05 16:24:19 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1d6jj13/can_i_use_mathematica_to_calculate_step_by_step/,l6tvpao,Technically correct but not really in the spirit of the question :),
+
+l75scu1,https://www.reddit.com/r/Mathematica/comments/1d8djqi/i_have_been_facing_this_problem_with_this_problem/l75scu1/,2024-06-05 02:17:09 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1d8djqi/i_have_been_facing_this_problem_with_this_problem/,,"I got rid of the conditionals using `x1 = Ne[[1]]` and then `Solve[x1 == 50, phik]` gives me an answer. I realize removing the conditional changes things, but thought this might help.
+
+Note that you only have phik in the `2 f^2 (-Log[Sin[phik/(2 f)]]` term, so you can move all the other terms to one side, divide by `2f^2`, `Exp` the result, `ArcSin` that result and multiply by `2f` to get phik by itself",
+
+l8q0ien,https://www.reddit.com/r/Mathematica/comments/1dgd2x9/please_help_me/l8q0ien/,2024-06-15 13:29:03 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1dgd2x9/please_help_me/,,"Try /r/learnmath -- this sub is for MathematicA (ends with an ""a""), a piece of software, not MathematicS, the general subject",
+
+l9g4ocm,https://www.reddit.com/r/Mathematica/comments/1djo998/why_machineprecision_can_have_a_value_of_159546/l9g4ocm/,2024-06-20 11:37:51 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1djo998/why_machineprecision_can_have_a_value_of_159546/,,"```
+In[2]:= Accuracy[3.1^10]                                                        
+
+Out[2]= 11.041
+
+In[3]:= Precision[3.1^10]                                                       
+
+Out[3]= MachinePrecision
+
+In[4]:= $MachinePrecision                                                       
+
+Out[4]= 15.9546
+
+In[5]:= $Version                                                                
+
+Out[5]= 11.1.0 for Linux x86 (64-bit) (March 13, 2017)
+```
+
+confirms what others are saying",
+
+lb52oqs,https://www.reddit.com/r/Mathematica/comments/1dsvneu/deleted_by_user/lb52oqs/,2024-07-01 15:38:24 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1dsvneu/deleted_by_user/,,Are you trying to replicate the builtin `NextPrime` function?,
+
+lkd46in,https://www.reddit.com/r/Mathematica/comments/1f3dlnm/mathematica_download/lkd46in/,2024-08-28 16:27:41 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1f3dlnm/mathematica_download/,,"You can use Mathematica for free at cloud.wolfram.com and use free programs like mathics (not by Wolfram), and use wolframalpha.com to answer questions, but Mathematica is ultimately a commercial product with no free version, not even for specific categories of people (as far as I know). If you have a university email address you may be able to get a discount.",
+
+lkz993h,https://www.reddit.com/r/Mathematica/comments/1f6d5g8/learning_mathematica_what_am_i_doing_wrong/lkz993h/,2024-09-01 12:31:30 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1f6d5g8/learning_mathematica_what_am_i_doing_wrong/,,"Once you set `x=4`, you can no longer use `x` as a variable",
+
+llyet02,https://www.reddit.com/r/Mathematica/comments/1fb65dp/how_do_i_actually_evaluate_expressions_in/llyet02/,2024-09-07 13:58:43 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1fb65dp/how_do_i_actually_evaluate_expressions_in/,llyeli1,Because 27/27 and 54/27 are whole numbers,
+
+llyd5r3,https://www.reddit.com/r/Mathematica/comments/1fb65dp/how_do_i_actually_evaluate_expressions_in/llyd5r3/,2024-09-07 13:47:59 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1fb65dp/how_do_i_actually_evaluate_expressions_in/,,"I think that limited access to cloud.wolfram.com doesn't expire. Remember that Mathematica has its own language (the Wolfram language) separate from what wolframalpha can parse. Try something like:
+
+`Sum[Floor[x+y/27],{y,1,180}] == 500`
+
+Now, if you wrap Solve around it:
+
+`Solve[Sum[Floor[x+y/27],{y,1,180}] == 500]`
+
+nothing happens because Mathematica can't solve that, but you get the idea.
+
+Graphing shows the function on the left jumps from 499 to 506 near -0.075, so I don't think there's a solution",
+
+llyqcau,https://www.reddit.com/r/Mathematica/comments/1fb65dp/how_do_i_actually_evaluate_expressions_in/llyqcau/,2024-09-07 15:08:41 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1fb65dp/how_do_i_actually_evaluate_expressions_in/,llyj9mo,"Same answer to both :)
+
+`floor(x+27/27) = 1 + floor(x)`
+
+`floor(x+54/54) = 2 + floor(x)`
+
+Notice the terms `floor(x+27/27)` and `floor(x+54/27)` are missing from your long sum after Mathematica simplifies is.",
+
+lr2z25w,https://www.reddit.com/r/Mathematica/comments/1fzm7ro/calling_colors_directy_by_their_names_in_wolfram/lr2z25w/,2024-10-09 12:37:03 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1fzm7ro/calling_colors_directy_by_their_names_in_wolfram/,,"If you do `?Red` for example, it confirms Red is a pre-defined constant in the Wolfram language",
+
+lrft9si,https://www.reddit.com/r/Mathematica/comments/1g1eibf/deleted_by_user/lrft9si/,2024-10-11 17:05:12 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1g1eibf/deleted_by_user/,,"I didn't read your full post, but isn't `u1 -> u1` a pointless substitution?",
+
+m7ewzzb,https://www.reddit.com/r/Mathematica/comments/1i2ithr/previousprime_analog_of_nextprime/m7ewzzb/,2025-01-16 06:59:32 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1i2ithr/previousprime_analog_of_nextprime/,,"`NextPrime[100, -1]`",
+
+m9zvdk5,https://www.reddit.com/r/Mathematica/comments/1idlbtg/cheapest_way_to_get_mathematica/m9zvdk5/,2025-01-30 11:59:44 UTC,,Mathematica,0,https://www.reddit.com/r/Mathematica/comments/1idlbtg/cheapest_way_to_get_mathematica/,,cloud.wolfram.com lets you use Mathematica for free with limited resources,

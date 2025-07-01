@@ -1,0 +1,6 @@
+
+m113q8g,https://www.reddit.com/r/webscraping/comments/1h9j9jq/what_are_the_best_practices_to_prevent_my_website/m113q8g/,2024-12-08 13:58:18 UTC,,webscraping,0,https://www.reddit.com/r/webscraping/comments/1h9j9jq/what_are_the_best_practices_to_prevent_my_website/,,"You can stop legitimate search engines using a robots.txt file. For the rest, you can look for patterns of IP addresses that scrape but that's a bit more nuanced",
+
+m57j02u,https://www.reddit.com/r/webscraping/comments/1hsqgj2/scraping_lawyer_information_from_state_specific/m57j02u/,2025-01-03 17:06:14 UTC,,webscraping,0,https://www.reddit.com/r/webscraping/comments/1hsqgj2/scraping_lawyer_information_from_state_specific/,m57fwol,Maybe try https://us-barassociation.org/content/state-list,
+
+m57duas,https://www.reddit.com/r/webscraping/comments/1hsqgj2/scraping_lawyer_information_from_state_specific/m57duas/,2025-01-03 16:40:25 UTC,,webscraping,0,https://www.reddit.com/r/webscraping/comments/1hsqgj2/scraping_lawyer_information_from_state_specific/,,Consider using `wget -m` to scrape the entire sites and then parse the data later. That might be easier than parsing-while-scraping,

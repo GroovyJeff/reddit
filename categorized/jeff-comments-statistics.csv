@@ -1,0 +1,20 @@
+
+mdaoceu,https://www.reddit.com/r/statistics/comments/1irrr9e/q_small_percentage_fallacy/mdaoceu/,2025-02-17 19:09:31 UTC,,statistics,0,https://www.reddit.com/r/statistics/comments/1irrr9e/q_small_percentage_fallacy/,,"Here are several links that don't apply to you:
+
+https://en.wikipedia.org/wiki/Base_rate_fallacy
+
+https://en.wikipedia.org/wiki/Faulty_generalization#Hasty_generalization
+
+https://human.libretexts.org/Bookshelves/Philosophy/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/03%3A_Evaluating_Inductive_Arguments_and_Probabilistic_and_Statistical_Fallacies/3.08%3A_The_Small_Numbers_Fallacy
+
+However, you don't appear to be making any of these fallacies. You seem to be saying a small percentage of a large number can be a large number, and that's certainly true. Imagine how many hamburgers you could buy with 0.01% of the US debt (sorry, it's lunchtime)",
+
+mp6wggn,https://www.reddit.com/r/statistics/comments/1k8k2p0/q_is_linear_regression_superior_to_an_average/mp6wggn/,2025-04-26 19:00:31 UTC,98.48.122.229,statistics,0,https://www.reddit.com/r/statistics/comments/1k8k2p0/q_is_linear_regression_superior_to_an_average/,,"If you're assuming b=0, which sort of makes sense in your case, I think they give you the same answer.",
+
+mqq7mm4,https://www.reddit.com/r/statistics/comments/1kffe4d/q_e_textbook_that_teaches_statistical_modelling/mqq7mm4/,2025-05-05 16:07:41 UTC,98.48.122.229,statistics,0,https://www.reddit.com/r/statistics/comments/1kffe4d/q_e_textbook_that_teaches_statistical_modelling/,,"""Portrait of Markov"" is a fictional book from a video game, but Markov chains are often taught as matrices... maybe dig around for something like that?",
+
+mvxz2cg,https://www.reddit.com/r/statistics/comments/1l34lxi/q_quadratic_regression_with_two_percentage/mvxz2cg/,2025-06-04 12:52:55 UTC,98.48.122.229,statistics,0,https://www.reddit.com/r/statistics/comments/1l34lxi/q_quadratic_regression_with_two_percentage/,,Do you mean you'd like to model one variable as a quadratic in the other variable or something different?,
+
+n04tkj1,https://www.reddit.com/r/statistics/comments/1lm4v89/median_error_q/n04tkj1/,2025-06-27 21:00:03 UTC,98.48.122.229,statistics,0,https://www.reddit.com/r/statistics/comments/1lm4v89/median_error_q/,,"Doublecheck me on this, but the deviation from the median (the ""median error"") is computed by taking the square of the difference between the median and each data point, adding, taking the square root, and then dividing by the number of points.",
+
+n04vhw1,https://www.reddit.com/r/statistics/comments/1lm4v89/median_error_q/n04vhw1/,2025-06-27 21:10:01 UTC,98.48.122.229,statistics,0,https://www.reddit.com/r/statistics/comments/1lm4v89/median_error_q/,n04unx9,"I also biffed slightly by forgetting to say ""divide the error by the median"" since it's *relative* error, not absolute error. I'm not sure I follow re the standard error and propagation of errors re the mean. We might be using the word ""error"" in different ways. Your textbook/reference material is probably a better source, I just typing random stuff on subreddits",

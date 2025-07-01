@@ -1,0 +1,1000 @@
+
+kr4z3ey,https://www.reddit.com/r/askmath/comments/1aunlat/is_it_possible_that_many_accepted_proofs_are/kr4z3ey/,2024-02-19 14:08:36 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1aunlat/is_it_possible_that_many_accepted_proofs_are/,,"Short answer: Yes, because paradox
+
+Historically, there have been many paradoxes in mathematics: Zeno ""proved"" motion was impossible, Russell created a set that was both inside and outside another set, and so on.
+
+Mathematicians eventually decided to formalize set theory to avoid these paradoxes, but there's no guarantee they have. There might be another paradox lurking that could, in theory, invalidate existing proofs.
+
+Godels Incompleteness Theorem tells us no deductive system that contains multiplication can be both complete and consistent. That means either our current set of axioms (and axiom schema) can't assign a true or false value to every proposition (this part is known to be true) or will eventually show true = false, rendering proofs meaningless until we resolve the issue, or both.",
+
+krs0ufz,https://www.reddit.com/r/askmath/comments/1ay3cpp/number_of_trailing_zeroes_in_factorial_of_powers/krs0ufz/,2024-02-23 15:40:57 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ay3cpp/number_of_trailing_zeroes_in_factorial_of_powers/,,"I did an OEIS lookup and it matches A174807 (https://oeis.org/A174807), `Floor[10^n/4]`. Not sure if that helps",
+
+kr63qqp,https://www.reddit.com/r/askmath/comments/1aurfqg/why_did_i_accidentally_discover_e/kr63qqp/,2024-02-19 18:08:35 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1aurfqg/why_did_i_accidentally_discover_e/,kr63lly,Thanks! Corrected,
+
+krfx4j6,https://www.reddit.com/r/askmath/comments/1awazy9/how_do_you_calculate_success_based_on_external/krfx4j6/,2024-02-21 12:50:08 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1awazy9/how_do_you_calculate_success_based_on_external/,,"Probably not the answer you're looking for, but I'd suggest saying something like ""historically, the number 32 [or whatever] has appeared more often as a winning lottery number than any other; however, this does not mean 32 is any more likely to appear as a winning lottery number in future draws"".",
+
+krxtrug,https://www.reddit.com/r/askmath/comments/1aytjd2/real_life_least_common_multiple_problem/krxtrug/,2024-02-24 16:47:13 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1aytjd2/real_life_least_common_multiple_problem/,krx7v0c,"An integer solution is where all the numbers are positive or negative whole numbers or zero. The integers are: {0, 1, -1, 2 -2, 3, -3, 4, -4, ...}. We need integers since we are comparing a whole number of products (no fractions) to a whole number of products",
+
+kh385rv,https://www.reddit.com/r/askmath/comments/192m2pq/order_of_operations/kh385rv/,2024-01-09 18:47:37 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/192m2pq/order_of_operations/,,"> Pemdas tells us to add before subtracting
+
+This is incorrect. Addition and subtraction have the same rank and should be done left to right",
+
+kgx2hj0,https://www.reddit.com/r/askmath/comments/191poak/question_about_inequalities/kgx2hj0/,2024-01-08 17:05:23 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/191poak/question_about_inequalities/,,"The square root of x^2 is actually absolute value of x or |x|. So, in the greater than case, this becomes `|x| > 2`, and, in the less than case, it becomes `|x| < 2`. If you think about it that way, you don't need to worry about ANDs and ORs",
+
+kh3krpm,https://www.reddit.com/r/askmath/comments/192mlrp/how_many_natural_numbers_less_than_1000_inclusive/kh3krpm/,2024-01-09 19:56:20 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/192mlrp/how_many_natural_numbers_less_than_1000_inclusive/,,"`python -c 'for i in range(1,1000): print(i, int(i%3==0) + int(i%7 == 0) + int(i%4 == 0) + int(i%11==0))' | grep ' 2' | wc` yields 160 if that helps (ie, 160 is the correct answer, unless I did something wrong)",
+
+krlvcv7,https://www.reddit.com/r/askmath/comments/1ax67ch/deleted_by_user/krlvcv7/,2024-02-22 13:56:38 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ax67ch/deleted_by_user/,,"Wouldn't it just be the different of the percentiles divided by 100? In some sense, this should be true of any distribution given enough data points",
+
+kr5rnmn,https://www.reddit.com/r/askmath/comments/1aurfqg/why_did_i_accidentally_discover_e/kr5rnmn/,2024-02-19 17:01:58 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1aurfqg/why_did_i_accidentally_discover_e/,,"If you randomly mix up a bunch of letters, the chance that at least one is in the right envelope approaches 1-1/e the more envelopes you have. That's more than 50% chance of getting at least one right: https://en.wikipedia.org/wiki/Derangement
+
+The normal distribution is a multiple of `e^(-x^2)` and is important in statistics. Probably shows up in lots of other places too",
+
+kr5qq1y,https://www.reddit.com/r/askmath/comments/1auryb8/line_of_intersection_of_two_planes/kr5qq1y/,2024-02-19 16:56:48 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1auryb8/line_of_intersection_of_two_planes/,,"> setting the equations equal to each other
+
+But, remember, they're also equal to 0 which adds conditions",
+
+kqem4c4,https://www.reddit.com/r/askmath/comments/1aqqm3o/deleted_by_user/kqem4c4/,2024-02-14 16:48:00 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1aqqm3o/deleted_by_user/,,"> area is half the perimeter of the rectangle
+
+This doesn't really make sense. Perimeter is length, not area",
+
+kr0cxhv,https://www.reddit.com/r/askmath/comments/1atw5dq/deleted_by_user/kr0cxhv/,2024-02-18 16:53:42 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1atw5dq/deleted_by_user/,,"The ratio appears to be the product of the square of the ratio of successive primes, eg:
+
+`(p1/p2)^2 * (p3/p4)^2 * (p5/p6)^2 * ...` with a twist
+
+where pi is the ith prime. The twist is that you multiply the whole thing by pj, where j is the next prime (the 7th prime if the ellipsis weren't there).
+
+Still seeing if and how this converges",
+
+kh3jour,https://www.reddit.com/r/askmath/comments/192mwe0/eli5_calculating_probabilty/kh3jour/,2024-01-09 19:50:29 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/192mwe0/eli5_calculating_probabilty/,,"Wait, shouldn't that be `11/100 = 11%`?
+
+Also, it's easier to compute the probability of failure in this case. There's a `89/100` chance you won't get a good card the first draw, `88/99` chance the second draw, and so on.",
+
+kr5c3oh,https://www.reddit.com/r/askmath/comments/1auov4a/let_x_and_y_be_to_strict_positive_numbers_prove/kr5c3oh/,2024-02-19 15:33:23 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1auov4a/let_x_and_y_be_to_strict_positive_numbers_prove/,,"Try finding the maximum of `f(x,y) = x^y` as another commenter sort of suggests",
+
+krrk23m,https://www.reddit.com/r/askmath/comments/1ay0s9j/probability_of_choosing_a_number_before_a/krrk23m/,2024-02-23 13:59:39 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ay0s9j/probability_of_choosing_a_number_before_a/,,"By symmetry, this would be 50%. You're equally likely to pull #1 or #2 first",
+
+kh2h4fw,https://www.reddit.com/r/askmath/comments/192hvut/is_it_possible_to_get_raw_data_from_range_mean/kh2h4fw/,2024-01-09 16:18:50 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/192hvut/is_it_possible_to_get_raw_data_from_range_mean/,,"No, because there are many different datasets that can have the same mean, SD, median, range, and observations. Although it doesn't apply directly to your case, Anscombe's Quartet (https://en.wikipedia.org/wiki/Anscombe's_quartet) is an example of 4 very different datasets with very similar summary parameters",
+
+krwx885,https://www.reddit.com/r/askmath/comments/1aytjd2/real_life_least_common_multiple_problem/krwx885/,2024-02-24 13:06:54 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1aytjd2/real_life_least_common_multiple_problem/,,"You can solve this by finding all integer solutions to
+
+`a*1190 + b*1990 + c*1490 + d*300 + e*2990 + f*890 = 0`
+
+including cases where one or more of these might be 0. If you get a negative integer solution, you move it to other other side. There's probably a well-known name for this type of problem.
+
+According to Mathematica, you can choose any integer values at all for a, b, c, and d, and then choose `e = 38a + 80b + 76c + 38d + 89g` and `f = -129a - 271b - 257c - 128d - 299g` where `g` is any integer. I haven't checked this result, and it can doubtless be cleaned up a bit, but it might be helpful",
+
+kriacbw,https://www.reddit.com/r/askmath/comments/1awms1w/how_is_cava_getting_to_174_billion/kriacbw/,2024-02-21 21:02:15 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1awms1w/how_is_cava_getting_to_174_billion/,,"The closest I could get: for a given entree, you can choose any combination of dips, mains, dressings and toppings for a total of `2^34 ~ 17.18 billion`. However, this seems off, since you'd want to multiply it by 4 for the entrees. 17.4 billion is weird because it's not a perfect power of 2.",
+
+kh2ul82,https://www.reddit.com/r/askmath/comments/192j9q9/need_help_with_antiderivative/kh2ul82/,2024-01-09 17:33:58 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/192j9q9/need_help_with_antiderivative/,,"Assuming, I entered it right, Mathematica evaluates `Integrate[(Sqrt[Cos[x]] * Log[Sin[x]]) / (Sin[x])^2, x]` back to itself, which means Mathematica can't integrate it. Mathematica is a little more powerful than WolframAlpha (same company), so, if Mathematica can't do it, it probably has no closed form",
+
+kvgewwn,https://www.reddit.com/r/askmath/comments/1bhvw28/statistics_question/kvgewwn/,2024-03-18 17:38:03 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bhvw28/statistics_question/,,"This was actually tested on live TV (https://en.wikipedia.org/wiki/James_Randi#Exploring_Psychic_Powers_..._Live_television_show) and the guesser got 0 signs right. Even though the wikipedia article says he needed to get 10 of 12 right, I remember watching the show and the number was quite a bit lower (maybe 4 or 5) to the point where Bill Bixby commented ""that few?""",
+
+kvlo5tg,https://www.reddit.com/r/askmath/comments/1bioi9x/something_isnt_clicking_for_me_with_the_surface/kvlo5tg/,2024-03-19 16:50:27 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bioi9x/something_isnt_clicking_for_me_with_the_surface/,,"> Y that corresponds to that mean is equal to ""millions of people""
+
+Not exactly. On a PDF, the number of samples at a given exact value is always 0, because you're looking at a single real number, and there's 0% chance that a sample has a specific real value (0% in the sense of probability distributions, without getting to philosophical).
+
+Instead, you can use the PDF to determine how many samples occur between two values by integrating the PDF. For example, if you wanted to know the percentage of people between 40 and 50 at the time the sample was taken, you'd integrate the PDF from 40 to 50. Note that the result is a percentage (between 0 and 1), not the number of people between 40 and 50.
+
+So, since we're not counting samples, how can a PDF go above 1? Easy: consider the PDF that's equal to 1 million between 0 and 10^-6, and 0 elsewhere. No matter what portion of this function you integrate, you'll always gets a number between 0 and 1, even though the PDF has a very high max value.
+
+In general, the PDF's ""amplitude"" is chosen so that the PDF integrates out to 1, which it must. However, this doesn't mean that portions of the PDF can have values higher than 1",
+
+kw4qjqo,https://www.reddit.com/r/askmath/comments/1blejbj/why_can_i_not_multiply_both_sides_by_the_lowest/kw4qjqo/,2024-03-23 00:34:56 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1blejbj/why_can_i_not_multiply_both_sides_by_the_lowest/,kw4q3ii,"So, the original problem is: `x+4/3 - x-1/2 = 1 + x/6`? If not, you were correct in putting parentheses in, but you still have to distribute the minus sign across the numerator",
+
+kw4pcvc,https://www.reddit.com/r/askmath/comments/1blejbj/why_can_i_not_multiply_both_sides_by_the_lowest/kw4pcvc/,2024-03-23 00:27:09 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1blejbj/why_can_i_not_multiply_both_sides_by_the_lowest/,kw4ouf8,"> - ((6x-6)/2)
+
+Remember to distribute the minus sign to get `-3x + 3` not `-3x-3`.
+
+An easier way to do this is note that if you multiply 6 by `(2x+8)/3`, you can use `6/3` to get `2(2x+8)` instead having to multiply the 6 on the inside",
+
+kvgb5v8,https://www.reddit.com/r/askmath/comments/1bhv4oy/how_to_calculate_the_distance_between_two/kvgb5v8/,2024-03-18 17:17:07 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bhv4oy/how_to_calculate_the_distance_between_two/,,Are you asking how to find the minimum distance between two parabolas or something simpler?,
+
+kvlrul2,https://www.reddit.com/r/askmath/comments/1bioi9x/something_isnt_clicking_for_me_with_the_surface/kvlrul2/,2024-03-19 17:10:56 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bioi9x/something_isnt_clicking_for_me_with_the_surface/,kvlrc23,"It might become clearer when you learn calculus, unless you already have",
+
+kwcnh5m,https://www.reddit.com/r/askmath/comments/1bmn9b2/probability_of_a_given_b/kwcnh5m/,2024-03-24 15:38:35 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bmn9b2/probability_of_a_given_b/,,"> remaining 0.6
+
+remaining 0.8?",
+
+ktn1f3n,https://www.reddit.com/r/askmath/comments/1b85ana/help_with_probability_question/ktn1f3n/,2024-03-06 17:52:11 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1b85ana/help_with_probability_question/,,https://xkcd.com/1132/ sheds some light on the Bayesian vs frequentist argument which reminds us that computing probabilities is based on assumptions.,
+
+ktn512s,https://www.reddit.com/r/askmath/comments/1b867d6/intervals_on_a_graph/ktn512s/,2024-03-06 18:11:43 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1b867d6/intervals_on_a_graph/,ktn2pbq,"If they're being super pedantic, the derivative is 0 at x=-1, so you might need (-2,-1) union (-1,0) and exclude the -1 itself since the function is technically not increasing at x=-1",
+
+kw8t8l5,https://www.reddit.com/r/askmath/comments/1bm1lwx/why_this_probabilistic_approach_is_not_a_valid/kw8t8l5/,2024-03-23 20:23:20 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bm1lwx/why_this_probabilistic_approach_is_not_a_valid/,,"> I assume that the set of natural numbers must always follow the implications of such probabilistic results
+
+Sure, but the implication is only that MOST numbers will reach 1, but we already know that. There's nothing that prevents a SINGLE number from violating this probabilistic result.",
+
+kw4o9v9,https://www.reddit.com/r/askmath/comments/1blejbj/why_can_i_not_multiply_both_sides_by_the_lowest/kw4o9v9/,2024-03-23 00:20:02 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1blejbj/why_can_i_not_multiply_both_sides_by_the_lowest/,,What do you get after multiplying both sides by 6?,
+
+ktnjiyy,https://www.reddit.com/r/askmath/comments/1b88fzv/modulus_argument_form_has_me_stumped_on_a/ktnjiyy/,2024-03-06 19:29:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1b88fzv/modulus_argument_form_has_me_stumped_on_a/,,"`2 = -1 - i` appears to be an equation (a false one), not a function of r and theta",
+
+kvb0jbu,https://www.reddit.com/r/askmath/comments/1bh28d4/joint_distribution_probability_problem_help/kvb0jbu/,2024-03-17 17:17:53 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bh28d4/joint_distribution_probability_problem_help/,,"Assuming you have no other information, this is just a matrix whose entries are `p(i,j)` for all values for i and j going from 1 to 4. Nothing fancy or Bayesian here unless you're given more information.",
+
+kvgssm8,https://www.reddit.com/r/askmath/comments/1bhyewz/if_something_has_a_nonzero_probability_is_it/kvgssm8/,2024-03-18 18:55:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bhyewz/if_something_has_a_nonzero_probability_is_it/,,"If you're talking about something theoretical with a fixed probability, yes. You can even compute the mean time you'd have to wait and even the time until your chances were 50% (these are different numbers)
+
+If you're talking about real life, you could argue yes in the sense of quantum randomness, but you could also argue there's no way to compute probability meaningfully in the real world without making assumptions, so the probability you assign isn't the ""real"" probability.",
+
+kwcq7dw,https://www.reddit.com/r/askmath/comments/1bmn9b2/probability_of_a_given_b/kwcq7dw/,2024-03-24 15:55:23 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bmn9b2/probability_of_a_given_b/,kwcq45q,"My mistake, you meant 0.2 each",
+
+kzk63o9,https://www.reddit.com/r/askmath/comments/1c3yjzv/calculating_the_size_of_the_pentagons_and/kzk63o9/,2024-04-14 17:32:36 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1c3yjzv/calculating_the_size_of_the_pentagons_and/,,"Reminder for Americans: ""football"" means soccer ball here",
+
+kz6n3t5,https://www.reddit.com/r/askmath/comments/1c1x3eo/some_reservations_about_dependent_probabilities/kz6n3t5/,2024-04-12 03:43:47 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1c1x3eo/some_reservations_about_dependent_probabilities/,,"I'm not disagreeing with you, but how about this one: someone has flipped two fair coins and gotten at least 1 head. What are the chances they've gotten both heads?",
+
+kz8c5ca,https://www.reddit.com/r/askmath/comments/1c26o9d/finding_the_probability_of_a_probability/kz8c5ca/,2024-04-12 13:34:03 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1c26o9d/finding_the_probability_of_a_probability/,,"By asking the ""opposite"" question and thus using Bayesian estimation: *if* the probability of heads were `p`, how likely would it be you'd get exactly 600 heads and 400 tails? Well, it would be:
+
+`f(p) = Binomial[1000,600]*p^600*(1-p)^400`
+
+where `Binomial` is the binomial coefficient.
+
+Note that this gives you the relative likelihood that p is the correct probability, not the absolute likelihood that p is the correct likelihood (I'm using the word 'likelihood' interchangeably with 'probability' to try to make things easier to read)
+
+For example, `f[0.60] = 0.0257448` and `f[0.55] = 0.000157966`, so it's `f[0.60]/f[0.55] ~ 163` times more likely that the actual probability is 0.6 than that the actual probability is 0.55
+
+If we integrate f(p) between 0 and 1, we get 1/1001 instead of 1. That's not surprising since we're only measuring relative likelihood, not absolute. To turn this into a probability distribution, we multiply by 1001 to get:
+
+`g(p) = 1001*Binomial[1000,600]*p^600*(1-p)^400`
+
+as your probability distribution function.
+
+We can now integrate g(p) between 0.55 and 0.65 to find the likelihood that the actual probability is between those two values is about 0.998783
+
+I also integrated g(p) from 0.569 to 0.6305 per https://new.reddit.com/user/FormulaDriven/ suggestion and got 95.322%, roughly in the same range",
+
+kzohr92,https://www.reddit.com/r/askmath/comments/1c4ljtk/how_do_you_solve_for_x_with_e1x_lnx_ive_tried/kzohr92/,2024-04-15 14:04:27 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1c4ljtk/how_do_you_solve_for_x_with_e1x_lnx_ive_tried/,,"As others have noted, there's no closed form solution here. I approximated it to `3.7054310168118238735788139431690016054116672073981` and then fed it to Plouffe's Inverter (http://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html) but it doesn't appear to be special in any way",
+
+kx3mgjd,https://www.reddit.com/r/askmath/comments/1bqnirj/odds_of_rolling_4444_or_5555_with_100_100sided/kx3mgjd/,2024-03-29 12:31:34 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bqnirj/odds_of_rolling_4444_or_5555_with_100_100sided/,,"If you roll 100d100, the number of ways to get n is the coefficient of `x^n` in `(x + x^2 + x^3 + ... + x^99 + x^100)^100`.
+
+Using Wolfram Cloud (https://www.wolframcloud.com/obj/0ea8337a-617f-4f9d-bf53-4a4b95bb3bc6) there are about `4.53*10^196` ways to roll a quad
+
+Since there are `100^100 = 10^200` ways total to roll 100d100, the chances are approximately `4.53*10^196/10^200 = 0.000453 = 0.0453 ~ 1 in 2207.5`",
+
+l0lv18t,https://www.reddit.com/r/askmath/comments/1c9k6ve/need_help_with_expected_values/l0lv18t/,2024-04-21 15:31:18 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1c9k6ve/need_help_with_expected_values/,,"EDIT: the below is wrong. I was treating k rolls as a single experiment. In n rolls, you make n-k+1 experiments so it might be \`p\^-k + k - 1\` or something, but I'm no longer sure.
+
+~~Since the chance of k successes in a row is `p^k`, the expected value should just be `p^-k`. Are you sure that expression isn't just a fancy way of writing `p^-k`?~~",
+
+kx3griq,https://www.reddit.com/r/askmath/comments/1bqhudx/are_the_numbers_sinπa_where_a_is_rational_all/kx3griq/,2024-03-29 11:43:11 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bqhudx/are_the_numbers_sinπa_where_a_is_rational_all/,,"I believe you can prove this using Euler's formula (https://en.wikipedia.org/wiki/Euler's_formula) by looking at `e^(pi*a) = cos(pi*a) + I sin(pi*a)`. Since `a` is rational, it can be written as `p/q` and raising both sides the 2q power yields `e^(2*pi*p) = (cos(pi*a) + I sin(pi*a))^(2q)` or `1 = (cos(pi*a) + I sin(pi*a))^(2q)` since p is an integer. The right side is a polynomial because 2q is an integer. You can then collect I terms to get the value of sin(pi*a) since the number of I terms on the left is 0
+
+Someone worked this out for all integer degrees, and, as you might expect, the results are pretty ugly: https://www.intmath.com/blog/wp-content/images/2011/06/exact-values-sin-degrees.pdf",
+
+kx3k5a8,https://www.reddit.com/r/askmath/comments/1bqmfm3/addition_vs_multiplication/kx3k5a8/,2024-03-29 12:12:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bqmfm3/addition_vs_multiplication/,,https://www.desmos.com/calculator/66jvwssino shows a graph,
+
+kwylx1j,https://www.reddit.com/r/askmath/comments/1bpwjy4/probability_question_on_dice/kwylx1j/,2024-03-28 14:44:22 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bpwjy4/probability_question_on_dice/,,"The number of rolls required is approximately `ln(2)*n`, since the solution divided by n approaches ln(2) as n approaches infinity. `ln(2)` is approximately `0.693147`, so you can do `0.693147*n`.
+
+For n=12, this gives you `0.693147*12 = 8.31776`, which is pretty close to 7.966, and rounds to the same integer",
+
+ky000xi,https://www.reddit.com/r/askmath/comments/1bvjyyn/help_me_make_a_question_and_answer_relating_to/ky000xi/,2024-04-04 11:54:31 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bvjyyn/help_me_make_a_question_and_answer_relating_to/,,"> If a person covers 70% of the board and plays using the same bet for 100 spins in a row they have a 66% chance or a 70% chance of breaking even or making a profit, respectively
+
+With systems like the martingale, you can increase your chance of winning (a given run of spins) to even 99% or more. The problem, as you sort of note later, is that they lose so much money the other 1% of the time, they still end up losing money over all.",
+
+l0m132a,https://www.reddit.com/r/askmath/comments/1c9k6ve/need_help_with_expected_values/l0m132a/,2024-04-21 16:07:38 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1c9k6ve/need_help_with_expected_values/,l0lydl5,You are corrected. I've edited my reply,
+
+kx3zgmv,https://www.reddit.com/r/askmath/comments/1bqhudx/are_the_numbers_sinπa_where_a_is_rational_all/kx3zgmv/,2024-03-29 14:03:19 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1bqhudx/are_the_numbers_sinπa_where_a_is_rational_all/,kx3sxoj,"Well, sure, but I think closed form is what makes these calculations special",
+
+kzod6fw,https://www.reddit.com/r/askmath/comments/1c4lyke/coterminal_angles_why_is_the_remainder_3π2_when/kzod6fw/,2024-04-15 13:34:38 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1c4lyke/coterminal_angles_why_is_the_remainder_3π2_when/,,"There's a difference between ""quotient"" and ""remainder"". The quotient of 11pi/2 divided by 2pi is indeed 11/4. However, after the part you marked, it says ""Then, the *remainder*..."". The remainder when 11pi/2 is divided by 2pi is 3pi/2",
+
+l0r40eu,https://www.reddit.com/r/askmath/comments/1cade0j/deleted_by_user/l0r40eu/,2024-04-22 15:19:52 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cade0j/deleted_by_user/,,"Not sure it helps, but hyperbola is defined as locus of points whose difference from two given points is constant. Use this definition with (x1,y1) and (x2,y2) where y1 and y2 aren't 0 to find the equation of any hyperbola, not just the simpler ones the simpler formulas handle",
+
+l0s20yn,https://www.reddit.com/r/askmath/comments/1cai0ni/binomcdf_question/l0s20yn/,2024-04-22 18:33:31 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cai0ni/binomcdf_question/,,"https://www.rdocumentation.org/packages/SciencesPo/versions/1.3.9/topics/binompdf suggests the second argument is a vector of probabilities, not a single probability.",
+
+l0qynov,https://www.reddit.com/r/askmath/comments/1cacdzr/logarithmic_inequality/l0qynov/,2024-04-22 14:48:46 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cacdzr/logarithmic_inequality/,,"I'm pretty sure that all the other branches yield imaginary results, no? Graphing should show there's only one real solution",
+
+l1nsg4c,https://www.reddit.com/r/askmath/comments/1cf913l/question_about_the_collatz_conjecture/l1nsg4c/,2024-04-28 16:34:45 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cf913l/question_about_the_collatz_conjecture/,,"As https://new.reddit.com/user/Miserable-Wasabi-373/ notes, this won't work. You could try something like:
+
+If `n` is odd, then `3n+1` is `odd*odd + odd = odd + odd = even`, so the next number will be `(3n+1)/2`. Now, despite the `/2`, there's no way to know if `(3n+1)/2` is odd or even, since it may have other powers of 2. You can then choose the number `k` that makes `(3n+1)/2^k` odd.
+
+You can then repeat the `3n+1` step to get `1 + (3 + 9n)/2^k` (after simplification). The numerator is `odd + odd*odd` -> `odd + odd` -> `even`. However, we don't know how many powers of 2 appear in `3 + 9n`. We know it must be AT LEAST k since the result is a natural number, but it could be more.
+
+Therefore, we don't know if `(3+9n)/2^k` is even or odd, and thus don't know if `1+ (3+9n)/2^k` is even or odd. We can divide out all powers of two by dividing by 2^j where j could be 0 if the number if already odd.
+
+This gives us `(1 + (3+9n)/2^k)/2^j`. Since this is odd, we apply `3n+1` again to get `1 + 3/2^j + 9*2^(-j - k) + 27*2^(-j - k)*n`.
+
+If you continue on this way, you'll find it's quite a waste of time",
+
+l1xm3ev,https://www.reddit.com/r/askmath/comments/1cgrvfh/calculate_area_of_intersecting_polygons/l1xm3ev/,2024-04-30 12:56:57 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cgrvfh/calculate_area_of_intersecting_polygons/,,"I mean, you could just count the number of red pixels and the number of blue pixels, but there are almost certainly more efficient ways. Maybe try a programming subreddit or a language specific subreddit for the language you're using",
+
+l3fwbx8,https://www.reddit.com/r/askmath/comments/1cora3h/evaluate_3cos114/l3fwbx8/,2024-05-10 15:07:08 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cora3h/evaluate_3cos114/,l3fvqkl,"OK, apparently `arccos(x)` can be written `Pi/2 + I*Log[I*x + Sqrt[1 - x^2]]` (using Euler's formula apparently, though I didn't do the steps myself), which I'm guessing yields the identity in question",
+
+l304sk9,https://www.reddit.com/r/askmath/comments/1cmgbps/limit_question_from_a_graph/l304sk9/,2024-05-07 16:51:42 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cmgbps/limit_question_from_a_graph/,,"Notice that x^2 is always positive so 1-x^2 is always less than 1. This is therefore a lefthand limit. However, I agree that the discontinuity is problematic.
+
+EDIT: OK, I forgot that the limit doesn't have to apply to the point itself: just to points arbitrarily close, so I now agree the answer is 3",
+
+l3fu10c,https://www.reddit.com/r/askmath/comments/1cora3h/evaluate_3cos114/l3fu10c/,2024-05-10 14:53:29 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cora3h/evaluate_3cos114/,,"The power series for arccos starts with `pi/2 - x  - x^3/6`. Is that what you meant to use? Also, once you use the power series, the `cos^-1` goes away.",
+
+l3fv2rf,https://www.reddit.com/r/askmath/comments/1cora3h/evaluate_3cos114/l3fv2rf/,2024-05-10 14:59:40 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cora3h/evaluate_3cos114/,l3fus6u,"My mistake, sorry. Where are you getting that formula. I've never seen it before",
+
+l403rpf,https://www.reddit.com/r/askmath/comments/1crrq5n/how_many_ways_to_divide_a_class_of_7_students/l403rpf/,2024-05-14 13:57:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1crrq5n/how_many_ways_to_divide_a_class_of_7_students/,,"There `C(7,3) = 35` ways to choose students for the group 3, and then `C(4,2) = 6` to choose students for a group of 2. As you point out, if you have ABCD left and put AB in one group of 2, you get CD in the other group of 2, but if you choose CD for one group, you get AB in the other, so you're double counting, so the correct answer is 105
+
+ChatGPT also got 210, but then I asked ""But since the groups of two are identical, wouldn't the answer be half that?"" and it answered:
+
+You're absolutely correct. Since the groups of two are identical, each combination is counted twice in the calculation. Thus, we need to divide the total number of combinations by 2 to correct for this overcounting.
+
+So, the correct number of ways is:
+
+[210/2 = 105]
+
+There are 105 unique ways to put 7 people into one group of 3 and two groups of 2, accounting for the identical nature of the groups of two. Thank you for catching that!",
+
+l45xw5q,https://www.reddit.com/r/askmath/comments/1csiv24/how_can_we_recognise_if_a_binomial_is_a_product/l45xw5q/,2024-05-15 14:55:37 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1csiv24/how_can_we_recognise_if_a_binomial_is_a_product/,l45whkg,"OK, walk me through it. Starting at a price of 100, what happens each day that makes the expected value also equal 100?",
+
+l4vdjc8,https://www.reddit.com/r/askmath/comments/1cwf438/how_to_determine_if_data_supports_proportionality/l4vdjc8/,2024-05-20 13:18:16 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cwf438/how_to_determine_if_data_supports_proportionality/,,"This is pretty much correct, assuming you mean x^3 in step 1. I haven't checked, but, in real life, it's unlikely that y/x^3 is exactly constant. I'd instead run a linear regression to find the best fit value and confirm the slope is approximately 0",
+
+l40vf3j,https://www.reddit.com/r/askmath/comments/1crvg0w/how_do_i_calculate_this/l40vf3j/,2024-05-14 16:36:56 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1crvg0w/how_do_i_calculate_this/,,"Ummm, you might want to clear that with your teacher first- it seems a little too easy.
+
+Obviously, you can call around and ask for the price of a small fries or look online even on Doordash or something (but make sure you're getting the in-store price not a premium price), but the bigger issue is WHAT QUANTITY is a small fries. How much does it weigh?
+
+You could try asking fast food places that, but the person answering the phone probably won't know or won't tell you. Additionally, the exact amount will vary even in the same fast food place because not all small fries are filled identically.
+
+The most tedious way to do this would be to purchase small fries several times on different days at each restaurant, record the price, weigh the fries (remembering to subtract off the tare weight: the weight of the container), compute mean and standard deviation, and proceed from there.
+
+https://fdc.nal.usda.gov/fdc-app.html#/?query=french%20fries might help with some of this",
+
+l4dimq8,https://www.reddit.com/r/askmath/comments/1ctn07k/deleted_by_user/l4dimq8/,2024-05-16 22:44:09 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ctn07k/deleted_by_user/,,"There is 200 in 201 chance (99.5025%) that you will make $5 before you lose $1000, assuming you can get fair odds on a coin toss, which you probably can't.
+
+As others have noted, this is similar to the Martingale strategy which attempts to consistently make a small amount of money by risking a large amount.
+
+It's a reasonable strategy to a point, but it will eventually catch up with you.",
+
+l4qgg46,https://www.reddit.com/r/askmath/comments/1cvogna/possible_products_between_a_set_of_distinct_prime/l4qgg46/,2024-05-19 13:49:23 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cvogna/possible_products_between_a_set_of_distinct_prime/,,Are you asking for the total number of non-trivial factorizations of a composite number with unique prime factors?,
+
+l401u3o,https://www.reddit.com/r/askmath/comments/1crruf1/resources_to_learn_how_to_prove_sets_with/l401u3o/,2024-05-14 13:45:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1crruf1/resources_to_learn_how_to_prove_sets_with/,,"> explaining and solving via logic, which doesnt do me good
+
+What sort of resources are you seeking? Logic is how propositional/set problems (and math problems in general) are usually solved",
+
+l45clhj,https://www.reddit.com/r/askmath/comments/1csiv24/how_can_we_recognise_if_a_binomial_is_a_product/l45clhj/,2024-05-15 12:40:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1csiv24/how_can_we_recognise_if_a_binomial_is_a_product/,,"Are you sure it's a +-10% return, because those don't even out. For example a 10% increase from 100 is 110, and then a 10% decrease from 110 is 99.
+
+Instead, you might want to make the same assumption as the Black-Scholes-Merton formula does: the logarithm of the price changes by, say plus or minus 0.1 per day. That will give you a more realistic binary variable.
+
+If you're going even further, remember that stocks are ""expected"" to increase by at least the risk free interest rate: no one's going to buy a stock that increases 1% per year if they can get 5% in interest",
+
+l48fkgb,https://www.reddit.com/r/askmath/comments/1cswrgg/i_have_proof_that_the_riemann_hypothesis_is_false/l48fkgb/,2024-05-15 23:48:44 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cswrgg/i_have_proof_that_the_riemann_hypothesis_is_false/,,"Assuming it's not a multiple of -2 (trivial zero), at least have Wolfram Alpha or something similar evaluate your 0 to confirm it's an actual 0",
+
+l4vinyy,https://www.reddit.com/r/askmath/comments/1cwfz7z/question_about_simplifying/l4vinyy/,2024-05-20 13:54:18 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1cwfz7z/question_about_simplifying/,,"Just to be pedantic, you mean `(x+x+x+x+x)/(y+y+y+y+y)`. The parentheses are important.
+
+You can still factor that expression, but you have to convert it into the `(5x)/(5y)` form first",
+
+l45nh7m,https://www.reddit.com/r/askmath/comments/1csiv24/how_can_we_recognise_if_a_binomial_is_a_product/l45nh7m/,2024-05-15 13:53:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1csiv24/how_can_we_recognise_if_a_binomial_is_a_product/,l45mbwj,"OK, but say we have two 10% decreases in a row yielding prices of 90 and 81. Then 4 increases of 10% to yield 81.9, 98.01, 107.811, 118.592. The average of those numbers is 96.2188
+
+Remember, a 10% increase doesn't cancel out a 10% decrease. I also corrected my post which had a typo",
+
+l6ce6ow,https://www.reddit.com/r/askmath/comments/1d47rzo/route_a_takes_25_longer_than_route_b_if/l6ce6ow/,2024-05-30 16:20:40 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d47rzo/route_a_takes_25_longer_than_route_b_if/,,"25% less and 25% more don't cancel each other out.
+
+If you start at 100 and increase 25%, you get 125. If you now decrease 25%, it's 25% of 125 or 31.25, so you get 93.75
+
+Same if you go in the other direction.
+
+In this case, they are saying `A = 1.25*B`",
+
+l5gokh9,https://www.reddit.com/r/askmath/comments/1czj045/if_sn_3_5n_3_5n_show_that_sn_is_an_integer_and/l5gokh9/,2024-05-24 12:40:03 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1czj045/if_sn_3_5n_3_5n_show_that_sn_is_an_integer_and/,,"As written, you have `S(n) = (3+sqrt(5))*n + (3-sqrt(5))*n = 6*n`, which I'm pretty sure is not what you meant",
+
+l6wo853,https://www.reddit.com/r/askmath/comments/1d72wm5/11_million_digit_division/l6wo853/,2024-06-03 13:22:22 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d72wm5/11_million_digit_division/,l6wn59o,"Well, if it has a finite number of digits after the decimal, it's still rational and those infinite digits will repeat",
+
+l6mkdx1,https://www.reddit.com/r/askmath/comments/1d5mavn/probability_of_drawing_the_correct_date_with_or/l6mkdx1/,2024-06-01 14:03:57 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d5mavn/probability_of_drawing_the_correct_date_with_or/,,"If you draw with replacement, there's a 1/365 chance you'll be right on a given day, and thus a 364/365 chance you'll be wrong. The events are independent, so the chance you'll be wrong 365 days is `(364/365)^365 ~ 0.367` (nearly 1/E), so the chance you'll be right at least once is `1 - (364/365)^365 ~ 0.633` or 63.3%
+
+If you draw without replacement and never get it right, your series of draws is a ""derangement"" of 365 elements (https://en.wikipedia.org/wiki/Derangement), and is given by OEIS sequence 000166: https://oeis.org/A000166 -- It turns out it's surprisingly hard to get a value for this (OEIS doesn't go that far), but it turns out to be about `9.325*10^777`. The total number of orderings is `365! ~ 2.51*10^778`, so the chance of being wrong every day is `9.325*10^777/2.51*10^778 = 0.371514` (approximately 1/E) so your chance of at least one success is `1 - 0.371514 ~ 0.628486` or about 62.8%
+
+As the number 365 grows larger, the two probabilities grow closer together.
+
+I've probably done a lot of unnecessary math above, and am hoping someone can provide a much clearer intuitive explanation of why these probabilities are essentially equal.
+
+If you were to randomly select a day of the week (7 options), your chance with replacement would be ~60.7% and without replacement would be ~63.2%, which surprises me since I thought with replacement would yield a higher chance",
+
+l6mgcyd,https://www.reddit.com/r/askmath/comments/1d5my56/deleted_by_user/l6mgcyd/,2024-06-01 13:35:58 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d5my56/deleted_by_user/,,https://en.wikipedia.org/wiki/Proof_that_%CF%80_is_irrational,
+
+l6rqjsx,https://www.reddit.com/r/askmath/comments/1d5vhks/you_are_given_two_dice_one_numbered_16_and_the/l6rqjsx/,2024-06-02 14:24:37 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d5vhks/you_are_given_two_dice_one_numbered_16_and_the/,l6od6eq,"Downvote. The statement ""That the first roll is a 2 doesn’t tell you which of the two dice you have in your hand, nor will it change the probability of the next roll."" isn't true because rolling a 5 or a 6 definitely would tell you which die you have.
+
+A roll of a 2 is more likely if you use the d4 than if you use the d6",
+
+l6wt8fc,https://www.reddit.com/r/askmath/comments/1d72wm5/11_million_digit_division/l6wt8fc/,2024-06-03 13:55:30 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d72wm5/11_million_digit_division/,,"```
+import decimal
+import numpy as np
+
+# generate a 12M digit integer
+
+digits = 12*10**6
+
+n = np.random.randint(low = 0, high = 9, size = digits)
+
+str = ''.join(map(str, n))
+
+# print(str)
+
+# set precision a little higher than number of digits
+
+decimal.getcontext().prec = digits + 10
+
+result = decimal.Decimal(1)/decimal.Decimal(str)
+    
+print(result)
+```
+
+The Python code above generates an answer, but I haven't tested to see if it's the right answer. This isn't a great answer to your question, because, although it works with 12 million digits, it runs out of memory on my machine with 12 billion digits. An ideal solution would read the digits in one at a time and output digits in a similar way (where possible) and could theoretically be able to handle any number of digits.",
+
+l789zip,https://www.reddit.com/r/askmath/comments/1d8s8h5/if_we_can_calculate_the_circumference_of_the/l789zip/,2024-06-05 15:19:40 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d8s8h5/if_we_can_calculate_the_circumference_of_the/,,"Theoretical mathematicians aren't really concerned with practicality. Pi is interesting, we find it fascinating, we will continue to find more digits, we hope to find a pattern (not a repeating one obviously) but probably won't.
+
+Go engineer something and leave us alone :)",
+
+l73f1ww,https://www.reddit.com/r/askmath/comments/1d81tbl/if_fexfx1_what_is_fx/l73f1ww/,2024-06-04 17:39:21 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d81tbl/if_fexfx1_what_is_fx/,,"With x=0, you have `f(1) = f(0) + 1`, but `0 = e^-infinity`, so `f(0) = f(e^-infinity) = f(-infinity) + 1`, which seems impossible since `e^x` can never be negative unless you go into the imaginary numbers. If you placed more restrictions and definitions on f, there MIGHT be a solution",
+
+l787b8m,https://www.reddit.com/r/askmath/comments/1d8qxio/i_need_help_on_this_difficult_probability_question/l787b8m/,2024-06-05 15:04:15 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d8qxio/i_need_help_on_this_difficult_probability_question/,l782w8q,"That's the reverse of what you say in your OP. You might want to clarify. You might also want to say something like ""the coin comes up heads 2/3 of time, and I always select heads, forcing you to always select tails"". Or replace the coin with a theoretical d3",
+
+l6yhnu9,https://www.reddit.com/r/askmath/comments/1d7clg8/set_builder_notation_question_why_x_ℤ_x_10/l6yhnu9/,2024-06-03 19:38:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1d7clg8/set_builder_notation_question_why_x_ℤ_x_10/,,"To be hyperpedantic the first x in `x | x ...` doesn't mean anything, because there is no universal set. Whenever you say ""for all x"" or ""there exists x"", you must specify a bounding set. So when you say ""x such that x is a member of Z..."", the first x would have to belong to some weird set of all possible things, which doesn't exist",
+
+l83xi4j,https://www.reddit.com/r/askmath/comments/1ddd1vb/deleted_by_user/l83xi4j/,2024-06-11 12:52:59 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ddd1vb/deleted_by_user/,,[removed],
+
+l7ir20c,https://www.reddit.com/r/askmath/comments/1da8myr/is_there_any_relatively_simple_function_which/l7ir20c/,2024-06-07 12:45:56 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1da8myr/is_there_any_relatively_simple_function_which/,,"I just came from /r/technicallythetruth, so `f(0)=0, f(4)=8, f(5)=18`. The signature of this function is `f:{0, 4, 18} -> C` where C is the complex numbers :)",
+
+l841s6f,https://www.reddit.com/r/askmath/comments/1ddd1vb/deleted_by_user/l841s6f/,2024-06-11 13:22:33 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ddd1vb/deleted_by_user/,,"I'm getting a different answer: 1
+
+Assuming a uniform distribution, if you bid x, the chance that your bid is greater than the valuation is `x`. If you succeed, we know the actual valuation is between 0 and x, and will have an average of `x/2`. Since the valuation triples after purchase your average profit is `3x/2-x`, the new value of the company, `3x/2` minus your purchase price.
+
+Your expected value is therefore `x(3x/2-x) = x^2/2`, which is maximal when x=1
+
+Of course, I could be wrong (I had to delete a wrong answer earlier), so everyone else, please feel free to chime in",
+
+l8qgein,https://www.reddit.com/r/askmath/comments/1dgk7pv/deleted_by_user/l8qgein/,2024-06-15 15:30:58 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dgk7pv/deleted_by_user/,,"I didn't actually read your question or watch the videos, but I suspect it's because there's a 100% chance you start in state 1.",
+
+l8f9uhg,https://www.reddit.com/r/askmath/comments/1de140y/what_causes_extraneous_solutions_for_absolute/l8f9uhg/,2024-06-13 13:38:52 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1de140y/what_causes_extraneous_solutions_for_absolute/,l88spc2,"I like this answer better than the one I was going to give about square roots. Most steps in math are reversible. You write `A -> B` but it's usually also true that `B -> A` so your end statement is equivalent to your first statement.
+
+However, operations like ""square rooting"" or multiplying by zero yield statements where `A -> B`, but B no longer implies A. Therefore, your conclusion, while valid, no longer implies your premises",
+
+l8ulggw,https://www.reddit.com/r/askmath/comments/1dh5sas/statistics/l8ulggw/,2024-06-16 12:03:11 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dh5sas/statistics/,,Are we assuming that people who have never seen a bear can still be mauled by one?,
+
+l8uz4r7,https://www.reddit.com/r/askmath/comments/1dh7g9j/base_10_vs_base_2/l8uz4r7/,2024-06-16 13:54:37 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dh7g9j/base_10_vs_base_2/,,"Dyadic fraction: https://en.wikipedia.org/wiki/Dyadic_rational
+
+I once saw a highway sign that said it was 1/3 mile to an exit and it always bothered me. Fortunately, the exit was eventually removed when the highway was redesigned",
+
+l8pz6cc,https://www.reddit.com/r/askmath/comments/1dggdkz/deleted_by_user/l8pz6cc/,2024-06-15 13:17:32 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dggdkz/deleted_by_user/,,"I don't see an easy way to do this problem, but here's a hard one.
+
+There is 1 way to get 0 questions right in section A, 3 ways to get 1 question right, 3 ways to get 2 questions right, and 1 way to get all 3 questions right.
+
+For each of these, there is 1 way to get 0 questions right in section B, 4 ways to get 1 question right, 6 ways to get 2 questions right, 4 ways to get 3 questions right, and 1 way to get all 4 questions right.
+
+If you multiply `1 + 3x + 3x^2 + x^3` (the number of ways to get a question right in section A multiplied by x^n where n is the number right) by `1 + 4y + 6y^2 + 4y^3 + 1` (same thing for section B), the resulting `x^n * y^m` coefficient will tell you how many ways you can get n questions right in section A and m questions right in section B.
+
+Now, you can add up the coefficients of `x^n * y^m` where `n + m >= 4` (at least 4 total) and `n >= 1` and `m >= 2` (to represent the section requirements).
+
+There are other ways to solve this problem but I don't think they're any simpler.",
+
+l960rnp,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l960rnp/,2024-06-18 15:28:28 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l95zfvc,"OK, if Event A didn't occur, there's a 100% chance no one showed up. If Event A did occur, there's still a `0.8*0.7*0.6 = 33.6%` chance no one showed up.
+
+So it's roughly 3 times more likely that event A didn't occur than that it did. More specifically, the probability is the ratio of A occurring to the sum of the probabilities or `33.6%/(100%+33.6%) ~ 25.15%`.
+
+If you knew the total probability of A occurring, the answer could change further.
+
+You might want to try simulating this or at least waiting for someone else to verify my answer",
+
+l95wxle,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l95wxle/,2024-06-18 15:06:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l95wplr,"~~Yes, I know. I'm clearly overthinking the problem. There are cases in Bayesian analysis when the ""total probability"" isn't 1 (because you're summing up B => A not A => B), but I can't think of one off the top of my head~~",
+
+l96f8d9,https://www.reddit.com/r/askmath/comments/1diuk8p/monty_hall_problem_explanation/l96f8d9/,2024-06-18 16:48:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1diuk8p/monty_hall_problem_explanation/,l96epsq,"> typically presented in all copies of this problem
+
+Not true. I've seen copies where the host has a choice.
+
+> unclear whether the host Knows where the car actually is
+
+Actually, he must. Otherwise, he might reveal the car himself by accident, and that changes the problem",
+
+l95y3vl,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l95y3vl/,2024-06-18 15:13:33 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l95xzwe,"~~I think so, yes, but maybe wait for someone else to confirm~~",
+
+l90t7oi,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/l90t7oi/,2024-06-17 16:39:39 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/,l90bj63,I forget when I learned it but it probably wouldn't help you anyway: things have changed a lot since I went to grade school.,
+
+l8zw2t9,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/l8zw2t9/,2024-06-17 13:19:10 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/,l8zukt6,You appear to be correct. Could you explain a bit further how you used the negativ binomial distribution?,
+
+l96cea3,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l96cea3/,2024-06-18 16:33:13 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l967gxo,By the sum of the 100% and 33.6% probabilities,
+
+l8zrtj9,https://www.reddit.com/r/askmath/comments/1dhwt32/bit_confused_on_odds_of_winning/l8zrtj9/,2024-06-17 12:47:52 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhwt32/bit_confused_on_odds_of_winning/,,"Since there are 342160 tickets total and only 102 are winners, the other `342160-102 = 342058` are losers. The chance a given ticket is a loser is thus `342058/342160`. The chance that all 602 of your tickets are losers (under some reasonable assumptions) is `(342058/342160)^602 ~ 83.57%`. Therefore, you chance of winning is `~ 16.43%`
+
+Another way to think about it: there is a `102/342160` chance that any given ticket will win, so you estimate the chance that one of 602 will win as 602 times that number or `102/342160*602 = 2193/12220 ~ 17.95%`. This estimate is higher than the actual value because it overcounts the chance of your winning two or more prizes (in which case you'd forfeit any additional prizes), but serves as a nice sanity check",
+
+l91amwj,https://www.reddit.com/r/askmath/comments/1di3j6h/calc_3_arc_lengths_and_simplifying_integrals/l91amwj/,2024-06-17 18:15:53 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1di3j6h/calc_3_arc_lengths_and_simplifying_integrals/,,"No, ultimately because the sum of squares isn't the square of sums. If `a` and `b` are distances, ""integrating distance squared"" would give you `a^2 + b^2` (square the distances then add), but the actual length is `a + b` whose square is bigger than `a^2 + b^2`",
+
+l8zpheh,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/l8zpheh/,2024-06-17 12:29:36 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/,l8yullo,"Your answer appears to be correct, based on Monte Carlo simulation
+
+~~Based on my working out, I believe your answer may be incorrect~~",
+
+l96h10m,https://www.reddit.com/r/askmath/comments/1div562/simple_quant_question/l96h10m/,2024-06-18 16:58:39 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1div562/simple_quant_question/,,"Maybe start off with `g1` for number of girls originally and `b1` for number of boys originally, and `g2` for the number of new girls and `b2` for the number of new boys. That should make it easier",
+
+l96g7te,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l96g7te/,2024-06-18 16:54:12 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l96g2m8,Could you show me your simulations (or post to repl.it if you really want to get into it)? What probability did you use for A occurring?,
+
+l9ah5ki,https://www.reddit.com/r/askmath/comments/1djfx0z/how_do_i_demonstrate_uniform_continuity_for_a/l9ah5ki/,2024-06-19 10:54:37 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1djfx0z/how_do_i_demonstrate_uniform_continuity_for_a/,,"I only skimmed, but consider a delta for a fixed value of epsilon, ignoring the value of x. Show that when x gets large enough that delta will no longer work no matter how small it was. In other words, show that delta must depend on both x and epsilon, not just epsilon. You have then shown lack of uniform continuity.
+
+In general, regular continuity is ""for all x, for all epsilon, there exists delta"" (delta depends on both epsilon and x), and uniform continuity is ""for all epsilon, there exists delta such that for all x"" (delta depends only on epsilon)",
+
+l95yfsj,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l95yfsj/,2024-06-18 15:15:30 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,,"OK, I'm wrong, sorry. We need to know the probability T, E, and K would show up if event A *didn't* occur. I'll cross out my other answers.",
+
+l96gozg,https://www.reddit.com/r/askmath/comments/1diuk8p/monty_hall_problem_explanation/l96gozg/,2024-06-18 16:56:48 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1diuk8p/monty_hall_problem_explanation/,l96ghzl,I'm going to disagree with you here and say the Monty Hall problem encompasses these variants.,
+
+l96lra4,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l96lra4/,2024-06-18 17:24:40 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l96ll8k,"No, I'm not confident of anything. IF you feel I'm wrong, please work the problem yourself and/or ask someone else",
+
+l8zytu7,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/l8zytu7/,2024-06-17 13:38:13 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/,l8zxpp1,Thanks. I eventually go there myself using binomial coefficients,
+
+l8zutua,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/l8zutua/,2024-06-17 13:10:15 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/,l8zukt6,"Thanks. My first answer was wrong, and I'm writing my own Monte Carlo to see if my new answer (which still disagrees with yours) is correct, though I'm guessing it's not",
+
+l96j0kb,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l96j0kb/,2024-06-18 17:09:35 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,,">  If A had occurred there's a 20% probability that T would be present. If there's no way to verify wether A occurred or not other than the occurrence of T, if T is not present wouldn't that mean there is a 20% probability that A did not occur?
+
+Answering this simpler question:
+
+  - If A did not occur, there is an 100% chance T would not be there
+
+  - If A did occur, there's an 80% chance T would not be there.
+
+So, if T is not there, it's 100/80 as likely A did not occur, and that ratio translates to `100/(100+80) ~ 55.56%`. However, I believe this assumes A is 50% likely to happen. If we know A occurs frequently or infrequently, this would change.",
+
+l96krrx,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l96krrx/,2024-06-18 17:19:17 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l96k9ow,"So there's a 33.6% chance none of them would be there.
+
+So, if none of them are there it's about three times more likely (100%) that A didn't occur than the 33.6% that it did. So you need two proabilities that add to 1 (of course) in the ratio 100:33.6. You can find those probabilities by dividing 33.6 by 100+33.6 to get 25.15% of A occuring and thus 74.85% chance (about 3 times as much) of A occurring",
+
+l96h6kc,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l96h6kc/,2024-06-18 16:59:28 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l96guoy,"It's just 33.6 divided by (100+33.6). But, also, that was a calculation, not a simulation",
+
+l96d0sm,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l96d0sm/,2024-06-18 16:36:39 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l96cv4s,"No, I'm not even sure I'm right. Consider waiting for someone else to answer or ask elsewhere. Or try running a simulation",
+
+l95wcef,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l95wcef/,2024-06-18 15:03:28 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,,"~~I had to work thru all 8 cases to convince myself the total was 1, but it was, so your answer appears to be correct~~",
+
+l95nzd3,https://www.reddit.com/r/askmath/comments/1dirbg5/probability_mass_function/l95nzd3/,2024-06-18 14:14:34 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirbg5/probability_mass_function/,,~~Hint~~ some random words: negative binomial distribution,
+
+l90pu4q,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/l90pu4q/,2024-06-17 16:20:27 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/,l90gqe5,"You can use the negative binomial distribution as someone else noted, but that just means someone else has done the brute force calculations for you.
+
+I think brute force is the easiest way here, but a possible idea (that I don't think will work): if you look at all strings with 'a's and 'b's of length 19, you can say an equal number have 'a' getting 10 wins first and 'b' getting 10 wins first. If the probabilities were equal, you'd have a trivial argument showing the chances are 50%
+
+Since the probabilities aren't equal, you'd have to pair a given string where 'b' wins with a given string where 'a' wins (perhaps the string with the a's and b's flipped) and compute how more likely the 'b wins' string is to the 'a wins' string. However, I think you'll end up with the exact same brute force computation.",
+
+l96dz38,https://www.reddit.com/r/askmath/comments/1diuk8p/monty_hall_problem_explanation/l96dz38/,2024-06-18 16:41:54 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1diuk8p/monty_hall_problem_explanation/,,"Here's a way to win this argument with a low IQ: say ""but is Monty REQUIRED to open a door?"". If he's not, the problem is not well-defined and there is no answer. You can followup with ""what if Monty is evil and ONLY opens another door if you've chosen the right one?""",
+
+l8zynzg,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/l8zynzg/,2024-06-17 13:37:05 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/,,"CORRECTED VERSION: As /u/EdmundTheInsulter notes, if we're counting the number of ways `A` can win in exactly `n` turns, then `A` must win on the last turn. Otherwise `A` would've already won earlier.
+
+`A` can win in any of the following ways (where `Binomial[n,k]` is the binomial coefficient):
+
+  - win 10 games straight, `p = (1/3)^10`
+
+  - win 9 of the first 10 games and then win the 11th game, `p = Binomial[10,9]*(1/3)^9*(2/3)*(1/3)`
+
+  - win 9 of 11 games and then win the 12th game, `p = Binomial[11,9]*(1/3)^9*(2/3)^2*(1/3)`
+
+  - general case: win 9 of the first 10+n-1 games and then win the (10+n)th game: `p = Binomial[10+n-1, 9]*(1/3)^9*(2/3)^n*(1/3)`
+
+The n above starts at n = 0, winning 9 of the first 9 games and then also winning the 10th game (same as 10 in a row) and goes to n = 9, win 9 of the first 18 games and then win the 19th game. Note that if n = 10, winning the first 9 of 19 games would mean losing 10 of those 19 games, so `B` would win.
+
+The answer is thus:
+
+`Sum[Binomial[10+n-1, 9]*(1/3)^9*(2/3)^n*(1/3), {n, 0, 9}]`
+
+which is 75275227/1162261467 or about 6.477%
+
+As /u/lilganj710 notes, this is the CDF of the negative binomial distribution with parameters 10 and 1/3 evaluated at 9",
+
+l95xvjv,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/l95xvjv/,2024-06-18 15:12:13 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dirzby/simplification_of_my_other_post/,l95xech,"~~OK, that's not Bayesian theory, that's more confounding factors. You have to specify, as you did in this problem, that the ONLY way you can tell whether A happened is whether T, E, and K would be present, and that you have no other clues as to whether A happened or not~~",
+
+l8zpesq,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/l8zpesq/,2024-06-17 12:29:01 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dhr2yi/probability_question/,,"This is wrong, per u/EdmundTheInsulter's comment below. Please ignore it.
+
+~~A can win in any of the following ways (where Binomial\[n,k\] is the binomial coefficient):~~
+
+* ~~win 10 games straight, p = (1/3)\^10~~
+* ~~win 10 of 11 games, p = Binomial\[11,10\]\*(1/3)\^10\*(2/3)~~
+* ~~win 10 of 12 games, p = Binomial\[12,10\]\*(1/3)\^10\*(2/3)\^2~~
+* ~~general case: win 10 of 10+n games p = Binomial\[10+n, 10\]\*(1/3)\^10\*(2/3)\^n~~
+
+~~This continues until n = 9 or 19 games. The answers is thus (Mathics notation)~~
+
+~~Sum\[Binomial\[10+n, 10\]\*(1/3)\^10\*(2/3)\^n, {n, 0, 9}\]~~
+
+~~or 131230609/1162261467 \~ 11.29%~~
+
+~~There is no clean general form: if A has a p chance of winning a round, the chance A will win k rounds before B wins k rounds is (in Mathematica format): p\^(-1) - (-((-1 + p)\*p))\^k\*Binomial\[2\*k, k\]\*Hypergeometric2F1\[1, 1 + 2\*k, 1 + k, 1 - p\], where Hypergeometric2F1 is described here:~~ [~~https://reference.wolfram.com/language/ref/Hypergeometric2F1.html~~](https://reference.wolfram.com/language/ref/Hypergeometric2F1.html)",
+
+la1ijj3,https://www.reddit.com/r/askmath/comments/1dnarmy/is_there_a_reason_why_extending_the_domain_of/la1ijj3/,2024-06-24 12:46:22 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dnarmy/is_there_a_reason_why_extending_the_domain_of/,,"> they're supposed to represent the unit circle
+
+Once you move into the complex plane, they represent the ""unit hyperbola"" (https://en.wikipedia.org/wiki/Hyperbolic_functions)",
+
+l9nkln8,https://www.reddit.com/r/askmath/comments/1dlb7xu/deleted_by_user/l9nkln8/,2024-06-21 18:45:03 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dlb7xu/deleted_by_user/,,"Do a linear best fit to 1, x, x^2",
+
+l9wa2k1,https://www.reddit.com/r/askmath/comments/1dmidge/probability_of_choosing_a_certain_subset_in_an/l9wa2k1/,2024-06-23 12:48:38 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dmidge/probability_of_choosing_a_certain_subset_in_an/,l9w9r8p,"I'm sure you're right, but I keep thinking the number of sets with 1 in them must be exactly equal to the number of sets without 1 in them (since there's a bijection between these), so you ""could"" say the chance of picking a set with a 1 in it is 50%. However, that may literally be the only case that works",
+
+la7mhup,https://www.reddit.com/r/askmath/comments/1do6mnx/is_it_possible_that_the_collatz_conjecture_is/la7mhup/,2024-06-25 14:36:29 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1do6mnx/is_it_possible_that_the_collatz_conjecture_is/,la7hr7p,"I upvoted, but question that. Would it be like the Axiom of Choice where you can decide whether it's true or false? If it's false, maybe the number that violates it continues increasing under Collatz, so you can't actually prove it violates Collatz.
+
+I mean, you can't well-order the reals either, so you can decide either way on that",
+
+la7wffe,https://www.reddit.com/r/askmath/comments/1do6mnx/is_it_possible_that_the_collatz_conjecture_is/la7wffe/,2024-06-25 15:33:01 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1do6mnx/is_it_possible_that_the_collatz_conjecture_is/,la7vg2h,That's what I'm saying.,
+
+lao81m1,https://www.reddit.com/r/askmath/comments/1dqionu/resourceprogram_for_calculating_cdf_for_extremely/lao81m1/,2024-06-28 12:49:04 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dqionu/resourceprogram_for_calculating_cdf_for_extremely/,,"I'm too lazy to do so myself, but google around for ""approximations to the normal distribution"" or something. There's probably a pattern when you're looking at just the high ones
+
+Also consider power series",
+
+laokj7p,https://www.reddit.com/r/askmath/comments/1dqgkb5/deleted_by_user/laokj7p/,2024-06-28 14:10:06 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dqgkb5/deleted_by_user/,laogwz9,"You are correct and I've edited my post. My points was that these could be considered two separate and differnet games (host opens, host does not open) and the probability of winning with host opens (under certain conditions) has a higher probability. However, I forgot that higher probability was 2/3. I thought it was 1/2. My bad",
+
+lanw47g,https://www.reddit.com/r/askmath/comments/1dqgkb5/deleted_by_user/lanw47g/,2024-06-28 11:13:41 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dqgkb5/deleted_by_user/,,"(EDITED)
+
+If you know for a fact that the host will open a door without a prize (at random if both doors have no prize) and that you will therefore switch, you are correct. The odds for the whole game are then 2/3.
+
+If you know for a fact that your first choice is also your final choice (the host won't open any doors), then the odds are 1/3.
+
+If the host may or may not open another door, the odds depend on the host and their intentions",
+
+lanwn65,https://www.reddit.com/r/askmath/comments/1dqgura/do_you_believe_that_the_answer_of_life_the/lanwn65/,2024-06-28 11:18:25 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dqgura/do_you_believe_that_the_answer_of_life_the/,,"There should be a sub for stuff like this, but it's not this one",
+
+laz12tr,https://www.reddit.com/r/askmath/comments/1ds0moe/how_to_calculate_the_air_and_the_x_values_shared/laz12tr/,2024-06-30 13:07:41 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ds0moe/how_to_calculate_the_air_and_the_x_values_shared/,,"You can set the two equations equal to each other and solve for p using the quadratic formula, but that doesn't involve integral calculus",
+
+lazdfi3,https://www.reddit.com/r/askmath/comments/1ds0moe/how_to_calculate_the_air_and_the_x_values_shared/lazdfi3/,2024-06-30 14:33:07 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ds0moe/how_to_calculate_the_air_and_the_x_values_shared/,lazd7v7,"Ah, I missed the ""calculate the air [area]"" part. OK, just integrate the difference of the two curves when red is lower than blue and both have positive values",
+
+laodzgm,https://www.reddit.com/r/askmath/comments/1dqgkb5/deleted_by_user/laodzgm/,2024-06-28 13:29:18 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dqgkb5/deleted_by_user/,laodrk5,How are we misunderstanding. What in my explanation is incorrect?,
+
+lb41czs,https://www.reddit.com/r/askmath/comments/1dsoo3h/count_of_8_leaf_trees/lb41czs/,2024-07-01 11:28:26 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dsoo3h/count_of_8_leaf_trees/,lb3vzgn,Maybe consider limiting to 8 total nodes or n total nodes or allow arbitrary non-tree graphs or something,
+
+lcoajv3,https://www.reddit.com/r/askmath/comments/1e0oz2o/combination_exhaustion_question/lcoajv3/,2024-07-11 13:53:00 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e0oz2o/combination_exhaustion_question/,,"This is the coupon collector's problem (https://en.wikipedia.org/wiki/Coupon_collector's_problem) -- I believe the answer is `64/64 + 64/63 + 64/62 + ... 64/3 + 64/2 + 64/1 ~ 64*ln(64)`
+
+A more interesting question would be with the sum of dice since the probabilities are then not equal",
+
+lb3y5nf,https://www.reddit.com/r/askmath/comments/1dsmyqm/is_there_a_function_that_tells_me_how_much_of_a/lb3y5nf/,2024-07-01 10:57:53 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dsmyqm/is_there_a_function_that_tells_me_how_much_of_a/,,https://math.stackexchange.com/a/1329567/1022007 suggests the other answers are wrong as does my own incomplete https://www.geogebra.org/calculator/huqqarh7,
+
+lb4v3u3,https://www.reddit.com/r/askmath/comments/1dsuaxp/time_and_work_problem/lb4v3u3/,2024-07-01 14:56:00 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dsuaxp/time_and_work_problem/,,"With problems like this one, it might be easier to ask ""how much of the party can one person plan in a given hour"" instead of ""how long would it take one person to plan the party by themselves"".
+
+How long would it take Arun, Mini, Sherry to plan the party together if all we knew is that Arun could plan `a` parties per hour, Mini could plan `m`, and Sherry could plan `s`. Well, together, they would plan `a+m+s` parties per hour, so the total time would be `1/(a+m+s)`.
+
+Using this, you should be able to solve the problem.",
+
+ld4j7ll,https://www.reddit.com/r/askmath/comments/1e30281/calculate_the_intersections_between_a_3d_plane/ld4j7ll/,2024-07-14 11:36:02 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e30281/calculate_the_intersections_between_a_3d_plane/,,"How I'd do it: post it on reddit and ask someone else to do it.
+
+How I'd do it otherwise: parametrize the circle in 2D, rigid rotate using a matrix to get parameters in 3D, and then see if any value of the parameters match the plane's equation",
+
+lbla98m,https://www.reddit.com/r/askmath/comments/1dv5tkk/deleted_by_user/lbla98m/,2024-07-04 12:56:35 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dv5tkk/deleted_by_user/,,"Well, it seems like `9*4 = 36` would be highest score you could achieve, so 62 seems excessive, unless you're counting something different. I cheated:
+
+In Julia:
+
+`using Combinatorics; s = [0, 1, 3, 6, 9]; length(Set([a+b+c+d for a in s for b in s for c in s for d in s]))`
+
+yields 30. Specifically:
+
+`[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, 28, 30, 33, 36]`",
+
+lbbpeuj,https://www.reddit.com/r/askmath/comments/1drvnx3/raskmath_weekly_chat_thread/lbbpeuj/,2024-07-02 18:44:15 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1drvnx3/raskmath_weekly_chat_thread/,lbai8cj,"Someone should answer this properly, but I got bored and did this in Julia:
+
+`x = [length(Set([rand(1:366) for i in range(1,624)])) for i in range(1,100000)]`
+
+and the histogram shows a normal curve. `mean(x) = 299.6268` `var(x) = 33.83676012760129` and thus `sqrt(var(x)) = 5.816937349465033`. So 290.5 would be `(299.6268-290.5)/5.816937349465033 = 1.569` standard deviations below the mean, or about 5.8% chance of this happening",
+
+lb3v6uo,https://www.reddit.com/r/askmath/comments/1dsoo3h/count_of_8_leaf_trees/lb3v6uo/,2024-07-01 10:26:48 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dsoo3h/count_of_8_leaf_trees/,lb3v4df,Internal nodes aren't leaves since they're not terminal nodes.,
+
+lb4p37p,https://www.reddit.com/r/askmath/comments/1dstvx9/calculated_vs_actual_probability/lb4p37p/,2024-07-01 14:20:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dstvx9/calculated_vs_actual_probability/,,"> Is the statistical probability of these patterns occuring so astronomically low they can not be calculated?
+
+No, they can be calculated but they have close to 0 probability so you never see them in real life.
+
+When computing probabilities in the real world, we need to make assumptions (the coin is fair, the person flipping it is doing so randomly, the coin has a distinguishable heads and tails, etc) are often only approximations of reality.",
+
+ld4fzqi,https://www.reddit.com/r/askmath/comments/1e2mhju/deleted_by_user/ld4fzqi/,2024-07-14 11:03:56 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e2mhju/deleted_by_user/,,Can you show us your code attempts so far?,
+
+lb3ucw5,https://www.reddit.com/r/askmath/comments/1dsoo3h/count_of_8_leaf_trees/lb3ucw5/,2024-07-01 10:17:39 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1dsoo3h/count_of_8_leaf_trees/,,"As https://new.reddit.com/user/TheBlasterMaster/ hints, if you don't limit the number of interior nodes, you could have an arbitrarily long and skinny tree with any number of leaves:
+
+`(1) --> (2) --> (3) --> (4) --> ... -> jillion -> (jillion+1 through jillion+8)`",
+
+ldgakok,https://www.reddit.com/r/askmath/comments/1e2vzmu/raskmath_weekly_chat_thread/ldgakok/,2024-07-16 14:11:20 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e2vzmu/raskmath_weekly_chat_thread/,ldfq92v,"> (success)*((no success)^7), so (1/20)*((19/20)^7), which is approx. 3.49%
+
+Unless the success has to be on the first roll, there are 8 places where the success can occur so it's actually 8 times that number or about 27.9%
+
+You might want to look into the binomial distribution and/or ask this as a question in and of itself instead of in the chatting subthread (though that's fine too)",
+
+ld5cjq2,https://www.reddit.com/r/askmath/comments/1e34b4r/what_is_the_antiderivative/ld5cjq2/,2024-07-14 15:10:08 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e34b4r/what_is_the_antiderivative/,,"You'll notice the natural log of that function is `x*ln(x)`, so you can rewrite it as `e^(x*ln(x))`. That doesn't really help in this case because there is no antiderivative in standard functions: https://www.wolframalpha.com/input?i=integrate+x%5Ex",
+
+ldxdzsx,https://www.reddit.com/r/askmath/comments/1e73maq/help_me_understanding_why_does_the_graph_of_this/ldxdzsx/,2024-07-19 13:33:06 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e73maq/help_me_understanding_why_does_the_graph_of_this/,,zoom in a bit near where that happens,
+
+lenhrol,https://www.reddit.com/r/askmath/comments/1eaqtk3/if_pi_is_infinite_does_that_mean_that_there_could/lenhrol/,2024-07-24 03:08:33 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eaqtk3/if_pi_is_infinite_does_that_mean_that_there_could/,,"Yes, assuming you mean something like ""3.14159314159..."", where the first  6 digits, ""314159"" repeat once and then, after the 12th digit, the series of digits is random again. I don't think pi does that in base 10 for all the digits we've computed so far. You might have a better chance looking at the base 2 expansion of pi.
+
+In general, if you're choosing random digits in base 10 to create an irrational number, the chance the second digit will match the first is 1/10th, the chance the third and fourth digits will match the first and second is 1/100th, and, in general, the chance the first n digits will match the next n digits is 10^-n. That adds up to about 1/9th, but overcounts duplicates. In base 2, it would add up to 1/2.",
+
+leefkwj,https://www.reddit.com/r/askmath/comments/1e9gv1f/transcendental_s/leefkwj/,2024-07-22 16:15:27 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e9gv1f/transcendental_s/,leee1nd,"I was going to do `4-pi` and `pi` which add to 4, but I like yours better",
+
+le2xke7,https://www.reddit.com/r/askmath/comments/1e7vbm0/how_do_we_know_that_the_trillion_digits_of_pi/le2xke7/,2024-07-20 13:47:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e7vbm0/how_do_we_know_that_the_trillion_digits_of_pi/,le2x4lq,"Just to be whiny, wasn't that in hexadecimal (binary) only? Not the nth decimal digit?",
+
+le2xokf,https://www.reddit.com/r/askmath/comments/1e7vbm0/how_do_we_know_that_the_trillion_digits_of_pi/le2xokf/,2024-07-20 13:48:38 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e7vbm0/how_do_we_know_that_the_trillion_digits_of_pi/,le2x641,"True, but not helpful. OP isn't asking for error in precision (eg, 10 to the negative trillion), but an error in the computation or algorithm itself",
+
+le5i0mm,https://www.reddit.com/r/askmath/comments/1e7vbm0/how_do_we_know_that_the_trillion_digits_of_pi/le5i0mm/,2024-07-20 23:32:53 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e7vbm0/how_do_we_know_that_the_trillion_digits_of_pi/,le5hdei,You believe pi = 1 ?,
+
+ldxgj1v,https://www.reddit.com/r/askmath/comments/1e73maq/help_me_understanding_why_does_the_graph_of_this/ldxgj1v/,2024-07-19 13:48:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e73maq/help_me_understanding_why_does_the_graph_of_this/,ldxel0k,"Well, congrats, you've broken math :)
+
+I'm sure it's a plotting issue: Desmos can only plot with so much accuracy and your function runs off to negative infinity very quickly. I'm guessing Desmos uses floating point numbers which have only so much precision.
+
+If it helps (probably not), geogebra does the same thing: https://www.geogebra.org/calculator/xj8hcgsp",
+
+lev9l0g,https://www.reddit.com/r/askmath/comments/1ebu73u/combinatorics_problem/lev9l0g/,2024-07-25 13:29:45 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ebu73u/combinatorics_problem/,,"Suppose your 10C1 is a Picasso #3, and your 8C2 is Picasso #1 and #2.
+
+Now, suppose your 10C1 is Picasso #1, and your 8C2 is Picasso #2 and #3.
+
+It's the same 3 paintings but you've double counted the case where you have Picasso #1, #2, and #3",
+
+levcn9o,https://www.reddit.com/r/askmath/comments/1eap176/help_with_dice_probability_number_of_turns/levcn9o/,2024-07-25 13:48:20 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eap176/help_with_dice_probability_number_of_turns/,,"This doesn't exactly answer your question, but may help. I'm sure this is a solved problem, but I haven't found an easy written up solution. What I've found so far:
+
+  - If you roll ndm (an m-sided die n times) for n > 1, the result is roughly a normal distribution with mean `n*(1+m)/2` and variance `n*((-1 + m)*(1 + m))/12`. The standard deviation is the square root of the variance.
+
+  - Using the above, you could approximate the CDF of getting a value (say, 18) by looking at the CDF evalutaed at value minus 0.5 (say, 17.5), the one half to compensate for continuity.
+
+  - You could then find the PDF by taking the finite differences of the CDF.
+
+I'm working on a more accurate (but still not formulaic) solution in Julia, but ran into issues with Julia's arbitrary precision number library. My work so far:
+
+https://gist.github.com/GroovyJeff/f9e16cb31322437a00b35efbbd76b825
+
+https://gist.github.com/GroovyJeff/f95106c5caa7857a77095a280a4a04b4",
+
+le7hakx,https://www.reddit.com/r/askmath/comments/1e8fl75/mean_of_the_sequence_abstann/le7hakx/,2024-07-21 10:17:10 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1e8fl75/mean_of_the_sequence_abstann/,,"Mathematica confirms your result. Note that modding by pi (to high precision) might help since tan is periodic in pi. In other words, take tans of 1, 2, 3, and then 4-pi. From then on, increment by 1 until you pass 4, at which point subtract by pi again",
+
+lg5blsb,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/lg5blsb/,2024-08-02 14:44:38 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/,lg5bfpw,"I'm not sure. I meant ""you'd think"" as in ""some mathematicians would think""",
+
+lg4xwrz,https://www.reddit.com/r/askmath/comments/1ei9i0i/unsolved_countdown_arithmetic_round_that_wasnt/lg4xwrz/,2024-08-02 13:26:20 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ei9i0i/unsolved_countdown_arithmetic_round_that_wasnt/,,"https://www.dcode.fr/countdown-numbers-game gives three solutions including:
+
+```
+10 + 6 = 16
+100 + 16 = 116
+116 x 50 = 5800
+5800 / 8 = 725
+725 - 8 = 717
+```",
+
+lgfw76u,https://www.reddit.com/r/askmath/comments/1ejtcka/is_it_possible_to_come_up_with_a_set_of_truly/lgfw76u/,2024-08-04 12:09:36 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ejtcka/is_it_possible_to_come_up_with_a_set_of_truly/,,"Yes. I just came up with a random number between 7 and 7. I won't tell you what it is but you can probably guess.
+
+However, aside from trivial cases like that, we have no way, mental or automated, to generate truly random numbers even between a set of two options.",
+
+lg55yei,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/lg55yei/,2024-08-02 14:13:26 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/,,"Since 2 and 5 are relatively prime, you'd think there should be m and n such that `2^m - 5^n = 1`, but I don't know how hard it would be find. The cycle of 2 in base 10 is `(2, 4, 8, 6)` and the cycle of 5 just `(5)`, so you'd need `2^m` to end in 4 or 6, but I doubt that's helpful.",
+
+lg5jb89,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/lg5jb89/,2024-08-02 15:26:13 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/,,"After I realized this problem is actually about finding rational numbers close to `log(5)/log(2)` (or log-base-2 of 5), I wrote https://gist.github.com/GroovyJeff/413de6671f8df064c3935ff6ecc7ab74 in Julia to find close approximations. Since this problem appears to be unsolved, I'll stop here.",
+
+lg5au2r,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/lg5au2r/,2024-08-02 14:40:27 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/,,I assume `5^1 - 2^2 = 1` is out (and am looking for a different solution),
+
+lgfv64k,https://www.reddit.com/r/askmath/comments/1ejslpg/if_there_were_an_infinite_number_of_apples_and/lgfv64k/,2024-08-04 12:00:32 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ejslpg/if_there_were_an_infinite_number_of_apples_and/,,"As others have also noted, yes, but if you choose a random number uniformly between 0 and 1, the chance you will get 0.5 is 0%. In fact, the chance you'll get any specific number is 0%. And yet, if you could somehow choose a random number in finite time (which you can't), you'd get SOME number.
+
+Once you start dealing with infinity, things get weird. One way (not necessarily the best way) around this is to ask what real-world procedure you would use to perform a task. In this case, you'd have to show there an infinite number of apples, which is probably impossible. It's not theoretically impossible for it to happen (infinite universe or arbitrarily small apples), but actually demonstrating it might be",
+
+lg5s5q0,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/lg5s5q0/,2024-08-02 16:13:06 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eiauav/about_closest_power_of_integers/,,"OK, someone on Discord shows me this is impossible except in trivial cases:
+
+  - For n > 3, `2^n (mod 8) = 0` (we can check n= 0, 1, 2 trivially to find `2^0 = 5^0` and `5^1 - 2^2 = 1`
+  - `5^m (mod 8)` is 1 when m is even, 5 when m is odd
+  - `2^n - 5^m (mod 8) = 0 - {1 or 5} = {7 or 3}` and can therefore never be 1
+  - Thus, if a solution exists, we have `5^m - 2^n = 1`. Taking that mod 25 gives us `5^m - 2^n = 1 (mod 25) implies 0 - 2^n = 1 (mod 25) implies 2^n = -1 (mod 25) implies 2^n = 24 (mod 25)`. The powers of 2 mod 25 (including 2^0 = 1) follow the 20-element cycle `1, 2, 4, 8, 16, 7, 14, 3, 6, 12, 24, 23, 21, 17, 9, 18, 11, 22, 19, 13`, where `2^10 = 1024 (mod 25) = 24`. Thus, n must be of the form `10 + 20k` for some value of k. Thus, n must be even
+  - Take `5^m - 2^n = 1 (mod 8)` gives us `5^m = 1 (mod 8)`. As per step 2 above, this means m must also be even
+  - Since both m and n are even we can write them as 2a and 2b respectively for some natural numbers a and b.
+  - We then have `5^(2a) - 2^(2b) = (5^a)^2 - (2^b)^2 = (5^a + 2^b) * (5^a - 2^b)`. For that to equal 1, both terms must be 1, so `5^a + 2^b = 5^a - 2^b = 1 implies 2^b = -2^b = 1` which means `2^b = 0` and thus not 1",
+
+lgg6872,https://www.reddit.com/r/askmath/comments/1ejut7y/what_makes_something_true_in_mathematics/lgg6872/,2024-08-04 13:26:52 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ejut7y/what_makes_something_true_in_mathematics/,,"This is unhelpful, but Godel also states we can't prove our axiom system is consistent. So it's theoretically possible we can prove something both true and false in our axiom system. Unless we accept true = false as a true statement, that won't work.
+
+However, I think the author is talking about what we call ""observable truth"". People often try to use pure logic to show, for example, that the Earth is round(ish) or even abstract concepts like (the love of )money is the root of all evil. That's just not something math can do by itself. Observing external truth requires something more: observations and potentially a belief system",
+
+lgx7d5z,https://www.reddit.com/r/askmath/comments/1em8o0i/is_this_solvable/lgx7d5z/,2024-08-07 11:23:34 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1em8o0i/is_this_solvable/,,"As https://www.desmos.com/calculator/m4unay1jov shows graphically, it does have two solutions, but neither appear to have a clean closed form",
+
+lh37wg7,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/lh37wg7/,2024-08-08 11:08:59 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/,,You could argue there's no finite process by which you could choose one marble randomly. It'd be like choosing a random natural number.,
+
+lgleoje,https://www.reddit.com/r/askmath/comments/1eklfxa/more_even_or_odd_numbers/lgleoje/,2024-08-05 11:55:32 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eklfxa/more_even_or_odd_numbers/,,"There are four equally likely cases for addition, two of which result in odd numbers (odd + even and even + odd), two of which result in even numbers (odd + odd and even + even), so additions would, on average, not change the balance.
+
+For multiplication however, 3 of the 4 cases (odd times even, even times odd, even times even) yield an even number, so the quantity of even numbers would increase.
+
+So, yes the balance will shift towards the events",
+
+lgsl1bb,https://www.reddit.com/r/askmath/comments/1ellkbd/how_can_i_solve_this_probability_question/lgsl1bb/,2024-08-06 16:25:41 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ellkbd/how_can_i_solve_this_probability_question/,,"Not difficult, but perhaps tedious. You're asking for the order statistic (https://en.wikipedia.org/wiki/Order_statistic) of a uniform distribution between `[t, 1+t]` as compared to N-1 uniform distributions on `[0,1]`. You can work it manually using integrals and stuff (P1 will be #1 if ... ), and there's probably a shortcut to do it using Mathematica or a similar tool, but I'm not sure the problem is super-interesting, sorry",
+
+lhf302o,https://www.reddit.com/r/askmath/comments/1eonhkv/how_to_find_the_maximum_possible_value_of_the/lhf302o/,2024-08-10 10:48:07 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eonhkv/how_to_find_the_maximum_possible_value_of_the/,,"You are correct. You want to make the first 9n/10 elements equal to -10, and the last n/10 elements (when sorted) into x so that you can get the largest x with the smallest mean value. The mean is then: `(-10*9n/10 + x*n/10)/n` which you know is equal to 55.2
+
+The n's drop out of the equation and you can solve for x",
+
+lh45mib,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/lh45mib/,2024-08-08 14:46:06 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/,lh44jfd,"I'm going to be an a-hole and stick with the original sentence, because we have no way of generating true randomess. So, unless there was just one marble, we wouldn't have a finite process to choose between them (if we accept that dice and stuff only gives us appproximations to true randomness)",
+
+lhdkp5m,https://www.reddit.com/r/askmath/comments/1eoh64d/what_is_the_answer_to_the_equation_xexlnx/lhdkp5m/,2024-08-10 02:12:12 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eoh64d/what_is_the_answer_to_the_equation_xexlnx/,,There doesn't appear to be a closed-form solution. I ran it through Plouffe's Symbolic Inverter (http://wayback.cecm.sfu.ca/cgi-bin/isc/lookup?number=0.47067537477650852607861983614464938480005529430520&lookup_type=simple) and it just gives back the equation you gave in slightly altered form,
+
+lh4kjmj,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/lh4kjmj/,2024-08-08 16:03:24 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/,lh4fcsf,Still missing something: that's not random is it?,
+
+lh4dd5y,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/lh4dd5y/,2024-08-08 15:26:36 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/,lh4alfh,I'm missing something. Wouldn't you still need a finite process to generate n?,
+
+lh4zqln,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/lh4zqln/,2024-08-08 17:20:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1en2niy/a_hypothetical_bag_has_ten_million_red_marbles/,lh4yqzu,"I'm still missing something. Finding a truly random choice between two options should be impossible based on current knowledge. The coin is obviously a bad example because you can't construct a coin that comes up heads exactly nine times out of ten in a finite amount of time.
+
+I realize you're trying to find a technicality but I'm not seeing it. It seems no process you can find could generate truly random numbers. If you could find such a generator (like the 9/10 coin), then you could use it to generate other random numbers, but there's a bootstrap issue here",
+
+lhdilqp,https://www.reddit.com/r/askmath/comments/1eoc37v/effect_of_odds_in_binomial_odds/lhdilqp/,2024-08-10 01:57:50 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eoc37v/effect_of_odds_in_binomial_odds/,,"I'm having difficulty understanding this question, but I'll give it a shot.
+
+> odds of a particular outcome have in the shaping of binomial odds of this outcome's future manifestations
+
+We generally assume binary experiments are ""memoryless"". They don't remember what happened in the past, so their chance of coming up true or false is independent of what happened in this past.
+
+> We know that the odds of these outcomes happening the exact same times in 100 trials are about 8%.
+
+Well, if the probability is 50-50, yes, the probability of getting exactly 50 A and exactly 50 B is about 8%
+
+> Will the binomial odds of the next 100 hundred trials segments be affected by the temporary anomaly or not ?
+
+They shouldn't be unless the experiment you're performing somehow knows what happens in the past, or unless you're thinking that maybe the odds weren't equal to begin with.
+
+If you could provide a little more info, we may be able to help more",
+
+lhfh3g6,https://www.reddit.com/r/askmath/comments/1eos31f/maths_beyond_khanacademy/lhfh3g6/,2024-08-10 12:51:10 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eos31f/maths_beyond_khanacademy/,,"As a picky detail, Wikipedia is an encyclopedia, not a textbook. It's more to briefly explain what a concept is, not teach you about the concept from the ground up. You can learn simple concepts from Wikipedia, but that's not the intent.
+
+Try googling around to find free books (including Wikibooks) on these subjects: there should be tons of them. Or just find free books on higher mathematics in general that will cover many of these topics.",
+
+lhwoiqk,https://www.reddit.com/r/askmath/comments/1er5rhb/is_there_a_sequence_whose_set_of_partial_limits/lhwoiqk/,2024-08-13 13:33:09 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1er5rhb/is_there_a_sequence_whose_set_of_partial_limits/,lhwoc5b,"It would be the limit of `0.3, 0.33, 0.333, ...`. Remember we're talking partial limits. The value 1/3 doesn't have to appear in the sequence itself (and isn't), it just has to be the limit of a subsequence",
+
+lie192o,https://www.reddit.com/r/askmath/comments/1etkp5h/do_i_need_padic_mumbers_to_prove_this/lie192o/,2024-08-16 11:29:22 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1etkp5h/do_i_need_padic_mumbers_to_prove_this/,,"My vague sense (and I could be wrong) is that this is a trick question. Instead of ""a solution [...] mod p^k for all primes p and natural numbers k"", you can show it holds mod anything, and then have the stronger but simpler statement that a solution in whole numbers implies a solution in any mod, and a solution for every possible mode implies a solution in whole numbers",
+
+liekf1u,https://www.reddit.com/r/askmath/comments/1etnq7f/hello_all_i_really_really_need_some_help_with_my/liekf1u/,2024-08-16 13:38:43 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1etnq7f/hello_all_i_really_really_need_some_help_with_my/,,"Try converting the logo to SVG which is basically polygons and curves and then put those in there; unfortunately, the SVG convertor may just treat it as a bunch of points which doesn't help
+
+Consider feeding an AI (eg, ChatGPT) the image and asking it for polygons or whatever to draw the image.",
+
+lie3bye,https://www.reddit.com/r/askmath/comments/1etkp5h/do_i_need_padic_mumbers_to_prove_this/lie3bye/,2024-08-16 11:45:26 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1etkp5h/do_i_need_padic_mumbers_to_prove_this/,lie2y1f,"If a number is equal to 0 mod anything, it has to be 0. I think you can prove that fairly easily: for any m, consider m mod (m+1) or something",
+
+lhwbpzl,https://www.reddit.com/r/askmath/comments/1er5rhb/is_there_a_sequence_whose_set_of_partial_limits/lhwbpzl/,2024-08-13 12:06:41 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1er5rhb/is_there_a_sequence_whose_set_of_partial_limits/,,"For the real numbers between 0 and 1, consider the sequence consisting of the one digit decimal numbers (`0.1, 0.2, 0.3, ...`) followed by the two digit decimal numbers (`0.01, 0.02, 0.03, ..., 0.10, 0.11, 0.12, ..., 0.98, 0.99`) (note that `0.10` appears in both the first and second sequences).
+
+Then, any real number would be the partial limit of the subsequence containing its digits. With a little work, you could extend this to numbers bigger than 1 and negative numbers, at least I think you can",
+
+lhs4hqz,https://www.reddit.com/r/askmath/comments/1eqipby/problem_i_came_up_with_on_my_own_and_have_trouble/lhs4hqz/,2024-08-12 18:01:26 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eqipby/problem_i_came_up_with_on_my_own_and_have_trouble/,lhrsvkp,"I read `what is the function that given input b, outputs the value a that makes f(x)^2=f(x^2) at exactly one point` to mean you want `a` as a function of `b` (and presumably `x`) but it's possible I'm wrong and/or that solving for `b` is wrong for some other reason.",
+
+lhwb88p,https://www.reddit.com/r/askmath/comments/1er5rhb/is_there_a_sequence_whose_set_of_partial_limits/lhwb88p/,2024-08-13 12:02:56 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1er5rhb/is_there_a_sequence_whose_set_of_partial_limits/,lhwacdb,"The number of subsequences of a given countable sequence is uncountable, so I don't think the quantity of partial limits is necessarily countable",
+
+lhrqeb8,https://www.reddit.com/r/askmath/comments/1eqipby/problem_i_came_up_with_on_my_own_and_have_trouble/lhrqeb8/,2024-08-12 16:48:54 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eqipby/problem_i_came_up_with_on_my_own_and_have_trouble/,,"So `(a-bx)^2 = a-bx^2`? That should just be a quadratic
+
+EDIT: OK, a little bit more of a hint: if you solve that quadratic for b, you'll normally get two solutions involving plus or minus square root of something. Now, if you can make that something 0, you're down to one solution",
+
+liegt6p,https://www.reddit.com/r/askmath/comments/1etnq1g/lets_say_i_want_to_find_a_fast_series_that/liegt6p/,2024-08-16 13:16:57 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1etnq1g/lets_say_i_want_to_find_a_fast_series_that/,,https://math.stackexchange.com/questions/14113/series-that-converge-to-pi-quickly lists several: there may even be a wikipedia page somewhere,
+
+ljpnw9j,https://www.reddit.com/r/askmath/comments/1f06uxe/abcd_is_a_parallelogram_such_that_bc_2i_5j_and_cd/ljpnw9j/,2024-08-24 14:57:11 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f06uxe/abcd_is_a_parallelogram_such_that_bc_2i_5j_and_cd/,,"https://www.geogebra.org/calculator/jqxk5ynf is how I drew the figure, and it would make AC a diagonal of the parallelogram, not a side",
+
+lj2hust,https://www.reddit.com/r/askmath/comments/1ewwpl4/deleted_by_user/lj2hust/,2024-08-20 17:03:31 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ewwpl4/deleted_by_user/,,This is an OEIS sequence: https://oeis.org/A057679,
+
+lj2ocvi,https://www.reddit.com/r/askmath/comments/1ewwpl4/deleted_by_user/lj2ocvi/,2024-08-20 17:37:08 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ewwpl4/deleted_by_user/,lj2o4tk,"I should lie and say I was superclever, but I actually wrote this in Julia to find the two 6 digit values that let me find the sequence:
+
+```
+setprecision(1000005, base=10)
+
+pi_str = replace(string(BigFloat(pi)), ""."" => """")
+
+for i in 1:9
+ if pi_str[i:i+0] == string(i) print(i) end
+end
+
+for i in 10:99
+ if pi_str[i:i+1] == string(i) print(i) end
+end
+
+digits = 6
+
+for i in 10^(digits-1):10^digits-1
+ if pi_str[i:i+digits-1] == string(i) print(i) end
+end
+
+# 242424 271070
+```",
+
+ljw1gni,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/ljw1gni/,2024-08-25 17:54:07 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/,ljw0mby,I think this is actually the same as the method I describe,
+
+ljp52fm,https://www.reddit.com/r/askmath/comments/1ezt2mv/whats_the_nature_of_2/ljp52fm/,2024-08-24 12:57:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ezt2mv/whats_the_nature_of_2/,,"> if we draw a right triangle with both sides equals 1 the hypotenuse will be exactly equal to ✓2
+
+Except you can't. It's impossible to draw a perfect triangle with infinitely thin lines with two sides exactly the same. The perfect triangle, like the square root of 2, are mathematical abstractions that can only be approximated in the real world.",
+
+ljel0v1,https://www.reddit.com/r/askmath/comments/1eyo9ww/deleted_by_user/ljel0v1/,2024-08-22 16:53:35 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1eyo9ww/deleted_by_user/,,Show us your work so far?,
+
+ljw15mf,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/ljw15mf/,2024-08-25 17:52:25 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/,,"Some people are suggesting rejection sampling (throwing away some results and rolling again), which certainly works.
+
+Doing it without rejection sampling was once a competition/challenge problem. The answer is ""easy"", but ugly.
+
+Roll d6s, subtract 1 from the result and treat the successive throws as a base 6 number starting with 0. Stop rolling when you know your base 6 number is stuck in a 5% interval, and use that interval for the d20.
+
+This works if you replace 6 and 20 with almost anything (except maybe 1)
+
+EDIT (example): Suppose you first dial a 3 which translates to `0.2 (base 6)`, which is `1/3` or `0.333... (base 10)`. No matter what you roll from now on, your result will never be lower than `0.2 (base 6)` and, even if you roll 6's forever, you will never get more than `0.255555.... (base 6)` which is `0.3 (base 6)` or `0.5 (base 10)`.
+
+Thus, after rolling a 3, you are ""trapped"" between the numbers `0.333... (base 10)` and `0.5 (base 10)`. To convert a decimal between 0 and 1 to a d20, you can multiply by 20, add 1, and take the floor of the result, so `0.333... (base 10)` translates to `floor(20*0.333...+1) = floor(7.666...) = 7`, and `0.5 (base 10)` translates to `floor(20*0.5+1) = floor(11) = 11`. Therefore, after rolling a 3 your know your final result will be between 7 and 11. Since that's more than one possibility, you roll again.
+
+Suppose you now roll a 4, so your number so far is `0.23 (base 6)` (remember that you subtract 1 from the 4 so the result is in the range 0-5 not 1-6). That means your final result must be between `0.23 (base 6)` and `0.24 (base 6)` which translates to between `2/6 + 3/36 = 0.41666... (base 10)` and `2/6 + 4/36 = 0.444... (base 10)`. Converting to a d20, that's between `floor(20*0.41666... + 1) = floor(8.333... + 1) = floor(9.333...) = 9` and `floor(20*0.444... + 1) = floor(8.888... + 1)  = floor(9.888...) = 9`.
+
+Since those numbers are the same, you treat this as a 9 on a d20.",
+
+liia4lm,https://www.reddit.com/r/askmath/comments/1etkp5h/do_i_need_padic_mumbers_to_prove_this/liia4lm/,2024-08-17 02:28:04 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1etkp5h/do_i_need_padic_mumbers_to_prove_this/,lii9523,Example?,
+
+livo4c7,https://www.reddit.com/r/askmath/comments/1ew379d/finding_hypergeometric_distribution_probability/livo4c7/,2024-08-19 14:34:10 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ew379d/finding_hypergeometric_distribution_probability/,,"Give us an example, but the hypergeometric distribution is non-trivial to calculate",
+
+lk4vehl,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/lk4vehl/,2024-08-27 06:07:33 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/,lk4tivl,I don't think there's any way to upper bound the number of rolls when it's d6 mimicking d20. If you had a d10 mimicking a d20 then 2 rolls would suffice.,
+
+lk00aju,https://www.reddit.com/r/askmath/comments/1f06uxe/abcd_is_a_parallelogram_such_that_bc_2i_5j_and_cd/lk00aju/,2024-08-26 11:57:11 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f06uxe/abcd_is_a_parallelogram_such_that_bc_2i_5j_and_cd/,ljpvhmk,"OK, I think you ended up getting an answer in https://www.reddit.com/r/HomeworkHelp/comments/1f0q3ot/a_level_maths_linear_algebra_vector_given_that/",
+
+ljzzi4s,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/ljzzi4s/,2024-08-26 11:51:02 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/,ljz2yve,I edited my comment to hopefully make it clearer,
+
+ljzzhz9,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/ljzzhz9/,2024-08-26 11:51:00 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/,ljz3ldf,I edited my comment to hopefully make it clearer,
+
+ljzzexa,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/ljzzexa/,2024-08-26 11:50:20 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/,ljzdihk,"I think that's correct, but I edited my post to clarify just in case",
+
+lk1iqqm,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/lk1iqqm/,2024-08-26 17:17:52 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/,lk0ibwu,I usually don't read the titles before answering. Or the posts,
+
+ll0uwe8,https://www.reddit.com/r/askmath/comments/1f6khoh/how_to_solve_for_w/ll0uwe8/,2024-09-01 18:04:43 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f6khoh/how_to_solve_for_w/,,"The opposite of `e^x` is `ln(x)` the natural log of x, if that helps. Some calculators give it as `log(x)`, but that can also mean log base 10, so be careful. The correct version is the one that gives `log(2.718281828)` approximately equal to 1",
+
+lkuidj7,https://www.reddit.com/r/askmath/comments/1f5pxi2/deleted_by_user/lkuidj7/,2024-08-31 15:44:48 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f5pxi2/deleted_by_user/,,"OK, but what happens if you plug in x=2 to those equations. Do you get y=1 for both (since the line must go thru (2,1))?
+
+Some words: extraneous roots",
+
+lkzcsqp,https://www.reddit.com/r/askmath/comments/1f2hrx4/how_to_calculate_furthest_points_on_earth_given_a/lkzcsqp/,2024-09-01 12:56:53 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f2hrx4/how_to_calculate_furthest_points_on_earth_given_a/,lkaqwc0,"I ran into this issue myself. The distance from `(0, lat)` to `(x, lat)` IS `x*cos(lat)` if you remain on latitude `lat` for the entire journey.
+
+However, excluding `lat=0`, the *shortest* path bends towards the pole, so the `x*cos(lat)` isn't the shortest path",
+
+lld6uxd,https://www.reddit.com/r/askmath/comments/1f8ak5c/three_kids_can_eat_three_hotdogs_in_three_minutes/lld6uxd/,2024-09-03 20:55:02 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f8ak5c/three_kids_can_eat_three_hotdogs_in_three_minutes/,lld5ns0,"Why wouldn't this be 8? If road B has 1000 major accidents, it presumably has 50% as much traffic and thus 50% as many major and minor accidents?",
+
+llxpqb1,https://www.reddit.com/r/askmath/comments/1fb1xid/success_probably/llxpqb1/,2024-09-07 10:33:35 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fb1xid/success_probably/,,"According to https://free-onlineclock.com/online-stopwatch I can stop the watch within 0.15 seconds of 3.000 seconds at most, and, very roughly speaking (meaning I'm making it up), it seems to be a uniform distribution around 3.000 seconds. So, based on this very minimal experiment, I'd say a 1 in 30 chance of hitting it to the nearest 1/100th second and a 1 in 300 chance of hitting it to the nearest millisecond",
+
+llxockx,https://www.reddit.com/r/askmath/comments/1fb3j0u/since_3x3_cube_has_43_quintillion_combinations/llxockx/,2024-09-07 10:17:59 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fb3j0u/since_3x3_cube_has_43_quintillion_combinations/,,"This doesn't answer your question, but one way to approach it: start with a solved cube and count how many transformations of n steps there are, and then subtract off those n-step transformations that match an existing transformation of n-1 steps or fewer. Presumably, you'll get some sort of inductive formula, though it may include exclusion/inclusion",
+
+lldf1kn,https://www.reddit.com/r/askmath/comments/1f8ak5c/three_kids_can_eat_three_hotdogs_in_three_minutes/lldf1kn/,2024-09-03 21:39:29 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f8ak5c/three_kids_can_eat_three_hotdogs_in_three_minutes/,lldacxf,"I don't see ""same number of accidents"" as a reasonable interpretation of ""equally dangerous"". I also don't understand what you mean by weighing of minor accidents.
+
+Admittedly, there are lots of reasons they answer may not be 8, but given solely the provided information, it seems the best answer is 8",
+
+llxogkx,https://www.reddit.com/r/askmath/comments/1fb3iqu/how_can_we_really_prove_that_an_event_which_is/llxogkx/,2024-09-07 10:19:14 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fb3iqu/how_can_we_really_prove_that_an_event_which_is/,,Isn't `P(A)<1` the definition of `not certain`?,
+
+llnfi7h,https://www.reddit.com/r/askmath/comments/1f9ni4b/14_of_8590/llnfi7h/,2024-09-05 16:25:47 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f9ni4b/14_of_8590/,,"This is called ""backing out taxes"" but I couldn't find a good resource for it",
+
+lmau58j,https://www.reddit.com/r/askmath/comments/1fcoq7s/how_to_calculate_a_min_function_value/lmau58j/,2024-09-09 16:51:29 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fcoq7s/how_to_calculate_a_min_function_value/,lmad5ks,"I fixed the ping. No, not -1 net up/downvotes, but actually **-1 comments**, which is mathematically impossible. I'm guessing reddit's making live changes and someone messed up 0 indexing, but still weird",
+
+lma4pvp,https://www.reddit.com/r/askmath/comments/1fcoq7s/how_to_calculate_a_min_function_value/lma4pvp/,2024-09-09 14:26:18 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fcoq7s/how_to_calculate_a_min_function_value/,lma4jl3,"No, I wasn't being sarcastic. It was just unusual for reddit to show a negative number of comments. I was jokingly congratulating you on breaking the Internet :)",
+
+lmgivx2,https://www.reddit.com/r/askmath/comments/1fcoq7s/how_to_calculate_a_min_function_value/lmgivx2/,2024-09-10 16:18:15 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fcoq7s/how_to_calculate_a_min_function_value/,lmb3nkk,"I've seen it overcount because it counts deleted comments, but never undercount. Of course, I've also had Twitter (X) tell me I had people start following me in the 1800s and stop following me in the 2100s, so...",
+
+lmgs3tq,https://www.reddit.com/r/askmath/comments/1fdmv3u/why_is_5_an_odd_number_when_5_is_actually_50_and/lmgs3tq/,2024-09-10 17:07:03 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fdmv3u/why_is_5_an_odd_number_when_5_is_actually_50_and/,,"Even and odd only apply to whole numbers. 5.2 is neither even nor odd. 5.0 is odd, because it's equal to 5. Of course, people in other fields use 5.0 differently (to indicate precision or accuracy), but, purely in math, 5.0 is equal to 5",
+
+lnfnceg,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/lnfnceg/,2024-09-16 16:55:13 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1f11htf/most_efficient_way_to_generate_random_number_120/,lndi3in,But the chance of that happening is ultimately zero. I can't think of a way that only requires a finite number of rolls. Even rejection sampling could theoretically take forever,
+
+lma1ggg,https://www.reddit.com/r/askmath/comments/1fcoq7s/how_to_calculate_a_min_function_value/lma1ggg/,2024-09-09 14:07:11 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fcoq7s/how_to_calculate_a_min_function_value/,,"According to reddit, this post has -1 (negative 1) comments. Congrats, /u/pocket-snowmen",
+
+lmgv4b8,https://www.reddit.com/r/askmath/comments/1fdmv3u/why_is_5_an_odd_number_when_5_is_actually_50_and/lmgv4b8/,2024-09-10 17:22:59 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fdmv3u/why_is_5_an_odd_number_when_5_is_actually_50_and/,lmgujh9,"I'd argue that 5.0 is identical to 5 in the ""pure math"" usage, but, if you're going to push, 5.0 means between 4.95 and 5.05, so, if you accept that 4.95 is even because 4 is even, it's 50-50. On the other hand, 4.95 rounds to 5, so I'd say ""4.95 is neither odd nor even, but when rounded to the nearest whole number, 5, it is odd""",
+
+lmqwv6c,https://www.reddit.com/r/askmath/comments/1feznxx/answer_wexplanation_needed/lmqwv6c/,2024-09-12 11:03:24 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1feznxx/answer_wexplanation_needed/,,"How many letters does it take to express each number as a Roman numeral?
+
+Secret code for mathematicians: A006968",
+
+lou9pzv,https://www.reddit.com/r/askmath/comments/1fp21dc/deleted_by_user/lou9pzv/,2024-09-25 11:48:47 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fp21dc/deleted_by_user/,,"Mr Fencepost reminds you that there are (30-5)+1 = 26 numbers between 5 and 30 if you include both endpoints, 25 numbers if you include one endpoint, and 24 numbers if you include neither endpoint.",
+
+lp7pwgl,https://www.reddit.com/r/askmath/comments/1fqsubm/how_many_meters_or_feet_of_yarn_could_a_ball_of/lp7pwgl/,2024-09-27 17:19:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1fqsubm/how_many_meters_or_feet_of_yarn_could_a_ball_of/,,"Not an answer, but if you knew the volume of, say, 1 foot of that yarn (which you can find by measuring cross-sectional width and using the formula for the volume of a cylinder) AND, assuming the ball is wound perfectly (probably not), you can then divide the volumes to calculate the length.",
+
+lrfh1or,https://www.reddit.com/r/askmath/comments/1g1ckl9/modulo_under_partial_information/lrfh1or/,2024-10-11 15:58:57 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1g1ckl9/modulo_under_partial_information/,,I'm guessing you're familiar with the Miller-Rabin test (https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) and are asking a related question?,
+
+lrffx15,https://www.reddit.com/r/askmath/comments/1g1crt9/can_you_prove_an_equation_is_unsolvable_or_cannot/lrffx15/,2024-10-11 15:52:53 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1g1crt9/can_you_prove_an_equation_is_unsolvable_or_cannot/,,The wikipedia entry on transcendental equations may or may not be helpful: https://en.wikipedia.org/wiki/Transcendental_equation,
+
+lubxawl,https://www.reddit.com/r/askmath/comments/1geq74i/venn_diagram/lubxawl/,2024-10-29 11:16:46 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1geq74i/venn_diagram/,,Suggestion: break the Venn diagram into 8 distinct areas (or 2^n in general) that don't overlap instead of trying to deal with overlaps,
+
+ly44zkj,https://www.reddit.com/r/askmath/comments/1gvhs5v/question_about_potential_values_of_i/ly44zkj/,2024-11-20 15:51:13 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1gvhs5v/question_about_potential_values_of_i/,,"This sounds a little like quantum mechanics and qubits. You might be able to flesh it out a bit and create probabilistic mathemtics, but you might just end up re-inventing quantum computing",
+
+ly3q4on,https://www.reddit.com/r/askmath/comments/1gvpvi0/whats_the_inverse_of_prices_law/ly3q4on/,2024-11-20 14:29:52 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1gvpvi0/whats_the_inverse_of_prices_law/,,"For any reasonable value of `a`, the function `a/x` has the property that its integral from 1 to `sqrt(n)` is 1/2 its integral from 1 to n, so could view `a/x` as the simplest formula matching Price's Law. Of course, there are an infinite number of other formulas that would match Price's Law too.
+
+In the case of `a/x`, the percentage done by the lowest `sqrt(n)` would be the integral from `n-sqrt(n)` to `n` divided by the whole integral (from 1 to n) which simplifies to: `1 - Log[-Sqrt[n] + n]/Log[n]`",
+
+ly46y49,https://www.reddit.com/r/askmath/comments/1gvsjw0/deleted_by_user/ly46y49/,2024-11-20 16:01:15 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1gvsjw0/deleted_by_user/,,"If you can use calculus, compute the distance from T to any point in the plane (parametrized by two variables), then find the minimum using derivatives and compute the distance. However, I might be misunderstanding the question. I'm assuming p is a real valued constant here.",
+
+lzvxoju,https://www.reddit.com/r/askmath/comments/1h46cqw/finding_a_bookreference_just_based_on_a_photo/lzvxoju/,2024-12-01 16:09:42 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1h46cqw/finding_a_bookreference_just_based_on_a_photo/,,"I didn't have any luck myself, but you might try searching books.google.com",
+
+m03bils,https://www.reddit.com/r/askmath/comments/1h53qop/questionexplanation_about_the_collatz_conjecture/m03bils/,2024-12-02 20:36:35 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1h53qop/questionexplanation_about_the_collatz_conjecture/,,"https://oeis.org/search?q=collatz+smaller&language=english&go=Search is a search that may provide more insight, but I didn't really look carefully at it. Note things like OEIS A075477 which is ""Number of iteration that first becomes smaller than the initial value if Collatz-function (A006370) is iterated, starting with numbers of form 64n+15. Corresponds to selection of every 16th term from A074474"". This isn't exactly what you're doing, but it might be related",
+
+m00zqb5,https://www.reddit.com/r/askmath/comments/1h4tvap/trigonometry_question_way_above_my_understanding/m00zqb5/,2024-12-02 12:42:13 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1h4tvap/trigonometry_question_way_above_my_understanding/,,"Mercator maps (or any other two dimensional projection of the globe) don't accurately represent distances or shortest paths. There are several ways to find the great circle path, and even a website that'll do it for you: https://www.greatcirclemap.com/?routes=HND-NYC
+
+I'm also personally vaguely irked that Tokyo has its own international airport now: I always had to fly into Narita",
+
+m1k67sz,https://www.reddit.com/r/askmath/comments/1hbw9xp/how_does_one_find_a_point_equidistant_on_a_sphere/m1k67sz/,2024-12-11 18:10:51 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hbw9xp/how_does_one_find_a_point_equidistant_on_a_sphere/,m1k1ppb,"I think you're right. The antipode of the circumcenter would also be equidistant, since the great circle between a point and its antipode can pass through any of three points",
+
+m1jg6t5,https://www.reddit.com/r/askmath/comments/1hbw9xp/how_does_one_find_a_point_equidistant_on_a_sphere/m1jg6t5/,2024-12-11 15:56:57 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hbw9xp/how_does_one_find_a_point_equidistant_on_a_sphere/,,"The point you're looking for is the circumcenter of the spherical triangle formed by A, B, and C. Quoting https://www.vaia.com/en-us/textbooks/math/geometry-and-topology-2005-edition/chapter-3/problem-9-here-is-a-general-project-take-any-result-you-know/
+
+> In the context of a spherical triangle, the circumcenter is the point that is equidistant from all the vertices of the [spherical] triangle
+
+I think you can do it for your other question too, but not sure. I may look into it more",
+
+m1nqi7w,https://www.reddit.com/r/askmath/comments/1hcfil2/is_there_a_real_pairing_function/m1nqi7w/,2024-12-12 07:06:09 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hcfil2/is_there_a_real_pairing_function/,,"You can interlace the digits of the two numbers so that `f(0.123, 0.456) = 0.142536` for example. You'd need to do a little more to handle all the cases, but something like that should work",
+
+m183lyv,https://www.reddit.com/r/askmath/comments/1haewfe/trouble_with_a_riddle_i_saw_i_think_it_involves/m183lyv/,2024-12-09 17:43:57 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1haewfe/trouble_with_a_riddle_i_saw_i_think_it_involves/,,You could take the partial derivatives with respect to x and y,
+
+m4j8wrd,https://www.reddit.com/r/askmath/comments/1hppi91/deleted_by_user/m4j8wrd/,2024-12-30 15:30:07 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hppi91/deleted_by_user/,,"I didn't actually read your question, but try taking the limit by approaching (0,0) in different directions and show you get two different answers depending on the direction of approach, thus disproving the existence of a limit",
+
+m57hxj9,https://www.reddit.com/r/askmath/comments/1hspmft/how_long_does_it_take_to_factor_a_large_composite/m57hxj9/,2025-01-03 17:00:50 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hspmft/how_long_does_it_take_to_factor_a_large_composite/,,"This would make a fun Monte Carlo simulation using Julia or something. You can tell if a number is prime fairly quickly using things like the Miller-Rabin test, but not sure about factoring.
+
+Keep in mind that 50% of all numbers are divisble by 2, 33.3...% by 3, and so on, but I'm not sure how helpful that is in completely factoring large numbers",
+
+m5d6bkx,https://www.reddit.com/r/askmath/comments/1htgod7/is_my_answer_correct/m5d6bkx/,2025-01-04 15:39:17 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1htgod7/is_my_answer_correct/,,[removed],
+
+m5j7wvu,https://www.reddit.com/r/askmath/comments/1htg5fd/probability_of_one_die_rolling_higher_than_other/m5j7wvu/,2025-01-05 15:36:17 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1htg5fd/probability_of_one_die_rolling_higher_than_other/,m5d7vzk,"Thanks. You're right, I'm wrong. I edited my answer to indicate it was incorrect",
+
+m50t8bg,https://www.reddit.com/r/askmath/comments/1hrw2mq/how_many_packs_of_cards_i_need_to_buy_to_collect/m50t8bg/,2025-01-02 15:44:54 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hrw2mq/how_many_packs_of_cards_i_need_to_buy_to_collect/,,coupon collectors problem,
+
+m5d3xkr,https://www.reddit.com/r/askmath/comments/1htg5fd/probability_of_one_die_rolling_higher_than_other/m5d3xkr/,2025-01-04 15:25:24 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1htg5fd/probability_of_one_die_rolling_higher_than_other/,,"My answer below is incorrect because it assumes either the d12 or the d8 is higher, ignoring the case where they are equal. The paragraph I added about ties is also incorrect. I'm leaving the answer up just for reference.
+
+~~In the general case, given n > m, there's a 1/m chance you'll roll a k on the m-sided die (for any value of k between 1 and m), and a (n-k)/n chance the n-sided die will beat it. Therefore, we sum (Mathics format):~~
+
+~~Sum\[(1/m)\*(n-k)/n, {k, 1, m}\]~~
+
+~~which simplifies to (-1 - m + 2 n) / (2 n).~~
+
+~~In your case, n=12 and m=8 yielding 5/8. However, since you want the d8 to beat the d12, it's 1-5/8 or 3/8 or 37.5%~~
+
+~~The chance of tying is:~~
+
+~~Sum\[(1/m)\*(1/n), {k, 1, m}\]~~
+
+~~which is simply 1/n or 1/12 in your case. That adds 8.333...% to give a total chance of \~45.83% of tying or beating, which is close to the 44% you got.~~
+
+~~I agree the number seems high, but I think my math is correct~~",
+
+m5d3zzy,https://www.reddit.com/r/askmath/comments/1htg5fd/probability_of_one_die_rolling_higher_than_other/m5d3zzy/,2025-01-04 15:25:48 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1htg5fd/probability_of_one_die_rolling_higher_than_other/,m5d0euq,"I got 3/8, could you doublecheck your answer (I could be wrong too of course)",
+
+m6q2sem,https://www.reddit.com/r/askmath/comments/1hzje6o/is_there_a_constructive_procedure_to_find_all/m6q2sem/,2025-01-12 10:09:25 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hzje6o/is_there_a_constructive_procedure_to_find_all/,,"While https://oeis.org/A000041 may not answer your question, it provides lot of information about integer partition counting, probably most/all of the information available",
+
+m6u14rr,https://www.reddit.com/r/askmath/comments/1i00amm/how_would_i_factor_this/m6u14rr/,2025-01-12 23:47:22 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1i00amm/how_would_i_factor_this/,,"You can always cheat and use the quadratic formula. Note the discriminant, `b^2 - 4ac = 11^2 - 4*12*-5 = 361 = 19^2`",
+
+m6tx9z6,https://www.reddit.com/r/askmath/comments/1hzzrdl/what_is_the_next_term_in_the_following_series_5_7/m6tx9z6/,2025-01-12 23:26:21 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hzzrdl/what_is_the_next_term_in_the_following_series_5_7/,,"oeis.org couldn't find it, so, whatever it is, it's pretty obscure",
+
+m74gdlw,https://www.reddit.com/r/askmath/comments/1i1a1sf/how_to_do_this_probability_question_on_random/m74gdlw/,2025-01-14 16:56:22 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1i1a1sf/how_to_do_this_probability_question_on_random/,,"It's actually the sum of 3 uniform discrete distributions, but you can also just compute the exact probability of all possible results from 3 to 18 and use that to make your calculations.",
+
+m6to3jq,https://www.reddit.com/r/askmath/comments/1hzytgw/how_can_i_find_the_coordinates_for_the_3rd_vertex/m6to3jq/,2025-01-12 22:38:29 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1hzytgw/how_can_i_find_the_coordinates_for_the_3rd_vertex/,,"Probably better ways to do it, but you know its distance from B and from A so you could just write the distance formulas for both and then solve for x and y (two equations, two variables)",
+
+m74wiou,https://www.reddit.com/r/askmath/comments/1i1c0mg/how_is_462_reached_what_steps/m74wiou/,2025-01-14 18:14:24 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1i1c0mg/how_is_462_reached_what_steps/,,"These numbers don't seem right. If you make a 0.20% 10 times, you'd make approximately 2% on the amount you risked. It'd actually be a little more because of compound interest, but not a lot more. And if you're only risking 1% of equity, it'd be only 1% of that amount or approximately 0.02%. Can you show us the whole problem in context?",
+
+m7eptrs,https://www.reddit.com/r/askmath/comments/1i2h4dm/why_cant_an_algorithm_calculate_the_number_of/m7eptrs/,2025-01-16 05:54:34 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1i2h4dm/why_cant_an_algorithm_calculate_the_number_of/,,"https://oeis.org/A001411 gives self-avoiding walks for square lattices, and searching for ""self-avoiding walks"" (no quotes) on oeis.org yields several other special cases. It doesn't answer the general question but may help",
+
+m8eoq6t,https://www.reddit.com/r/askmath/comments/1i6l6pw/please_help_me_with_this_doubt/m8eoq6t/,2025-01-21 20:05:10 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1i6l6pw/please_help_me_with_this_doubt/,m8e506q,"You can and should use them both. 2400 hours on January 1st is 0000 hours on January 2nd, so there is an equivalence, but it's easier to say an even lasts from 2200 hours to 2400 hours than to say ""2200 hours to 0000 hours the next day""",
+
+m8db1kg,https://www.reddit.com/r/askmath/comments/1i6l6pw/please_help_me_with_this_doubt/m8db1kg/,2025-01-21 16:18:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1i6l6pw/please_help_me_with_this_doubt/,,"As https://training.nwcg.gov/dl/s248/s-248-ho-military-time-conversion.pdf notes, 2400 is a valid military time and refers to the midnight ending a given day. 0000 unambiguously refers to the midnight starting the day. 0001 is indeed one minute late.",
+
+mcu8di0,https://www.reddit.com/r/askmath/comments/1ipr9h5/sequences/mcu8di0/,2025-02-15 02:24:56 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1ipr9h5/sequences/,,"Probably unhelpful, but the entire series (not just those that are multiples) is https://oeis.org/A000522",
+
+mcdxl74,https://www.reddit.com/r/askmath/comments/1inul5p/can_we_add_inequalities/mcdxl74/,2025-02-12 16:19:10 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1inul5p/can_we_add_inequalities/,,"In some cases, yes. If `a < b` and `c < d` then `a + c < b + d`. You can actually prove that by noting `a + c` must be less than `b + c` since `b` is bigger than `a` and then noting that `b + d` is bigger than `b + c` because `d` is bigger than `c`, and then apply the transitive property of less than",
+
+mg5h4wy,https://www.reddit.com/r/askmath/comments/1j44byi/is_this_a_correct_representation_of_real_numbers/mg5h4wy/,2025-03-05 14:35:15 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1j44byi/is_this_a_correct_representation_of_real_numbers/,,"That works, but you'd also have to define things like addition, multiplication, equality, etc. That's all possible, but working with infinite series to do that seems ugly",
+
+mg68y13,https://www.reddit.com/r/askmath/comments/1j46lns/trying_to_figure_how_to_solve_for_the_number_of/mg68y13/,2025-03-05 16:52:04 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1j46lns/trying_to_figure_how_to_solve_for_the_number_of/,mg66lvl,"Order doesn't matter so 012 is the same as 102. The only special case might be 000, making the answer 119",
+
+mg60nkh,https://www.reddit.com/r/askmath/comments/1j46lns/trying_to_figure_how_to_solve_for_the_number_of/mg60nkh/,2025-03-05 16:12:49 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1j46lns/trying_to_figure_how_to_solve_for_the_number_of/,,"Wouldn't this just be 10 choose 3? (equals 120)
+
+EDIT (multiple): Note that order doesn't matter, so leading 0s don't matter. 012 is the same as 102. The only exception is 000, which wouldn't be included anyway since it has repeating digits, so the final answer is 120",
+
+mhrfm9o,https://www.reddit.com/r/askmath/comments/1jb5wvy/help_me_find_a_hidden_answer/mhrfm9o/,2025-03-14 15:24:22 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1jb5wvy/help_me_find_a_hidden_answer/,,"ln(x) goes to infinity as x goes to infinity, so, unless there's an upper x limit to the problem, the answer is infinite, as /u/stonecuber notes. It's not even interestingly infinite like Gabriel's Horn: https://en.wikipedia.org/wiki/Gabriel%27s_horn",
+
+miazun7,https://www.reddit.com/r/askmath/comments/1jdk4et/square_root_of_2/miazun7/,2025-03-17 18:46:40 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1jdk4et/square_root_of_2/,,Yeah.. you got something?,
+
+miftq9z,https://www.reddit.com/r/askmath/comments/1je5fxe/is_the_initial_velocity_95_or_0/miftq9z/,2025-03-18 14:11:41 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1je5fxe/is_the_initial_velocity_95_or_0/,,"Assuming the ball isn't moving before Jan kicks it, the initial velocity is 0. The final velocity is 95.",
+
+mifqgl6,https://www.reddit.com/r/askmath/comments/1je57g0/is_there_an_integer_which_rationalises_pi/mifqgl6/,2025-03-18 13:54:29 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1je57g0/is_there_an_integer_which_rationalises_pi/,mifoxew,"Good question. The word infinity is used in many different ways in mathematics, and the definition is slightly different in each case. Some examples:
+
+  - The set is infinitely large means you can make a 1-to-1 onto function from the set to a proper subset (eg, map the integers to just the even integers)
+
+  - The limit of f(x) as x approaches infinity means the number f(x) gets closer and closer to as x gets larger (which may or may not exist)
+
+  - The limit of f(x) as x approaches k is infinity. The function gets larger than any given number provided that x is close enough to k
+
+So, we can say pi has infinite digits in the ""set is infinite"" sense of infinity, but we can't say pi equals its decimal expansion times infinity (or `10^infinity`) because infinity isn't a number in this case.
+
+Of course, even 2/3 has infinite digits in its base-10 expansion (though they do repeat), so pi isn't really special here: the infinite decimal expansion applies to many other numbers",
+
+mifoioz,https://www.reddit.com/r/askmath/comments/1je57g0/is_there_an_integer_which_rationalises_pi/mifoioz/,2025-03-18 13:44:05 UTC,,askmath,0,https://www.reddit.com/r/askmath/comments/1je57g0/is_there_an_integer_which_rationalises_pi/,,"The series of integers you propose goes to infinity (the `10^n` part) and infinity isn't a number.
+
+You could similarly say that the limit of `1, 2, 3, 4, ...` is the largest integer, but that doesn't work for the same reason: the limit is infinity and infinity isn't a number.",
+
+mmqkz7h,https://www.reddit.com/r/askmath/comments/1jxihv8/could_anyone_help_me_with_where_i_went_wrong/mmqkz7h/,2025-04-12 14:30:42 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1jxihv8/could_anyone_help_me_with_where_i_went_wrong/,,"When converting area like cm^2 to km^2, you need to multiply by the conversion factor twice. 1km^2 = 1,000,000m^2 for example",
+
+ml2e9wi,https://www.reddit.com/r/askmath/comments/1jpvwbe/why_does_cantors_diagonalization_argument_only/ml2e9wi/,2025-04-02 18:28:39 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1jpvwbe/why_does_cantors_diagonalization_argument_only/,,"How would you guarantee the number you generate is also rational? In fact, you CAN enumerate the rationals and, using Cantor's diagonal argument, come up with an irrational.",
+
+mpiuy4j,https://www.reddit.com/r/askmath/comments/1ka29mg/how_can_i_find_the_shortest_distance_from_a_given/mpiuy4j/,2025-04-28 18:15:59 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1ka29mg/how_can_i_find_the_shortest_distance_from_a_given/,,"I mean, you could compute the distance and apply calculus by taking the derivative and setting equal to zero",
+
+mphtpb2,https://www.reddit.com/r/askmath/comments/1k9xs2q/vent/mphtpb2/,2025-04-28 15:13:31 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1k9xs2q/vent/,,"> I don't know basic mathematics
+
+The answer seems obvious, no? Learn basic mathematics. Science uses a lot of math.",
+
+mpix9lk,https://www.reddit.com/r/askmath/comments/1ka29mg/how_can_i_find_the_shortest_distance_from_a_given/mpix9lk/,2025-04-28 18:27:33 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1ka29mg/how_can_i_find_the_shortest_distance_from_a_given/,mpiw6a2,"No, I mean finding a formula. Like `(px-x)^2 + (py - (a * sin(x + b) + c))^2` and then solving for ddistance/dx equals 0 in terms of the other, presumably fixed, values.",
+
+mpiz1lm,https://www.reddit.com/r/askmath/comments/1ka29mg/how_can_i_find_the_shortest_distance_from_a_given/mpiz1lm/,2025-04-28 18:36:24 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1ka29mg/how_can_i_find_the_shortest_distance_from_a_given/,mpixn48,Except it turns out I was wrong since setting the derivative equal to 0 involves solving a transcendental equation,
+
+mqwv17s,https://www.reddit.com/r/askmath/comments/1kg912h/using_6_set_lengths_you_can_make_12_universal/mqwv17s/,2025-05-06 16:48:45 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1kg912h/using_6_set_lengths_you_can_make_12_universal/,mqwugf5,"OK, but Planck's constant has a unit attached, no? It would be different if measured in different units?",
+
+mqwta6y,https://www.reddit.com/r/askmath/comments/1kg912h/using_6_set_lengths_you_can_make_12_universal/mqwta6y/,2025-05-06 16:40:32 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1kg912h/using_6_set_lengths_you_can_make_12_universal/,,"For the physical constants, wouldn't it be dependent on the unit?",
+
+mqw9r79,https://www.reddit.com/r/askmath/comments/1kg6qcm/i_found_a_mathematical_function_that_detects_if_a/mqw9r79/,2025-05-06 15:06:31 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1kg6qcm/i_found_a_mathematical_function_that_detects_if_a/,,"I'm too lazy to read it myself, but https://oeis.org/A000396 might be helpful in telling you what's known about perfect number detection. The Wikipedia page might have something as well
+
+Will your test work with numbers that are 100s of digits long?",
+
+mqvbcvu,https://www.reddit.com/r/askmath/comments/1kg2eai/where_is_ii_on_the_imaginary_number_line/mqvbcvu/,2025-05-06 11:53:07 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1kg2eai/where_is_ii_on_the_imaginary_number_line/,,The purely imaginary numbers are not closed under multiplication (or division). They do not form a mathematical group.,
+
+ms36xcz,https://www.reddit.com/r/askmath/comments/1kllo64/is_there_any_algorithm_to_find_numbers_with_the/ms36xcz/,2025-05-13 13:30:59 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1kllo64/is_there_any_algorithm_to_find_numbers_with_the/,,This entry on the highly composite numbers may help: https://oeis.org/A002182,
+
+mtvfhni,https://www.reddit.com/r/askmath/comments/1ktpfcm/difference_sets_in_abelian_groups/mtvfhni/,2025-05-23 17:42:40 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1ktpfcm/difference_sets_in_abelian_groups/,,"If it helps, remember that all finite abelian groups are the product of cyclic groups",
+
+mul8sf8,https://www.reddit.com/r/askmath/comments/1kwzea7/why_isnt_the_answer_of_this_limit_zero/mul8sf8/,2025-05-27 21:32:14 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1kwzea7/why_isnt_the_answer_of_this_limit_zero/,,"csc(x) and cot(2x) both go to infinity as x goes to 0, so you have a zero times infinity situation. Time to go to L'Hospital!",
+
+mw4lw2t,https://www.reddit.com/r/askmath/comments/1l3xxfz/pretty_difficult_combinatorics_problem/mw4lw2t/,2025-06-05 12:59:23 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1l3xxfz/pretty_difficult_combinatorics_problem/,,"I'd scan the string backwards for its first letter, return the string `(first letter)...(same letter)` and then apply the same process to the string without the return value until you're down to 0 or 1 letters. To avoid recursion, you could just use `append` or an array or something",
+
+n04i6n5,https://www.reddit.com/r/askmath/comments/1lm340n/polynomial_which_goes_through_points_with_certain/n04i6n5/,2025-06-27 20:02:39 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1lm340n/polynomial_which_goes_through_points_with_certain/,,"If you're taking the value and the derivatives and the same point, you just start with the highest order derivative (eg, the third derivative), set it to a constant, integrate and then choose C to make your second derivative match what you want, and so on.
+
+A more interesting question is if you want to set both values and derivatives at various different points. You could always use piecewise functions (splines), but I don't know if you could find a single polynomial that works. I suspect you could but it would be higher order than any of your derivatives. Someone should look into this",
+
+n0aj7n7,https://www.reddit.com/r/askmath/comments/1lmuvgs/how_do_i_prove_a_function_has_no_stationary/n0aj7n7/,2025-06-28 19:43:14 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1lmuvgs/how_do_i_prove_a_function_has_no_stationary/,,Are you sure you don't have that fraction flipped?,
+
+n03u30k,https://www.reddit.com/r/askmath/comments/1llzmsx/calculating_changing_win_percentages/n03u30k/,2025-06-27 18:04:33 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1llzmsx/calculating_changing_win_percentages/,n03oqpp,I think you mean 66/67 so you need 8 more games in a row.,
+
+mzjrdxt,https://www.reddit.com/r/askmath/comments/1ljh7n7/discreet_random_variables_is_my_textbook_wrong/mzjrdxt/,2025-06-24 17:32:12 UTC,98.48.122.229,askmath,0,https://www.reddit.com/r/askmath/comments/1ljh7n7/discreet_random_variables_is_my_textbook_wrong/,,"Without actually reading your question, I have to ask: what if two or more hunters choose to shoot the same duck? I don't think your solution accounts for that possibility.",

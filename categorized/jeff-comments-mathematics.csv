@@ -1,0 +1,42 @@
+
+lkzbtyb,https://www.reddit.com/r/mathematics/comments/1f64rek/log_and_prime_relationship/lkzbtyb/,2024-09-01 12:50:10 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1f64rek/log_and_prime_relationship/,lkzbq7q,"Sure, but I'd like to see code for it so I can verify it myself and others can as well",
+
+lkzabff,https://www.reddit.com/r/mathematics/comments/1f64rek/log_and_prime_relationship/lkzabff/,2024-09-01 12:39:24 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1f64rek/log_and_prime_relationship/,,"If I'm reading your code correctly, it only gives a prime for one iteration. Could you show the loop that generates an infinite quantity or arbitrarily large prime numbers?",
+
+m4cukuk,https://www.reddit.com/r/mathematics/comments/1howg5u/square_year/m4cukuk/,2024-12-29 14:24:42 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1howg5u/square_year/,,"In the Gregorian calendar, sure. Now, do it in other calendars  :)",
+
+m4jtsop,https://www.reddit.com/r/mathematics/comments/1hprqvn/hard_geometry_probability_question/m4jtsop/,2024-12-30 17:20:28 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1hprqvn/hard_geometry_probability_question/,,"Possible help: you can create x and y axes to represent any two sides of the triangle with third side being unique to the triangle. That might help you assign numbers to things and get you a step further. You could also consider a Monte Carlo simulation for fixed values of a, b, and c.",
+
+m57gmj5,https://www.reddit.com/r/mathematics/comments/1hsprqx/is_there_a_standard_formal_grammar_for/m57gmj5/,2025-01-03 16:54:19 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1hsprqx/is_there_a_standard_formal_grammar_for/,,"`x/2y` is ambiguous (`x/(2y)` vs `(x/2)y`), so I don't think you'll find one for existing mathematical notation. Wolfram's MathML (and presumably any language's math library code and maybe LaTeX) could be used as standards, but we'd have to alter the way we write mathematics (which I think is a good idea)",
+
+m57yb5e,https://www.reddit.com/r/mathematics/comments/1hsprqx/is_there_a_standard_formal_grammar_for/m57yb5e/,2025-01-03 18:22:00 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1hsprqx/is_there_a_standard_formal_grammar_for/,m57lbo0,"Does English have a full formal grammar? Also, math and science should strive for more accuracy than languages used for social communication.
+
+I disagree with your PEDMAS comment since the adjacency operator (`2x` instead of `2*x`) does not have a well defined precedence. You could argue it's just multiplication, but I think people will still find `x/2y` ambiguous.",
+
+m6yktuf,https://www.reddit.com/r/mathematics/comments/1i0k2n0/is_my_thought_process_behind_the_distribution_of/m6yktuf/,2025-01-13 18:27:31 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1i0k2n0/is_my_thought_process_behind_the_distribution_of/,,"As others note, your method is similar to the Sieve of Erathosthenes, but we also have a list of all prime numbers up to 25 digits and, nowadays, we're only interested in primality testing for really large numbers. For example, can your method tell me if this number is prime:
+
+`94530952014750164269028838686813256563832791906254707519854217984811293829594274383512305494228516240879821517777812089215163568014630170867021846702184441705738145615908367398913923481640037933519860684313`",
+
+m9koagq,https://www.reddit.com/r/mathematics/comments/1ibrp48/deleted_by_user/m9koagq/,2025-01-28 03:02:44 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1ibrp48/deleted_by_user/,,"If n is congruent to 0 mod 6, n is necessarily even, so `2^n + n^2` is even and thus not prime. not sure where you got congruent to 1? Remember that `2^(n mod 6)` does not equal `2^n (mod 6)`. You need a different rule there",
+
+mb5nfo4,https://www.reddit.com/r/mathematics/comments/1iihyej/math_forums_dedicated_to_preventing_the/mb5nfo4/,2025-02-05 19:17:08 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1iihyej/math_forums_dedicated_to_preventing_the/,,"Ignoring the fact that ""scientific ideas"" don't really belong in a math forum, perhaps you could tell us what brilliant scientific idea you had and maybe post the idea directly on the forum instead of linking to an external site?",
+
+md9zvn9,https://www.reddit.com/r/mathematics/comments/1iroxmy/math_experts_a_friend_of_mine_may_have_proven_a/md9zvn9/,2025-02-17 17:18:25 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1iroxmy/math_experts_a_friend_of_mine_may_have_proven_a/,,"In theory, you could post it anywhere (including here) and use the post date as proof he had it first, but if you don't trust the mods, that won't work. You might get a free consult with a lawyer and ask how to protect intellectual property like this.
+
+Now the honest answer: I'd give 1000 to 1 odds that he hasn't proven it. Post it here and we'll rip it to shreds for him.",
+
+mdyp281,https://www.reddit.com/r/mathematics/comments/1ium9ns/is_document_easy_to_understand/mdyp281/,2025-02-21 09:49:09 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1ium9ns/is_document_easy_to_understand/,,"Not sure this is what you're asking, but your definition of `S` is invalid, since the sum of reciprocals (with or without 1) doesn't converge. Are you defining a new type of infinite sum or something?",
+
+mg53mqr,https://www.reddit.com/r/mathematics/comments/1j42qcw/gaps_between_prime_powers/mg53mqr/,2025-03-05 13:16:34 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1j42qcw/gaps_between_prime_powers/,,"You're asking if `p^n - p^(n-1)` increases as n increases? The answer is yes, and is fairly easy to prove",
+
+mi46adg,https://www.reddit.com/r/mathematics/comments/1jcq4th/irrational_numbers/mi46adg/,2025-03-16 17:07:34 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1jcq4th/irrational_numbers/,,"You might look at the proof that Euler's number, `e`, is irrational, though you may first want to convince yourself that any rational numbers and real numbers with eventually repeating digits are the same thing. It's generally easier to show a number can't be writte as the quotient of two integers than to show it doesn't have a repeating decimal expansion.",
+
+mi4zr8p,https://www.reddit.com/r/mathematics/comments/1jct4bq/the_euler_characteristic_of_a_human/mi4zr8p/,2025-03-16 19:32:03 UTC,,mathematics,0,https://www.reddit.com/r/mathematics/comments/1jct4bq/the_euler_characteristic_of_a_human/,,Are we assuming all our valves are open? Because that would make a difference,
+
+mmqwshi,https://www.reddit.com/r/mathematics/comments/1jxjwjd/can_someone_explain_why_this_wouldnt_make_sense/mmqwshi/,2025-04-12 15:34:43 UTC,98.48.122.229,mathematics,0,https://www.reddit.com/r/mathematics/comments/1jxjwjd/can_someone_explain_why_this_wouldnt_make_sense/,,"`z^3 = 1` has 3 solutions in the complex numbers, known as the 3 roots of unity. Similarly for `z^n = 1` for any n >= 2",
+
+mpi1p8a,https://www.reddit.com/r/mathematics/comments/1k9yju1/randomness_of_correctness_of_mathematics/mpi1p8a/,2025-04-28 15:53:15 UTC,98.48.122.229,mathematics,0,https://www.reddit.com/r/mathematics/comments/1k9yju1/randomness_of_correctness_of_mathematics/,,I'm a little confused here. There's no reason `n^0` should have the same value for all n. Did you mean `0^0`?,
+
+mpustgt,https://www.reddit.com/r/mathematics/comments/1kbj74k/is_calculus_one_of_the_hardest_topics_in_math/mpustgt/,2025-04-30 15:29:12 UTC,98.48.122.229,mathematics,0,https://www.reddit.com/r/mathematics/comments/1kbj74k/is_calculus_one_of_the_hardest_topics_in_math/,,"Not exactly, but as https://pubs.acs.org/doi/10.1021/ed066p432 notes, calculus acts like a filter to higher math: people who fail calculus often won't pursue higher math.
+
+Ideally, calculus would get people more interested in higher math, but, for now, the ironic answer is: calculus will be the hardest topic you'll see in math if it makes you quit doing math (self-fulfilling prophecy). If you get past calculus, there are many topics in math that are much harder (including plenty of highly specific unsolved problems), but also a lot more interesting.",

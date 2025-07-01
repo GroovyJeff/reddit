@@ -1,0 +1,164 @@
+
+l28lm0u,https://www.reddit.com/r/dataisbeautiful/comments/1ciekk9/oc_i_tried_to_visualise_why_people_feel_most/l28lm0u/,2024-05-02 12:59:35 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1ciekk9/oc_i_tried_to_visualise_why_people_feel_most/,,This looks more like an xkcd comic than actual data,
+
+l6btm1a,https://www.reddit.com/r/dataisbeautiful/comments/1d44g0f/snls_fivetimers_club_hosting_history_oc/l6btm1a/,2024-05-30 14:18:54 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d44g0f/snls_fivetimers_club_hosting_history_oc/,,I notice the dots aren't connected by straight lines. Did you cubic spline them or something?,
+
+l7d4os5,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/l7d4os5/,2024-06-06 12:43:56 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/,l79y6be,"I had not, thanks. I'll take a look at https://www.ncei.noaa.gov/access/crn/",
+
+l7hci8n,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/l7hci8n/,2024-06-07 04:16:32 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/,l7dr7x0,"OK, what is the r^2 and where is it computed? The article does say ""we still see statistically significant warming in the USCRN record over the 2005-2022 period"", but I don't see that. The data appears very noisy compared to the trend line",
+
+l7bknz3,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/l7bknz3/,2024-06-06 03:22:39 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/,l7alkcz,"Well, if you have a tightly gridded network or a large number of randomly selected stations, you can approximate a true average. The problem is that, historically, weather stations were chosen by conveience, often at airports or in large cities, so the resulting averages were not representative of world temperature.",
+
+l7d5h67,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/l7d5h67/,2024-06-06 12:49:36 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/,l79y6be,"Unless I'm missing something, the graph on https://en.wikipedia.org/wiki/U.S._Climate_Reference_Network appears to show little or no global warming between 2005 and 2022. I believe mesowest.utah.edu did a similar 10 year study at rural locations showing no global warming
+
+Of course, CRN is limited to the United States and mesowest was limited to the mountain states, but this would seem to be evidence AGAINST global warming?",
+
+l78sfku,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/l78sfku/,2024-06-05 17:02:33 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/,l78sax3,I believe Copernicus is open about how they obtain data,
+
+l78viy0,https://www.reddit.com/r/dataisbeautiful/comments/1d8v3kg/oc_senators_per_20m_people_by_us_stateterritory/l78viy0/,2024-06-05 17:19:58 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8v3kg/oc_senators_per_20m_people_by_us_stateterritory/,,"And yet people keep saying the US is a democracy, sigh",
+
+l7dkczd,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/l7dkczd/,2024-06-06 14:24:40 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/,l7dhvwg,"I did read that article, but even eyeballing tells me what the article says: the slope is very close to zero, and, more importantly, the r^2 appears to be very low. Any large enough set of ordered random numbers is likely to show a non-0 slope",
+
+l7d42bw,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/l7d42bw/,2024-06-06 12:39:25 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/,l7cph6b,"That's why contention as well. Of course, people generate a lot of heat as do airplanes, and, as the population and number of flights increase, so does the heat generated. I'm concerned that, even ignoring other concerns (such as non-random-sampling is still non-random even if you don't see a reason for a bias), this concern alone may account for much of ""global warming""",
+
+l78r1lo,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/l78r1lo/,2024-06-05 16:54:46 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1d8u67y/oc_hottest_days_of_the_year_on_record_2024_on/,,"As always, I'm concerned that surface air temperature data is based on non-randomly distributed stations and thus does necessarily accurately represent global temperature. Satellite data remains too inaccurate as well",
+
+la1hkiw,https://www.reddit.com/r/dataisbeautiful/comments/1dnbl6e/temperature_in_my_apartment_in_winter_v_summer_oc/la1hkiw/,2024-06-24 12:39:00 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1dnbl6e/temperature_in_my_apartment_in_winter_v_summer_oc/,,"I should probably take a break from Reddit, but I'll be rude instead: data collected from a single sensor isn't necessarily representative of the average air temperature for the whole apartment.
+
+This isn't a big deal here, of course, but it bugs me when people measure the average temperature of Earth using only a handful of sensors, especially when they're looking back at times where only a few locations measured temperature",
+
+la1gs1h,https://www.reddit.com/r/dataisbeautiful/comments/1dnc0ew/oc_number_of_items_i_bought_off_amazon_each/la1gs1h/,2024-06-24 12:32:51 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1dnc0ew/oc_number_of_items_i_bought_off_amazon_each/,,"I'm feeling snarky and going to say this should be a bar graph or other discrete graph, not a continuous graph. Stop false smoothing data!",
+
+lab209h,https://www.reddit.com/r/dataisbeautiful/comments/1dnc0ew/oc_number_of_items_i_bought_off_amazon_each/lab209h/,2024-06-26 02:39:38 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1dnc0ew/oc_number_of_items_i_bought_off_amazon_each/,la90ip8,The values are only defined per quarter not between quarters. You're interpolating without justification,
+
+le2x9x1,https://www.reddit.com/r/dataisbeautiful/comments/1e7vqk7/oc_value_of_a_vote_2020/le2x9x1/,2024-07-20 13:45:45 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1e7vqk7/oc_value_of_a_vote_2020/,,"This is pretty cool and appears to be accurate. Some people might say the value of your vote is inversely proportional to the difference in the number of votes for the candidates. In other words, your chance of flipping the vote.",
+
+lftinuy,https://www.reddit.com/r/dataisbeautiful/comments/1egona4/oc_the_relationship_between_2024_gdp_per_capita/lftinuy/,2024-07-31 14:42:22 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1egona4/oc_the_relationship_between_2024_gdp_per_capita/,,"I'm guessing IMF's GDP data is an estimate, since 2024 isn't over yer.
+
+With the corrected title, the graph really does show GDP per capita vs medals per capita because the per capita cancel out",
+
+lfzuqex,https://www.reddit.com/r/dataisbeautiful/comments/1ehk65p/oc_origins_of_hate_comments_against_countries/lfzuqex/,2024-08-01 16:13:55 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1ehk65p/oc_origins_of_hate_comments_against_countries/,,"In comment, OP states
+
+> Data was collected privately through Social Media Analysis, as well as through data purchased from Meta, parent of Instagram. The report is aimed at developing an efficient Marketing Strategy by studying varying topics of interests of populace in different countries.
+
+which appears to violate rule 2 (and is just plain annoying since people might want to know how the info was obtained)",
+
+lft44x2,https://www.reddit.com/r/dataisbeautiful/comments/1egmpdi/the_relationship_between_2024_gdp_per_capita_and/lft44x2/,2024-07-31 13:16:20 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1egmpdi/the_relationship_between_2024_gdp_per_capita_and/,,Shouldn't it be Olympic medals per capita too?,
+
+lftdq7e,https://www.reddit.com/r/dataisbeautiful/comments/1egmpdi/the_relationship_between_2024_gdp_per_capita_and/lftdq7e/,2024-07-31 14:14:33 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1egmpdi/the_relationship_between_2024_gdp_per_capita_and/,lft9711,"Well, no, see other comments, but OP has been deleted",
+
+lh3n0gq,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lh3n0gq/,2024-08-08 12:59:40 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lh3l2gv,"Obviously, the mods will decide, but I maintain this isn't observed data",
+
+lh3kojc,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lh3kojc/,2024-08-08 12:44:32 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,,"Predictions aren't data, reported.",
+
+lh97by2,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lh97by2/,2024-08-09 10:46:59 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lh3zw4d,"OK, since the post has now been approved, I'll say:
+
+  - imperfections in dice is different from standard error which is caused by randomness even with perfect dice
+
+  - I don't think you understood what I mean about polling 1000 people vs assuming their answers
+
+  - Adjusting 726 men and 274 women to 500 of each is statistically invalid since it introduces other imbalances. You can't adjust for known imbalances, because it creates new unknown imbalances
+
+  - Unless used carefully, statistics is the astrology of mathematics and has no inherent predictive value
+
+  - many scientists/studies use statistics improperly, but that doesn't mean it's OK. It just means they're wrong
+
+  - I concede some model simulation results may be allowed here, but they're still not observed data (unless you count a model's output as data that has no other ""observed data"" connection to the real world)",
+
+lh3o95g,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lh3o95g/,2024-08-08 13:07:31 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lh3o4py,How can you observe something that hasn't happened yet?,
+
+lh3p0f0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lh3p0f0/,2024-08-08 13:12:18 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lh3ol4g,"In terms of Monte Carlo simulations in math sequences and similar, but I don't think it applies to this post.",
+
+lhr3dd8,https://www.reddit.com/r/dataisbeautiful/comments/1eqei1o/opinion_north_carolina_lags_behind_every/lhr3dd8/,2024-08-12 14:45:41 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1eqei1o/opinion_north_carolina_lags_behind_every/,,"I think this breaks rule 1, but it's also irrelevant. Even in a perfect nearly equally society, someone would be 41, heck someone would be 50 and maybe even 51 if we get DC or Puerto Rico online. Relative rank is the wrong way to measure something in cases like these",
+
+lh3rukv,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lh3rukv/,2024-08-08 13:29:36 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lh3r9ws,"I probably disagree with you, but OP is awaiting moderator approval, so let's only continue if OP is not deleted",
+
+lh3pj2q,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lh3pj2q/,2024-08-08 13:15:30 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lh3p3w8,"Arguably, you know the probability of getting a 7 by making probability assumptions in the realm of pure math. It's unlikely that the probability you calculate is exact since no pair of dice is perfect. Similiarly with flipping a coin: I believe research has shown the actual results differ signifigantly from the theoretical ones
+
+If you observe 1000 people, those results are data. If you predict what they're going to say, that's not data.",
+
+li9b1ki,https://www.reddit.com/r/dataisbeautiful/comments/1esyll6/oc_socialism_vs_capitalism_in_one_chart/li9b1ki/,2024-08-15 16:00:02 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1esyll6/oc_socialism_vs_capitalism_in_one_chart/,,"Even though it's Thursday, this is a sensationalized title-- no way two countries can show anything about the whole world",
+
+lhwnwvr,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lhwnwvr/,2024-08-13 13:29:25 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lhwndm1,"> That's EVERY SINGLE STUDY used in EVERY SINGLE FIELD
+
+Yes, I don't believe in statistics. I believe most statistical studies are invalid.
+
+> you NEED to recognise and adjust to the fact that women are 50% of the population???
+
+You can't do that because it breaks other ratios. You couldn't possibly do it for every partition of people, so doing it for one is invalid.",
+
+lhx47za,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lhx47za/,2024-08-13 15:01:31 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lhx1eei,"> not all criteria are statistically relevant
+
+So how do we decide which ones are and aren't statistically relevant? Using statistics or human intuition? If human intuition, this introduces human bias
+
+And how do you measure true covariance or correlation as opposed your sample's covariance or correlation?
+
+I probably wouldn't work in a field that requires me to estimate sales (I think even actuarial work in unethical), but, if I absolutely had to, I'd say ""if we assume (...), then (...)"" to provide a technically correct, but practically useless answer, the fundamental goal of all mathematics",
+
+lhrcz8r,https://www.reddit.com/r/dataisbeautiful/comments/1eqei1o/opinion_north_carolina_lags_behind_every/lhrcz8r/,2024-08-12 15:37:55 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1eqei1o/opinion_north_carolina_lags_behind_every/,lhr5yr8,"Sure, but still the wrong statistic. By this logic, North Carolina should work to reduce teacher salaries in the 40 states above it by claiming those teachers are overpaid.
+
+I would argue you should be comparing teacher salary to cost of living.",
+
+lhxd8us,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lhxd8us/,2024-08-13 15:48:32 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lhxbawu,"> all other known criteria
+
+My claim is that there so many *unknown* criteria, that it is impossible to do this balancing correctly. I have seen papers that say ""the authors couldn't think of any other factors why this might be true, so it must be the ones that we found"". That's not only inaccurate, it's self-serving. At the very least, have a hostile party list the hundreds or millions of reasons your conclusions might be inaccurate based on your methodology
+
+> tests are done to see if new results match the expectation from that criterion being significant
+
+Now that might be valid. If you find a correlation by coincidence in an experiment, but then run a second indepedent experiment and get the same correlation, you can be far more confident its a real world phenomena.
+
+However, if you're going to go down this route, I'm going to question whehter most social studies use anything resembling a random sample. Yes, true randomness is unattainable, but I'm guessing most studies aren't even close to random sampling the population on which they want to gather data.
+
+So, we're applying human bias (by deciding on what factors we observe and which ones we ignore), collecting bad data, applying more human bias (by deciding which of the factors we chose to observe are and aren't relevant) and then applying bad logic (past performance implies future performance, extrapolation). That's not good.
+
+> (...)
+
+No, I'd fill in the ... with some crap. Basically, I'd look at some of the data (can't look at it all), make a bunch of assumptions that make things easier, and then send the results to my boss. The more time I had, the more data I'd try to look at, but there's a limit.
+
+> THEY ALL USE STATISTICS. 
+
+Er, no, not everyone works with statistics.",
+
+lhrn4yz,https://www.reddit.com/r/dataisbeautiful/comments/1eqei1o/opinion_north_carolina_lags_behind_every/lhrn4yz/,2024-08-12 16:31:43 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1eqei1o/opinion_north_carolina_lags_behind_every/,lhrmxnj,"I was pointing out your logic was flawed because it leads to an absurdity. However, this post has been deleted, so not going to comment further",
+
+lhwwbga,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/lhwwbga/,2024-08-13 14:18:32 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1en4tky/oc_how_the_us_supreme_courts_ideological_balance/,lhwus4n,"Sure. BTW, I do appreciate your recognizing me as a mathematician (or at least as someone who knows some math) instead of treating me like a completely innumerate idiot (I may be an idiot, but at least I'm numerate!).
+
+I should point out ""I don't believe in statistics"" is an exaggeration: I believe most social statistical studies are deeply flawed. I don't have a problem with medical studies on rats and stuff.
+
+Something to consider: in a population of n people there are B(n) ways to partition them into subgroups, where B() is the Bell number. Mathematically, each of these partitions is equally valid. Some of them will have names in English like race, gender, nationality, etc, but most won't. However, the lack of an English name doesn't make these partitions any less important.
+
+Any statistical sample you have, random or otherwise, that doesn't include the entire population, will have anamolies for many of the partitions. For example, if 5% of the US population is born in Texas, your sample may have only 3% born in Texas. You could, of course, adjust by counting the Texas-born votes with a weight of 5/3rds.
+
+But now imagine you do that with every partition (there are issues here, but let's go with it for the moment). My claim is that you'll find your sample set, random or not, cannot fulfill the criteria of having the same distribution as every partition.
+
+Therefore, if your sample IS randomly chosen, you must use it ""as is"" to prevent bias.
+
+Please go ahead and present your example",
+
+liwc7il,https://www.reddit.com/r/dataisbeautiful/comments/1ew5cfe/deleted_by_user/liwc7il/,2024-08-19 16:43:39 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1ew5cfe/deleted_by_user/,liw75z8,"There's no such thing as ""totally unrelated"" parents unless you reject the single origin theory of humanity.
+
+I'm going to disagree with your 4-6% risk on the basis of statistics, not studies.
+
+There are many factors that determine whether something (such as birth defects) will or will not occur. If we look at a single factor and ignore the others, we introduce a bias and our results are inaccurate. If we look at all the factors like we should, we'll find that, by symmetry, they tell us nothing.
+
+Of course, past performance doesn't imply future performance either.
+
+Therefore, it is generally inaccurate to say there's a x% chance something will happen when we are considering only some of the many factors. If we consider all the factors, we learn nothing.",
+
+liw7okh,https://www.reddit.com/r/dataisbeautiful/comments/1ew5cfe/deleted_by_user/liw7okh/,2024-08-19 16:19:36 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1ew5cfe/deleted_by_user/,liw6yw7,"Source/countersource: https://www.popsci.com/marrying-cousins-genetics/
+
+There's no real way to compute risk of birth defects and a variety of factors are involved. In my opinion, this post may constitute hate speech against those who marry their cousins, a perfectly legal act in much of the United States and world.",
+
+liw4y78,https://www.reddit.com/r/dataisbeautiful/comments/1ew5cfe/deleted_by_user/liw4y78/,2024-08-19 16:05:09 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1ew5cfe/deleted_by_user/,,"Cousin marriages are safe and shouldn't be referred to as ""inbreeding"". Additionally, choosing red for high cousin marriage rates and green for low ones is biased. And, assuming you accept the single origin theory of humanity, we're all related at some level",
+
+lje0gts,https://www.reddit.com/r/dataisbeautiful/comments/1eylhaf/deleted_by_user/lje0gts/,2024-08-22 15:07:44 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1eylhaf/deleted_by_user/,,AccessDeniedAccess DeniedD01D12GQBRAGWXECWxDLuNa6DXbk7iDwvFyL7aND3wzt/LNtH3iqK4OyyA5jL7qyJ/zIERM8UmmAG4jK9whqsCMF4XnYHn484Td7DT/2Rmn4a+gZbrkewaXa3sA=,
+
+lnius49,https://www.reddit.com/r/dataisbeautiful/comments/1finbh1/oc_drove_almost_a_1000_users_for_my_startup_i/lnius49/,2024-09-17 04:18:56 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1finbh1/oc_drove_almost_a_1000_users_for_my_startup_i/,,"By mentioning the name in the top left corner, this seems a little bit like advertising.",
+
+lyl69w3,https://www.reddit.com/r/dataisbeautiful/comments/1gy0ded/oc_average_number_of_prime_factors_for_numbers/lyl69w3/,2024-11-23 15:16:54 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1gy0ded/oc_average_number_of_prime_factors_for_numbers/,,Does this asymptote to anything or increase forever?,
+
+mar8hml,https://www.reddit.com/r/dataisbeautiful/comments/1igsfne/oc_my_sex_frequency_of_2024/mar8hml/,2025-02-03 16:12:33 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1igsfne/oc_my_sex_frequency_of_2024/,mar86eg,"cum-ulative, snicker snicker",
+
+mfn8vgl,https://www.reddit.com/r/dataisbeautiful/comments/1j1xj3o/oc_are_directors_actors_or_actresses_born_in_a/mfn8vgl/,2025-03-02 18:28:13 UTC,,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1j1xj3o/oc_are_directors_actors_or_actresses_born_in_a/,,"It's probably just random chance, and ""likely"" only applies to the past, not the future. I don't think there's anything deep here",
+
+mzjgvh2,https://www.reddit.com/r/dataisbeautiful/comments/1ljf3l8/no_matter_the_age_us_adults_prefer_chilling_in/mzjgvh2/,2025-06-24 16:44:38 UTC,98.48.122.229,dataisbeautiful,0,https://www.reddit.com/r/dataisbeautiful/comments/1ljf3l8/no_matter_the_age_us_adults_prefer_chilling_in/,,"These numbers appear inconsistent: the ""U.S. Adults"" bar has 49% for AC, but the per-age bars are almost all below that number. I believe this visualization and these results are invalid.",

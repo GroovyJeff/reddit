@@ -1,0 +1,8 @@
+
+m0jk0z8,https://www.reddit.com/r/learnSQL/comments/1h7a0we/need_help/m0jk0z8/,2024-12-05 14:32:32 UTC,,learnSQL,0,https://www.reddit.com/r/learnSQL/comments/1h7a0we/need_help/,,"It's the well-known integer division gremlin. Quoting https://en.wikipedia.org/wiki/Division_(mathematics)#Of_integers
+
+> 5 [...] Give the integer quotient as the answer, so `26/11 = 2` This is the floor function applied to case 2 or 3. It is sometimes called integer division, and denoted by ""//"".
+
+> Dividing integers in a computer program requires special care. Some programming languages treat integer division as in case 5 above, so the answer is an integer",
+
+m0joj5r,https://www.reddit.com/r/learnSQL/comments/1h7av4n/need_some_help_sql_joins/m0joj5r/,2024-12-05 14:58:35 UTC,,learnSQL,0,https://www.reddit.com/r/learnSQL/comments/1h7av4n/need_some_help_sql_joins/,,*Temporarily* change the `RIGHT JOIN` to a regular `JOIN` for debugging,

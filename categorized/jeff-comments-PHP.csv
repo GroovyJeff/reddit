@@ -1,0 +1,4 @@
+
+mbiqkx4,https://www.reddit.com/r/PHP/comments/1ijyfqt/seeking_help_for_a_php_data_table_project/mbiqkx4/,2025-02-07 18:26:04 UTC,,PHP,0,https://www.reddit.com/r/PHP/comments/1ijyfqt/seeking_help_for_a_php_data_table_project/,mbioz06,"Ah, OK. I think you'd want to use something like XMLHttpRequest so you can change small parts of the page without reloading the whole thing. There are almost certainly programs that do this already",
+
+mbhxrbu,https://www.reddit.com/r/PHP/comments/1ijyfqt/seeking_help_for_a_php_data_table_project/mbhxrbu/,2025-02-07 16:10:04 UTC,,PHP,0,https://www.reddit.com/r/PHP/comments/1ijyfqt/seeking_help_for_a_php_data_table_project/,,"You probably already know this, but, these days, features like that would be added client-side in JavaScript, not server side in PHP",

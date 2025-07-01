@@ -1,0 +1,385 @@
+
+krigo4e,https://www.reddit.com/r/learnpython/comments/1awnzc9/invalid_syntax_error_in_python/krigo4e/,2024-02-21 21:35:55 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1awnzc9/invalid_syntax_error_in_python/,,Reddit mangled your formatting. Could you try it on https://repl.it or similar?,
+
+kr0bqjz,https://www.reddit.com/r/learnpython/comments/1atvrj7/phytagorean_triad_problem/kr0bqjz/,2024-02-18 16:46:45 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1atvrj7/phytagorean_triad_problem/,kr096tm,"OK, fine, also check the square root is less than 100 or whatever. Good catch, but my point was that you didn't need a third nested loop",
+
+kh2mgqh,https://www.reddit.com/r/learnpython/comments/192iq1c/how_to_use_different_versions_of_python/kh2mgqh/,2024-01-09 16:49:13 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/192iq1c/how_to_use_different_versions_of_python/,,I use venv myself: https://docs.python.org/3/library/venv.html,
+
+kr02iq9,https://www.reddit.com/r/learnpython/comments/1atvrj7/phytagorean_triad_problem/kr02iq9/,2024-02-18 15:50:39 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1atvrj7/phytagorean_triad_problem/,,"You could just check `a*a + b*b` is a perfect square without having to go through every value of `c`. There might be other shortcuts
+
+EDIT: also make sure the value of `c` you compute is less than 100",
+
+krig9e8,https://www.reddit.com/r/learnpython/comments/1au93fx/ask_anything_monday_weekly_thread/krig9e8/,2024-02-21 21:33:46 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1au93fx/ask_anything_monday_weekly_thread/,krhx24e,"```
+Python 3.6.8 (default, Nov 16 2020, 16:55:22) 
+[GCC 4.8.5 20150623 (Red Hat 4.8.5-44)] on linux
+Type ""help"", ""copyright"", ""credits"" or ""license"" for more information.
+>>> foo = []
+>>> foo.append('elt')
+>>> foo
+['elt']
+```",
+
+kh3j2mz,https://www.reddit.com/r/learnpython/comments/192n8io/automating_subtitle_for_videos/kh3j2mz/,2024-01-09 19:47:07 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/192n8io/automating_subtitle_for_videos/,,"Note that you might need a comma between seconds and milliseconds, not a decimal: https://www.lifewire.com/srt-file-4135479
+
+Example: `01:20:45,138 --> 01:20:48,164`",
+
+krlnjle,https://www.reddit.com/r/learnpython/comments/1awnzc9/invalid_syntax_error_in_python/krlnjle/,2024-02-22 12:58:55 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1awnzc9/invalid_syntax_error_in_python/,krk5lw0,"Oh, the error message pretty much gives it away. On line 19:
+
+```
+  spent = float(input(""Enter an amount spent (0 to quit):"")""
+```
+
+Get rid of the extra quotation mark at the end of the line and replace it with a parenthesis.
+
+You have other similar errors, but running the program in repl.it should report them all.
+
+EDIT: https://replit.com/@barrycarter/fork is a version that has no syntax error, though it still may not work",
+
+ku3ofxo,https://www.reddit.com/r/learnpython/comments/1ban4do/code_that_gives_all_possible_combinations/ku3ofxo/,2024-03-09 18:00:37 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ban4do/code_that_gives_all_possible_combinations/,ku3l1n4,Do you mean `2^(n+1)-1`?,
+
+ku565ps,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku565ps/,2024-03-09 23:13:15 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,ku55qu3,"`1030.244u 0.132s 17:10.63 99.9% 0+0k 0+8io 0pf+0w`
+
+is what my machine says, confirming your result (about 17.1 minutes on my machine)",
+
+kvlrk8g,https://www.reddit.com/r/learnpython/comments/1biovo5/having_some_trouble_with_imageopen/kvlrk8g/,2024-03-19 17:09:19 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1biovo5/having_some_trouble_with_imageopen/,,"The images appears to exist and be valid. My only suggestion would be temporarily download it locally and use the local copy so you can continue coding, unless a large part of your coding involves downloading files. Also check the `response`'s errors or anything else it sends to see what went wrong. They might have blacklisted your IP address or something",
+
+ku4nya0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku4nya0/,2024-03-09 21:21:32 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,ku4ndtk,"Wouldn't that require an array with a trillion entries or something. Maybe less if you use shortcuts, but still",
+
+kvlbjgy,https://www.reddit.com/r/learnpython/comments/1bik9il/a_variable_that_is_attached_to_a_method/kvlbjgy/,2024-03-19 15:38:07 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1bik9il/a_variable_that_is_attached_to_a_method/,,"You've made `x` a ""static variable"" in the function f: a variable that remembers its value between calls to f.
+
+However, as others sugeest, there are probably better ways to create static function variables in Python (eg, using an object).",
+
+ku5095n,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku5095n/,2024-03-09 22:35:53 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,ku504z1,"Damn, you're right.",
+
+kvwr694,https://www.reddit.com/r/learnpython/comments/1bk9tem/geospatial_indexing/kvwr694/,2024-03-21 16:31:19 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1bk9tem/geospatial_indexing/,,"You might look into geopandas, though I'd use PostGIS myself (which breaks your rule of remaining database-agnostic)",
+
+ku50k1r,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku50k1r/,2024-03-09 22:37:49 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,ku4x2zt,"https://oeis.org/A002385/b002385.txt suggests 47995 is the answer?
+I think you need to look at 11 digit primes too (since 1 trillion = 10^12 has 13 digits)",
+
+ku4nstw,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku4nstw/,2024-03-09 21:20:37 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,,"This doesn't help much, but any ~~odd~~even-length palindrome will be divisible by 11. You also don't generally need to test numbers that end in 0, 2, 4, 5, 6, or 8, just those ending in 1,3,5,7. However, even with these shortcuts, I'm not sure this is trivial",
+
+ku4n53u,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku4n53u/,2024-03-09 21:16:46 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,ku4izst,Where is your primality testing?,
+
+ku50n1l,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku50n1l/,2024-03-09 22:38:21 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,ku50k6z,I was wrong and edited it,
+
+ku4zy5u,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku4zy5u/,2024-03-09 22:34:04 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,ku4zq1s,~~odd-length palindromes? Like 121 has 3 digits~~,
+
+ku34sc4,https://www.reddit.com/r/learnpython/comments/1bakym9/text_to_speech_code_this_code_generates_a_blank/ku34sc4/,2024-03-09 16:10:29 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1bakym9/text_to_speech_code_this_code_generates_a_blank/,,"It's hard to tell because Reddit mangled your formatting, but are you assigning that long ""here document"" to a variable? It looks like you're asking it to just say the word ""article"" unless I'm missing something",
+
+ku51o0u,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/ku51o0u/,2024-03-09 22:44:53 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1barkpe/deleted_by_user/,ku519p1,"Running it now myself (confirmed ~8s for 1 billion)-- as you guessed, 11 digits takes a lot longer to determine if prime, not to mention there are more 11 digit numbers",
+
+kvbfe2j,https://www.reddit.com/r/learnpython/comments/1bh4gbx/i_want_to_create_a_list_which_has_299_elements/kvbfe2j/,2024-03-17 18:42:28 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1bh4gbx/i_want_to_create_a_list_which_has_299_elements/,kvbcef1,"So the max and min changes are -100 to 100. Naive analysis suggests you only need 201 entries. If you're doing something more complicated, you may need more, and it's even possible you're trying to solve a problem for which there is no clever solution and no technologically feasible solution.
+
+Maybe tell us more and we can help more if you're still stuck",
+
+kz2rkud,https://www.reddit.com/r/learnpython/comments/1c1f6kq/loosing_my_patience_and_hairs_over_this_getting/kz2rkud/,2024-04-11 13:54:18 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1c1f6kq/loosing_my_patience_and_hairs_over_this_getting/,kz2qv6k,"Yeah, I should really read these things before answering :)
+
+If you can replicate this issue on [repl.it](http://repl.it) or something, others might be able to help more",
+
+kz2b591,https://www.reddit.com/r/learnpython/comments/1c19fjw/need_help_scraping_website/kz2b591/,2024-04-11 12:00:53 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1c19fjw/need_help_scraping_website/,,"Page 7 of names has the URL ""https://www.behindthename.com/names/7"", so you'd just download the pages ""https://www.behindthename.com/names/x"" where x went from 1 to 88.
+
+I've now done this and uploaded the zipped files to https://ufile.io/kkud7yig (I haven't tested this file sharing service before, so am not 100% sure it will work)",
+
+kxuosbg,https://www.reddit.com/r/learnpython/comments/1busutd/project_strange_results_after_compressing_image/kxuosbg/,2024-04-03 13:44:44 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1busutd/project_strange_results_after_compressing_image/,,"Instead of overwriting the image in place, have you considered creating a temporary new image?",
+
+kys2xr2,https://www.reddit.com/r/learnpython/comments/1bzulye/can_everyone_learn_how_to_solve_coding_problems/kys2xr2/,2024-04-09 15:16:54 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1bzulye/can_everyone_learn_how_to_solve_coding_problems/,,My first thought would be: there are 5 items and I can drop any one of them. Were you not able to get that far?,
+
+kz85gmu,https://www.reddit.com/r/learnpython/comments/1c24m0o/new_to_python_is_it_normal_for_my_code_to_take/kz85gmu/,2024-04-12 12:49:46 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1c24m0o/new_to_python_is_it_normal_for_my_code_to_take/,,"You appear to be looking for cases where `{a,b,d}`, `{a,c,e}` and `{b,c,f}` are all primitive (because GCD = 1) Pythagorean triples, and I'm not sure that's possible. I wrote https://github.com/GroovyJeff/geowanking/blob/master/20240412/nums.py (assuming, without loss of generality, that a < b < c) to test all cases to 10 million and found none, and suspect you could prove none can exist.",
+
+kz2qj86,https://www.reddit.com/r/learnpython/comments/1c1f6kq/loosing_my_patience_and_hairs_over_this_getting/kz2qj86/,2024-04-11 13:47:53 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1c1f6kq/loosing_my_patience_and_hairs_over_this_getting/,,Try using the full path instead of a local path?,
+
+kxzzb33,https://www.reddit.com/r/learnpython/comments/1bvkgzm/deleted_by_user/kxzzb33/,2024-04-04 11:48:39 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1bvkgzm/deleted_by_user/,,https://pypi.org/project/inotify/ is probably the most efficient way if you're on Linux,
+
+l1mqs0o,https://www.reddit.com/r/learnpython/comments/1cf3abd/deleted_by_user/l1mqs0o/,2024-04-28 12:19:45 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1cf3abd/deleted_by_user/,,Free?,
+
+l0rkemr,https://www.reddit.com/r/learnpython/comments/1cafq2t/help_using_multiprocessing_to_do_calculations_on/l0rkemr/,2024-04-22 16:53:29 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1cafq2t/help_using_multiprocessing_to_do_calculations_on/,,"This doesn't answer your question, but numpy lets you do numerical operations in parallel and that might be all you need",
+
+l240mc4,https://www.reddit.com/r/learnpython/comments/1chlao3/how_do_i_pick_a_random_line_of_a_random_file_from/l240mc4/,2024-05-01 16:16:37 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1chlao3/how_do_i_pick_a_random_line_of_a_random_file_from/,l23tmtz,"Thanks. I should've noted Unix is the only thing I know (like, literally-- I don't even know my kids' names) :)",
+
+l2358ar,https://www.reddit.com/r/learnpython/comments/1chlao3/how_do_i_pick_a_random_line_of_a_random_file_from/l2358ar/,2024-05-01 13:05:06 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1chlao3/how_do_i_pick_a_random_line_of_a_random_file_from/,,"I know this is /r/learnpython, not /r/learnunix (which doesn't exist) but `find . -type f | sort -R | head -1` is one way to get a random file somewhere in the current directory, including subdirectories",
+
+l2zl5sl,https://www.reddit.com/r/learnpython/comments/1cmd4og/learnbyexample_is_an_underrated_resource/l2zl5sl/,2024-05-07 14:56:52 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1cmd4og/learnbyexample_is_an_underrated_resource/,,Are you affiliated with this site? https://www.similarweb.com/website/learnbyexample.org/#overview suggests it's a fairly small/unused site,
+
+l240rzk,https://www.reddit.com/r/learnpython/comments/1chlao3/how_do_i_pick_a_random_line_of_a_random_file_from/l240rzk/,2024-05-01 16:17:31 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1chlao3/how_do_i_pick_a_random_line_of_a_random_file_from/,l23xhmn,"Your idea is actually better (though will probably take longer) if you want a random line from the set of files as opposed to a random line from a random file, which is slightly different",
+
+l401jyv,https://www.reddit.com/r/learnpython/comments/1crrxkz/is_there_a_tldr_command_for_common_python/l401jyv/,2024-05-14 13:44:05 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1crrxkz/is_there_a_tldr_command_for_common_python/,,"I assume `pydoc numpy.arange` doesn't suffice? It's a bit more verbose and it requires using the full name of the package (numpy) and not its alias (np), but it's fairly nice",
+
+l4vemme,https://www.reddit.com/r/learnpython/comments/1cwf8j4/python_comparison_project/l4vemme/,2024-05-20 13:26:03 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1cwf8j4/python_comparison_project/,,I had to google to figure out this post was about technical analysis of stocks/etc,
+
+l4glf83,https://www.reddit.com/r/learnpython/comments/1cu6eci/permisson_error_when_writing_openpyworkbook/l4glf83/,2024-05-17 14:32:35 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1cu6eci/permisson_error_when_writing_openpyworkbook/,,"I didn't actually read your post, but try using the full path instead of a filename: it's possible the two things you are doing run in different directories",
+
+l40ww9x,https://www.reddit.com/r/learnpython/comments/1crv1ok/is_this_correct_and_good_enough/l40ww9x/,2024-05-14 16:45:10 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1crv1ok/is_this_correct_and_good_enough/,,For reference this is OEIS 034838 (https://oeis.org/A034838) and the linked page provides programs in several languages (including Python) to calculate these numbers,
+
+l45k22w,https://www.reddit.com/r/learnpython/comments/1cskp3s/how_do_i_speedup_this_simulation_program/l45k22w/,2024-05-15 13:32:09 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1cskp3s/how_do_i_speedup_this_simulation_program/,,Have you done `python -m cProfile script.py`?,
+
+l4ap2ay,https://www.reddit.com/r/learnpython/comments/1ctb1r6/looping_weird_activity/l4ap2ay/,2024-05-16 12:24:55 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ctb1r6/looping_weird_activity/,l4ao3tp,Agreed. http://sscce.org/,
+
+l40bawk,https://www.reddit.com/r/learnpython/comments/1crt2nv/best_courses_that_allows_you_to_build_a_chatbot/l40bawk/,2024-05-14 14:42:57 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1crt2nv/best_courses_that_allows_you_to_build_a_chatbot/,,"Not sure if this helps, but you can run https://easydiffusion.github.io/ on your own machine locally with no remote AI.",
+
+l5qyofn,https://www.reddit.com/r/learnpython/comments/1d12dbu/if_you_are_learning_java_and_are_switching_to/l5qyofn/,2024-05-26 14:29:23 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1d12dbu/if_you_are_learning_java_and_are_switching_to/,,"You're right, but I don't think this is ""one thing every forgets to teach you"". The concept of pass-by-value versus pass-by-reference is fairly basic: https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value",
+
+l5gtoc2,https://www.reddit.com/r/learnpython/comments/1czk5yu/deleted_by_user/l5gtoc2/,2024-05-24 13:16:31 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1czk5yu/deleted_by_user/,,Are you allowed to run an interpreter to find out? Just do `python3` and see which functions work (without `import math`) and which don't.,
+
+l5gxuad,https://www.reddit.com/r/learnpython/comments/1czkx8s/rename_level_3_folder_based_upon_level_1_and/l5gxuad/,2024-05-24 13:44:16 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1czkx8s/rename_level_3_folder_based_upon_level_1_and/,,"Well, give it a shot in Python and we can try to help out, but I think this sub requires you at least make an effort.
+
+If I were doing it, I'd use a one-line Perl script with some Unix commands and pipes, but if you want to learn Python while doing it, that's cool too",
+
+l6sbzpa,https://www.reddit.com/r/learnpython/comments/1d6hbgw/deleted_by_user/l6sbzpa/,2024-06-02 16:42:12 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1d6hbgw/deleted_by_user/,,"Unless you mean getting a job as a Python developer or something, it's very hard for anyone to monetize an app on their own. Plenty of people have a great idea for an app and even the skills to code the app, but the app just never takes off.",
+
+l6mnrsx,https://www.reddit.com/r/learnpython/comments/1d5nyvt/deleted_by_user/l6mnrsx/,2024-06-01 14:26:32 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1d5nyvt/deleted_by_user/,,"Procedural languages aren't really like grocery stores. They're more like ""dumb robots"" who will do exactly what you tell them, the key word being 'exactly': they generally make no effort to decide whether what you're doing makes sense or not.
+
+I'm into cartography as well -- maybe say more about what you're interested in here, and also feel free to ping me",
+
+l6sd1o1,https://www.reddit.com/r/learnpython/comments/1d6hbgw/deleted_by_user/l6sd1o1/,2024-06-02 16:48:47 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1d6hbgw/deleted_by_user/,l6scnp8,"Sure, but what percentage are successful? I mean you might get lucky or not believe in statistics, but it's important to realize that, unless you've got something up your sleeve you're not telling us, you are ""unlikely"" to succeed",
+
+l72pmhj,https://www.reddit.com/r/learnpython/comments/1d7zani/deleted_by_user/l72pmhj/,2024-06-04 15:17:23 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1d7zani/deleted_by_user/,,"If you give us some sample text and post it on repl.it, someone might be able to help more. Not me, of course. But someone",
+
+l727zv9,https://www.reddit.com/r/learnpython/comments/1d7x0el/best_method_for_plotting_large_data_sets_across/l727zv9/,2024-06-04 13:31:11 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1d7x0el/best_method_for_plotting_large_data_sets_across/,,"I'd go with something like leaflet and show ranges of number when someone is ""zoomed out"", since they probably can't see all 2.3 million values at the same time anyway.",
+
+l71xr3e,https://www.reddit.com/r/learnpython/comments/1d7v1hw/overflow_error_persists/l71xr3e/,2024-06-04 12:17:50 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1d7v1hw/overflow_error_persists/,,Random thought: do you mean `sqrt(u**2 + v**2)`?,
+
+l7ydy6g,https://www.reddit.com/r/learnpython/comments/1dcighn/code_optimization_large_numbers_pandas_scipy/l7ydy6g/,2024-06-10 12:45:26 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dcighn/code_optimization_large_numbers_pandas_scipy/,l7yctxk,"Consider mpmath which will compute the gamma function to arbitrary precision: https://mpmath.org/doc/current/functions/gamma.html
+
+Sample code:
+
+```
+>>> import mpmath
+>>> mpmath.mp.dps = 50
+>>> mpmath.gamma(42.694209944)
+mpf('446898503418488811522393343375926936169156367006935.0')
+
+```",
+
+l7y7lg1,https://www.reddit.com/r/learnpython/comments/1dcighn/code_optimization_large_numbers_pandas_scipy/l7y7lg1/,2024-06-10 11:54:45 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dcighn/code_optimization_large_numbers_pandas_scipy/,,"Have you tried using numpy's parallelization (evaluate the function for multiple values at the same time)? How accurate does the result have to be? The log of this function is nearly linear and you could approximate it with a polynomial, but that would be less accurate (especially since you're estimating the log and then exponentiating). You could also consider an interpolation function. Also, what goal are you trying to achieve by evaluating this function?",
+
+l7ymzs9,https://www.reddit.com/r/learnpython/comments/1dby4wd/how_do_i_use_scipyoptimizeleast_squares_to_find_a/l7ymzs9/,2024-06-10 13:48:09 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dby4wd/how_do_i_use_scipyoptimizeleast_squares_to_find_a/,,"I'm pretty sure this is nonlinear fitting, which is more difficult. If you have some sample data and can put this up on repl.it or even github, people who are not me may be able to help more",
+
+l7yfmhw,https://www.reddit.com/r/learnpython/comments/1dck9i0/dynamic_variable_naming/l7yfmhw/,2024-06-10 12:57:50 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dck9i0/dynamic_variable_naming/,l7yfbxa,"I think you can do it in some languages using eval, but it's almost never necessary.",
+
+l854gzq,https://www.reddit.com/r/learnpython/comments/1ddia6b/how_can_i_improve_this_program_in_python_to_find/l854gzq/,2024-06-11 17:06:36 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ddia6b/how_can_i_improve_this_program_in_python_to_find/,,"All even perfect numbers are related to Mersenne primes https://en.wikipedia.org/wiki/Perfect_number#Even_perfect_numbers
+
+You could also just use an existing list (https://oeis.org/A000396), but iterating through the natural numbers one at a time is going to be WAY too slow, as you've noticed",
+
+l8ex454,https://www.reddit.com/r/learnpython/comments/1dewhwu/command_line_utility_for_help_and_documentation/l8ex454/,2024-06-13 12:08:40 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dewhwu/command_line_utility_for_help_and_documentation/,,How is this different from pydoc?,
+
+l9lgqaa,https://www.reddit.com/r/learnpython/comments/1dl0d8d/in_a_pickle_how_to_extract_data_from_a_pbf_file/l9lgqaa/,2024-06-21 10:28:46 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dl0d8d/in_a_pickle_how_to_extract_data_from_a_pbf_file/,,"`ogrinfo -al filename.pbf` will output tons of info, perhaps more than you need. You can limit the info you get by adding `-geom=NONE`",
+
+la7bktb,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/la7bktb/,2024-06-25 13:28:43 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/,la7a6dk,"Consider `lst[1]`, `lst[2]`, etc",
+
+laoe77n,https://www.reddit.com/r/learnpython/comments/1dqjjxj/how_i_get_an_entry_that_stays_in_one_format/laoe77n/,2024-06-28 13:30:41 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dqjjxj/how_i_get_an_entry_that_stays_in_one_format/,,Look into regular expressions and string matching,
+
+layx7gk,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/layx7gk/,2024-06-30 12:36:44 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/,laywivy,"OK, what are you entering to test it. Also, I'm saying that adding print statements often makes it easier to debug without having to use a debugging framework",
+
+lai8h1n,https://www.reddit.com/r/learnpython/comments/1dpor62/khan_academy_input_function_not_working/lai8h1n/,2024-06-27 11:25:08 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dpor62/khan_academy_input_function_not_working/,,"There should be a place where you can type in the standard input you want, similar to the way repl.it does it. I know repl.it isn't interactive, and I'm guessing Khan isn't either",
+
+layybf6,https://www.reddit.com/r/learnpython/comments/1ds0954/python_question/layybf6/,2024-06-30 12:45:56 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ds0954/python_question/,,"With nested functions, we work from the inside out:
+
+  - range(0,10) is the numbers from 0 to 9. Note that this is 10 numbers total
+
+  - filter(f, ...) selects the numbers for which f is ""true"". In this case ""true"" means ""non-zero"". The only numbers for which x%4 is 0 in this list are [0, 4, 8]. Those are eliminated from the list.
+
+  - len(list(...)) gives us the length of the list after filtering: 10 originally minus the 3 removed by the filter, yielding 7 total
+
+Off the top of my head, I thought the answer would be 8, until I remembered range() starts at 0 and that 0 is divisible by 4",
+
+laz1oxq,https://www.reddit.com/r/learnpython/comments/1ds0u59/completing_a_series_is_there_a_better_solution_to/laz1oxq/,2024-06-30 13:12:22 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ds0u59/completing_a_series_is_there_a_better_solution_to/,,"Not really without cheating. You'll notice the multiplicands are ultimately all numbers that, when taken mod 4, yield a 3. Possibly faster ways to compute this are at OEIS 008545 (https://oeis.org/A008545). These are known as the ""quadruple factorial"" numbers",
+
+lanvn5a,https://www.reddit.com/r/learnpython/comments/1dqgrwm/how_to_calculate_unknown_position_in_2d_grid/lanvn5a/,2024-06-28 11:09:17 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dqgrwm/how_to_calculate_unknown_position_in_2d_grid/,,"Step 1 would be to draw a diagram, similar to https://www.geogebra.org/calculator/e9jkb4dj",
+
+layw90h,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/layw90h/,2024-06-30 12:28:33 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/,layw4jg,General debugging tip: print the values of dollars and percent before multiplying them,
+
+lactc4i,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/lactc4i/,2024-06-26 12:47:03 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/,lac5w9p,"Probably irrelevant note: I use symbolic links a lot, so when I do `cd ..` from `/ABC/DEF/GHI` I don't always get to `/ABC/DEF`. You might want to use the Python equivalent of Unix's `realpath` to make sure your `cd ..` work properly, especailly if you use symbolic links a lot",
+
+lai8rl4,https://www.reddit.com/r/learnpython/comments/1dponh8/whenever_i_use_the_docx_module_in_python_it_gives/lai8rl4/,2024-06-27 11:27:44 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dponh8/whenever_i_use_the_docx_module_in_python_it_gives/,,`pip install exceptions`?,
+
+lattxh0,https://www.reddit.com/r/learnpython/comments/1dqgrwm/how_to_calculate_unknown_position_in_2d_grid/lattxh0/,2024-06-29 13:16:06 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dqgrwm/how_to_calculate_unknown_position_in_2d_grid/,latts8g,"Oh, I wasn't saying use that to answer: I was saying draw a diagram something like that and then work out values.",
+
+laeq5e3,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/laeq5e3/,2024-06-26 19:21:37 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/,lacziq1,"Ignore my comment-- it would never appear on a test, it's just something weird I noticed because of the way I do things",
+
+ld4jyfz,https://www.reddit.com/r/learnpython/comments/1e302nm/i_have_this_issue_its_complicated_please_help_in/ld4jyfz/,2024-07-14 11:43:07 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1e302nm/i_have_this_issue_its_complicated_please_help_in/,ld4jv6z,"See, that's what I mean :)
+
+I don't know if I can help you until I see the problem. Probably not, because I don't know to program, but, if you post the problem here, I may have some thoughts",
+
+lb2p8o6,https://www.reddit.com/r/learnpython/comments/1dsi7xw/how_to_create_a_set_of_random_values_that_follow/lb2p8o6/,2024-07-01 03:07:34 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dsi7xw/how_to_create_a_set_of_random_values_that_follow/,,"Try list comprehension maybe?
+
+```
+import numpy
+[1/(1+np.exp(-x)) for x in np.arange(-6, 6, 0.1)]
+```",
+
+ld4gp4c,https://www.reddit.com/r/learnpython/comments/1e2zo7a/why_normal/ld4gp4c/,2024-07-14 11:11:13 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1e2zo7a/why_normal/,,"```
+>>> 2.5000000000000001 
+2.5
+```
+
+Python doesn't recognize 2.5000000000000001 as a floating point number because floating point numbers don't have that degree of precision",
+
+lb3t9ov,https://www.reddit.com/r/learnpython/comments/1dsi7xw/how_to_create_a_set_of_random_values_that_follow/lb3t9ov/,2024-07-01 10:05:24 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dsi7xw/how_to_create_a_set_of_random_values_that_follow/,lb37c8y,Give it a shot yourself first,
+
+lc1byah,https://www.reddit.com/r/learnpython/comments/1dxfucj/is_there_a_way_to_host_python_projects_for_really/lc1byah/,2024-07-07 13:23:52 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dxfucj/is_there_a_way_to_host_python_projects_for_really/,,I believe Amazon and Google have free tiers but they might be for a limited time only,
+
+ld4jokb,https://www.reddit.com/r/learnpython/comments/1e302nm/i_have_this_issue_its_complicated_please_help_in/ld4jokb/,2024-07-14 11:40:31 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1e302nm/i_have_this_issue_its_complicated_please_help_in/,,"You might be better off posting your problem here, so people can know if there's any chance they can help",
+
+lc1crkd,https://www.reddit.com/r/learnpython/comments/1dxfucj/is_there_a_way_to_host_python_projects_for_really/lc1crkd/,2024-07-07 13:29:57 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dxfucj/is_there_a_way_to_host_python_projects_for_really/,lc1cbwz,"OK, you may want to specify that in your post. You can use a low value/virtual card if you're worried about overspending",
+
+ld4k59v,https://www.reddit.com/r/learnpython/comments/1e302nm/i_have_this_issue_its_complicated_please_help_in/ld4k59v/,2024-07-14 11:44:55 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1e302nm/i_have_this_issue_its_complicated_please_help_in/,ld4k2je,You can post it on imgur or something and link it here. I think that's allowed.,
+
+lb53yky,https://www.reddit.com/r/learnpython/comments/1dsw21l/side_effects_to_creating_functions/lb53yky/,2024-07-01 15:45:26 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1dsw21l/side_effects_to_creating_functions/,,"Assuming this isn't a troll, that's how functions work. When you call `power(5)`, for example, the n in `power(n)` gets replaced by 5, so you have `n=5` for that function. You can replace `(n)` with `(x)` if you want, but it's better to understand function parameters.",
+
+ldlcrfu,https://www.reddit.com/r/learnpython/comments/1e5fefk/help_a_rookie/ldlcrfu/,2024-07-17 11:11:48 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1e5fefk/help_a_rookie/,,"> i cant rewatch all of that once again due to getting bored
+
+Maybe programming isn't for you?",
+
+lf1terq,https://www.reddit.com/r/learnpython/comments/1ecqwsl/best_way_to_number_a_string_in_alphabetical_order/lf1terq/,2024-07-26 15:50:54 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ecqwsl/best_way_to_number_a_string_in_alphabetical_order/,,"If you're allowed to use `numpy`, `numpy.argsort` does this if you use it twice:
+
+```
+import numpy
+numpy.argsort(numpy.argsort([i for i in ""bear""]))
+```
+
+Only slightly tested, use with caution.
+
+According to ChatGPT, `sorted(range(len(array)), key=lambda k: array[k])` twice might do the trick as well, but I didn't test it.",
+
+lf1qobf,https://www.reddit.com/r/learnpython/comments/1ecqvw9/adding_python_to_one_drive/lf1qobf/,2024-07-26 15:36:12 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ecqvw9/adding_python_to_one_drive/,lf1pyud,"Agreed. I'm pretty sure OneDrive is just for file storage. They don't actually let you run anything on their servers.
+
+OP could get away with client-side JavaScript (or compiled client-side Python which I'm pretty sure doesn't really work well), but that's about it",
+
+lfzv9qb,https://www.reddit.com/r/learnpython/comments/1ehk4b8/i_have_problem_in_inputoutput/lfzv9qb/,2024-08-01 16:16:47 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ehk4b8/i_have_problem_in_inputoutput/,,"Post the code on repl.it or pythonfiddle.com with the file (or a sample file if the original is private). Also, try using the full path to the file.",
+
+lfzxv6h,https://www.reddit.com/r/learnpython/comments/1ehku66/good_morning_having_problem_to_create_a_proper/lfzxv6h/,2024-08-01 16:30:25 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ehku66/good_morning_having_problem_to_create_a_proper/,,"You might want to put this code up on repl.it or pythonfiddle.com so we can help more, but it's unlikely anyone will straight out write it for you unless they're being evil and want to punish you for cheating by writing it wrong",
+
+lg4ulqt,https://www.reddit.com/r/learnpython/comments/1ei9f8o/cant_write_list_to_txt_file/lg4ulqt/,2024-08-02 13:05:42 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ei9f8o/cant_write_list_to_txt_file/,,Try posting the code on repl.it or pythonfiddle.com with a sample file so we can actually run it,
+
+lg579tc,https://www.reddit.com/r/learnpython/comments/1eiatse/equation_derivation/lg579tc/,2024-08-02 14:20:54 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1eiatse/equation_derivation/,lg5713e,"Sure. If it's a public formula, post it somewhere and I could try running Julia on it. That probably won't work either, but I have large number of other useless suggestions",
+
+lg56qgw,https://www.reddit.com/r/learnpython/comments/1eiatse/equation_derivation/lg56qgw/,2024-08-02 14:17:52 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1eiatse/equation_derivation/,lg56d93,That could work. Mathematica (free on cloud.wolfram.com) has a FindFormula function (https://reference.wolfram.com/language/ref/FindFormula.html) but it doesn't really work well,
+
+lg553md,https://www.reddit.com/r/learnpython/comments/1eiatse/equation_derivation/lg553md/,2024-08-02 14:08:35 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1eiatse/equation_derivation/,,Have you tried Fourier analysis?,
+
+lg4xjfa,https://www.reddit.com/r/learnpython/comments/1ei9itk/whats_wrong_with_the_max_module_of_python/lg4xjfa/,2024-08-02 13:24:04 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ei9itk/whats_wrong_with_the_max_module_of_python/,lg4wia1,"""Hexadecimal value"" is an odd turn of phrase, but I'd say alphabetically. Remember ""1"" comes before ""9"" in the alphabet, so ""10"" comes before ""9"". Unix programs like `sort` deal with this via options (`-n` is numeric sort)
+
+To fix, just remove the quotation marks so Python treats your numbers as numbers",
+
+lgfvzr7,https://www.reddit.com/r/learnpython/comments/1ejtij2/help_with_code_required/lgfvzr7/,2024-08-04 12:07:49 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ejtij2/help_with_code_required/,,"Without actually running your code, I suspect it's confusing characters with strings.",
+
+lhff1he,https://www.reddit.com/r/learnpython/comments/1eorr2s/python_is_easy_for_them_not_for_me/lhff1he/,2024-08-10 12:35:22 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1eorr2s/python_is_easy_for_them_not_for_me/,,"It's far from the easiest language to learn and I personally hate it. However, it is also popular and has many useful libraries, so there is value to learning it
+
+If you really hate it and don't see a career in it, consider learning a different language.",
+
+lhfgju3,https://www.reddit.com/r/learnpython/comments/1eorr2s/python_is_easy_for_them_not_for_me/lhfgju3/,2024-08-10 12:47:03 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1eorr2s/python_is_easy_for_them_not_for_me/,lhffjbk,"Here's a helpful thought: once a programming language becomes popular and people start writing code in it, there will ""always"" be jobs in that language. There are even jobs in COBOL and FORTRAN which are super-old, and BASIC and Pascal which were designed as learning tools, not actual languages. So, if you learn Python, there will ""always"" be jobs out there for ""you""
+
+Here are some unhelpful thoughts:
+
+  - AI will take over and all (most) programmers will become useless
+
+  - Lots of people are studying Python, so the supply of Python programmers might vastly exceed the demand
+
+  - You said Python was your first programming language, so it's possible that you find programming itself hard, not just the Python-specific quirks of programming. In that case, you're stuck regardless of which (procedural) language you use",
+
+lh3vwcg,https://www.reddit.com/r/learnpython/comments/1en6dsz/need_help/lh3vwcg/,2024-08-08 13:53:04 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1en6dsz/need_help/,,Please tell us here even if only so we can decide if we can help via DM,
+
+li8pzac,https://www.reddit.com/r/learnpython/comments/1esvzdd/editing_remote_files/li8pzac/,2024-08-15 14:08:09 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1esvzdd/editing_remote_files/,,"If you have ssh access, you can create a tunnel. If not, consider using ncftpget and ncftpput (part of ncftp) as a command-line ""cheat"" to do this.",
+
+liea4ms,https://www.reddit.com/r/learnpython/comments/1etmgjz/python_project_35_hours/liea4ms/,2024-08-16 12:33:59 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1etmgjz/python_project_35_hours/,,"Do this project for me: write a program that finds the shortest marine route between two points in the world (or on a given raster). It's like finding the shortest path through a maze but with the slightly added difficulty that the ""cost"" to move from square to square isn't the same (geodesic distance)",
+
+ljf1csw,https://www.reddit.com/r/learnpython/comments/1eyq2fv/where_does_the_time_go_when_programming/ljf1csw/,2024-08-22 18:16:34 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1eyq2fv/where_does_the_time_go_when_programming/,,"Before I started using the Pomodoro method, the same thing when I was coding alone at home. Literally hours would pass while I was in ""the zone"".",
+
+lifzj41,https://www.reddit.com/r/learnpython/comments/1etmgjz/python_project_35_hours/lifzj41/,2024-08-16 18:11:25 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1etmgjz/python_project_35_hours/,lifvns8,"Wow, I was sort of joking, but OK. You can create a directed graph using something like networkx, and treat the world as a grid of points. The distance between two adjacent points would be the great circle distance. Of course, land points (ones you can't access) wouldn't be included. Networkx would then find the shortest path for the weighted graph.
+
+The project was inspired by https://new.reddit.com/r/NoStupidQuestions/comments/1ehtvbn/ignoring_the_fact_its_physically_impossible_how/ where it turns out the ""obvious"" shortest path is actually nowhere near the actual shortest path
+
+Of course, you can extend this to problems like ""what's the shortest land path between X and Y"" or even ""what path between X and Y touches the least water"".
+
+If you really want to do this, consider grabbing data from naturalearthdata.com and using tools like gdaltools (written in Python) to find what parts of the Earth are water and what parts are land.",
+
+lig0bys,https://www.reddit.com/r/learnpython/comments/1etmgjz/python_project_35_hours/lig0bys/,2024-08-16 18:15:43 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1etmgjz/python_project_35_hours/,lifzx2u,"Great circle distance when moving from water to water. No nodes on land. Of course, some paths may be impossible just as you can have impossible mazes. The only thing that makes this different from most maze pathfinders is that the distance is based on great circle distance, not standard linear or Manhattan distance",
+
+ljf16g0,https://www.reddit.com/r/learnpython/comments/1eyq2fv/where_does_the_time_go_when_programming/ljf16g0/,2024-08-22 18:15:40 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1eyq2fv/where_does_the_time_go_when_programming/,ljeyv7p,Add Rankine and Kelvin please,
+
+lls7x32,https://www.reddit.com/r/learnpython/comments/1fad9i0/free_python_football_statistic_api/lls7x32/,2024-09-06 12:16:50 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1fad9i0/free_python_football_statistic_api/,,https://sportsdatabase.com/ may or may not be helpful,
+
+lln3n9a,https://www.reddit.com/r/learnpython/comments/1f9ou42/filtering_out_coordinates_outside_of_a_boundary/lln3n9a/,2024-09-05 15:22:52 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1f9ou42/filtering_out_coordinates_outside_of_a_boundary/,,"Unrelated to Python, but consider using a raster map of Oklahoma as your mask instead of a rectangle and add the comment ""Oklahoma is not OK (in this program)""
+
+EDIT: I realize you said filter out points OUTSIDE Oklahoma, so my joke doesn't make sense, but the advice still might",
+
+ln8nj1v,https://www.reddit.com/r/learnpython/comments/1fhaxul/can_you_give_an_exact_definition_of_syntactic/ln8nj1v/,2024-09-15 13:04:48 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1fhaxul/can_you_give_an_exact_definition_of_syntactic/,,"`a=(b>0?4:7)` is a very compact (arguably minimalist) of setting the value of `a`, but a little hard for people to read
+
+`IF B IS GREATER THAN 0 THEN SET A TO 4 ELSE SET A TO 7` is a much longer way to say the same thing (I'm mimicking COBOL but this code may not be 100% valid), but presumably a lot easier to read for humans. That ""easier to read"" is the syntactic sugar (makes code prettier for us humans).
+
+A milder example is some languages use `begin` and `end` (syntactic sugar) to offset code blocks, whereas others use `{` and `}`.",
+
+llyec05,https://www.reddit.com/r/learnpython/comments/1fb6xua/feasibility_question_is_it_possible_to_build_a/llyec05/,2024-09-07 13:55:39 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1fb6xua/feasibility_question_is_it_possible_to_build_a/,,Absolutely. You can read files in Python and then use the data in those files to create options,
+
+loua1h2,https://www.reddit.com/r/learnpython/comments/1fp1sfv/insert_data_into_sql_server/loua1h2/,2024-09-25 11:51:12 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1fp1sfv/insert_data_into_sql_server/,,Is the instance listening on a TCP/IP port?,
+
+lp0wzzn,https://www.reddit.com/r/learnpython/comments/1fpxegd/is_there_a_sha256_hash_generator_that_can_output/lp0wzzn/,2024-09-26 14:30:24 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1fpxegd/is_there_a_sha256_hash_generator_that_can_output/,,Is it possible that the first few characters are a hash of some sort?,
+
+lp12jii,https://www.reddit.com/r/learnpython/comments/1fpxegd/is_there_a_sha256_hash_generator_that_can_output/lp12jii/,2024-09-26 14:59:57 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1fpxegd/is_there_a_sha256_hash_generator_that_can_output/,lp123kn,It's a mistake on my part but I think OP gets the point,
+
+lp0xegt,https://www.reddit.com/r/learnpython/comments/1fpxegd/is_there_a_sha256_hash_generator_that_can_output/lp0xegt/,2024-09-26 14:32:35 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1fpxegd/is_there_a_sha256_hash_generator_that_can_output/,,"Answer by AI, but vetted by me:
+
+The string $5$.8eHlM5ABCDEFGHIJKLMNOP.ABCDEFGHIJKLMNOP appears to be a hashed password using the SHA-512 crypt algorithm. Here’s a breakdown of its components:
+
+    $5$: Indicates the use of the SHA-512 hashing algorithm.
+    .8e: Part of the salt used in the hashing process.
+    HlM5ABCDEFGHIJKLMNOP: The actual salt value.
+    ABCDEFGHIJKLMNOP: The hashed password.
+
+This format is commonly used in Unix-like systems for storing hashed passwords in the /etc/shadow file. The salt helps to protect against rainbow table attacks by ensuring that identical passwords hash to different values.
+
+Edit: I'm assuming you altered the string length since ""ABCDEFGHIJKLMNOP"" is not long enough to be a SHA-256 hashed string",
+
+lp102xm,https://www.reddit.com/r/learnpython/comments/1fpxegd/is_there_a_sha256_hash_generator_that_can_output/lp102xm/,2024-09-26 14:47:00 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1fpxegd/is_there_a_sha256_hash_generator_that_can_output/,lp0yyi6,"The `crypt` module does this. Code written by AI, tweaked, and tested:
+
+```
+import crypt
+
+# Password to be hashed
+password = ""your_password""
+
+# THIS IS WRONG: Salt (must start with $5$ for SHA-512)
+
+salt = ""$6$.8eHlM5ABCDEFGHIJKLMNOP""
+
+# Create hashed password
+hashed_password = crypt.crypt(password, salt)
+
+print(hashed_password)
+```
+
+The result is `$6$.8eHlM5ABCDEFGHI$ok/KMRhHBRPPf.uJ45Kz7RW69oKJjM5LLX0gqtZQEAz6uIA2BfgcizzEfHEZdDo8eDRyQmIOKi2aZEQ4KbV4T0`",
+
+ltctvqp,https://www.reddit.com/r/learnpython/comments/1gacul8/generating_random_variables_that_follow_a_uniform/ltctvqp/,2024-10-23 15:32:34 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1gacul8/generating_random_variables_that_follow_a_uniform/,ltctemg,"If you're using a finite amount of precision (eg, Float32, Float64, or a specific number of digits), you can reduce this to a discrete problem or use 0+MIN_FLOAT as your starting point. This is ugly though. Have you run any tests to see the standard random number generator can actually return the left endpoint?",
+
+ltcqbz4,https://www.reddit.com/r/learnpython/comments/1gacul8/generating_random_variables_that_follow_a_uniform/ltcqbz4/,2024-10-23 15:14:13 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1gacul8/generating_random_variables_that_follow_a_uniform/,,"Mathematically, the chance of getting `a` or `b` in the interval `(a,b)` (for `b > a`) is 0, so it's really the same thing. Unless you're talking about a discrete distribution or some special case",
+
+ltcumi8,https://www.reddit.com/r/learnpython/comments/1gacul8/generating_random_variables_that_follow_a_uniform/ltcumi8/,2024-10-23 15:36:22 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1gacul8/generating_random_variables_that_follow_a_uniform/,,"Quoting https://docs.python.org/3/library/random.html
+
+> random.uniform(a, b): Return a random floating-point number N such that a <= N <= b for a <= b and b <= N <= a for b < a.
+
+which would be `[a,b]`. The next bit explains why it's really hard to distinguish between `(a,b)` and `[a,b]` in cases like this (ie, when you're using a computer with finite precision instead of a mathematical abstraction):
+
+> The end-point value b may or may not be included in the range depending on floating-point rounding in the expression a + (b-a) * random().",
+
+m2hvoft,https://www.reddit.com/r/learnpython/comments/1hgbiba/does_mark_lutz_love_spam/m2hvoft/,2024-12-17 14:16:13 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1hgbiba/does_mark_lutz_love_spam/,,"Python the language is named after Monty Python, the comedy group and the word ""spam"" is repeated many times in one of their sketches. It's where we get the email meaning of the word ""spam"". Python programmers are encouraged to use Monty Python references.",
+
+m50vzry,https://www.reddit.com/r/learnpython/comments/1hrwudp/if_statements_not_working/m50vzry/,2025-01-02 15:59:41 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1hrwudp/if_statements_not_working/,,Hit return one more time with no indentation to finish the `if` statement,
+
+m69mn33,https://www.reddit.com/r/learnpython/comments/1hxizqe/i_could_use_some_assistance_with_a_new_scripting/m69mn33/,2025-01-09 18:38:53 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1hxizqe/i_could_use_some_assistance_with_a_new_scripting/,,"You might want to look into ""Voronoi diagrams"". If the region you're studying is small (which it appears to be), you can use Mercator coordinates and pretend distances are linear.
+
+If you're studying a large region and can't assume distance are linear, consider using a KDTree or something",
+
+m6okjsz,https://www.reddit.com/r/learnpython/comments/1hzbxtn/i_want_someone_to_hire_me/m6okjsz/,2025-01-12 02:33:46 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1hzbxtn/i_want_someone_to_hire_me/,,Isn't Dubai the capital of the richest country in the world?,
+
+m9478qt,https://www.reddit.com/r/learnpython/comments/1i9r3gb/deleted_by_user/m9478qt/,2025-01-25 16:58:07 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1i9r3gb/deleted_by_user/,,What about 121?,
+
+mbip3g2,https://www.reddit.com/r/learnpython/comments/1ik1gss/whats_the_bestcleanest_way_to_do_process_data/mbip3g2/,2025-02-07 18:19:02 UTC,,learnpython,0,https://www.reddit.com/r/learnpython/comments/1ik1gss/whats_the_bestcleanest_way_to_do_process_data/,,"The pedant in me must point out that 30 times a second is closer to once every 0.03 seconds, not once every 0.3 seconds",
+
+mqw5edk,https://www.reddit.com/r/learnpython/comments/1kg66i4/this_short_python_video_helped_me_understand/mqw5edk/,2025-05-06 14:45:37 UTC,98.48.122.229,learnpython,0,https://www.reddit.com/r/learnpython/comments/1kg66i4/this_short_python_video_helped_me_understand/,,Are you affiliated with this video?,
+
+myztz5d,https://www.reddit.com/r/learnpython/comments/1lgyanb/please_suggest_a_faster_method_for_this_question/myztz5d/,2025-06-21 14:57:08 UTC,98.48.122.229,learnpython,0,https://www.reddit.com/r/learnpython/comments/1lgyanb/please_suggest_a_faster_method_for_this_question/,,"Unless the array always has exactly 3 elements, I'd start by `map`ping `lower` to the array, then sorting the array and then looking for unique elements. You could also consider using a dictionary of the lowercased array whose keys will then be the unique elements",
+
+myzx40x,https://www.reddit.com/r/learnpython/comments/1lgyanb/please_suggest_a_faster_method_for_this_question/myzx40x/,2025-06-21 15:14:03 UTC,98.48.122.229,learnpython,0,https://www.reddit.com/r/learnpython/comments/1lgyanb/please_suggest_a_faster_method_for_this_question/,myzvuse,"Oh, if you create a dictionary that counts how many times each element appears, they keys of that dictionary will give you the unique elements.
+
+You can sort things that are not numbers.",

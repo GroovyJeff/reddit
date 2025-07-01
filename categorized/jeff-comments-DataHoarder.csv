@@ -1,0 +1,45 @@
+
+m10v17g,https://www.reddit.com/r/DataHoarder/comments/1h9gulf/what_should_i_do_with_15_tb_of_free_storage/m10v17g/,2024-12-08 12:51:53 UTC,,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1h9gulf/what_should_i_do_with_15_tb_of_free_storage/,,"How much bandwidth do you have? Unless you plan to create the content locally (which is definitely an option), depending on your bandwidth limit, it could take over a year to download 15TB from the Internet.",
+
+m1d36ak,https://www.reddit.com/r/DataHoarder/comments/1hb2xf4/is_there_a_way_to_download_videos_from_any_site/m1d36ak/,2024-12-10 14:35:02 UTC,,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1hb2xf4/is_there_a_way_to_download_videos_from_any_site/,,"You could always fire up something like obs, but that's really a last resort",
+
+m4knnah,https://www.reddit.com/r/DataHoarder/comments/1hpvl2e/source_of_maps_from_middle_ages/m4knnah/,2024-12-30 19:52:41 UTC,,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1hpvl2e/source_of_maps_from_middle_ages/,,Are you familiar with https://www.openhistoricalmap.org/,
+
+m50t388,https://www.reddit.com/r/DataHoarder/comments/1hrw7b3/backblaze_is_what_i_need_but_upload_speed_is_low/m50t388/,2025-01-02 15:44:09 UTC,,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1hrw7b3/backblaze_is_what_i_need_but_upload_speed_is_low/,,I just idrive and they will mail you hard drives that you can fill and return,
+
+m6fb4ja,https://www.reddit.com/r/DataHoarder/comments/1hy84zd/do_you_actually_cloud_backup_it_seems_way_too/m6fb4ja/,2025-01-10 16:32:27 UTC,,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1hy84zd/do_you_actually_cloud_backup_it_seems_way_too/,,"Not an endorsement, but idrive.com has pretty good prices for 10TB storage",
+
+mbaa6fj,https://www.reddit.com/r/DataHoarder/comments/1ij1ray/isp_usage_control/mbaa6fj/,2025-02-06 13:04:22 UTC,,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1ij1ray/isp_usage_control/,,"Comcast does this openly and will tell you how much you use every month (and charge you extra if you go over a certain amount), so I'm sure they CAN do this, and they probably do to control costs",
+
+mbj2crc,https://www.reddit.com/r/DataHoarder/comments/1ik351l/data_hoarding_end_goal/mbj2crc/,2025-02-07 19:21:52 UTC,,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1ik351l/data_hoarding_end_goal/,,"I originally hoarded data so I could use it locally without having to wait for network delays to get it from the cloud. This worked for a while (I have about 50TB of storage), but then the big data got too big and it would take too much time and bandwidth and even ultimately disk space to continue. However, the set I have is pretty cool and I can use it with the caveat ""based on data from X at time Y, ...""",
+
+mbj9auz,https://www.reddit.com/r/DataHoarder/comments/1ik351l/data_hoarding_end_goal/mbj9auz/,2025-02-07 19:55:10 UTC,,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1ik351l/data_hoarding_end_goal/,mbj2t4f,"
+I'm proud to share:
+
+  - GAIA data for about 3 billion stars, about 752G
+
+  - elevation data at 1/9th second resolution for parts of the USA (example: https://www.sciencebase.gov/catalog/item/5d0aeaf1e4b0e3d311602697), also elevation data from SRTM1 and other sources, about 867GB total
+
+  - about 529GB of networking data from RIPE (registrar), including daily reverse DNS zones, but I no longer remember what I wanted it for
+
+  - 30 second song samples from spotify, about 511GB
+
+  - Genome/genetic data from NIH, about 369GB
+
+  - mutliple full copies of openstreetmap.org data, about 229GB
+
+  - Climate and weather data, including hourly ISD worldwide and per-minute ASOS for specific US locations; also GHCND and worldclim.org data, 214GB total
+
+  - VSOP data to compute planetary and satellite positions long term including the NOMAD1 star dataset, about 207G
+
+  - National Register Information System data of historic sites, about 165GB
+
+  - population data from worldpop.org and GPW, about 155GB
+
+  - prime numbers, about 52GB
+
+  - Other data that's not super big but that I'm interested in personally: Koeppen-Geiger climate, ESACCI landcover and landuse, solar energy availability, ethnicity data, administrative data (gadm.org), and animal habitat data (https://www.iucnredlist.org/)
+
+and other stuff not listed here. The sizes above are how much they're using on my disk, but I may have multiple copies or derived files, so the amounts above may not be 100% accurate",
+
+mphh7ka,https://www.reddit.com/r/DataHoarder/comments/1k9weaf/need_advice_best_secure_and_reliable_external/mphh7ka/,2025-04-28 14:08:58 UTC,98.48.122.229,DataHoarder,0,https://www.reddit.com/r/DataHoarder/comments/1k9weaf/need_advice_best_secure_and_reliable_external/,,"Encrypted cloud storage is probably a good idea. It'll take a while to transfer 1-2 TB, but it should be safer there",

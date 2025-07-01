@@ -1,0 +1,14 @@
+
+m6202zb,https://www.reddit.com/r/webhosting/comments/1hwlo67/ssh_on_shared_linux_hosting_using_windows/m6202zb/,2025-01-08 14:46:26 UTC,,webhosting,0,https://www.reddit.com/r/webhosting/comments/1hwlo67/ssh_on_shared_linux_hosting_using_windows/,,"Can't you use an alternate port for ssh/sshd? Port 22 is just the default, you can change it",
+
+m62cbzm,https://www.reddit.com/r/webhosting/comments/1hwmakg/purchase_a_domain/m62cbzm/,2025-01-08 15:51:34 UTC,,webhosting,0,https://www.reddit.com/r/webhosting/comments/1hwmakg/purchase_a_domain/,,"You probably can't get a tld (like `.jeff`) for free, but you might be able to get 2ld (like `jeff.name`) for free. I'm too lazy to google it myself, but some registrars do offer free 2lds, though potentially for only a short period of time.
+
+You've already figured out how to get 3LD (`jeff.hopto.org`) for free, so this next bit is unhelpful: if you're a US citizen, you could, at one point, get a free firstname.lastname.cityname.""state"".postalabbreivation.us domain where ""state"" is the literal string state, like 'aurora.state.co.us'. However, they may've stopped doing this ages ago",
+
+m7get77,https://www.reddit.com/r/webhosting/comments/1i2q6hl/recommendation_of_domain_name_registrar_only_who/m7get77/,2025-01-16 14:36:13 UTC,,webhosting,0,https://www.reddit.com/r/webhosting/comments/1i2q6hl/recommendation_of_domain_name_registrar_only_who/,,Why not get a .gov?,
+
+mbaclyj,https://www.reddit.com/r/webhosting/comments/1ij25ym/how_can_i_host_a_secure_mail_service/mbaclyj/,2025-02-06 13:19:36 UTC,,webhosting,0,https://www.reddit.com/r/webhosting/comments/1ij25ym/how_can_i_host_a_secure_mail_service/,,"See if mail.com would be interested in purchasing or using your domain. They're the biggies in the ""email with clever domain"" business",
+
+miayezp,https://www.reddit.com/r/webhosting/comments/1jdjy72/is_ifreedomainscom_legit/miayezp/,2025-03-17 18:39:49 UTC,,webhosting,0,https://www.reddit.com/r/webhosting/comments/1jdjy72/is_ifreedomainscom_legit/,,"Well, they ask for your billing information which is suss. It's possible they auto-bill you after the first free year. I'm vaguely curious in finding out, but not enough to actually signup",
+
+mzdo5w0,https://www.reddit.com/r/webhosting/comments/1lip13j/cancelled_bluehost_account_what_next/mzdo5w0/,2025-06-23 19:01:50 UTC,98.48.122.229,webhosting,0,https://www.reddit.com/r/webhosting/comments/1lip13j/cancelled_bluehost_account_what_next/,,"Not a recommendation but I assume you're familiar with wordpress.com which offers commercial hosting for WordPress, yes?",

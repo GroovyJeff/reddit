@@ -1,0 +1,42 @@
+
+mhr8v1h,https://www.reddit.com/r/github/comments/1jb4zyz/is_this_a_scam_someone_wants_to_buy_my_github/mhr8v1h/,2025-03-14 14:51:16 UTC,,github,0,https://www.reddit.com/r/github/comments/1jb4zyz/is_this_a_scam_someone_wants_to_buy_my_github/,mhr3m0o,"money.com sold for $7M a while back, though it was partly a publicity stunt",
+
+mhrerf1,https://www.reddit.com/r/github/comments/1jb4zyz/is_this_a_scam_someone_wants_to_buy_my_github/mhrerf1/,2025-03-14 15:20:15 UTC,,github,0,https://www.reddit.com/r/github/comments/1jb4zyz/is_this_a_scam_someone_wants_to_buy_my_github/,mhrd8kz,"Thanks. You missed out on 0, but it's interesting 2 isn't taken. Sadly, github won't let you create a new account with that username either",
+
+mhr947o,https://www.reddit.com/r/github/comments/1jb4zyz/is_this_a_scam_someone_wants_to_buy_my_github/mhr947o/,2025-03-14 14:52:32 UTC,,github,0,https://www.reddit.com/r/github/comments/1jb4zyz/is_this_a_scam_someone_wants_to_buy_my_github/,mhr8329,Could you add things like https://github.com/1 too?,
+
+mldv884,https://www.reddit.com/r/github/comments/1jrdspg/me_moron_knows_nothing_about_code_is_it_ok_to/mldv884/,2025-04-04 15:02:56 UTC,98.48.122.229,github,0,https://www.reddit.com/r/github/comments/1jrdspg/me_moron_knows_nothing_about_code_is_it_ok_to/,,Nothing wrong with clicking github or cloning the repository. The danger would be in actually running the program,
+
+mtngxbj,https://www.reddit.com/r/github/comments/1ksqimj/need_knowledge_on_what_settings_to_select_on/mtngxbj/,2025-05-22 13:26:14 UTC,98.48.122.229,github,0,https://www.reddit.com/r/github/comments/1ksqimj/need_knowledge_on_what_settings_to_select_on/,,You might consider using a backup service and/or encrypting your data before storing it (regardless of whether you use git or a backup service),
+
+mtpcxii,https://www.reddit.com/r/github/comments/1ksy68i/github_suspended_my_account/mtpcxii/,2025-05-22 18:57:24 UTC,98.48.122.229,github,0,https://www.reddit.com/r/github/comments/1ksy68i/github_suspended_my_account/,mtp86f7,"Self-hosting is a terrible idea if your house burns down (god forbid) or your ISP has rules against running servers (assuming you want to share with others). Better solution: make cloud backup of important data so that you have at least 2 copies of everything, one of which may be local.
+
+Also, if you're paying Github, you may be able to sue them, but I'm guessing OP i using their free services",
+
+mytyoso,https://www.reddit.com/r/github/comments/1lg7fik/how_do_i_connect_my_domain_to_github/mytyoso/,2025-06-20 15:58:55 UTC,98.48.122.229,github,0,https://www.reddit.com/r/github/comments/1lg7fik/how_do_i_connect_my_domain_to_github/,,"Two of your IP addresses (3.33.251.168 and 15.197.225.128) resolve to awsglobalaccelerator.com -- that's fine if that's what you want, but if you're only using github, get rid of those IP addresses (the rest point to cdn-*.github.com which is fine)",
+
+myuhf80,https://www.reddit.com/r/github/comments/1lg7fik/how_do_i_connect_my_domain_to_github/myuhf80/,2025-06-20 17:28:34 UTC,98.48.122.229,github,0,https://www.reddit.com/r/github/comments/1lg7fik/how_do_i_connect_my_domain_to_github/,myug0q3,"Is your domain involved in some sort of legal dispute and/or some sort of highly offensive word is some language?
+
+The statuses above mean you can't transfer, update, or even delete your own domain, and it's usually for legal reasons (according to the linked URLs at least)",
+
+myu78ua,https://www.reddit.com/r/github/comments/1lg7fik/how_do_i_connect_my_domain_to_github/myu78ua/,2025-06-20 16:40:44 UTC,98.48.122.229,github,0,https://www.reddit.com/r/github/comments/1lg7fik/how_do_i_connect_my_domain_to_github/,myu2jy0,"Did you get the domain free as part of a hosting package or something? If not, you should be able to change either the ""A"" record, or, if not, change the registered nameservers for this domain (currently ""NS75.DOMAINCONTROL.COM"" and ""NS76.DOMAINCONTROL.COM"" which do belong to godaddy)",
+
+mwuaw8s,https://www.reddit.com/r/github/comments/1l76iwv/decoding_of_api_file_contents_resulting_in_nearly/mwuaw8s/,2025-06-09 15:00:21 UTC,98.48.122.229,github,0,https://www.reddit.com/r/github/comments/1l76iwv/decoding_of_api_file_contents_resulting_in_nearly/,,"You need to remove the newlines (the `\n` character) before decoding. After doing that, the result looks fine to me: https://pastebin.com/qgPwZtd9",
+
+myucru2,https://www.reddit.com/r/github/comments/1lg7fik/how_do_i_connect_my_domain_to_github/myucru2/,2025-06-20 17:06:54 UTC,98.48.122.229,github,0,https://www.reddit.com/r/github/comments/1lg7fik/how_do_i_connect_my_domain_to_github/,myubk22,"I looked more closely at your domain's WHOIS record and found:
+
+```
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+```
+
+Is there something you're not telling us? :)",
