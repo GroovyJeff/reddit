@@ -1,0 +1,1 @@
+This repo contains a dump of (some of) my Reddit data so that people can help me summarize it into blog posts
